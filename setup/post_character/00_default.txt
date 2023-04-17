@@ -1,0 +1,22 @@
+#
+# A cautionary note to anyone reading this
+# Do NOT add any data in here that you do not know 200% to be safe
+# Only really basic information can be added here that is not referenced to anywhere else
+# Otherwise the game is left in a terribly fragile state
+#
+# For example: don't add jobs here manually, use effects
+#
+
+country = {
+	countries = {
+		1000={
+			first_name="Dido"
+			family = c:CAR.fam:Barcid
+			birth_date=50.4.7
+			death_date=72.1.2
+			culture="carthaginian"
+			religion="carthaginian_pantheon"
+			female=yes
+		}
+	}
+}

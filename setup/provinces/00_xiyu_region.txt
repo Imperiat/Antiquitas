@@ -1,0 +1,1732 @@
+﻿5603={ #Gondogoro Pass
+	terrain="mountain"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5604={ #Gondogoro Pass
+	terrain="mountain"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5665={ #Taklamakan
+	terrain="desert"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+5666={ #Makit
+	terrain="desert"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="camel"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5667={ #Tumxuk
+	terrain="desert"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5668={ #Tageairike
+	terrain="steppe"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5669={ #Taklamakan
+	terrain="desert"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+6741={ #Yutian
+	terrain="oasis"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="jade"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	citizen={
+		culture="saka"
+		religion="buddhism"
+		amount=5
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="saka"
+		religion="buddhism"
+		amount=7
+	}
+	slaves={
+		amount=7
+	}
+	tribesmen={
+		culture="saka"
+		religion="indo_iranian_religion"
+		amount=5
+	}
+	tribesmen={
+		culture="saka"
+		religion="buddhism"
+		amount=2
+	}
+}
+
+6742={ #Pishan
+	terrain="steppe"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods="jade"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+}
+
+6743={ #Shiyan
+	terrain="desert"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+}
+
+6744={ #Kashgar
+	terrain="steppe"
+	culture="shule"
+	religion="indo_iranian_religion"
+	trade_goods="fruits"
+	civilization_value=22
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=11
+	}
+	slaves={
+		culture="tocharian"
+		religion="eastern_animism"
+		amount=8
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+6745={ #Keriya
+	terrain="desert"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods="grain"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6746={ #Shaju
+	terrain="oasis"
+	culture="shule"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		culture="tocharian"
+		religion="eastern_animism"
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+6747={ #Wumi
+	terrain="hills"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods="steppe_horses"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site=omen_wealth_earth
+}
+
+6748={ #Cadota
+	terrain="oasis"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="dye"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="saka"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	tribesmen={
+		culture="saka"
+		religion="indo_iranian_religion"
+		amount=4
+	}
+}
+
+6749={ #Cherchen
+	terrain="oasis"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="fruits"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="zhangzhung"
+		religion="bon_religion"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6750={ #Iuwo
+	terrain="desert"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6752={ #Endere
+	terrain="desert"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="jade"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6753={ #Toksa
+	terrain="steppe"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+6754={ #Kagra
+	terrain="desert"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+6755={ #Kumo
+	terrain="steppe"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="iron"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6756={ #Khata
+	terrain="desert"
+	culture="saka"
+	religion="eastern_animism"
+	trade_goods="leather"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6757={ #Shachi
+	terrain="hills"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="incense"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6758={ #Surkhab
+	terrain="hills"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="marble"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6760={ #Tashqurgan
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="fur"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6761={ #Kasia
+	terrain="steppe"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="grain"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+}
+
+6762={ #Kaahka Pamir
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="gems"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6763={ #Bulaq
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="stone"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6764={ #Miena
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="fur"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6765={ #Kafir Kala
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="hemp"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6766={ #Yamchun
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6767={ #Urang
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="woad"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6769={ #Pamir
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="hemp"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	holy_site=omen_guidance_of_the_wind
+}
+
+6770={ #Toquzbolaq
+	terrain="mountain"
+	culture="phryni"
+	religion="eastern_animism"
+	trade_goods="dye"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+}
+
+6771={ #Kezhen
+	terrain="mountain"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="leather"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+6772={ #Irkeshtam
+	terrain="mountain"
+	culture="shule"
+	religion="eastern_animism"
+	trade_goods="wood"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6778={ #Balasaghun
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="salt"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+6779={ #Suyab
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="base_metals"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6780={ #Nevaket
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+6781={ #Yul
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="salt"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="sogdian"
+		religion="eastern_animism"
+		amount=2
+	}
+	slaves={
+		culture="sogdian"
+		religion="eastern_animism"
+		amount=3
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+6782={ #Ashpara
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6787={ #Narin
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="horses"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	holy_site=omen_blessing_life
+}
+
+6788={ #Shura
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="base_metals"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+7183={ #Rucya
+	terrain="hills"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="spices"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+7184={ #Kuche
+	terrain="oasis"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="jade"
+	civilization_value=23
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=13
+	}
+	slaves={
+		amount=8
+	}
+	tribesmen={
+		amount=5
+	}
+	tribesmen={
+		culture="sakan"
+		religion="indo_iranian_religion"
+		amount=6
+	}
+}
+
+8208={ #Yancheng
+	terrain="hills"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+8209={ #Luntai
+	terrain="desert"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="dye"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8210={ #Wulei
+	terrain="steppe"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="jade"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8211={ #Weili
+	terrain="hills"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="camel"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8212={ #Weixu
+	terrain="steppe"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8213={ #Miran
+	terrain="oasis"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="steppe_horses"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="tocharian"
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="yuezhi"
+		amount=1
+	}
+}
+
+8214={ #Charklik
+	terrain="oasis"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="salt"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="tocharian"
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="yuezhi"
+		amount=2
+	}
+}
+
+8215={ #Gaochangbi
+	terrain="desert"
+	culture="jushi"
+	religion="eastern_animism"
+	trade_goods="salt"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="loulan"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="yuezhi"
+		amount=1
+	}
+}
+
+8216={ #Jiaohe
+	terrain="oasis"
+	culture="jushi"
+	religion="eastern_animism"
+	trade_goods="spices"
+	civilization_value=23
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	freemen={
+		culture="loulan"
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="yuezhi"
+		amount=3
+	}
+	tribesmen={
+		culture="wusun"
+		amount=3
+	}
+}
+
+8217={ #Cheshiliugu
+	terrain="hills"
+	culture="jushi"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="tocharian"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8218={ #Wutugu
+	terrain="hills"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="fur"
+	civilization_value=16
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="jushi"
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+8219={ #Houcheng
+	terrain="steppe"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="salt"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8220={ #Dong Qiemi
+	terrain="steppe"
+	culture="jushi"
+	religion="eastern_animism"
+	trade_goods="spices"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8221={ #Xi Qiemi
+	terrain="steppe"
+	culture="jushi"
+	religion="eastern_animism"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8222={ #Danhuan
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="jushi"
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+8223={ #Alagou
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="fur"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="jushi"
+		amount=3
+	}
+	tribesmen={
+		amount=9
+	}
+}
+
+8224={ #Manas
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="yuezhi"
+		amount=2
+	}
+	tribesmen={
+		amount=7
+	}
+}
+
+8225={ #Yuanqu
+	terrain="farmland"
+	culture="tocharian"
+	religion="eastern_animism"
+	trade_goods="grain"
+	civilization_value=23
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+8226={ #Kroran
+	terrain="oasis"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="silk"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=3
+	}
+	slaves={
+		culture="tocharian"
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="yuezhi"
+		amount=4
+	}
+}
+
+8241={ #Bailongdui
+	terrain="desert"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="camel"
+	civilization_value=4
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8255={ #Qijiaojingzhen
+	terrain="desert_hills"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="camel"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+8256={ #Barkol
+	terrain="hills"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="steppe_horses"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=12
+	}
+	slaves={
+		culture="wusun"
+		amount=4
+	}
+}
+
+8303={ #Chigu
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="gems"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8304={ #Beishan
+	terrain="mountain"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="fish"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+8306={ #Xiaowan
+	terrain="mountain"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="stone"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="ruoqiang"
+		religion="bon_religion"
+		amount=1
+	}
+}
+
+9455={ #Jieshan
+	terrain="hills"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9456={ #Yilihe
+	terrain="steppe"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="steppe_horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9457={ #Gongyue
+	terrain="steppe"
+	culture="sakan"
+	religion="eastern_animism"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9458={ #Yehe
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="base_metals"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=7
+	}
+}
+
+9459={ #Heishui
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="leather"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9460={ #Donglin
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="fur"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9461={ #Xilin
+	terrain="steppe"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9462={ #Shuanghe
+	terrain="hills"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="earthware"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9463={ #Tuanchang
+	terrain="desert"
+	culture="wusun"
+	religion="eastern_animism"
+	trade_goods="earthware"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9475={ #Bo'erqiangjizhen
+	terrain="steppe"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+9576={ #Puchanghai
+	terrain="marsh"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="vegetables"
+	civilization_value=6
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9577={ #Yumen
+	terrain="desert"
+	culture="loulan"
+	religion="eastern_animism"
+	trade_goods="horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9582={ #Pulei East
+	terrain="steppe"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="steppe_horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=7
+	}
+}
+
+9583={ #Mazong
+	terrain="mountain"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="stone"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=5
+	}
+}
+
+10583={ #Yiwu
+	terrain="hills"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		culture="wusun"
+		amount=2
+	}
+}
+
+10584={ #Tougong
+	terrain="desert_hills"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="base_metals"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		culture="wusun"
+		amount=2
+	}
+}
+
+10585={ #Shichengzhicun
+	terrain="desert_hills"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="jade"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		culture="shanma"
+		amount=2
+	}
+}
+
+10586={ #Naomaohuzhen
+	terrain="steppe"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="wild_game"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		culture="xiongnu"
+		amount=1
+	}
+}
+
+10601={ #Altai Sum
+	terrain="steppe"
+	culture="yuezhi"
+	religion="eastern_animism"
+	trade_goods="cattle"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="tocharian"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+10612={ #Issyk
+	terrain="plains"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	nobles={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="sogdian"
+		religion="eastern_animism"
+		amount=2
+	}
+	slaves={
+		culture="sogdian"
+		religion="eastern_animism"
+		amount=3
+	}
+	tribesmen={
+		amount=10
+	}
+	tribesmen={
+		culture="wusun"
+		amount=2
+	}
+}
+
+10613={ #Chilpek
+	terrain="hills"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="sogdian"
+		religion="eastern_animism"
+		amount=2
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+10614={ #Aktogay
+	terrain="hills"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="iron"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="tocharian"
+		religion="eastern_animism"
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+10615={ #Ili
+	terrain="plains"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="iron"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="tocharian"
+		religion="eastern_animism"
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+10616={ #Tekes
+	terrain="plains"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="tocharian"
+		religion="eastern_animism"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+10617={ #Bosteri
+	terrain="mountain"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="fish"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10618={ #Caspan
+	terrain="hills"
+	culture="sakan"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="sogdian"
+		religion="eastern_animism"
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+	tribesmen={
+		culture="wusun"
+		amount=1
+	}
+}
+

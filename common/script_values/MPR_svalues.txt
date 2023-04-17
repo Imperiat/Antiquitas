@@ -1,0 +1,108 @@
+﻿total_priests_svalue = {
+	value = 0
+	if = {
+		limit = { has_variable = number_of_priest_var }
+		if = {
+			limit = { var:number_of_priest_var = 1 }
+			add = 1
+		}
+		else_if = {
+			limit = { var:number_of_priest_var = 2 }
+			add = 2
+		}
+		else_if = {
+			limit = { var:number_of_priest_var = 3 }
+			add = 3			
+		}
+		else_if = {
+			limit = { var:number_of_priest_var = 4 }
+			add = 4
+		}
+		else_if = {
+			limit = { var:number_of_priest_var = 5 }
+			add = 5
+		}
+	}
+	max = 5
+}
+total_merchants_svalue = {
+	value = 0
+	if = {
+		limit = { has_variable = number_of_merchant_var }
+		if = {
+			limit = { var:number_of_merchant_var = 1 }
+			add = 1
+		}
+		else_if = {
+			limit = { var:number_of_merchant_var = 2 }
+			add = 2
+		}
+		else_if = {
+			limit = { var:number_of_merchant_var = 3 }
+			add = 3			
+		}
+		else_if = {
+			limit = { var:number_of_merchant_var = 4 }
+			add = 4
+		}
+		else_if = {
+			limit = { var:number_of_merchant_var = 5 }
+			add = 5
+		}
+	}
+	max = 5	
+}
+total_architects_svalue = {
+	value = 0
+	if = {
+		limit = { has_variable = number_of_architect_var }
+		if = {
+			limit = { var:number_of_architect_var = 1 }
+			add = 1
+		}
+		else_if = {
+			limit = { var:number_of_architect_var = 2 }
+			add = 2
+		}
+		else_if = {
+			limit = { var:number_of_architect_var = 3 }
+			add = 3			
+		}
+		else_if = {
+			limit = { var:number_of_architect_var = 4 }
+			add = 4
+		}
+		else_if = {
+			limit = { var:number_of_architect_var = 5 }
+			add = 5
+		}
+	}
+	max = 5
+}
+total_artists_svalue = {
+	value = 0
+	if = {
+		limit = { has_variable = number_of_artist_var }
+		if = {
+			limit = { var:number_of_artist_var = 1 }
+			add = 1
+		}
+		else_if = {
+			limit = { var:number_of_artist_var = 2 }
+			add = 2
+		}
+		else_if = {
+			limit = { var:number_of_artist_var = 3 }
+			add = 3			
+		}
+		else_if = {
+			limit = { var:number_of_artist_var = 4 }
+			add = 4
+		}
+		else_if = {
+			limit = { var:number_of_artist_var = 5 }
+			add = 5
+		}
+	}
+	max = 5	
+}

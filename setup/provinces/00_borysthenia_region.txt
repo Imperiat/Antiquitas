@@ -1,0 +1,1745 @@
+﻿7299={ #Pirhirci
+	terrain="farmland"
+	culture="chernolian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=7
+	}
+	slaves={
+		amount=5
+	}
+	port_building=1
+}
+
+7642={ #Sylvana
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+7644={ #Donetsk
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10181={ #Gelon
+	terrain="farmland"
+	culture="gelonian"
+	religion="indo_iranian_religion"
+	trade_goods="cloth"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="chernolian"
+		religion="matrist_religion"
+		amount=2
+	}
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+	tribesmen={
+		culture="budinian"
+		religion="matrist_religion"
+		amount=2
+	}
+}
+
+10182={ #Merla
+	terrain="plains"
+	culture="gelonian"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+}
+
+10183={ #Trostyanets
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="gelonian"
+		religion="indo_iranian_religion"
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10184={ #Vorskla
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="woad"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+10185={ #Zolochiv
+	terrain="plains"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="fur"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10186={ #Vovchansk
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		culture="scythian"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+10187={ #Merefa
+	terrain="plains"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="gelonian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+10188={ #Krasnohrad
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+10189={ #Birky
+	terrain="plains"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="fur"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10190={ #Hlynsk
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	freemen={
+		culture="gelonian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	slaves={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+10191={ #Boromlya
+	terrain="plains"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+10192={ #Myrhorod
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10193={ #Sukhonosivka
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+10194={ #Yahanivka
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="woad"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+10195={ #Basivka
+	terrain="plains"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	freemen={
+		culture="gelonian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	slaves={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+10196={ #Moshchenoe
+	terrain="plains"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10197={ #Velykyi
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10198={ #Tereshkivka
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="earthware"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10199={ #Poharshchyna
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10200={ #Nedryhailiv
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10201={ #Khotove
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+}
+
+10202={ #Khodosivka
+	terrain="marsh"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="leather"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+}
+
+10203={ #Pyryatyn
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="woad"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+10204={ #Zhurivka
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="hemp"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+10205={ #Ros
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+}
+
+10206={ #Teteriv
+	terrain="marsh"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+}
+
+10207={ #Krasne
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+}
+
+10208={ #Hdzyen
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10209={ #Radcha
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+}
+
+10210={ #Sula
+	terrain="forest"
+	culture="chernolian"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		culture="scythian"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+10211={ #Zvyzdal
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10212={ #Sluch
+	terrain="plains"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="base_metals"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="agathyrsian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+}
+
+10213={ #Irsha
+	terrain="plains"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10214={ #Hrezlya
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10215={ #Uzh
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10216={ #Hlumcha
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="androphagian"
+		amount=2
+	}
+}
+
+10217={ #Mazyr
+	terrain="plains"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+}
+
+10218={ #Pripyat
+	terrain="plains"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="stone"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="chernolian"
+		amount=3
+	}
+}
+
+10219={ #Lemeshevichi
+	terrain="plains"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="iron"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=9
+	}
+	slaves={
+		culture="budinian"
+		amount=2
+	}
+	port_building=1
+}
+
+10220={ #Styr
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+10221={ #Buhski
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10222={ #Gorodische
+	terrain="plains"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="gems"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		culture="androphagian"
+		amount=2
+	}
+}
+
+10223={ #Vygonoschanskoye
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="steppe_horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10224={ #Loktyshi
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10225={ #Pahost
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10226={ #Salihorsk
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="hemp"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10227={ #Chervonoye
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10228={ #Dikoye
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="stone"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="budinian"
+		amount=1
+	}
+}
+
+10229={ #Vasilievicy
+	terrain="marsh"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="fur"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10230={ #Milohrad
+	terrain="marsh"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+	slaves={
+		culture="agathyrsian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	port_building=1
+}
+
+10231={ #Brahin
+	terrain="marsh"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="melanchlaenian"
+		amount=1
+	}
+}
+
+10232={ #Dnipro
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10233={ #Gomel
+	terrain="marsh"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="woad"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+10234={ #Desna
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		culture="melanchlaenian"
+		amount=2
+	}
+	port_building=1
+}
+
+10235={ #Mena
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="base_metals"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+}
+
+10236={ #Snov
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="leather"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10237={ #Lyubech
+	terrain="forest"
+	culture="chernolian"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10238={ #Kuchynivka
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10239={ #Tyutyunnytsya
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10240={ #Melnya
+	terrain="forest"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10241={ #Kleven
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+10242={ #Ret
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10243={ #Hrabiv
+	terrain="forest"
+	culture="neuric"
+	religion="matrist_religion"
+	trade_goods="leather"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10244={ #Zamhlay
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="neuric"
+		amount=1
+	}
+}
+
+10245={ #Slot
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="budinian"
+		amount=1
+	}
+}
+
+10246={ #Sudist
+	terrain="plains"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+10247={ #Rechitsa
+	terrain="plains"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="stone"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="androphagian"
+		amount=2
+	}
+}
+
+10248={ #Blagoveshchenskaya
+	terrain="plains"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="iron"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=10
+	}
+	slaves={
+		culture="androphagian"
+		amount=3
+	}
+	port_building=1
+}
+
+10249={ #Lupuznya
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10250={ #Turochka
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10251={ #Grunya
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10252={ #Sejm
+	terrain="plains"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=6
+	}
+}
+
+10253={ #Mglin
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		culture="budinian"
+		amount=2
+	}
+}
+
+10254={ #Snezhet
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10255={ #Medovyi
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10256={ #Zhuchok
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10257={ #Kursk
+	terrain="plains"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10258={ #Psel
+	terrain="steppe"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+}
+
+10259={ #Orlik
+	terrain="steppe"
+	culture="budinian"
+	religion="matrist_religion"
+	trade_goods="woad"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10260={ #Oskil
+	terrain="steppe"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="leather"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10261={ #Belaya
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10262={ #Rybnitsa
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="base_metals"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="gelonian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+}
+
+10303={ #Braslaw
+	terrain="marsh"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="woad"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10304={ #Svirkos
+	terrain="marsh"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10305={ #Narachanski
+	terrain="marsh"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10306={ #Izha
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10307={ #Dyagili
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10308={ #Guta
+	terrain="marsh"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="hemp"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10309={ #Plissa
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="stone"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10310={ #Yelnya
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10311={ #Naliboki
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="iron"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10312={ #Kapyl
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10313={ #Slutsk
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10314={ #Zavolochitsky
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10315={ #Dzyarzhynsk
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10316={ #Berezina
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10317={ #Kremok
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10318={ #Sharai
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10319={ #Minsk
+	terrain="plains"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10320={ #Byerazino
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10321={ #Smarhon
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10322={ #Lunichno
+	terrain="plains"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10323={ #Sarro
+	terrain="plains"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10324={ #Lepiel
+	terrain="plains"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="woad"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10325={ #Lukomlskoye
+	terrain="plains"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10326={ #Krasnaya
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10327={ #Shlou
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10328={ #Gory
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10329={ #Mogilev
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10330={ #Ryasna
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+10331={ #Chavusy
+	terrain="forest"
+	culture="androphagian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

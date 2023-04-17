@@ -1,0 +1,201 @@
+﻿gm_5_colony_scope_effect = {
+	save_scope_as = gm_5_colony_target_scope
+	trigger_event = { 
+		id = me_greek_5_pontus.71
+		days = { 5 10 }
+	}
+}
+
+gm_5_colony_option_effect = {
+	custom_tooltip = me_greek_5_pontus.7.tt
+    root = {
+	    change_variable = {
+	    	name = gm_colony_tracker
+	    	add = 3
+	    }
+	}
+}
+
+gm_5_bartering_portrait_effect = {
+	if = {
+		limit = {
+			exists = scope:gm_5_bartering_scope_2
+			NOT = { scope:gm_5_bartering_scope_2.owner = scope:gm_5_bartering_scope_1.owner }
+		}
+		scope:gm_5_bartering_scope_2.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_2 }
+	}
+	else_if = { 
+		limit = {
+			exists = scope:gm_5_bartering_scope_3
+			NOT = { scope:gm_5_bartering_scope_3.owner = scope:gm_5_bartering_scope_1.owner }
+		}
+		scope:gm_5_bartering_scope_3.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_2 }
+	}
+	else_if = { 
+		limit = {
+			exists = scope:gm_5_bartering_scope_4
+			NOT = { scope:gm_5_bartering_scope_4.owner = scope:gm_5_bartering_scope_1.owner }
+		}
+		scope:gm_5_bartering_scope_4.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_2 }
+	}
+	else_if = { 
+		limit = {
+			exists = scope:gm_5_bartering_scope_5
+			NOT = { scope:gm_5_bartering_scope_5.owner = scope:gm_5_bartering_scope_1.owner }
+		}
+		scope:gm_5_bartering_scope_5.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_2 }
+	}
+	else_if = { 
+		limit = {
+			exists = scope:gm_5_bartering_scope_6
+			NOT = { scope:gm_5_bartering_scope_6.owner = scope:gm_5_bartering_scope_1.owner }
+		}
+		scope:gm_5_bartering_scope_6.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_2 }
+	}
+	if = {
+		limit = {
+			exists = scope:gm_5_bartering_scope_3
+			NOR = { 
+				scope:gm_5_bartering_scope_3.owner = scope:gm_5_bartering_scope_1.owner
+				scope:gm_5_bartering_scope_3.owner = scope:gm_5_bartering_scope_2.owner
+			}
+		}
+		scope:gm_5_bartering_scope_3.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_3 }
+	}
+	else_if = {
+		limit = {
+			exists = scope:gm_5_bartering_scope_4
+			NOR = { 
+				scope:gm_5_bartering_scope_4.owner = scope:gm_5_bartering_scope_1.owner
+				scope:gm_5_bartering_scope_4.owner = scope:gm_5_bartering_scope_2.owner
+			}
+		}
+		scope:gm_5_bartering_scope_4.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_3 }
+	}
+	else_if = {
+		limit = {
+			exists = scope:gm_5_bartering_scope_5
+			NOR = { 
+				scope:gm_5_bartering_scope_5.owner = scope:gm_5_bartering_scope_1.owner
+				scope:gm_5_bartering_scope_5.owner = scope:gm_5_bartering_scope_2.owner
+			}
+		}
+		scope:gm_5_bartering_scope_5.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_3 }
+	}
+	else_if = {
+		limit = {
+			exists = scope:gm_5_bartering_scope_6
+			NOR = { 
+				scope:gm_5_bartering_scope_6.owner = scope:gm_5_bartering_scope_1.owner
+				scope:gm_5_bartering_scope_6.owner = scope:gm_5_bartering_scope_2.owner
+			}
+		}
+		scope:gm_5_bartering_scope_6.owner.current_ruler = { save_scope_as = gm_5_barter_portrait_scope_3 }
+	}
+}
+
+gm_5_barter_territory_effect = {
+	custom_tooltip = me_greek_5_pontus.121.tt
+    root = {
+	    change_variable = {
+	    	name = gm_bartering_tracker
+	    	add = 3
+	    }
+	}
+}
+
+gm_5_barter_territory_scope_effect = {
+	save_scope_as = gm_5_barter_target_territory
+	owner = { 
+		trigger_event = { 
+			id = me_greek_5_pontus.122 
+			days = { 5 10 }
+		}
+	}
+}
+
+kushite_colony_specialization_effect = {
+	hidden_effect = {
+		remove_province_modifier = kushite_general_colony
+		switch = {
+		trigger = has_variable
+			kush_military_flag = {
+		    add_permanent_province_modifier = {
+		    name = kush_military_colony
+		    }
+		    remove_variable = kush_military_flag	        				
+			}
+			kush_civic_flag = {
+	        add_permanent_province_modifier = {
+	        name = kush_civic_colony
+	        }
+	        remove_variable = kush_civic_flag
+			}
+			kush_religious_flag = {
+	        add_permanent_province_modifier = {
+	        name = kush_religious_colony
+	        }
+	        remove_variable = kush_religious_flag
+			}
+			kush_trade_flag = {
+	        add_permanent_province_modifier = {
+	        name = kush_trade_colony
+	        }
+	        remove_variable = kush_trade_flag
+			}
+		}
+	}	
+}
+
+lepontic_mission_colonia_effect = {
+	save_scope_as = lepontic_colonia_scope
+	hidden_effect = {
+		ordered_pops_in_province = {
+			limit = {
+				NOR = { 
+					pop_culture = lepontic
+					pop_type = slaves
+					pop_type = tribesmen
+				}
+			}
+			order_by = pop_hapiness
+			max = {
+				value = total_population
+				divide = 5
+			}
+			check_range_bounds = no
+			set_pop_culture = lepontic
+		}
+	}
+	custom_tooltip = lepontic_conquest.poptt
+	if = {
+		limit = {
+			NOR = { 
+				has_province_rank = city 
+				has_province_rank = city_metropolis
+			} 
+		}
+		custom_tooltip = "time_to_complete_city_tt"
+		hidden_effect = {
+			add_province_modifier = {
+				name = founding_city_in_progress
+				duration = 730
+			}
+		}
+		trigger_event = {
+			id = state_improvement.6
+			days = 730
+		}
+	}
+	else = { 
+		hidden_effect = {
+			scope:lepontic_colonia_scope = {
+				create_state_pop = freemen
+				create_state_pop = freemen
+				create_state_pop = freemen
+				create_state_pop = freemen
+			}
+		}
+		custom_tooltip = lepontic_conquest.freepopstt
+	}
+}

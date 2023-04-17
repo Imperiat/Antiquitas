@@ -1,0 +1,21 @@
+﻿game_object_locator={
+	name="great_work_secondary"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="monument_layer"
+	instances={
+		{
+			id=266
+			position={ 1467.768188 0.000000 1086.303955 }
+			rotation={ -0.000000 0.651132 -0.000000 0.758964 }
+			scale={ 0.368385 0.368385 0.368385 }
+		}
+		{
+			id=516
+			position={ 1583.653076 0.000000 863.352478 }
+			rotation={ -0.000000 0.847688 -0.000000 0.530494 }
+			scale={ 0.567497 0.567497 0.567497 }
+		}
+	}
+}

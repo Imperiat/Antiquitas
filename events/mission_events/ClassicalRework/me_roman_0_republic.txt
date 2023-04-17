@@ -1,0 +1,293 @@
+﻿namespace = me_roman_0_republic
+
+me_roman_0_republic.1 = {	# Deponse the Monarchy
+    type = country_event
+    title = me_roman_0_republic.1.t
+    desc = me_roman_0_republic.1.desc
+    picture = roman_trial
+    left_portrait = current_ruler
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.1.a
+
+		custom_tooltip = me_roman_0_republic.1.a.tt
+
+		hidden_effect = {
+			c:ROM.current_ruler.family = {
+				every_family_member = {
+					set_as_minor_character = THIS
+					add_triggered_character_modifier = {
+						name = "was_once_great"
+						duration = -1
+					}
+				}
+				remove_family = ROOT
+			}
+
+			c:ROM = {
+				change_government = aristocratic_republic
+			}
+			c:ROM.current_ruler = {
+				c:ROM = {
+					if = {
+						limit = {
+							any_neighbour_country = {
+								always = yes
+							}
+						}
+						random_neighbour_country = {
+							save_scope_as = banishment_country
+						}
+					}
+					else = {
+						random_country = {
+							save_scope_as = banishment_country
+						}
+					}
+				}
+				banish = scope:banishment_country
+			}
+		}
+    }
+}
+
+me_roman_0_republic.2 = {	# Abolish the Monarchy
+    type = country_event
+    title = me_roman_0_republic.2.t
+    desc = me_roman_0_republic.2.desc
+    picture = senate_debate
+    left_portrait = current_ruler
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.2.a
+
+		custom_tooltip = me_roman_0_republic.2.a.tt
+
+		hidden_effect = {
+			c:ROM = {
+				change_government = aristocratic_republic
+			}
+			c:ROM.current_ruler = {
+				c:ROM = {
+					if = {
+						limit = {
+							any_neighbour_country = {
+								always = yes
+							}
+						}
+						random_neighbour_country = {
+							save_scope_as = banishment_country
+						}
+					}
+					else = {
+						random_country = {
+							save_scope_as = banishment_country
+						}
+					}
+				}
+				banish = scope:banishment_country
+			}
+		}
+    }
+}
+
+me_roman_0_republic.3 = {	# Starting planting vines
+	type = country_event
+    title = me_roman_0_republic.3.t
+    desc = me_roman_0_republic.3.desc
+    picture = farming
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.3.a
+		custom_tooltip = me_roman_0_republic.3.a.tt
+    }
+}
+
+me_roman_0_republic.4 = {	# Finished planting vines
+	type = country_event
+    title = me_roman_0_republic.4.t
+    desc = me_roman_0_republic.4.desc
+    picture = slaves_working
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.4.a
+		p:2 = {
+			set_trade_goods = wine
+		}
+		p:16 = {
+			set_trade_goods = wine
+		}
+    }
+
+	option = {      
+        name = me_roman_0_republic.4.b
+		add_treasury = 60
+    }
+}
+
+# TODO
+me_roman_0_republic.5 = {	# Allies
+	type = country_event
+    title = me_roman_0_republic.5.t
+    desc = me_roman_0_republic.5.desc
+    picture = road_construction
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.5.a
+		custom_tooltip = me_roman_0_republic.5.a.tt
+    }
+}
+
+me_roman_0_republic.6 = {	# Capuan Way
+	type = country_event
+    title = me_roman_0_republic.6.t
+    desc = me_roman_0_republic.6.desc
+    picture = road_construction
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.6.a
+		custom_tooltip = me_roman_0_republic.6.a.tt
+		add_treasury = -50
+		p:1 = {
+			if = {
+				limit = {
+					NOT = { has_road_towards = p:2 }
+				}
+				add_road_towards = p:2
+			}
+		}
+		p:2 = {
+			if = {
+				limit = {
+					NOT = { has_road_towards = p:4 }
+				}
+				add_road_towards = p:4
+			}
+		}
+		p:4 = {
+			if = {
+				limit = {
+					NOT = { has_road_towards = p:5 }
+				}
+				add_road_towards = p:5
+			}
+		}
+		p:5 = {
+			if = {
+				limit = {
+					NOT = { has_road_towards = p:6 }
+				}
+				add_road_towards = p:6
+			}
+		}
+    }
+}
+
+me_roman_0_republic.7 = {	# Independent Priesthood
+	type = country_event
+    title = me_roman_0_republic.7.t
+    desc = me_roman_0_republic.7.desc
+    picture = road_construction
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.7.a
+		add_political_influence = -15
+
+		add_country_modifier = {
+			name = roman_mission_00_republic_independent_priesthood
+			duration = 3650
+		}
+    }
+
+	option = {      
+        name = me_roman_0_republic.7.b
+    }
+}
+
+me_roman_0_republic.8 = {	# Temple Plans Start
+	type = country_event
+    title = me_roman_0_republic.8.t
+    desc = me_roman_0_republic.8.desc
+    picture = road_construction
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.8.a
+		custom_tooltip = me_roman_0_republic.8.a.tt
+    }
+}
+
+me_roman_0_republic.9 = {	# Temple Plans Complete
+	type = country_event
+    title = me_roman_0_republic.9.t
+    desc = me_roman_0_republic.9.desc
+    picture = hellenic_temple
+
+    trigger = { has_land = yes }
+
+    option = {      
+        name = me_roman_0_republic.9.a
+		p:1 = {
+			create_pop = freemen
+			create_pop = freemen
+		}
+		p:416 = {
+			owner = {
+				add_opinion = { 
+					target = c:ROM 
+					modifier = athenian_craftsmen_in_rome 
+				}
+			}
+		}
+		c:ROM = {
+			set_variable = {
+				name = temple_of_jupiter_planned
+			}
+		}
+    }
+
+	option = {      
+        name = me_roman_0_republic.9.b
+		add_military_experience = 80
+		c:ROM = {
+			set_variable = {
+				name = temple_of_jupiter_planned
+			}
+		}
+    }
+
+	option = {      
+        name = me_roman_0_republic.9.c
+		add_innovation = 3
+		c:ROM = {
+			set_variable = {
+				name = temple_of_jupiter_planned
+			}
+		}
+    }
+
+	option = {      
+        name = me_roman_0_republic.9.d
+		add_political_influence = 100
+		c:ROM = {
+			set_variable = {
+				name = temple_of_jupiter_planned
+			}
+		}
+    }
+}

@@ -1,0 +1,1970 @@
+﻿3113={ #Gunugu
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="marble"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3114={ #Oppidum Definum
+	terrain="plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3115={ #Zucchabar
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+}
+
+3116={ #PROV3116_phoenician
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="marble"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=4
+	}
+	freemen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=3
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+	port_building=1
+}
+
+3117={ #Sufasar
+	terrain="desert"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="fur"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+3118={ #'I Kossim
+	terrain="plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="spices"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+}
+
+3119={ #Lambdia
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="spices"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3120={ #Rushgunay
+	terrain="plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3121={ #Rush 'Iqqore'
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="spices"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+	tribesmen={
+		amount=9
+	}
+	port_building=1
+}
+
+3122={ #'I 'Ommon
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="olive"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3123={ #Rushaz
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="olive"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3124={ #Bida
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="grain"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site=omen_sinifere
+}
+
+3126={ #Saldi
+	terrain="plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+}
+
+3127={ #Cinnaba Mons
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3128={ #Phruraesius Mons
+	terrain="desert"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+}
+
+3129={ #Thanaramusa Castra
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="olive"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3130={ #Rapidum
+	terrain="desert"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3131={ #Auzia
+	terrain="desert"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3132={ #Tatiliti
+	terrain="desert"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+}
+
+3133={ #Zabi
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="cedar"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3134={ #Equizeto
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3135={ #Tubusuctu
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="cloth"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3136={ #Ausum
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="spices"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3137={ #Bessemium
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="olive"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3138={ #
+	terrain="impassable_terrain"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+3139={ #Vanisnesi
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="olive"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3140={ #Ad Sava Municipium
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+}
+
+3141={ #Sertei
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="olive"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3142={ #Aras
+	terrain="dry_plains"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3143={ #Lesbia
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="fur"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3144={ #Muslubium
+	terrain="hills"
+	culture="massaesylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3145={ #Choba
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="massylian"
+		religion="berber_religion"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="massaesylian"
+		religion="berber_religion"
+		amount=1
+	}
+	port_building=1
+}
+
+3146={ #Satafis
+	terrain="forest"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		culture="massaesylian"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+}
+
+3147={ #Sitifis
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="fur"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3148={ #Mopth
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="leather"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3149={ #Cuicul
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3150={ #Igilgili
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="spices"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=9
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=2
+	}
+	port_building=1
+}
+
+3151={ #Macri
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cedar"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3152={ #Thubunae
+	terrain="desert"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3153={ #Mesarietta
+	terrain="forest"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3154={ #Gemellae
+	terrain="forest"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3155={ #Aqua Viva
+	terrain="dry_plains"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3156={ #Nicivibus
+	terrain="desert_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3157={ #Lemellia
+	terrain="desert_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="elephants"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3158={ #Lobrinia
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3159={ #Zarai
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cedar"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3160={ #Tuka
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="grain"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=1
+	}
+}
+
+3161={ #Chullu
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="iron"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=1
+	}
+}
+
+3162={ #Milevum
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="base_metals"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3163={ #Kirta
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=10
+	}
+	tribesmen={
+		amount=10
+	}
+}
+
+3164={ #Thibilis
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3165={ #Nattabutum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="base_metals"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3166={ #Gadiaufala
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+}
+
+3167={ #Macomades
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cloth"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3168={ #Mascula Tiberia
+	terrain="dry_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3169={ #Badias
+	terrain="forest"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="fur"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3170={ #Lambafundi
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cloth"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3171={ #Tabudium
+	terrain="forest"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3172={ #Aurasius Superior
+	terrain="forest"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3173={ #Burgus Gaetulia
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3174={ #Claudi
+	terrain="dry_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3176={ #Aurasius Inferior
+	terrain="forest"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3177={ #Lamasba
+	terrain="dry_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3178={ #Diana Veteranorum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3179={ #Verecunda
+	terrain="dry_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cedar"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3180={ #Thenebrestia
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="leather"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3181={ #Sigus
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="spices"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3182={ #Bagai
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cedar"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3183={ #Subzuaritanum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3184={ #Thalades
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3185={ #Leges Maiores
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3186={ #Ubaza Castellum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3187={ #Midili
+	terrain="desert"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3188={ #Casae Nigrae
+	terrain="dry_plains"
+	culture="gaetulian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3189={ #Ad Speculum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3193={ #Cerva
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3203={ #Tbessa
+	terrain="dry_hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3204={ #Vatari
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3206={ #Ad Aquas Caesaris
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3207={ #Vegesela
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3208={ #Ammaedara
+	terrain="forest"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="spices"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3213={ #Vasampus
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3214={ #Thaesactum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wine"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3215={ #Casaea
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="stone"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3216={ #Funda Thavagalensis
+	terrain="forest"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3217={ #Madauros
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="leather"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3218={ #Tipaza
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3219={ #Marcimeni
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cattle"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3220={ #Saltus Sorothensis
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="wood"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3221={ #Zattara
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="grain"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3223={ #Calama
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="cloth"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="carthaginian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+	tribesmen={
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+}
+
+3224={ #Asuccuris
+	terrain="forest"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="leather"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+}
+
+3225={ #'Oppon
+	terrain="hills"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="wine"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=9
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=2
+	}
+	port_building=1
+}
+
+3226={ #Kulkitani
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="elephants"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	citizen={
+		religion="berber_religion"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=1
+	}
+}
+
+3227={ #Rush 'Ikkad
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="iron"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+	port_building=1
+}
+
+3228={ #Celtianis
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="iron"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3229={ #Tuniza
+	terrain="plains"
+	culture="carthaginian"
+	religion="carthaginian_pantheon"
+	trade_goods="fish"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		culture="massylian"
+		religion="berber_religion"
+		amount=1
+	}
+}
+
+3231={ #Pagus Malarensium
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="marble"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3232={ #Simitthus
+	terrain="hills"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="horses"
+	civilization_value=19
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3355={ #Fabatianum
+	terrain="dry_plains"
+	culture="massylian"
+	religion="berber_religion"
+	trade_goods="grain"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+}
+
