@@ -2894,7 +2894,11 @@ provinces = { #Any entry must contain a comment with city name.
 	407 = { #Chalchis
 		modifier = { modifier = chalkis_province_modifier always = yes }
 	}
-	416 = { #Athens
+	416 = { #Athenai
+		forum_building = 1
+		shrine_building = 1
+		commerce_building = 1
+		workshop_building = 1
 		modifier = { modifier = academy_of_athens always = yes }
 	}
 	266 = { #Rhodos
@@ -10361,7 +10365,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				416 7799 7897 7898
+				413 416 7799 7897 7898
 			}
 		
 			treasures = { 55 79 211 }
@@ -10586,7 +10590,7 @@ country = {
 			capital = 407
 		
 			own_control_core = 	{
-				407 413
+				407
 			}
 		}
 
@@ -11484,8 +11488,8 @@ country = {
 		}
 		
 		SPA = { #Sparta
-			#family = 9
-			#family = 10
+			family = 9
+			family = 10
 			government = stratocratic_monarchy
 			primary_culture = peloponnesian
 			religion = roman_pantheon
