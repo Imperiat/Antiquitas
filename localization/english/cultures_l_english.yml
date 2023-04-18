@@ -236,6 +236,7 @@
  pannonian:0 "Pannonian"
  iapodian:0 "Iapodian"
  catari:0 "Catarian"
+ mygdonian:0 "Mygdonian"
  #Indian
  kannadan:0 "Kannadan"
  tamil:0 "Tamil"
@@ -426,6 +427,7 @@
  pubu:0 "Pubu"
  mon:0 "Mon"
  shan:0 "Shan"
+ pyu:0 "Pyu"
  #Cultures not in commons (broken)
  greek:0 "Greek"
  parthinian:0 "Parthinian"
