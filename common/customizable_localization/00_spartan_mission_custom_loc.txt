@@ -1,0 +1,881 @@
+﻿### Laconia ###
+spartan_mission_01_laconia_task_1_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_1_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_1_current < spartan_mission_01_laconia_task_1_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_1_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_01_laconia_task_2_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_2_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_2_current < spartan_mission_01_laconia_task_2_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_2_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_01_laconia_task_3_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_3_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_3_current < spartan_mission_01_laconia_task_3_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_3_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_01_laconia_task_5_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_5_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_5_current < spartan_mission_01_laconia_task_5_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_5_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_01_laconia_task_6_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_6_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_6_current < spartan_mission_01_laconia_task_6_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_6_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_01_laconia_task_11_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_11_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_11_current < spartan_mission_01_laconia_task_11_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_11_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_01_laconia_task_14_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_14_custom_loc_desc_1
+		trigger = {
+			spartan_mission_01_laconia_task_14_current < spartan_mission_01_laconia_task_14_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_01_laconia_task_14_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+### Peloponnesos ###
+
+spartan_mission_08_peloponnesus_task_8_trigger_2_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_08_peloponnesus_task_8_trigger_2_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_8_trigger_2_current < sparta_mission_02_peloponnesus_task_8_trigger_2_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_08_peloponnesus_task_8_trigger_2_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_08_peloponnesus_task_8_trigger_3_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_08_peloponnesus_task_8_trigger_3_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_8_trigger_3_current < sparta_mission_02_peloponnesus_task_8_trigger_3_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_08_peloponnesus_task_8_trigger_3_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_02_peloponnesus_task_12_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_12_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_12_current < sparta_mission_02_peloponnesus_task_12_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_12_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_02_peloponnesus_task_13_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_13_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_13_current < sparta_mission_02_peloponnesus_task_13_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_13_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_02_peloponnesus_task_13_2_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_13_2_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_13_2_current < sparta_mission_02_peloponnesus_task_13_2_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_13_2_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_02_peloponnesus_task_14_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_14_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_14_current < sparta_mission_02_peloponnesus_task_14_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_14_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+spartan_mission_02_peloponnesus_task_14_2_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_14_2_custom_loc_1
+		trigger = {
+			sparta_mission_02_peloponnesus_task_14_2_current < sparta_mission_02_peloponnesus_task_14_2_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_02_peloponnesus_task_14_2_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+sparta_mission_02_peloponnesus_task_15_1_custom_loc = {
+	type = province
+
+	# Megalopolis
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_1
+		trigger = {
+			province_id = 436
+			sparta_mission_02_peloponnesus_task_15_1_megalopolis_current < sparta_mission_02_peloponnesus_task_15_1_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_2
+		trigger = {
+			province_id = 436
+		}
+	}
+
+	# Tegea
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_3
+		trigger = {
+			province_id = 7891
+			sparta_mission_02_peloponnesus_task_15_1_tegea_current < sparta_mission_02_peloponnesus_task_15_1_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_4
+		trigger = {
+			province_id = 7891
+		}
+	}
+
+	# Mantineia
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_5
+		trigger = {
+			province_id = 438
+			sparta_mission_02_peloponnesus_task_15_1_mantineia_current < sparta_mission_02_peloponnesus_task_15_1_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_6
+		trigger = {
+			province_id = 438
+		}
+	}
+
+	# Hiraia
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_7
+		trigger = {
+			province_id = 435
+			sparta_mission_02_peloponnesus_task_15_1_hiraia_current < sparta_mission_02_peloponnesus_task_15_1_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_8
+		trigger = {
+			province_id = 435
+		}
+	}
+
+	# Kleitor
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_9
+		trigger = {
+			province_id = 449
+			sparta_mission_02_peloponnesus_task_15_1_kleitor_current < sparta_mission_02_peloponnesus_task_15_1_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_10
+		trigger = {
+			province_id = 449
+		}
+	}
+
+	# Stymphalos
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_11
+		trigger = {
+			province_id = 448
+			sparta_mission_02_peloponnesus_task_15_1_stymphalos_current < sparta_mission_02_peloponnesus_task_15_1_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_1_custom_loc_12
+		trigger = {
+			province_id = 448
+		}
+	}
+}
+
+sparta_mission_02_peloponnesus_task_15_2_custom_loc = {
+	type = province
+
+	# Megalopolis
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_1
+		trigger = {
+			province_id = 436
+			sparta_mission_02_peloponnesus_task_15_2_megalopolis_current < sparta_mission_02_peloponnesus_task_15_2_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_2
+		trigger = {
+			province_id = 436
+		}
+	}
+
+	# Tegea
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_3
+		trigger = {
+			province_id = 7891
+			sparta_mission_02_peloponnesus_task_15_2_tegea_current < sparta_mission_02_peloponnesus_task_15_2_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_4
+		trigger = {
+			province_id = 7891
+		}
+	}
+
+	# Mantineia
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_5
+		trigger = {
+			province_id = 438
+			sparta_mission_02_peloponnesus_task_15_2_mantineia_current < sparta_mission_02_peloponnesus_task_15_2_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_6
+		trigger = {
+			province_id = 438
+		}
+	}
+
+	# Hiraia
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_7
+		trigger = {
+			province_id = 435
+			sparta_mission_02_peloponnesus_task_15_2_hiraia_current < sparta_mission_02_peloponnesus_task_15_2_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_8
+		trigger = {
+			province_id = 435
+		}
+	}
+
+	# Kleitor
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_9
+		trigger = {
+			province_id = 449
+			sparta_mission_02_peloponnesus_task_15_2_kleitor_current < sparta_mission_02_peloponnesus_task_15_2_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_10
+		trigger = {
+			province_id = 449
+		}
+	}
+
+	# Stymphalos
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_11
+		trigger = {
+			province_id = 448
+			sparta_mission_02_peloponnesus_task_15_2_stymphalos_current < sparta_mission_02_peloponnesus_task_15_2_total
+		}
+	}
+
+	text = {
+		localization_key = sparta_mission_02_peloponnesus_task_15_2_custom_loc_12
+		trigger = {
+			province_id = 448
+		}
+	}
+}
+
+### Peloponnesian League ### 
+spartan_mission_03_peloponnesian_league_task_3_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_3_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_3_current < spartan_mission_03_peloponnesian_league_task_3_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_3_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_4_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_4_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_4_current < spartan_mission_03_peloponnesian_league_task_4_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_4_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_5_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_5_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_5_current < spartan_mission_03_peloponnesian_league_task_5_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_5_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_6_laconia_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_6_laconia_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_6_laconia_current < spartan_mission_03_peloponnesian_league_task_6_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_6_laconia_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_6_arcadia_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_6_arcadia_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_6_arcadia_current < spartan_mission_03_peloponnesian_league_task_6_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_6_arcadia_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_6_achaea_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_6_achaea_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_6_achaea_current < spartan_mission_03_peloponnesian_league_task_6_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_6_achaea_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_8_corinth_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_8_corinth_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_8_corinth_current < spartan_mission_03_peloponnesian_league_task_8_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_8_corinth_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_8_argos_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_8_argos_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_8_argos_current < spartan_mission_03_peloponnesian_league_task_8_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_8_argos_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_9_megalopolis_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_9_megalopolis_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_9_megalopolis_current < spartan_mission_03_peloponnesian_league_task_9_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_9_megalopolis_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_9_messene_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_9_messene_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_9_messene_current < spartan_mission_03_peloponnesian_league_task_9_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_9_messene_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_9_elis_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_9_elis_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_9_elis_current < spartan_mission_03_peloponnesian_league_task_9_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_9_elis_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_10_custom_loc = {
+	type = province
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_10_sparta_current < spartan_mission_03_peloponnesian_league_task_10_total
+			province_id = 427
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_2
+		trigger = {
+			province_id = 427
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_3
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_10_argos_current < spartan_mission_03_peloponnesian_league_task_10_total
+			province_id = 440
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_4
+		trigger = {
+			province_id = 440
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_5
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_10_corinth_current < spartan_mission_03_peloponnesian_league_task_10_total
+			province_id = 418
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_6
+		trigger = {
+			province_id = 418
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_7
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_10_megalopolis_current < spartan_mission_03_peloponnesian_league_task_10_total
+			province_id = 436
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_8
+		trigger = {
+			province_id = 436
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_9
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_10_messene_current < spartan_mission_03_peloponnesian_league_task_10_total
+			province_id = 431
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_10
+		trigger = {
+			province_id = 431
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_11
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_10_elis_current < spartan_mission_03_peloponnesian_league_task_10_total
+			province_id = 446
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_10_12
+		trigger = {
+			province_id = 446
+		}
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_macedon_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_macedon_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_12_macedon_current > 0
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_macedon_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_thrace_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_thrace_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_12_thrace_current > 0
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_thrace_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_phrygia_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_phrygia_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_12_phrygia_current > 0
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_phrygia_custom_loc_2
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_egypt_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_egypt_custom_loc_1
+		trigger = {
+			spartan_mission_03_peloponnesian_league_task_12_egypt_current > 0
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_03_peloponnesian_league_task_12_egypt_custom_loc_2
+	}
+}
+
+### Ancient Rivals ###
+
+spartan_mission_04_rivals_task_1_bypass_1_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_1_bypass_1_custom_loc_1
+		trigger = {
+			owns = 416
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_1_bypass_1_custom_loc_2
+	}
+}
+
+spartan_mission_04_rivals_task_3_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_3_custom_loc_1
+		trigger = {
+			spartan_mission_04_rivals_task_3_current > 0
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_3_custom_loc_2
+	}
+}
+
+spartan_mission_04_rivals_task_4_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_4_custom_loc_1
+		trigger = {
+			spartan_mission_04_rivals_task_4_current < spartan_mission_04_rivals_task_4_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_4_custom_loc_2
+	}
+}
+
+spartan_mission_04_rivals_task_6_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_6_custom_loc_1
+		trigger = {
+			spartan_mission_04_rivals_task_6_current < spartan_mission_04_rivals_task_6_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_6_custom_loc_2
+	}
+}
+
+spartan_mission_04_rivals_task_8_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_8_custom_loc_1
+		trigger = {
+			spartan_mission_04_rivals_task_8_current < spartan_mission_04_rivals_task_8_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_8_custom_loc_2
+	}
+}
+
+spartan_mission_04_rivals_task_13_macedonia_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_13_macedonia_custom_loc_1
+		trigger = {
+			spartan_mission_04_rivals_task_13_macedonia_current < spartan_mission_04_rivals_task_13_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_13_macedonia_custom_loc_2
+	}
+}
+
+spartan_mission_04_rivals_task_13_chalkidiki_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_13_chalkidiki_custom_loc_1
+		trigger = {
+			spartan_mission_04_rivals_task_13_chalkidiki_current < spartan_mission_04_rivals_task_13_total
+		}
+	}
+
+	text = {
+		localization_key = spartan_mission_04_rivals_task_13_chalkidiki_custom_loc_2
+	}
+}

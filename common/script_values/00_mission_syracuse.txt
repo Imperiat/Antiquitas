@@ -1,0 +1,524 @@
+﻿
+me_syr_troop_counter_svalue = {
+	value = 0
+	scope:revolutionary_army = {
+		every_sub_unit = { add = 1 }
+	}
+}
+syr_mis_2_6_target = {
+	value = 3
+}
+
+syr_mis_2_10_current = {
+	value = 0
+	if = {
+		limit = {
+			scope:me_syracuse_scope.capital_scope.state = {
+				trade_good_surplus = { target = grain value > 0 }
+				trade_good_surplus = { target = grain value <= 1 }
+			}
+		}
+		add = 1
+	}
+	else_if = {
+		limit = {
+			scope:me_syracuse_scope.capital_scope.state = {
+				trade_good_surplus = { target = grain value > 1 }
+				trade_good_surplus = { target = grain value <= 2 }
+			}
+		}
+		add = 2
+	}
+	else_if = {
+		limit = {
+			scope:me_syracuse_scope.capital_scope.state = {
+				trade_good_surplus = { target = grain value > 2 }
+				trade_good_surplus = { target = grain value <= 3 }
+			}
+		}
+		add = 3
+	}
+	else_if = {
+		limit = {
+			scope:me_syracuse_scope.capital_scope.state = {
+				trade_good_surplus = { target = grain value > 3 }
+				trade_good_surplus = { target = grain value <= 4 }
+			}
+		}
+		add = 4
+	}
+	else_if = {
+		limit = {
+			scope:me_syracuse_scope.capital_scope.state = {
+				trade_good_surplus = { target = grain value > 4 }
+				trade_good_surplus = { target = grain value <= 5 }
+			}
+		}
+		add = 5
+	}
+	else_if = {
+		limit = {
+			scope:me_syracuse_scope.capital_scope.state = {
+				trade_good_surplus = { target = grain value > 5 }
+			}
+		}
+		add = 6
+	}
+	max = syr_mis_2_10_target
+}
+
+syr_mis_2_10_target = {
+	value = 6
+}
+
+syr_mis_2_8_1_current = {
+	value = 0
+	if = {
+		limit = {
+			p:84 = { 
+				any_pops_in_province = {
+					pop_type = freemen
+					pop_culture_group = hellenic
+					pop_religion = roman_pantheon
+				}
+			}
+		}
+		p:84 = {
+			every_pops_in_province = {
+				limit = { 
+					pop_type = freemen
+					pop_culture_group = hellenic
+					pop_religion = roman_pantheon
+				}
+				add = 1
+			}
+		}
+	}
+	max = 10
+}
+
+syr_mis_2_8_1_target = {
+	value = 10
+}
+
+syr_mis_2_8_2_current = {
+	value = 0
+	if = {
+		limit = {
+			p:84 = { 
+				any_pops_in_province = {
+					OR = {
+						pop_type = citizen
+						pop_type = nobles
+					}
+					pop_culture_group = hellenic
+					pop_religion = roman_pantheon
+				}
+			}
+		}
+		p:84 = {
+			every_pops_in_province = {
+				limit = { 
+					OR = {
+						pop_type = citizen
+						pop_type = nobles
+					}
+					pop_culture_group = hellenic
+					pop_religion = roman_pantheon
+				}
+				add = 1
+			}
+		}
+	}
+	max = 10
+}
+
+syr_mis_2_8_2_target = {
+	value = 10
+}
+
+syr_mis_2_5_num_svalue = {
+	value = 0
+	if = {
+		limit = {
+			any_country = {
+                primary_culture = syracusan
+                capital_scope = {
+                    OR = {
+                        is_in_area = syracuse_area
+                        is_in_area = east_sicily_area
+                        is_in_area = west_sicily_area
+                    }
+                }
+                is_subject = no
+                num_of_cities <= 2
+                NOT = {
+                    tag = SYR
+                }
+            }
+		}
+		every_country = {
+			limit = {
+                primary_culture = syracusan
+                capital_scope = {
+                    OR = {
+                        is_in_area = syracuse_area
+                        is_in_area = east_sicily_area
+                        is_in_area = west_sicily_area
+                    }
+                }
+                is_subject = no
+                num_of_cities <= 2
+                NOT = {
+                    tag = SYR
+                }
+            }
+            add = 1
+		}
+		multiply = -1
+	}
+}
+
+syr_mis_3_1_1_current = {
+	value = 0
+	if = {
+		limit = {
+			scope:me_syracuse_scope = {
+				num_of_unit_type = { type = trireme value > 0 }
+			}
+		}
+		scope:me_syracuse_scope = {
+			every_unit = {
+				limit = { 
+					is_navy = yes 
+					any_sub_unit = { sub_unit_type = trireme }
+				}
+				every_sub_unit = {
+					limit = { sub_unit_type = trireme }
+					add = 1
+				}
+			}
+		}
+	}
+	max = 16
+}
+
+syr_mis_3_1_1_target = {
+	value = 16
+}
+
+syr_mis_3_1_2_current = {
+	value = 0
+	if = {
+		limit = { num_of_ships > 0 }
+		scope:me_syracuse_scope = {
+			every_unit = {
+				limit = { is_navy = yes }
+				every_sub_unit = { add = 1 }
+			}
+		}
+	}
+	max = 30
+}
+
+syr_mis_3_1_2_target = {
+	value = 30
+}
+
+syr_mis_3_1_3_current = {
+	value = 0
+	if = {
+		limit = {
+			scope:me_syracuse_scope = {
+				num_of_unit_type = { type = hexere value > 0 }
+			}
+		}
+		scope:me_syracuse_scope = {
+			every_unit = {
+				limit = { 
+					is_navy = yes 
+					any_sub_unit = { sub_unit_type = hexere }
+				}
+				every_sub_unit = {
+					limit = { sub_unit_type = hexere }
+					add = 1
+				}
+			}
+		}
+	}
+	max = 4
+}
+
+syr_mis_3_1_3_target = {
+	value = 4
+}
+
+syr_mis_3_2_current = {
+	value = 0
+	if = {
+		limit = { num_of_ships > 0 }
+		scope:me_syracuse_scope = {
+			every_unit = {
+				limit = { is_navy = yes }
+				every_sub_unit = { add = 1 }
+			}
+		}
+	}
+	max = 40
+}
+
+syr_mis_3_2_target = {
+	value = 40
+}
+
+syr_mis_3_10_svalue = {
+	value = 0
+	if = {
+		limit = {
+			c:CAR = { 
+				has_land = yes 
+				any_owned_province = {
+					OR = {
+						AND = {
+							is_in_area = syracuse_area
+							NOT = { province_id = 1471 } # Malta
+						}
+						is_in_area = east_sicily_area
+						is_in_area = west_sicily_area
+					}
+				}
+			}
+		}
+		c:CAR = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						AND = {
+							is_in_area = syracuse_area
+							NOT = { province_id = 1471 } # Malta
+						}
+						is_in_area = east_sicily_area
+						is_in_area = west_sicily_area
+					}
+				}
+				add = 1
+			}
+			if = {
+				limit = {
+					any_subject = {
+						any_owned_province = {
+							OR = {
+								AND = {
+									is_in_area = syracuse_area
+									NOT = { province_id = 1471 } # Malta
+								}
+								is_in_area = east_sicily_area
+								is_in_area = west_sicily_area
+							}
+						}
+					}
+				}
+				every_subject = {
+					limit = {
+						any_owned_province = {
+							OR = {
+								AND = {
+									is_in_area = syracuse_area
+									NOT = { province_id = 1471 } # Malta
+								}
+								is_in_area = east_sicily_area
+								is_in_area = west_sicily_area
+							}
+						}
+					}
+					every_owned_province = {
+						limit = {
+							OR = {
+								AND = {
+									is_in_area = syracuse_area
+									NOT = { province_id = 1471 } # Malta
+								}
+								is_in_area = east_sicily_area
+								is_in_area = west_sicily_area
+							}
+						}
+						add = 1
+					}
+				}
+			}
+		}
+	}
+}
+
+me_syr_3_west_sicily_buy_svalue = {
+	value = 0
+	c:CAR = {
+		every_owned_province = {
+			limit = {
+				is_in_area = west_sicily_area
+			}
+			add = 1
+			every_pops_in_province = {
+				limit = {
+					pop_type = slaves
+				}
+				add = 2
+			}
+			every_pops_in_province = {
+				limit = {
+					pop_type = tribesmen
+				}
+				add = 1
+			}
+			every_pops_in_province = {
+				limit = {
+					pop_type = freemen
+				}
+				add = 1.5
+			}
+			every_pops_in_province = {
+				limit = {
+					pop_type = citizen
+				}
+				add = 2
+			}
+			every_pops_in_province = {
+				limit = {
+					pop_type = nobles
+				}
+				add = 4
+			}
+		}
+	}
+	multiply = 1.6
+}
+
+me_syr_3_8_settler_count_svalue = {
+	value = 0
+	add = scope:me_syracuse_scope.var:me_syr_3_8_send_counter
+	add = {
+		integer_range = {
+			min = 2
+			max = 6
+		}
+	}
+}
+
+me_syr_tar_cost_svalue = {
+    value = 0
+    if = {
+        limit = { exists = scope:me_syracuse_scope }
+        add = scope:me_syracuse_scope.has_monthly_income
+        multiply = 6
+        min = 50
+    }
+}
+
+syr_mis_4_10_current = {
+	if = {
+        limit = { exists = scope:me_syracuse_scope }
+        if = {
+        	limit = {
+        		scope:me_syracuse_scope = {
+        			any_owned_province = {
+        				is_in_region = magna_graecia_region
+        				NOR = {
+        					is_in_area = west_sicily_area
+        					is_in_area = east_sicily_area
+        					is_in_area = syracuse_area
+        				}
+        			}
+        		}
+        	}
+        	every_owned_province = {
+        		limit = {
+        			is_in_region = magna_graecia_region
+    				NOR = {
+    					is_in_area = west_sicily_area
+    					is_in_area = east_sicily_area
+    					is_in_area = syracuse_area
+    				}
+        		}
+        		add = 1
+        	}
+        }
+        if = {
+        	limit = {
+        		scope:me_syracuse_scope = {
+        			any_subject = {
+	        			any_owned_province = {
+	        				is_in_region = magna_graecia_region
+	        				NOR = {
+	        					is_in_area = west_sicily_area
+	        					is_in_area = east_sicily_area
+	        					is_in_area = syracuse_area
+	        				}
+	        			}
+	        		}
+        		}
+        	}
+        	every_subject = {
+        		limit = {
+        			any_owned_province = {
+        				is_in_region = magna_graecia_region
+        				NOR = {
+        					is_in_area = west_sicily_area
+        					is_in_area = east_sicily_area
+        					is_in_area = syracuse_area
+        				}
+        			}
+        		}
+        		every_owned_province = {
+	        		limit = {
+	        			is_in_region = magna_graecia_region
+	    				NOR = {
+	    					is_in_area = west_sicily_area
+	    					is_in_area = east_sicily_area
+	    					is_in_area = syracuse_area
+	    				}
+	        		}
+        			add = 1
+        		}
+        	}
+        }
+    }
+    max = syr_mis_4_10_target
+}
+
+syr_mis_4_10_target = {
+	value = 10
+}
+
+syr_mis_4_1_cost_svalue = {
+	scope:me_syr_italic_response_scope = {
+		if = {
+			limit = {
+				any_owned_province = { me_syr_colonies_trigger = yes }
+			}
+			every_owned_province = {
+				limit = { me_syr_colonies_trigger = yes }
+				add = 1
+				every_pops_in_province = {
+					limit = { pop_type = slaves }
+					add = 2
+				}
+				every_pops_in_province = {
+					limit = { pop_type = tribesmen }
+					add = 1
+				}
+				every_pops_in_province = {
+					limit = { pop_type = freemen }
+					add = 1.5
+				}
+				every_pops_in_province = {
+					limit = { pop_type = citizen }
+					add = 2
+				}
+				every_pops_in_province = {
+					limit = { pop_type = nobles }
+					add = 4
+				}
+			}
+		}
+	}
+}

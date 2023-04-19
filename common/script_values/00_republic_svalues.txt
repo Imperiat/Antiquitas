@@ -1,0 +1,92 @@
+﻿party_approval_tiny_svalue = 2.5
+party_approval_small_svalue = 5
+party_approval_medium_svalue = 10
+party_approval_large_svalue = 15
+
+party_disapproval_small_svalue = -5
+party_disapproval_medium_svalue = -10
+party_disapproval_large_svalue = -15
+
+party_approval_small = 5
+party_approval_medium = 10
+party_approval_large = 15
+
+party_disapproval_small = -5
+party_disapproval_medium = -10
+party_disapproval_large = -15
+
+party_approval_check_high = 65
+party_approval_check_low = 20
+
+base_objective_push_chance_svalue = 5
+
+# Generic Republic Script Values
+amount_of_parties_in_country = {
+	value = 0
+	every_party = {
+		add = 1
+	}
+}
+
+# Approval Modifier svalues
+
+approval_modifier_major_character_imprison_svalue = {
+	value = 0
+	every_character = {
+		limit = {
+			home_country = root
+			is_minor_character = no
+			prisoner = yes
+		}
+		add = 1
+	}
+}
+
+approval_modifier_minor_character_imprison_svalue = {
+	value = 0
+	every_character = {
+		limit = {
+			home_country = root
+			is_minor_character = yes
+			prisoner = yes
+		}
+		add = 1
+	}
+}
+
+head_of_family_count_svalue = {
+	value = 0
+	every_character = {
+		limit = {
+			employer = root
+			is_head_of_family = yes
+		}
+		add = 1
+	}
+}
+
+senatorial_veto_approval_svalue = {
+	value = -50
+}
+
+senatorial_veto_other_approval_svalue = {
+	value = -20
+}
+
+senate_agenda_passed_medium_svalue = {
+	value = 10
+}
+
+senate_agenda_passed_large_svalue = {
+	value = 20
+}
+
+rank_one_below_svalue = {
+	value = root.party_country.rank
+	add = -1
+}
+
+rank_one_above_svalue = {
+	value = root.party_country.rank
+	add = 1
+}

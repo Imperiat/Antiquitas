@@ -1,0 +1,23 @@
+﻿"MAC"={
+	country="MAC"
+	13={
+		first_name="Aerpous"
+		family = c:MAC.fam:Argead
+		birth_date=131.12.19
+		culture="macedonian"
+		religion="roman_pantheon"
+		father="char:12"
+		no_stats=yes
+		add_martial=9
+		add_charisma=4
+		add_finesse=6
+		add_zeal=5
+		no_traits=yes
+		add_trait="ambitious"
+		add_gold=1000
+		add_popularity=50
+		c:MAC={
+			set_as_ruler=char:13
+		}
+	}
+}

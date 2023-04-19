@@ -1,0 +1,805 @@
+﻿carthaginian_rome_mission_salt_and_burn_calculation_svalue = {
+	value = total_population
+	subtract = 5
+}
+
+carthaginian_rome_mission_enslave_parts_of_rome_svalue = {
+	value = total_population
+	subtract = 20
+}
+
+carthaginian_rome_mission_enslave_parts_of_vei_svalue = {
+	value = total_population
+	subtract = 10
+}
+
+carthaginian_naval_dominance_mission_african_harbors_svalue = {
+	value = 0
+	if = {
+		limit = {
+			region:africa_region = {
+				any_region_province = {
+					is_port = yes
+				}
+			}
+		}
+		region:africa_region = {
+			every_region_province = {
+				limit = {
+					is_port = yes
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+carthaginian_naval_dominance_mission_african_harbors_owned_svalue = {
+	value = 0
+	if = {
+		limit = {
+			region:africa_region = {
+				any_region_province = {
+					is_port = yes
+					owned_or_subject_owned = root
+				}
+			}
+		}
+		region:africa_region = {
+			every_region_province = {
+				limit = {
+					is_port = yes
+					owned_or_subject_owned = root
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+carthaginian_naval_dominance_mission_numidian_harbors_svalue = {
+	value = 0
+	if = {
+		limit = {
+			region:numidia_region = {
+				any_region_province = {
+					is_port = yes
+				}
+			}
+		}
+		region:numidia_region = {
+			every_region_province = {
+				limit = {
+					is_port = yes
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+carthaginian_naval_dominance_mission_numidian_harbors_owned_svalue = {
+	value = 0
+	if = {
+		limit = {
+			region:numidia_region = {
+				any_region_province = {
+					is_port = yes
+					owned_or_subject_owned = root
+				}
+			}
+		}
+		region:numidia_region = {
+			every_region_province = {
+				limit = {
+					is_port = yes
+					owned_or_subject_owned = root
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+carthaginian_naval_dominance_mission_mauretanian_harbors_svalue = {
+	value = 0
+	if = {
+		limit = {
+			region:mauretainia_region = {
+				any_region_province = {
+					is_port = yes
+				}
+			}
+		}
+		region:mauretainia_region = {
+			every_region_province = {
+				limit = {
+					is_port = yes
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+carthaginian_naval_dominance_mission_mauretanian_harbors_owned_svalue = {
+	value = 0
+	if = {
+		limit = {
+			region:mauretainia_region = {
+				any_region_province = {
+					is_port = yes
+					owned_or_subject_owned = root
+				}
+			}
+		}
+		region:mauretainia_region = {
+			every_region_province = {
+				limit = {
+					is_port = yes
+					owned_or_subject_owned = root
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+carthaginian_naval_dominance_mission_naval_experimentation_svalue = {
+	value = 0
+	if = {
+		limit = {
+			any_country_sub_unit = {
+				owning_unit.unit_location = p:3256
+        		OR = {
+    				sub_unit_type = trireme
+    				sub_unit_type = tetrere
+    			}
+			}
+		}
+		every_country_sub_unit = {
+			limit = {
+				owning_unit.unit_location = p:3256
+        		OR = {
+    				sub_unit_type = trireme
+    				sub_unit_type = tetrere
+    			}
+			}
+			add = 1
+		}
+	}
+	max = 10
+}
+
+carthaginian_naval_dominance_mission_controlling_the_seas_svalue = {
+	value = 0
+	if = {
+		limit = {
+			any_country_sub_unit = {
+				is_ship = yes
+			}
+		}
+		every_country_sub_unit = {
+			limit = {
+				is_ship = yes
+			}
+			add = 1
+		}
+	}
+	max = 200
+}
+
+carthaginian_sicily_expansion_mission_wine_and_grain_counter_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			OR = {
+				is_in_area = west_sicily_area
+				is_in_area = east_sicily_area
+				is_in_area = syracuse_area
+			}
+			OR = {
+				trade_goods = wine
+				trade_goods = grain
+			}
+		}
+		add = 1
+	}
+	max = 5
+}
+
+carthaginian_sicily_expansion_mission_punic_sicania_max_pop_svalue = {
+	value = 20
+}
+
+carthaginian_sicily_expansion_mission_punic_sicania_lilybaeum_svalue = {
+	value = scope:lilybaeum_province.total_population
+	max = carthaginian_sicily_expansion_mission_punic_sicania_max_pop_svalue
+}
+
+carthaginian_sicily_expansion_mission_punic_sicania_panorumus_svalue = {
+	value = scope:panorumus_province.total_population
+	max = carthaginian_sicily_expansion_mission_punic_sicania_max_pop_svalue
+}
+
+carthaginian_sicily_expansion_mission_punic_sicania_soluntum_svalue = {
+	value = scope:soluntum_province.total_population
+	max = carthaginian_sicily_expansion_mission_punic_sicania_max_pop_svalue
+}
+
+carthaginian_iberian_expansion_mission_new_carthage_max_svalue = {
+	value = 8
+}
+
+carthaginian_iberian_expansion_mission_new_carthage_current_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+	        OR = {
+	            is_in_region = baetica_region
+	            is_in_region = contestania_region
+	        }
+	        has_city_status = yes
+        }
+        add = 1
+    }
+    max = carthaginian_iberian_expansion_mission_new_carthage_max_svalue
+}
+
+carthaginian_iberian_expansion_mission_settling_hispania_max_svalue = {
+	value = 5
+}
+
+carthaginian_iberian_expansion_mission_settling_hispania_current_svalue = {
+	value = 0
+	every_owned_province = {
+        limit = {
+	        OR = {
+	            is_in_region = baetica_region
+	            is_in_region = contestania_region
+	        }
+	        has_city_status = yes
+	        dominant_province_culture = root.culture
+       	}
+       	add = 1
+    }
+    max = carthaginian_iberian_expansion_mission_settling_hispania_max_svalue
+}
+
+carthaginian_magna_graecia_expansion_mission_ports_of_magna_graecia_max_svalue = {
+	value = 3
+}
+
+carthaginian_magna_graecia_expansion_mission_ports_of_magna_graecia_current_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			is_port = yes
+			OR = {
+				is_in_area = croton_area
+				is_in_area = heraclea_area
+				is_in_area = tarentum_area
+			}
+		}
+		add = 1
+	}
+}
+
+carthaginian_magna_graecia_expansion_mission_ports_of_magna_graecia_opinion_value = {
+	value = 150
+}
+
+carthaginian_magna_graecia_expansion_local_punic_center_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			is_port = yes
+			has_city_status = yes
+			dominant_province_culture = root.culture
+			OR = {
+				is_in_area = croton_area
+				is_in_area = heraclea_area
+				is_in_area = tarentum_area
+			}
+		}
+		add = 1
+	}
+	max = 1
+}
+
+carthaginian_phoenicia_expansion_cypriot_opportunities_port_city_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			is_in_area = cyprus_area
+            is_port = yes
+            has_city_status = yes
+		}
+		add = 1
+	}
+	max = 1
+}
+
+carthaginian_phoenicia_expansion_cypriot_opportunities_mining_settlement_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+	        is_in_area = cyprus_area
+	        trade_goods = base_metals
+		}
+		add = 1
+	}
+	max = 1
+}
+
+carthaginian_phoenicia_expansion_copper_riches_max_svalue = {
+	value = 2
+}
+
+carthaginian_phoenicia_expansion_copper_riches_current_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+	        is_in_area = cyprus_area
+	        has_city_status = no
+	        has_building = slave_mine_building
+		}
+		add = 1
+	}
+	max = carthaginian_phoenicia_expansion_copper_riches_max_svalue
+}
+
+carthaginian_phoenicia_expansion_copper_emporium_svalue = {
+	value = 0
+	if = {
+		limit = {
+			any_country_state = {
+                any_state_province = {
+                    is_in_area = cyprus_area
+                }
+                trade_good_exports = {
+                    value >= 1
+                    target = base_metals
+                }
+            }
+		}
+		add = 1
+	}
+	if = {
+		limit = {
+			any_country_state = {
+                any_state_province = {
+                    is_in_area = cyprus_area
+                }
+                trade_good_exports = {
+                    value >= 2
+                    target = base_metals
+                }
+            }
+		}
+		add = 1
+	}
+	if = {
+		limit = {
+			any_country_state = {
+                any_state_province = {
+                    is_in_area = cyprus_area
+                }
+                trade_good_exports = {
+                    value >= 3
+                    target = base_metals
+                }
+            }
+		}
+		add = 1
+	}
+}
+
+carthaginian_rome_expansion_mare_punicum_max_svalue = {
+	value = 230
+}
+
+carthaginian_rome_expansion_mare_punicum_current_svalue = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_ship = yes
+		}
+		add = 1
+	}
+	max = carthaginian_rome_expansion_mare_punicum_max_svalue
+}
+
+carthaginian_rome_expansion_naval_decisiviness_max_svalue = {
+	value = 5
+}
+
+carthaginian_rome_expansion_naval_decisiviness_current_svalue = {
+	value = 0
+	c:ROM = {
+		every_owned_province = {
+			limit = {
+				is_port = yes
+				controller = {
+					this = root
+				}
+			}
+			add = 1
+		}
+	}
+	max = carthaginian_rome_expansion_naval_decisiviness_max_svalue
+}
+
+carthaginian_rome_expansion_naval_decisiviness_max_svalue = {
+	value = 5
+}
+
+carthaginian_rome_expansion_naval_decisiviness_current_svalue = {
+	value = 0
+	c:ROM = {
+		every_owned_province = {
+			limit = {
+				is_port = yes
+				controller = {
+					this = root
+				}
+			}
+			add = 1
+		}
+	}
+	max = carthaginian_rome_expansion_naval_decisiviness_max_svalue
+}
+
+carthaginian_rome_expansion_roman_marble_occupation_max_svalue = {
+	value = 10
+}
+
+carthaginian_rome_expansion_roman_marble_occupation_current_svalue = {
+	value = 0
+	scope:rome_country = {
+        every_owned_province = {
+            limit = {
+            	controller = scope:mission_country
+            }
+            add = 1
+        }
+    }
+    max = carthaginian_rome_expansion_roman_marble_occupation_max_svalue
+}
+
+carthaginian_rome_expansion_roman_marble_pops_max_svalue = {
+	value = 10
+}
+
+carthaginian_rome_expansion_roman_marble_pops_current_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			dominant_province_culture = roman
+		}
+		add = 1
+	}
+	max = carthaginian_rome_expansion_roman_marble_pops_max_svalue
+}
+
+carthaginian_rome_expansion_roman_blood_max_svalue = {
+	value = 20
+}
+
+carthaginian_rome_expansion_roman_blood_current_svalue = {
+	value = 0
+	capital_scope = {
+    	every_pops_in_province = {
+           	limit = {
+	            pop_culture = roman
+	            pop_type = slaves
+            }
+            add = 1
+        }
+    }
+}
+
+carthaginian_bomilcars_revolution_power_at_home_max_svalue = {
+	value = 50
+	if = {
+		limit = {
+			root = {
+				has_co_ruler_government = no
+			}
+		}
+		subtract = 10
+	}
+}
+
+carthaginian_mission_securing_the_island_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			OR = {
+				is_in_area = sardinia_meridionalis
+				is_in_area = sardinia_septentrionalis
+			}
+			has_building = fortress_building
+		}
+		add = 1
+	}
+	max = 4
+}
+
+carthaginian_mission_sardinian_mines_svalue = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			OR = {
+				is_in_area = sardinia_meridionalis
+				is_in_area = sardinia_septentrionalis
+			}
+			has_minable_trade_good_trigger = yes
+			has_city_status = no
+			has_building = slave_mine_building
+		}
+		add = 1
+	}
+	max = 3
+}
+
+carthaginian_mission_africa_securing_coastline_max_svalue = {
+	value = 0
+	area:mauretania_caesariensis_centralis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_maioris_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_orientalis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:numidia_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:numidia_centralis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:numidia_maioris_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:rutubis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:carthage_area = {
+		every_area_province = {
+			limit = {
+				OR = {
+					province_id = 3256
+					province_id = 3257
+					province_id = 3258
+				}
+			}
+			add = 1
+		}
+	}
+	area:mauretania_tingitana_septentrionalis_area = {
+		every_area_province = {
+			add = 1
+		}
+	}
+	area:mauretania_tingitana_meridionalis_area = {
+		every_area_province = {
+			add = 1
+		}
+	}
+}
+
+carthaginian_mission_africa_securing_coastline_current_svalue = {
+	value = 0
+	area:mauretania_caesariensis_centralis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_maioris_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_orientalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:numidia_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:numidia_centralis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:numidia_maioris_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:rutubis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:carthage_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+				OR = {
+					province_id = 3256
+					province_id = 3257
+					province_id = 3258
+				}
+			}
+			add = 1
+		}
+	}
+	area:mauretania_tingitana_septentrionalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+			}
+			add = 1
+		}
+	}
+	area:mauretania_tingitana_meridionalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = {
+					OR = {
+						this = root
+						is_subject_of = root
+					}
+				}
+			}
+			add = 1
+		}
+	}
+}

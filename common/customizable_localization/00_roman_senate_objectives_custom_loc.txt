@@ -1,0 +1,71 @@
+﻿senate_objective_grant_holdings_optimates_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = senate_objective_grant_holdings_optimates_custom_loc_1
+		trigger = {
+			senate_objective_grant_holding_optimates_current_svalue < senate_objective_grant_holding_optimates_svalue
+		}
+	}
+
+	text = {
+		localization_key = senate_objective_grant_holdings_optimates_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+senate_objective_grant_holdings_populares_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = senate_objective_grant_holdings_populares_custom_loc_1
+		trigger = {
+			senate_objective_grant_holding_populares_current_svalue < senate_objective_grant_holding_populares_svalue
+		}
+	}
+
+	text = {
+		localization_key = senate_objective_grant_holdings_populares_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+senate_objective_revoke_holdings_populares_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = senate_objective_revoke_holdings_populares_custom_loc_1
+		trigger = {
+			senate_objective_revoke_holding_optimates_current_svalue < senate_objective_revoke_holding_optimates_svalue
+		}
+	}
+
+	text = {
+		localization_key = senate_objective_revoke_holdings_populares_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+senate_objective_build_buildings_boni_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = senate_objective_build_buildings_boni_custom_loc_1
+		trigger = {
+			senate_objective_build_buildings_current_svalue < senate_objective_build_buildings_boni_svalue
+		}
+	}
+
+	text = {
+		localization_key = senate_objective_build_buildings_boni_custom_loc_2
+		trigger = {
+			always = yes
+		}
+	}
+}

@@ -400,7 +400,7 @@ dhe_pharos_lighthouse.10 = {
 	type = country_event
 	title = "dhe_pharos_lighthouse.10.t"
 	desc = "dhe_pharos_lighthouse.10.desc"
-	picture = Event_lighthouse_of_alexandria
+	picture = city_construction
 
 	left_portrait = current_ruler
 	
@@ -424,7 +424,7 @@ dhe_pharos_lighthouse.11 = {
 	type = country_event
 	title = "dhe_pharos_lighthouse.11.t"
 	desc = "dhe_pharos_lighthouse.11.desc"
-	picture = Event_lighthouse_of_alexandria
+	picture = great_city
 
 	left_portrait = current_ruler
 
@@ -461,7 +461,7 @@ dhe_pharos_lighthouse.12 = {
 	type = country_event
 	title = "dhe_pharos_lighthouse.12.t"
 	desc = "dhe_pharos_lighthouse.12.desc"
-	picture = Event_lighthouse_of_alexandria
+	picture = great_city
 
 	left_portrait = current_ruler
 
@@ -498,7 +498,7 @@ dhe_pharos_lighthouse.13 = {
 	type = country_event
 	title = "dhe_pharos_lighthouse.13.t"
 	desc = "dhe_pharos_lighthouse.13.desc"
-	picture = Event_lighthouse_of_alexandria
+	picture = great_city
 
 	left_portrait = current_ruler
 	

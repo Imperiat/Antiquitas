@@ -348,6 +348,7 @@ dhe_colossus_of_rhodes.12 = {
 		}
 	}
 }
+
 # The destruction of the Colossus
 #dhe_colossus_of_rhodes.13 = {
 #	type = country_event

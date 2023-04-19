@@ -1,0 +1,686 @@
+﻿### Laconia ###
+
+spartan_mission_01_laconia_task_1_current = {
+	value = 0
+	p:427 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_01_laconia_task_1_total
+}
+
+spartan_mission_01_laconia_task_1_total = {
+	value = 5
+}
+
+spartan_mission_01_laconia_task_2_current = {
+	value = 0
+	p:427 = {
+		state = {
+			add = has_state_food
+		}
+	}
+	max = spartan_mission_01_laconia_task_2_total
+}
+
+spartan_mission_01_laconia_task_2_total = {
+	value = 500
+}
+
+spartan_mission_01_laconia_task_3_current = {
+	value = 0
+	p:427 = {
+		add = freemen_happiness
+		multiply = 100 # As the freemen happiness is a number between 0-1 (a percentage), it needs to be multiplied by a 100 to be readable in the tooltip
+	}
+	max = spartan_mission_01_laconia_task_3_total
+}
+
+spartan_mission_01_laconia_task_3_total = {
+	value = 85
+}
+
+spartan_mission_01_laconia_task_5_current = {
+	value = 0
+	if = {
+		limit = {
+			any_country_sub_unit = {
+				is_cohort = yes
+			}
+		}
+		every_country_sub_unit = {
+			limit = {
+				is_cohort = yes
+			}
+			add = 1
+		}
+	}
+	max = spartan_mission_01_laconia_task_5_total
+}
+
+spartan_mission_01_laconia_task_5_total = {
+	value = 10
+}
+
+spartan_mission_01_laconia_task_6_current = {
+	value = 0
+	if = {
+		limit = {
+			any_country_sub_unit = {
+				is_ship = yes
+			}
+		}
+		every_country_sub_unit = {
+			limit = {
+				is_ship = yes
+			}
+			add = 1
+		}
+	}
+	max = spartan_mission_01_laconia_task_6_total
+}
+
+spartan_mission_01_laconia_task_6_total = {
+	value = 15
+}
+
+spartan_mission_01_laconia_task_11_current = {
+	value = 0
+	p:431 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_01_laconia_task_11_total
+}
+
+spartan_mission_01_laconia_task_11_total = {
+	value = 5
+}
+
+spartan_mission_01_laconia_task_14_current = {
+	value = 0
+	p:427 = {
+		add = slaves_happiness
+		multiply = 100 # As the freemen happiness is a number between 0-1 (a percentage), it needs to be multiplied by a 100 to be readable in the tooltip
+	}
+	max = spartan_mission_01_laconia_task_14_total
+}
+
+spartan_mission_01_laconia_task_14_total = {
+	value = 85
+}
+
+### Peloponnesos ###
+
+sparta_mission_02_peloponnesus_task_8_trigger_2_current = {
+	value = 0
+	p:440 = {
+		add = total_population
+	}
+	max = sparta_mission_02_peloponnesus_task_8_trigger_2_total
+}
+
+sparta_mission_02_peloponnesus_task_8_trigger_2_total = {
+	value = 15
+}
+
+sparta_mission_02_peloponnesus_task_8_trigger_3_current = {
+	value = 0
+	p:440 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_8_trigger_3_total
+}
+
+sparta_mission_02_peloponnesus_task_8_trigger_3_total = {
+	value = 3
+}
+
+sparta_mission_02_peloponnesus_task_12_current = {
+	value = 0
+	p:418 = {
+		add = num_of_fortress_building
+	}
+	max = sparta_mission_02_peloponnesus_task_12_total
+}
+
+sparta_mission_02_peloponnesus_task_12_total = {
+	value = 3
+}
+
+sparta_mission_02_peloponnesus_task_13_current = {
+	value = 0
+	p:439 = {
+		add = total_population
+	}
+	max = sparta_mission_02_peloponnesus_task_13_total
+}
+
+sparta_mission_02_peloponnesus_task_13_total = {
+	value = 10
+}
+
+sparta_mission_02_peloponnesus_task_13_2_current = {
+	value = 0
+	p:439 = {
+		add = num_of_temple_building
+	}
+	max = sparta_mission_02_peloponnesus_task_13_2_total
+}
+
+sparta_mission_02_peloponnesus_task_13_2_total = {
+	value = 1
+}
+
+sparta_mission_02_peloponnesus_task_14_current = {
+	value = 0
+	p:440 = {
+		add = state_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_14_total
+}
+
+sparta_mission_02_peloponnesus_task_14_total = {
+	value = 90
+}
+
+sparta_mission_02_peloponnesus_task_14_2_current = {
+	value = 0
+	p:440.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_14_2_total
+}
+
+sparta_mission_02_peloponnesus_task_14_2_total = {
+	value = 50
+}
+
+sparta_mission_02_peloponnesus_task_15_1_megalopolis_current = {
+	value = 0
+	p:436 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_15_1_total
+}
+
+sparta_mission_02_peloponnesus_task_15_1_tegea_current = {
+	value = 0
+	p:7891 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_15_1_total
+}
+
+sparta_mission_02_peloponnesus_task_15_1_mantineia_current = {
+	value = 0
+	p:438 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_15_1_total
+}
+
+sparta_mission_02_peloponnesus_task_15_1_hiraia_current = {
+	value = 0
+	p:435 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_15_1_total
+}
+
+sparta_mission_02_peloponnesus_task_15_1_kleitor_current = {
+	value = 0
+	p:449 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_15_1_total
+}
+
+sparta_mission_02_peloponnesus_task_15_1_stymphalos_current = {
+	value = 0
+	p:448 = {
+		add = num_of_used_building_slots
+	}
+	max = sparta_mission_02_peloponnesus_task_15_1_total
+}
+
+sparta_mission_02_peloponnesus_task_15_1_total = {
+	value = 1
+}
+
+sparta_mission_02_peloponnesus_task_15_2_megalopolis_current = {
+	value = 0
+	p:436.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_15_2_total
+}
+
+sparta_mission_02_peloponnesus_task_15_2_tegea_current = {
+	value = 0
+	p:7891.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_15_2_total
+}
+
+sparta_mission_02_peloponnesus_task_15_2_mantineia_current = {
+	value = 0
+	p:438.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_15_2_total
+}
+
+sparta_mission_02_peloponnesus_task_15_2_hiraia_current = {
+	value = 0
+	p:435.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_15_2_total
+}
+
+sparta_mission_02_peloponnesus_task_15_2_kleitor_current = {
+	value = 0
+	p:449.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_15_2_total
+}
+
+sparta_mission_02_peloponnesus_task_15_2_stymphalos_current = {
+	value = 0
+	p:448.owner = {
+		add = has_subject_loyalty
+	}
+	max = sparta_mission_02_peloponnesus_task_15_2_total
+}
+
+sparta_mission_02_peloponnesus_task_15_2_total = {
+	value = 50
+}
+
+### Peloponessian League ###
+spartan_mission_03_peloponnesian_league_task_3_current = {
+	value = 0
+	every_owned_province = {
+		limit = {
+			has_city_status = yes
+			OR = {
+    			is_in_area = south_peleponnesos_area
+    			is_in_area = arcadia_area
+    			is_in_area = achaea_area
+    		}
+		}
+		add = 1
+	}
+	max = spartan_mission_03_peloponnesian_league_task_3_total
+}
+
+spartan_mission_03_peloponnesian_league_task_3_total = {
+	value = 8
+}
+
+spartan_mission_03_peloponnesian_league_task_4_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_cohort = yes
+		}
+		add = 1
+	}
+	max = spartan_mission_03_peloponnesian_league_task_4_total
+}
+
+spartan_mission_03_peloponnesian_league_task_4_total = {
+	value = 20
+}
+
+spartan_mission_03_peloponnesian_league_task_5_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_ship = yes
+		}
+		add = 1
+	}
+	max = spartan_mission_03_peloponnesian_league_task_5_total
+}
+
+spartan_mission_03_peloponnesian_league_task_5_total = {
+	value = spartan_mission_03_peloponnesian_league_task_4_total
+	multiply = 1.5
+}
+
+spartan_mission_03_peloponnesian_league_task_6_laconia_current = {
+	value = 0
+	ordered_owned_province = {
+		order_by = total_population
+		limit = {
+			is_in_area = south_peleponnesos_area
+		}
+		max = 1
+		add = state_loyalty
+	}
+	max = spartan_mission_03_peloponnesian_league_task_6_total
+}
+
+spartan_mission_03_peloponnesian_league_task_6_arcadia_current = {
+	value = 0
+	ordered_owned_province = {
+		order_by = total_population
+		limit = {
+			is_in_area = arcadia_area
+		}
+		max = 1
+		add = state_loyalty
+	}
+	max = spartan_mission_03_peloponnesian_league_task_6_total
+}
+
+spartan_mission_03_peloponnesian_league_task_6_achaea_current = {
+	value = 0
+	ordered_owned_province = {
+		order_by = total_population
+		limit = {
+			is_in_area = achaea_area
+		}
+		max = 1
+		add = state_loyalty
+	}
+	max = spartan_mission_03_peloponnesian_league_task_6_total
+}
+
+spartan_mission_03_peloponnesian_league_task_6_total = {
+	value = 100
+}
+
+spartan_mission_03_peloponnesian_league_task_8_corinth_current = {
+	value = 0
+	p:418 = {
+		add = total_population
+	}
+	max = spartan_mission_03_peloponnesian_league_task_8_total
+}
+
+spartan_mission_03_peloponnesian_league_task_8_argos_current = {
+	value = 0
+	p:440 = {
+		add = total_population
+	}
+	max = spartan_mission_03_peloponnesian_league_task_8_total
+}
+
+spartan_mission_03_peloponnesian_league_task_8_total = {
+	value = 30
+}
+
+spartan_mission_03_peloponnesian_league_task_9_megalopolis_current = {
+	value = 0
+	p:436 = {
+		add = total_population
+	}
+	max = spartan_mission_03_peloponnesian_league_task_9_total
+}
+
+spartan_mission_03_peloponnesian_league_task_9_messene_current = {
+	value = 0
+	p:431 = {
+		add = total_population
+	}
+	max = spartan_mission_03_peloponnesian_league_task_9_total
+}
+
+spartan_mission_03_peloponnesian_league_task_9_elis_current = {
+	value = 0
+	p:446 = {
+		add = total_population
+	}
+	max = spartan_mission_03_peloponnesian_league_task_9_total
+}
+
+spartan_mission_03_peloponnesian_league_task_9_total = {
+	value = spartan_mission_03_peloponnesian_league_task_8_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_sparta_current = {
+	value = 0
+	p:427 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_03_peloponnesian_league_task_10_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_megalopolis_current = {
+	value = 0
+	p:436 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_03_peloponnesian_league_task_10_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_corinth_current = {
+	value = 0
+	p:418 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_03_peloponnesian_league_task_10_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_messene_current = {
+	value = 0
+	p:431 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_03_peloponnesian_league_task_10_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_elis_current = {
+	value = 0
+	p:446 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_03_peloponnesian_league_task_10_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_argos_current = {
+	value = 0
+	p:440 = {
+		add = num_of_used_building_slots
+	}
+	max = spartan_mission_03_peloponnesian_league_task_10_total
+}
+
+spartan_mission_03_peloponnesian_league_task_10_total = {
+	value = 6
+}
+
+spartan_mission_03_peloponnesian_league_task_12_macedon_current = {
+	value = 0
+	c:MAC = {
+		every_owned_province = {
+			limit = {
+				is_in_region = greece_region
+			}
+			add = 1
+		}
+		every_subject = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_thrace_current = {
+	value = 0
+	c:TRE = {
+		every_owned_province = {
+			limit = {
+				is_in_region = greece_region
+			}
+			add = 1
+		}
+		every_subject = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_phrygia_current = {
+	value = 0
+	c:PRY = {
+		every_owned_province = {
+			limit = {
+				is_in_region = greece_region
+			}
+			add = 1
+		}
+		every_subject = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_egypt_current = {
+	value = 0
+	c:EGY = {
+		every_owned_province = {
+			limit = {
+				is_in_region = greece_region
+			}
+			add = 1
+		}
+		every_subject = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+spartan_mission_03_peloponnesian_league_task_12_seleucid_current = {
+	value = 0
+	c:SEL = {
+		every_owned_province = {
+			limit = {
+				is_in_region = greece_region
+			}
+			add = 1
+		}
+		every_subject = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+		}
+	}
+}
+
+### Ancient Rivals ###
+spartan_mission_04_rivals_task_3_current = {
+	value = 0
+	p:416 = {
+		add = free_building_slots
+	}
+}
+
+spartan_mission_04_rivals_task_4_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			sub_unit_type = light_infantry
+	        owning_unit.unit_location = p:416
+	        subunit_not_mercenary_unit_trigger = yes
+		}
+		add = 1
+	}
+	max = spartan_mission_04_rivals_task_4_total
+}
+
+spartan_mission_04_rivals_task_4_total = {
+	value = 10
+}
+
+spartan_mission_04_rivals_task_6_current = {
+	value = 0
+	area:thessaly_area = {
+		every_area_province = {
+			limit = {
+				owner = c:MAC
+				controller = root
+			}
+			add = 1
+		}
+	}
+}
+
+spartan_mission_04_rivals_task_6_total = {
+	value = 0
+	area:thessaly_area = {
+		every_area_province = {
+			limit = {
+				owner = c:MAC
+			}
+			add = 1
+		}
+	}
+}
+
+spartan_mission_04_rivals_task_8_current = {
+	value = 0
+	p:426 = {
+		add = num_of_fortress_building
+	}
+	max = spartan_mission_04_rivals_task_8_total
+}
+
+spartan_mission_04_rivals_task_8_total = {
+	value = 3
+}
+
+spartan_mission_04_rivals_task_13_macedonia_current = {
+	value = 0
+	ordered_owned_province = {
+		order_by = total_population
+		limit = {
+			is_in_area = macedonia_area
+		}
+		max = 1
+		add = state_loyalty
+	}
+	max = spartan_mission_04_rivals_task_13_total
+}
+
+spartan_mission_04_rivals_task_13_chalkidiki_current = {
+	value = 0
+	ordered_owned_province = {
+		order_by = total_population
+		limit = {
+			is_in_area = chalkidiki_area
+		}
+		max = 1
+		add = state_loyalty
+	}
+	max = spartan_mission_04_rivals_task_13_total
+}
+
+spartan_mission_04_rivals_task_13_total = {
+	value = 100
+}

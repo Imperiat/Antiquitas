@@ -1,0 +1,770 @@
+﻿roman_mission_eastern_strike_fleet_max_svalue = {
+	value = 50
+}
+
+roman_mission_eastern_strike_fleet_current_svalue = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_ship = yes
+			ship_category = light
+		}
+		add = 1
+	}
+	max = roman_mission_eastern_strike_fleet_max_svalue
+}
+
+roman_mission_eastern_protect_the_adriatic_max_svalue = {
+	value = 0
+	area:illyria_graeca_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:dalmatia_orientalis_area = {
+		every_area_province = {
+			limit = {
+				province_id = 4088
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_eastern_protect_the_adriatic_current_svalue = {
+	value = 0
+	area:illyria_graeca_area = {
+		every_area_province = {
+			limit = {
+				owned_or_subject_owned = root
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:dalmatia_orientalis_area = {
+		every_area_province = {
+			limit = {
+				owned_or_subject_owned = root
+				province_id = 4088
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_liberate_greece_egypt_subject_current_svalue = {
+	value = 0
+	if = {
+		limit = {
+			exists = scope:egypt_country
+		}
+		scope:egypt_country = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+			every_subject = {
+				limit = {
+					any_owned_province = {
+						is_in_region = greece_region
+					}
+				}
+				every_owned_province = {
+					limit = {
+						is_in_region = greece_region
+					}
+					add = 1
+				}
+			}
+		}
+	}
+}
+
+roman_mission_liberate_greece_macedon_subject_current_svalue = {
+	value = 0
+	if = {
+		limit = {
+			exists = scope:macedon_country
+		}
+		scope:macedon_country = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+			every_subject = {
+				limit = {
+					any_owned_province = {
+						is_in_region = greece_region
+					}
+				}
+				every_owned_province = {
+					limit = {
+						is_in_region = greece_region
+					}
+					add = 1
+				}
+			}
+		}
+	}
+}
+
+roman_mission_liberate_greece_thrace_subject_current_svalue = {
+	value = 0
+	if = {
+		limit = {
+			exists = scope:thrace_country
+		}
+		scope:thrace_country = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+			every_subject = {
+				limit = {
+					any_owned_province = {
+						is_in_region = greece_region
+					}
+				}
+				every_owned_province = {
+					limit = {
+						is_in_region = greece_region
+					}
+					add = 1
+				}
+			}
+		}
+	}
+}
+
+roman_mission_liberate_greece_phrygia_subject_current_svalue = {
+	value = 0
+	if = {
+		limit = {
+			exists = scope:phrygia_country
+		}
+		scope:phrygia_country = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+			every_subject = {
+				limit = {
+					any_owned_province = {
+						is_in_region = greece_region
+					}
+				}
+				every_owned_province = {
+					limit = {
+						is_in_region = greece_region
+					}
+					add = 1
+				}
+			}
+		}
+	}
+}
+
+roman_mission_liberate_greece_seleucid_subject_current_svalue = {
+	value = 0
+	if = {
+		limit = {
+			exists = scope:seleucid_country
+		}
+		scope:seleucid_country = {
+			every_owned_province = {
+				limit = {
+					is_in_region = greece_region
+				}
+				add = 1
+			}
+			every_subject = {
+				limit = {
+					any_owned_province = {
+						is_in_region = greece_region
+					}
+				}
+				every_owned_province = {
+					limit = {
+						is_in_region = greece_region
+					}
+					add = 1
+				}
+			}
+		}
+	}
+}
+
+roman_mission_greek_ally_max_svalue = {
+	value = 15
+}
+
+roman_mission_number_of_cities_quarter_svalue = {
+  value = {
+      add = root.num_of_cities
+      divide = 4
+  }
+}
+
+roman_mission_number_of_cities_eighth_svalue = {
+  value = {
+      add = root.num_of_cities
+      divide = 8
+  }
+}
+
+roman_mission_bread_basket_cost_svalue = {
+	value = 250
+}
+
+roman_inheritance_current_territory_svalue = {
+	value = num_of_cities
+	multiply = 2
+}
+
+roman_mission_secure_numidia_max_svalue = {
+	value = 0
+	region:numidia_region = {
+		every_region_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_secure_numidia_current_svalue = {
+	value = 0
+	region:numidia_region = {
+		every_region_province = {
+			limit = {
+				is_coastal = yes
+				owner = root
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_roman_numidia_max_svalue = {
+	region:numidia_region = {
+		every_region_province = {
+			limit = {
+				has_owner = yes
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_roman_numidia_current_svalue = {
+	region:numidia_region = {
+		every_region_province = {
+			limit = {
+				has_owner = yes
+				owner = root
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_punic_colonies_max_svalue = {
+	value = 0
+	area:mauretania_caesariensis_centralis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_punic_colonies_current_svalue = {
+	value = 0
+	area:mauretania_caesariensis_centralis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+				exists = owner
+				owner = root
+			}
+			add = 1
+		}
+	}
+	area:mauretania_caesariensis_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				is_coastal = yes
+				exists = owner
+				owner = root
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_phoenician_cities_max_svalue = {
+	value = 0
+	area:africa_meridionalis_area = {
+		every_area_province = {
+			limit = {
+				OR = {
+					province_id = 3276
+					province_id = 3277
+					province_id = 3278
+					province_id = 3280
+					province_id = 3291
+					province_id = 3295
+					province_id = 3303
+					province_id = 3306
+				}
+			}
+			add = 1
+		}
+	}
+	area:tripolitania_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				OR = {
+					province_id = 3276
+					province_id = 3277
+					province_id = 3278
+					province_id = 3280
+					province_id = 3291
+					province_id = 3295
+					province_id = 3303
+					province_id = 3306
+				}
+			}
+			add = 1
+		}
+	}
+	area:tripolitania_centralis_area = {
+		every_area_province = {
+			limit = {
+				OR = {
+					province_id = 3276
+					province_id = 3277
+					province_id = 3278
+					province_id = 3280
+					province_id = 3291
+					province_id = 3295
+					province_id = 3303
+					province_id = 3306
+				}
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_phoenician_cities_current_svalue = {
+	value = 0
+	area:africa_meridionalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = root
+				OR = {
+					province_id = 3276
+					province_id = 3277
+					province_id = 3278
+					province_id = 3280
+					province_id = 3291
+					province_id = 3295
+					province_id = 3303
+					province_id = 3306
+				}
+			}
+			add = 1
+		}
+	}
+	area:tripolitania_occidentalis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = root
+				OR = {
+					province_id = 3276
+					province_id = 3277
+					province_id = 3278
+					province_id = 3280
+					province_id = 3291
+					province_id = 3295
+					province_id = 3303
+					province_id = 3306
+				}
+			}
+			add = 1
+		}
+	}
+	area:tripolitania_centralis_area = {
+		every_area_province = {
+			limit = {
+				exists = owner
+				owner = root
+				OR = {
+					province_id = 3276
+					province_id = 3277
+					province_id = 3278
+					province_id = 3280
+					province_id = 3291
+					province_id = 3295
+					province_id = 3303
+					province_id = 3306
+				}
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_pillars_hercules_max_svalue = {
+	value = 0
+	region:mauretainia_region = {
+		every_region_province = {
+			limit = {
+				has_owner = yes
+			}
+			add = 1
+		}
+	}
+}
+
+roman_mission_pillars_hercules_current_svalue = {
+	value = 0
+	region:mauretainia_region = {
+		every_region_province = {
+			limit = {
+				has_owner = yes
+				owner = root
+			}
+			add = 1
+		}
+	}
+}
+
+rm_rome_subjects_allies_cohorts_svalue = {
+	value = 0
+	if = {
+		limit = {
+			c:ROM = { 
+				has_land = yes
+				num_of_cohorts > 0 
+			}
+		}
+		c:ROM = {
+			every_unit = { 
+				every_sub_unit = { add = 1 }
+			}
+		}
+	}
+	if = {
+		limit = {
+			any_country = { is_subject_of = c:ROM }
+		}
+		c:ROM = {
+			every_subject = {
+				limit = {
+					OR = {
+						is_subject_type = feudatory
+						is_subject_type = client_state
+					}
+					num_of_cohorts > 0 
+				}
+				every_unit = { 
+					every_sub_unit = { add = 1 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			any_country = { alliance_with = c:ROM }
+		}
+		c:ROM = {
+			every_allied_country = {
+				limit = {
+					has_land = yes
+					num_of_cohorts > 0 
+				}
+				every_unit = { 
+					every_sub_unit = { add = 1 }
+				}
+			}
+		}
+	}
+	divide = 2
+}
+
+rm_congress_subjects_allies_half_rome_svalue = {
+	value = 0
+	if = {
+		limit = {
+			exists = scope:congress_target
+			scope:congress_target = { 
+				has_land = yes
+				num_of_cohorts > 0 
+			}
+		}
+		scope:congress_target = {
+			every_unit = { 
+				every_sub_unit = { add = 1 }
+			}
+		}
+	}
+	if = {
+		limit = {
+			exists = scope:congress_target
+			any_country = { is_subject_of = scope:congress_target }
+		}
+		scope:congress_target = {
+			every_subject = {
+				limit = {
+					OR = {
+						is_subject_type = feudatory
+						is_subject_type = client_state
+					}
+					num_of_cohorts > 0 
+				}
+				every_unit = { 
+					every_sub_unit = { add = 1 }
+				}
+			}
+		}
+	}
+	if = {
+		limit = {
+			exists = scope:congress_target
+			any_country = { alliance_with = scope:congress_target }
+		}
+		scope:congress_target = {
+			every_allied_country = {
+				limit = {
+					has_land = yes
+					num_of_cohorts > 0 
+				}
+				every_unit = { 
+					every_sub_unit = { add = 1 }
+				}
+			}
+		}
+	}
+}
+
+mission_punic_rivals_svalue = {
+	value = c:CAR.num_of_ships
+	add = 20
+}
+
+rome_1_ally_chance = {
+	value = 4
+	if = {
+		limit = { c:ROM.rank > scope:congress_target.rank }
+		add = 2
+	}
+	if = {
+		limit = { c:ROM.num_of_cohorts > scope:congress_target.num_of_cohorts }
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value >= 50 }
+			}
+		}
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value >= 100 }
+			}
+		}
+		add = 4
+	}
+}
+
+rome_1_guar_chance = {
+	value = 6
+	if = {
+		limit = { c:ROM.rank > scope:congress_target.rank }
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				any_owned_province = {
+					any_neighbor_province = { owner = c:ROM }
+				}
+			}
+		}
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value >= 50 }
+			}
+		}
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value >= 100 }
+			}
+		}
+		add = 4
+	}
+}
+
+rome_1_subj_chance = {
+	value = 2
+	if = {
+		limit = { c:ROM.rank > scope:congress_target.rank }
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = { war = yes }
+		}
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				any_owned_province = {
+					any_neighbor_province = { owner = c:ROM }
+				}
+			}
+		}
+		add = 2
+	}
+	if = {
+		limit = { scope:congress_target.num_of_ports = 0 }
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value >= 50 }
+			}
+		}
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value >= 100 }
+			}
+		}
+		add = 4
+	}
+	if = {
+		limit = { scope:congress_target.num_of_cities <= 3 }
+		add = 2
+	}
+	if = {
+		limit = { rm_rome_subjects_allies_cohorts_svalue > rm_congress_subjects_allies_half_rome_svalue }
+		add = 4
+	}
+}
+
+rome_1_insult_ally_chance = { # vague/insult chance
+	value = 4
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value <= 25 }
+			}
+		}
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				opinion = { target = c:ROM value <= 50 }
+			}
+		}
+		add = 4
+	}
+}
+
+rome_1_insult_subject_chance = {
+	value = rome_1_insult_ally_chance
+	if = {
+		limit = { scope:congress_target.rank = c:ROM.rank }
+		add = 2
+	}
+	if = {
+		limit = { scope:congress_target.num_of_cities > 7 }
+		add = 2
+	}
+	if = {
+		limit = {
+			scope:congress_target = {
+				any_allied_country = {
+					NOT = { this = c:ROM }
+				}
+			}
+		}
+		add = 2
+	}
+}
+
+rome_1_ally_division = {
+	value = rome_1_ally_chance
+	add = rome_1_insult_ally_chance
+}
+
+rome_1_guar_division = {
+	value = rome_1_guar_chance
+	add = rome_1_insult_ally_chance
+}
+
+rome_1_subj_division = {
+	value = rome_1_subj_chance
+	add = rome_1_insult_subject_chance
+}
+
+rome_1_ally_chance_percent = {
+	value = rome_1_ally_chance
+	divide = rome_1_ally_division
+	multiply = 100
+}
+
+rome_1_guar_chance_percent = {
+	value = rome_1_guar_chance
+	divide = rome_1_ally_division
+	multiply = 100
+}
+
+rome_1_subj_chance_percent = {
+	value = rome_1_subj_chance
+	divide = rome_1_subj_division
+	multiply = 100
+}
+

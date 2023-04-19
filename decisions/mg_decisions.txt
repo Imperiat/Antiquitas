@@ -1,0 +1,204 @@
+﻿country_decisions = {
+	sicilian_sulphur_mining = {
+		potential = {
+			has_dlc = "Magna Graecia"
+			any_owned_province = {
+				is_in_area = east_sicily_area
+			}
+			is_ai = no
+			p:99 = {
+				NOT = {
+					has_variable = sicilian_sulphur_trade_v
+				}
+			}
+		}
+		highlight = {
+			scope:province = p:99
+		}
+		allow = {
+			owns = 99
+			p:99 = {
+				NOT = {
+					has_variable = sicilian_sulphur_trade_v
+				}
+			}
+		}
+		effect = {
+			p:99 = {
+				trigger_event = {
+					id = provincial_events.2
+				}
+			}
+			show_as_tooltip = {
+				p:99 = {
+					add_permanent_province_modifier = {
+						name = sicilian_sulphur_trade
+						duration = -1
+					}
+				}
+			}
+			p:99 = {
+				set_variable = {
+					name = sicilian_sulphur_trade_v
+				}
+			}
+			capital_scope = {
+				if = {
+					limit = {
+						any_pops_in_province = {
+							pop_type = slaves
+						}
+					}
+					while = {
+						count = 4
+						limit = {
+							any_pops_in_province = {
+								pop_type = slaves
+							}
+						}
+						random_pops_in_province = {
+							limit = {
+								pop_type = slaves
+							}
+							move_pop = p:99
+						}
+					}
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	expand_thasos_gold_mines = {
+		potential = {
+			has_dlc = "Magna Graecia"
+			any_owned_province = {
+				OR = {
+					is_in_area = chalkidiki_area
+					is_in_area = rhodope_area
+				}
+			}
+			is_ai = no
+			p:356 = {
+				NOT = {
+					has_variable = thasos_expanded
+				}
+			}
+		}
+		highlight = {
+			scope:province = p:356
+		}
+		allow = {
+			owns = 356
+			p:356 = {
+				NOT = {
+					has_variable = thasos_expanded
+				}
+			}
+			treasury >= 100
+		}
+		effect = {
+			add_treasury = -100
+			p:356 = {
+				trigger_event = {
+					id = provincial_events.3
+				}
+			}
+			show_as_tooltip = {
+				p:356 = {
+					add_permanent_province_modifier = {
+						name = thasos_expanded_pmod
+						duration = -1
+					}
+				}
+			}
+			p:356 = {
+				set_variable = {
+					name = thasos_expanded
+				}
+			}
+			capital_scope = {
+				if = {
+					limit = {
+						any_pops_in_province = {
+							pop_type = slaves
+						}
+					}
+					while = {
+						count = 2 
+						limit = {
+							any_pops_in_province = {
+								pop_type = slaves
+							}
+						}
+						random_pops_in_province = {
+							limit = {
+								pop_type = slaves
+							}
+							move_pop = p:356
+						}
+					}
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	restore_laurium_iron_production = {
+		potential = {
+			has_dlc = "Magna Graecia"
+			any_owned_province = {
+				is_in_area = central_greece_area
+			}
+			is_ai = no
+			p:7799 = {
+				NOT = {
+					has_variable = laurium_restored
+				}
+			}
+		}
+		highlight = {
+			scope:province = p:7799
+		}
+		allow = {
+			owns = 7799
+			p:7799 = {
+				NOT = {
+					has_variable = laurium_restored
+				}
+			}
+			political_influence >= 20
+			military_tech > 4
+		}
+		effect = {
+			add_political_influence = -20
+			p:7799 = {
+				trigger_event = {
+					id = provincial_events.4
+				}
+			}
+			show_as_tooltip = {
+				p:7799 = {
+					add_permanent_province_modifier = {
+						name = laurion_restored_pmod
+						duration = -1
+					}
+				}
+			}
+			p:7799 = {
+				set_variable = {
+					name = laurium_restored
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

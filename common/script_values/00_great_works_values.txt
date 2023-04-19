@@ -1,0 +1,17 @@
+﻿# svalues related to gws
+
+gw_workrate_percent_svalue_minor = 0.02
+gw_workrate_percent_svalue_moderate = 0.05
+gw_workrate_percent_svalue_major = 0.10
+
+negative_gw_workrate_percent_svalue_minor = -0.02
+negative_gw_workrate_percent_svalue_moderate = -0.05
+negative_gw_workrate_percent_svalue_major = -0.10
+
+gw_fixed_prestige_svalue_minor = 3
+gw_fixed_prestige_svalue_moderate = 10
+gw_fixed_prestige_svalue_major = 20
+
+negative_gw_fixed_prestige_svalue_minor = -3
+negative_gw_fixed_prestige_svalue_moderate = -10
+negative_gw_fixed_prestige_svalue_major = -20

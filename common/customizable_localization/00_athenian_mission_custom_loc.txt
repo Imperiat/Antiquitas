@@ -1,0 +1,426 @@
+﻿### Foreign Rulership ###
+athenian_mission_01_foreign_rulership_task_2_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_2_custom_loc_desc_1
+		trigger = {
+			exists = overlord
+			overlord = {
+				opinion = {
+					target = root
+					value < athenian_mission_01_foreign_rulership_task_2_total
+				}
+			}
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_2_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+athenian_mission_01_foreign_rulership_task_3_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_3_custom_loc_desc_1
+		trigger = {
+			athenian_mission_01_foreign_rulership_task_3_current < athenian_mission_01_foreign_rulership_task_3_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_3_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+athenian_mission_01_foreign_rulership_task_5_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_5_custom_loc_desc_1
+		trigger = {
+			exists = overlord
+			overlord = {
+				opinion = {
+					target = root
+					value < athenian_mission_01_foreign_rulership_task_5_total
+				}
+			}
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_5_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+athenian_mission_01_foreign_rulership_task_8_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_8_custom_loc_desc_1
+		trigger = {
+			exists = overlord
+			overlord = {
+				opinion = {
+					target = root
+					value > athenian_mission_01_foreign_rulership_task_8_total
+				}
+			}
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_8_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+athenian_mission_01_foreign_rulership_task_11_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_11_custom_loc_desc_1
+		trigger = {
+			athenian_mission_01_foreign_rulership_task_11_current < athenian_mission_01_foreign_rulership_task_11_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_foreign_rulership_task_11_custom_loc_desc_2
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+### Developing Attica ###
+athenian_mission_02_attica_task_5_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_02_attica_task_5_custom_loc_desc_1
+		trigger = {
+			athenian_mission_02_attica_task_5_current < athenian_mission_02_attica_task_5_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_02_attica_task_5_custom_loc_desc_2
+	}
+}
+
+### Political ###
+athenian_mission_01_political_task_1_statesmanship = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_political_task_1_statesmanship_desc_1
+		trigger = {
+			athenian_mission_03_political_task_1_statesmanship < athenian_mission_03_political_task_1_statesmanship_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_political_task_1_statesmanship_desc_2
+	}
+}
+
+athenian_mission_01_political_task_1_loyalty = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_01_political_task_1_loyalty_desc_1
+		trigger = {
+			athenian_mission_03_political_task_1_loyalty < athenian_mission_03_political_task_1_loyalty_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_01_political_task_1_loyalty_desc_2
+	}
+}
+
+athenian_mission_03_political_task_2_statesmanship_thesmothete = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_statesmanship_thesmothete_desc_1
+		trigger = {
+			athenian_mission_03_political_task_2_statesmanship_thesmothete < athenian_mission_03_political_task_2_statesmanship_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_statesmanship_thesmothete_desc_2
+	}
+}
+
+athenian_mission_03_political_task_2_loyalty_thesmothete = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_loyalty_thesmothete_desc_1
+		trigger = {
+			athenian_mission_03_political_task_2_loyalty_thesmothete < athenian_mission_03_political_task_2_loyalty_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_loyalty_thesmothete_desc_2
+	}
+}
+
+athenian_mission_03_political_task_2_statesmanship_agoranomus = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_statesmanship_agoranomus_desc_1
+		trigger = {
+			athenian_mission_03_political_task_2_statesmanship_agoranomus < athenian_mission_03_political_task_2_statesmanship_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_statesmanship_agoranomus_desc_2
+	}
+}
+
+athenian_mission_03_political_task_2_loyalty_agoranomus = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_loyalty_agoranomus_desc_1
+		trigger = {
+			athenian_mission_03_political_task_2_loyalty_agoranomus < athenian_mission_03_political_task_2_loyalty_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_loyalty_agoranomus_desc_2
+	}
+}
+
+athenian_mission_03_political_task_2_statesmanship_civic_researcher = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_statesmanship_civic_researcher_desc_1
+		trigger = {
+			athenian_mission_03_political_task_2_statesmanship_civic_researcher < athenian_mission_03_political_task_2_statesmanship_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_statesmanship_civic_researcher_desc_2
+	}
+}
+
+athenian_mission_03_political_task_2_loyalty_civic_researcher = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_loyalty_civic_researcher_desc_1
+		trigger = {
+			athenian_mission_03_political_task_2_loyalty_civic_researcher < athenian_mission_03_political_task_2_loyalty_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_2_loyalty_civic_researcher_desc_2
+	}
+}
+
+athenian_mission_03_political_task_3_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_3_custom_loc_desc_1
+		trigger = {
+			athenian_mission_03_political_task_3_current < athenian_mission_03_political_task_3_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_3_custom_loc_desc_2
+	}
+}
+
+athenian_mission_03_political_task_6_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_6_custom_loc_desc_1
+		trigger = {
+			athenian_mission_03_political_task_6_current < athenian_mission_03_political_task_6_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_6_custom_loc_desc_2
+	}
+}
+
+athenian_mission_03_political_task_7_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_7_custom_loc_desc_1
+		trigger = {
+			athenian_mission_03_political_task_7_current < athenian_mission_03_political_task_7_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_7_custom_loc_desc_2
+	}
+}
+
+athenian_mission_03_political_task_8_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_8_custom_loc_desc_1
+		trigger = {
+			athenian_mission_03_political_task_8_current < athenian_mission_03_political_task_8_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_8_custom_loc_desc_2
+	}
+}
+
+athenian_mission_03_political_task_9_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_03_political_task_9_custom_loc_desc_1
+		trigger = {
+			athenian_mission_03_political_task_9_current < athenian_mission_03_political_task_9_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_9_custom_loc_desc_2
+	}
+}
+
+athenian_mission_03_political_task_10_custom_loc = {
+	type = character
+
+	text = {
+		localization_key = athenian_mission_03_political_task_10_custom_loc_desc_1
+		trigger = {
+			popularity > athenian_mission_03_political_task_10_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_03_political_task_10_custom_loc_desc_2
+	}
+}
+
+### Naval Conquest ###
+athenian_mission_04_delian_league_task_5_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_5_custom_loc_1
+		trigger = {
+			athenian_mission_04_delian_league_task_5_current < athenian_mission_04_delian_league_task_5_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_5_custom_loc_2
+	}
+}
+
+athenian_mission_04_delian_league_task_7_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_7_custom_loc_1
+		trigger = {
+			athenian_mission_04_delian_league_task_7_current < athenian_mission_04_delian_league_task_7_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_7_custom_loc_2
+	}
+}
+
+athenian_mission_04_delian_league_task_13_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_13_custom_loc_1
+		trigger = {
+			athenian_mission_04_delian_league_task_13_current < athenian_mission_04_delian_league_task_13_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_13_custom_loc_2
+	}
+}
+
+athenian_mission_04_delian_league_task_15_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_15_custom_loc_1
+		trigger = {
+			athenian_mission_04_delian_league_task_15_current < athenian_mission_04_delian_league_task_15_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_15_custom_loc_2
+	}
+}
+
+athenian_mission_04_delian_league_task_16_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_16_custom_loc_1
+		trigger = {
+			athenian_mission_04_delian_league_task_16_current < athenian_mission_04_delian_league_task_16_total
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_16_custom_loc_2
+	}
+}
+
+athenian_mission_04_delian_league_task_18_custom_loc = {
+	type = country
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_18_custom_loc_1
+		trigger = {
+			athenian_mission_04_delian_league_task_18_current > 0
+		}
+	}
+
+	text = {
+		localization_key = athenian_mission_04_delian_league_task_18_custom_loc_2
+	}
+}

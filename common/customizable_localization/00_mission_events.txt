@@ -1,0 +1,13 @@
+﻿get_diadochi_pantheon_ongoing = {
+	type = country
+
+	text = {
+		localization_key = diadochi_pantheon_ongoing
+		trigger = { get_diadochi_pantheon_svalue < diadochi_pantheon_target_svalue }
+	}
+
+	text = {
+		localization_key = diadochi_pantheon_complete
+		trigger = { get_diadochi_pantheon_svalue >= diadochi_pantheon_target_svalue }
+	}
+}

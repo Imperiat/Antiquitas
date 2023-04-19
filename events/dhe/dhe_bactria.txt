@@ -114,17 +114,10 @@ dhe_bactria.2 = {
 	option = {
 		name = "dhe_bactria.2.a"
 		add_stability = -25
-		if = {
-            limit = {
-                NOT = {
-                    primary_culture = bactrian
-                }
-            }
-            set_primary_culture_cleanup_effect = {
-                NEW_PRIMARY_CULTURE = yuezhi
-                MAKE_OLD_CULTURE_INTEGRATED = yes
-            }
-        }
+		set_primary_culture_cleanup_effect = {
+			NEW_PRIMARY_CULTURE = bactrian
+			MAKE_OLD_CULTURE_INTEGRATED = yes
+		}
 		if = {
 			limit = {
 				capital_scope = {
@@ -211,6 +204,93 @@ dhe_bactria.2 = {
 				}
 			}
 		}
+	}
+}
+
+# Rise of Diodotus
+dhe_bactria.3 = {
+	type = country_event
+	title = "dhe_bactria.3.t"
+	desc = "dhe_bactria.3.desc"
+	picture = greek_court
+
+	fire_only_once = yes
+
+	left_portrait = current_ruler
+	right_portrait = scope:diodotus_character
+
+	trigger = {
+		tag = BAC
+		NOT = { has_variable = dhe_bactria_3_cooldown }
+		current_date > 503.1.1
+	}
+
+	immediate = {
+		set_variable = {
+			name = dhe_bactria_3_cooldown
+			days = 3650
+		}
+		create_character = {
+			first_name = "Diodotus"
+			age = 25
+			culture = bactrian
+			religion = root.religion
+			save_scope_as = diodotus_character
+		}
+		hidden_effect = {
+			scope:diodotus_character = {
+				add_martial = 6
+				add_charisma = 4
+				add_finesse = 4
+				add_zeal = 4
+				add_trait = energetic
+				add_prominence = 50
+			}
+		}
+	}
+
+	option = {
+		name = "dhe_bactria.3.a"
+		trigger_event = {
+			id = dhe_bactria.4
+			days = { 1825  3650 }
+		}
+	}
+}
+
+# Diodotus becomes the new leader
+dhe_bactria.4 = {
+	type = country_event
+	title = "dhe_bactria.4.t"
+	desc = "dhe_bactria.4.desc"
+	picture = greek_court
+
+	fire_only_once = yes
+
+	left_portrait = current_ruler
+	right_portrait = scope:diodotus_character
+
+	trigger = {
+		current_ruler = {
+			NOT = { this = scope:diodotus_character }
+		}
+		scope:diodotus_character = {
+			is_alive = yes
+			is_ruler = no
+			employer = C:BAC
+		}
+	}
+
+	option = {
+		name = "dhe_bactria.4.a"
+		set_as_ruler = scope:diodotus_character
+		scope:diodotus_character = {
+			add_popularity = popularity_huge
+		}
+	}
+	option = {
+		name = "dhe_bactria.4.b"
+		custom_tooltip = "no_effect_tooltip"
 	}
 }
 

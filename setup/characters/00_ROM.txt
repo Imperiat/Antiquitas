@@ -1,0 +1,29 @@
+﻿"ROM"={
+	country="ROM"
+	4={
+		first_name="Lucius Tarquinius Priscus" 
+		family = c:ROM.fam:Romulii
+		birth_date=116.4.1
+		religion="roman_pantheon"
+		culture="etruscan"
+		no_stats=yes
+		add_martial=8
+		add_charisma=6
+		add_finesse=7
+		add_zeal=6
+		no_traits=yes
+		add_trait="shrewd"
+		add_gold=400
+		add_popularity=60
+		dna="RdlF2aRZpFnx8/HzApQClAKYApgChQKFAoYChgJ3AncBWQFZAncCdwOjA6MCkAKQAnsCewJuAm4DqwOrApkCmQKQApACjwKPAooCigKKAooCbQJtAnkCeQKVApUCgQKBAowCjAJ+An4CcwJzApUClQJrAmsAKwArAoQChAKLAosCgwKDAnoCegJxAnECbAJsAm0CbQJ4AngE4ATgAmgCaAKIAogCaQJpAUwBTAKQApACfwJ/AVwBXAJ1AnUCmQKZAn8CfwJpAmkCbQJtAnACcAJrAmsCiwKLAnYCdgTJBMkCbAJsAowCjAL4AvgBFQEVADAAMABiAGIA0ADQANsA2wEJAQkC1QLVAScBJwKTApMDBQMFADgAOAB/AH8BagFqAvwC/AD8APwCsgKyANQA1ADjAOMADwAPAHAAcAB/AH8ARgBGAXsBewDrAOsBFQEVAGIAYgFxAXEA/AD8ATcBNwKHAocDZQNlAB4AHgByAHIMWAxYAH8AfwKHAocB9AH0AGIAYgnSCYEBXQFdAPgA+AAAAAAAAAAAAAAAAA=="
+	}	
+	5={
+		first_name="Serius Tullius" 
+		family = c:ROM.fam:Romulii
+		birth_date=150.4.1
+		father="char:4"
+		religion="roman_pantheon"
+		culture="etruscan"
+		dna="GPEY8cF5wXnDqsOqAn8CfwKEAoQCfwJ/BLwEvAKDAoMCdQJ1AmgCaAKOAo4BXgFeAnoCegJqAmoCaAJoAnACcAJpAmkDpQOlAowCjAFcAVwCdAJ0ApUClQObA5sClgKWAmoCagOyA7ICiwKLAnkCeQKLAosBVQFVAmcCZwJ+An4ChgKGAV0BXQJqAmoCbAJsAngCeAJ7AnsCdwJ3AVcBVwKWApYCkwKTAmkCaQJwAnACjQKNAokCiQJrAmsCkwKTAokCiQJ9An0ClwKXAnMCcwKFAoUCjwKPApUClQKOAo4CigKKAnwCfALaAtoA3gDeAV8BXwAZABkBYQFhAW4BbgEdAR0AgwCDAuEC4QCeAJ4DIAMgAE8ATwB/AH8A/wD/AUkBSQBSAFICfwJ/AWsBawLjAuMCWQJZAN8A3wB/AH8C4wLjAT4BPgEZARkA9AD0AvoC+gNYA1gAaQBpAxEDEQBdAF0BJQElAzkDOQDnAOcHbgduAH8AfwQ2BDYBlQGVAMgAyAlWCVYBMgEyAC8ALwAAAAAAAAAAAAAAAA=="
+	}
+}

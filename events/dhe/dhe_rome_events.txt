@@ -1,0 +1,1499 @@
+﻿namespace = dhe_rome
+
+# Gnaeus Flavius - Legis Actiones
+dhe_rome.1 = {
+	type = country_event
+	title = "dhe_rome.1.t"
+	picture = scribe_tools
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					always = yes
+				}
+				desc = "dhe_rome.1.desc_2"
+			}
+		}
+	}
+	
+	left_portrait = current_ruler
+	right_portrait = scope:dhe_rome_gnaeus_flavius_scope
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ROM
+		has_land = yes
+		OR = {
+			government = aristocratic_republic
+			government = oligarchic_republic
+		}
+		NOT = { has_variable = dhe_rome_flavor_cooldown }
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+		random_character = {
+			limit = {
+				random_populist_character_trigger = yes
+			}
+			weight = {
+				title_importance_modifier = yes
+			}
+			save_scope_as = dhe_rome_gnaeus_flavius_scope
+		}	
+	}
+	
+	option = {
+		name = "dhe_rome.1.a"
+		current_ruler = {
+			add_popularity = popularity_medium
+		}
+		scope:dhe_rome_gnaeus_flavius_scope = {
+			add_prominence = prominence_large
+		}
+		democratic_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		add_country_modifier = {
+			name = dhe_rome_legis_actiones_cm
+			duration = 7300 # 20 years
+		}
+		ai_chance = { factor = 90 }
+	}
+	
+	option = {
+		name = "dhe_rome.1.b"
+		current_ruler = {
+			add_popularity = subtract_popularity_small
+		}
+		scope:dhe_rome_gnaeus_flavius_scope = {
+			add_loyalty = loyalty_flavius_suppressed
+		}
+		oligarchic_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		add_country_modifier = {
+			name = dhe_rome_legis_actiones_cm
+			duration = 7300 # 20 years
+		}
+		add_tyranny = tyranny_large
+		ai_chance = { factor = 10 }
+	}
+}
+
+# Conflict of the Orders
+dhe_rome.2 = {
+	type = country_event
+	title = "dhe_rome.2.t"
+	desc = "dhe_rome.2.desc"
+	picture = senate_debate
+	
+	left_portrait = current_ruler
+	right_portrait = scope:dhe_rome_gnaeus_flavius_scope
+	
+	fire_only_once = yes
+	
+	trigger = {
+		current_date >= 454.1.1 #300 BC
+		current_date <= 520.1.1 
+		tag = ROM
+		has_land = yes
+		OR = {
+			government = aristocratic_republic
+			government = oligarchic_republic
+		}
+		civic_tech >= 6
+		NOT = { has_variable = dhe_rome_flavor_cooldown }
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+		set_variable = dhe_rome_conflict_orders_flag
+	}
+
+	option = {
+		name = "dhe_rome.2.a"
+		set_variable = { 
+			name = dhe_rome_ppa_flag
+		}
+		traditionalist_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		add_country_modifier = {
+			name = dhe_rome_patricio_plebeian_aristocracy_cm
+			duration = 5475 # 15 years
+		}
+		ai_chance = { factor = 90 }
+		clear_saved_scope = dhe_rome_gnaeus_flavius_scope
+	}
+	
+	option = {
+		name = "dhe_rome.2.b"
+		set_variable = { 
+			name = dhe_rome_ppr_flag
+		}
+		add_country_modifier = {
+			name = dhe_rome_populist_reform_cm
+			duration = 5475 # 15 years
+		}
+		democratic_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		change_law = lex_hortensia
+		custom_tooltip = dhe_rome.2.bt
+		ai_chance = { factor = 10 }
+		clear_saved_scope = dhe_rome_gnaeus_flavius_scope
+	}
+}
+
+# Janiculum Secessio Plebis - if law is changed back or no reform is passed
+dhe_rome.3 = {
+	type = country_event
+	title = "dhe_rome.3.t"
+	picture = revolt
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					has_variable = dhe_rome_ppa_flag
+				}
+				desc = "dhe_rome.3.desc_1"
+			}
+			triggered_desc = {
+				trigger = {
+					always = yes
+				}
+				desc = "dhe_rome.3.desc_2"
+			}
+		}
+	}
+	
+	fire_only_once = yes
+
+	trigger = {
+		current_date >= 465.1.1 # 289 BC
+		tag = ROM
+		has_land = yes
+		has_variable = dhe_rome_conflict_orders_flag
+		NOT = {
+			has_law = lex_hortensia
+		}
+		OR = {
+			government = aristocratic_republic
+			government = oligarchic_republic
+		}
+		civic_tech >= 6
+	}
+
+	immediate = {
+		hidden_effect = {
+			if = {
+				limit = {
+					has_country_modifier = dhe_rome_patricio_plebeian_aristocracy_cm 
+				}
+				remove_country_modifier = dhe_rome_patricio_plebeian_aristocracy_cm
+			}
+			else_if = {
+				limit = {
+					has_country_modifier = dhe_rome_populist_reform_cm
+				}
+				remove_country_modifier = dhe_rome_populist_reform_cm
+			}
+		}
+	}
+	
+	# Pass the Law
+	option = {
+		name = "dhe_rome.3.a"
+		trigger = {
+			has_variable = dhe_rome_ppa_flag
+			NOT = {
+				has_law = lex_hortensia
+			}
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_law = lex_hortensia
+				}
+			}
+			change_law = lex_hortensia
+		}
+		add_country_modifier = {
+			name = dhe_rome_patricio_plebeian_aristocracy_cm
+			duration = -1
+		}
+		ai_chance = { factor = 90 }
+	}
+	
+	# Repass the Law
+	option = {
+		name = "dhe_rome.3.b"
+		trigger = {
+			has_variable = dhe_rome_ppr_flag
+			NOT = {
+				has_law = lex_hortensia
+			}
+		}
+		add_political_influence = subtract_influence_medium
+		if = {
+			limit = {
+				NOT = {
+					has_law = lex_hortensia
+				}
+			}
+			change_law = lex_hortensia
+		}
+		ai_chance = { factor = 90 }
+		remove_variable = dhe_rome_ppr_flag
+		set_variable = dhe_rome_ppr2_flag
+	}
+	
+	option = {
+		name = "dhe_rome.3.c"
+		root.capital_scope = {
+			add_province_modifier = {
+				name = dhe_rome_plebeian_secession_crackdown_cm
+				duration = 18250 # 50 years
+			}
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+
+# Expansion of the Tribes: Aniensis and Tarentina
+dhe_rome.4 = {
+	type = country_event
+	title = "dhe_rome.4.t"
+	desc = "dhe_rome.4.desc"
+	picture = senate_debate
+	
+	fire_only_once = yes
+	
+	trigger = {
+		current_date >= 460.1.1
+		tag = ROM
+		has_land = yes
+		OR = {
+			government = oligarchic_republic
+			government = aristocratic_republic
+		}
+		NOT = { has_variable = dhe_rome_flavor_cooldown }
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.4.a"
+		add_country_modifier = {
+			name = dhe_rome_expansions_tribes_cm
+			duration = 1825 # 5 years
+		}
+		root.capital_scope = {
+			add_province_modifier = {
+				name = dhe_rome_expansions_tribes_pm
+				duration = 7300 # 20 years
+			}
+		}
+		ai_chance = { factor = 90 }
+	}
+
+	option = {
+		name = "dhe_rome.4.b"
+		add_country_modifier = {
+			name = dhe_rome_refused_expansions_tribes_cm
+			duration = 3650 # 10 years
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+
+# Expansion of the Tribes: Quirina and Velina
+dhe_rome.5 = {
+	type = country_event
+	title = "dhe_rome.5.t"
+	desc = "dhe_rome.5.desc"
+	picture = senate_debate
+	
+	fire_only_once = yes
+	
+	trigger = {
+		current_date >= 460.1.1
+		tag = ROM
+		has_land = yes
+		num_of_cities >= 50
+		OR = {
+			government = oligarchic_republic
+			government = aristocratic_republic
+		} 
+		NOR = {
+			root.capital_scope = {
+				has_province_modifier = dhe_rome_expansions_tribes_pm
+			}
+			has_variable = dhe_rome_flavor_cooldown
+		}
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.5.a"
+		add_country_modifier = {
+			name = dhe_rome_expansions_tribes_cm
+			duration = 1825 # 5 years
+		}
+		root.capital_scope = {
+			add_province_modifier = {
+				name = dhe_rome_expansions_tribes_pm
+				duration = 7300 # 20 years
+			}
+		}
+		ai_chance = { factor = 90 }
+	}
+
+	option = {
+		name = "dhe_rome.5.b"	
+		add_country_modifier = {
+			name = dhe_rome_refused_expansions_tribes_cm
+			duration = 3650 # 10 years
+		}
+		ai_chance = { factor = 10 }
+	}
+}
+
+# Development of Roman Law
+dhe_rome.6 = {
+	type = country_event
+	title = "dhe_rome.6.t"
+	desc = "dhe_rome.6.desc"
+	picture = roman_trial
+	
+	fire_only_once = yes
+	
+	trigger = {
+		current_date >= 515.1.1
+		tag = ROM
+		has_land = yes
+		is_republic = yes
+		NOR = {
+			has_country_modifier = dhe_rome_development_roman_law_cm
+			has_variable = dhe_rome_flavor_cooldown
+		}
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.6.a"
+		add_country_modifier = {
+			name = dhe_rome_development_roman_law_cm
+			duration = 18250 # 50 years
+		}
+	}
+}
+
+# The Great Transformation
+dhe_rome.7 = {
+	type = country_event
+	title = "dhe_rome.7.t"
+	desc = "dhe_rome.7.desc"
+	picture = slaves_working
+	
+	left_portrait = current_ruler
+	right_portrait = scope:dhe_rome_random_populist
+	
+	fire_only_once = yes
+
+	trigger = {
+		current_date >= 515.1.1
+		tag = ROM
+		has_land = yes
+		is_republic = yes
+		NOT = { has_variable = dhe_rome_flavor_cooldown }
+		any_character = {
+			random_populist_character_trigger = yes
+		}
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+		random_character = {
+			limit = {
+				random_populist_character_trigger = yes
+			}
+			weight = {
+				title_importance_modifier = yes
+			}
+			save_scope_as = dhe_rome_random_populist
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.7.a"
+		current_ruler = {
+			add_popularity = subtract_popularity_medium
+		}
+		add_country_modifier = {
+			name = dhe_rome_great_transformation_slaves_cm
+			duration = 3650 # 10 years
+		}
+		ai_chance = { factor = 90 }
+		clear_saved_scope = dhe_rome_random_populist
+	}
+	
+	option = {
+		name = "dhe_rome.7.b"
+		scope:dhe_rome_random_populist = {
+			add_popularity = popularity_medium
+		}
+		democratic_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		add_country_modifier = {
+			name = dhe_rome_great_transformation_freemen_cm
+			duration = 3650 # 10 years
+		}
+		ai_chance = { factor = 10 }
+		clear_saved_scope = dhe_rome_random_populist
+	}
+}
+
+# Increased Social Tensions
+dhe_rome.8 = {
+	type = country_event
+	title = "dhe_rome.8.t"
+	desc = "dhe_rome.8.desc"
+	picture = senate_debate
+	
+	left_portrait = current_ruler
+	right_portrait = scope:dhe_rome_socii_1_scope.current_ruler
+	right_portrait = scope:dhe_rome_socii_2_scope.current_ruler
+	right_portrait = scope:dhe_rome_socii_3_scope.current_ruler
+	
+	fire_only_once = yes
+	
+	goto_location = scope:dhe_rome_socii_1_scope
+	
+	trigger = {
+		current_date >= 515.1.1
+		tag = ROM
+		has_land = yes
+		num_of_cities >= 35
+		any_subject = { 
+			is_subject_type = feudatory
+			country_culture_group = latin
+		}
+		NOT = { has_variable = dhe_rome_flavor_cooldown }
+	}
+	
+	immediate = {
+		set_variable = {
+			name = dhe_rome_flavor_cooldown
+			days = 1825 # 5 years
+		}
+		every_subject = {
+			limit = { 
+				is_subject_type = feudatory
+				country_culture_group = latin
+			}
+			set_variable = dhe_rome_socii_flag
+			if = {
+				limit = {
+					NOT = {
+						exists = scope:dhe_rome_socii_1_scope
+					}
+				}
+				save_scope_as = dhe_rome_socii_1_scope
+			}
+			else_if = {
+				limit = {
+					exists = scope:dhe_rome_socii_1_scope
+					NOT = {
+						exists = scope:dhe_rome_socii_2_scope
+					}
+				}
+				save_scope_as = dhe_rome_socii_2_scope
+			}
+			else = {
+				save_scope_as = dhe_rome_socii_3_scope
+			}
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.8.a"
+		current_ruler = {
+			add_popularity = subtract_popularity_medium
+		}
+		if = {
+			limit = {
+				any_subject = {
+					has_variable = dhe_rome_socii_flag
+				}
+			}
+			every_subject = {
+				limit = { 
+					is_subject_type = feudatory
+					country_culture_group = latin
+				}
+				add_opinion = { modifier = dhe_rome_socii_tensions_opinion target = c:ROM }
+			}
+		}
+		ai_chance = { factor = 90 }
+		remove_variable = dhe_rome_socii_flag
+		clear_saved_scope = dhe_rome_socii_1_scope
+		clear_saved_scope = dhe_rome_socii_2_scope
+		clear_saved_scope = dhe_rome_socii_3_scope
+	}
+	
+	option = {
+		name = "dhe_rome.8.b"
+		current_ruler = {
+			add_popularity = popularity_medium
+		}
+		add_treasury = {
+			value = has_monthly_income
+			multiply = -16
+		}
+		if = {
+			limit = {
+				any_subject = {
+					has_variable = dhe_rome_socii_flag
+				}
+			}
+			every_subject = {
+				limit = { 
+					is_subject_type = feudatory
+					country_culture_group = latin
+				}
+				add_opinion = { modifier = dhe_rome_socii_gifts_opinion target = c:ROM }
+			}
+		}
+		#reverse_add_opinion = { modifier = dhe_rome_socii_gifts_opinion target = scope:dhe_rome_socii_scope }
+		ai_chance = { factor = 10 }
+		remove_variable = dhe_rome_socii_flag
+		clear_saved_scope = dhe_rome_socii_1_scope
+		clear_saved_scope = dhe_rome_socii_2_scope
+		clear_saved_scope = dhe_rome_socii_3_scope 
+	}
+}
+
+# Appeal for Aid: Victim Start
+dhe_rome.9 = {
+	type = country_event
+	title = "dhe_rome.9.t"
+	desc = "dhe_rome.9.desc"
+	picture = city_siege
+	
+	left_portrait = current_ruler
+	right_portrait = c:CAR.current_ruler
+	right_portrait = c:ROM.current_ruler
+	
+	fire_only_once = yes
+
+	goto_location = c:CAR.capital_scope
+	
+	trigger = {
+		has_land = yes
+		c:ROM = {
+			has_land = yes
+		}
+		c:CAR = {
+			has_land = yes
+		}
+		war_with = c:CAR 
+		num_of_cities <= 10
+		NOR = {
+			c:ROM = { 
+				war_with = c:CAR
+			}
+			alliance_with = c:ROM
+			any_allied_country = {
+				num_of_cities >= 50
+			}
+			c:ROM = {
+				OR = {
+					alliance_with = c:CAR
+					opinion = { 
+						target = c:CAR
+						value >= 100
+					}
+				}
+			}
+			is_subject = yes
+		}
+		any_owned_province = {
+			is_coastal = yes
+			OR = {
+				is_in_region = tarraconensis_region
+				is_in_region = contestania_region
+				is_in_region = numidia_region
+				is_in_region = africa_region
+				is_in_region = baetica_region
+				is_in_region = mauretainia_region
+				is_in_region = transalpine_gaul_region
+				is_in_region = cisalpine_gaul_region
+				is_in_region = central_italy_region
+				is_in_region = magna_graecia_region
+				is_in_region = illyria_region
+				is_in_region = greece_region
+				is_in_region = cyrenaica_region
+			}
+		}
+		c:CAR = {
+			num_of_cities >= 80
+		}
+		c:ROM = {
+			num_of_cities >= 60
+			NOT = {
+				has_variable = dhe_rome_aid_flag
+			}
+		}
+		root.capital_scope = {
+			control_range = c:CAR
+		}
+	}
+	
+	immediate = {
+		save_scope_as = dhe_rome_aid_caller
+		c:ROM = {
+			set_variable = dhe_rome_aid_flag
+			save_scope_as = dhe_rome_rome_scope
+		}
+		c:CAR = {
+			save_scope_as = dhe_rome_carthage_scope
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.9.a"
+		c:ROM = {
+			trigger_event = {
+				id = dhe_rome.10
+			}
+		}
+		ai_chance = { factor = 100 }
+		custom_tooltip = dhe_rome.9.at
+	}
+	
+	option = {
+		name = "dhe_rome.9.b"
+		ai_chance = { factor = 0 }
+		current_ruler = {
+			add_popularity = popularity_medium
+		}
+		add_stability_effect = yes
+	}
+	
+}
+
+# Appeal for Aid: Rome Receives Envoy
+dhe_rome.10 = {
+	type = country_event
+	title = "dhe_rome.10.t"
+	desc = "dhe_rome.10.desc"
+	picture = romans_marching
+	
+	left_portrait = current_ruler
+	right_portrait = scope:dhe_rome_aid_caller.current_ruler
+	
+	fire_only_once = yes
+	
+	goto_location = scope:dhe_rome_aid_caller.capital_scope
+	
+	immediate = {
+		c:CAR.capital_scope = {
+			save_scope_as = dhe_rome_car_capital
+		}
+	}
+
+	option = {
+		name = "dhe_rome.10.b"
+		set_variable = {
+			name = dhe_rome_refuses_aid_flag
+		}
+		remove_stability_effect = yes
+		add_manpower = 10.0
+		add_country_modifier = {
+			name = dhe_rome_military_buildup_cm
+			duration = 365 # 1 year
+		}
+		democratic_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		hidden_effect = {
+			c:CAR.capital_scope.area = {
+				every_area_province = {
+					limit = {
+						owned_or_subject_owned = c:CAR
+					}
+					add_claim = c:ROM
+				}
+			}
+		}
+		custom_tooltip = dhe_rome.10.bt
+		ai_chance = { factor = 85 }
+		scope:dhe_rome_aid_caller = {
+			trigger_event = {
+				id = dhe_rome.11
+			}
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.10.c"
+		set_variable = {
+			name = dhe_rome_refuses_aid_2_flag
+		}
+		current_ruler = {
+			add_popularity = subtract_popularity_medium
+		}
+		add_country_modifier = {
+			name = dhe_rome_avoided_carthage_conflict_cm
+			duration = 1825 # 5 years
+		}
+		traditionalist_approval_effect = {
+			VALUE = party_approval_medium
+		}
+		reverse_add_opinion = { modifier = increased_reputation target = c:CAR }
+		reverse_add_opinion = { modifier = dhe_rome_refuses_aid_2_opinion target = scope:dhe_rome_aid_caller }
+		ai_chance = { factor = 5 }
+		scope:dhe_rome_aid_caller = {
+			trigger_event = {
+				id = dhe_rome.11
+			}
+		}
+	}
+}
+
+# Appeal for Aid: Roman Reply
+dhe_rome.11 = {
+	type = country_event
+	title = "dhe_rome.11.t"
+	picture = senate_debate
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					c:ROM = {
+						has_variable = dhe_rome_refuses_aid_flag
+					}
+				}
+				desc = "dhe_rome.11.desc_2"
+			}
+			triggered_desc = {
+				trigger = {
+					always = yes
+				}
+				desc = "dhe_rome.11.desc_3"
+			}
+		}
+	}
+	
+	left_portrait = current_ruler
+	right_portrait = c:ROM.current_ruler
+	
+	fire_only_once = yes
+	
+	goto_location = c:ROM.capital_scope
+	
+	option = {
+		name = "dhe_rome.11.b"
+		trigger = {
+			c:ROM = {
+				has_variable = dhe_rome_refuses_aid_flag
+			}
+		}
+		remove_variable = dhe_rome_refuses_aid_flag
+	}
+	
+	option = {
+		name = "dhe_rome.11.c"
+		trigger = {
+			c:ROM = {
+				has_variable = dhe_rome_refuses_aid_2_flag
+			}
+		}
+		remove_variable = dhe_rome_refuses_aid_2_flag
+	}
+}
+
+# Plebs Happy with Integration
+dhe_rome.12 = {
+	type = country_event
+	title = "dhe_rome.12.t"
+	picture = great_city
+	
+	desc = {
+		first_valid = {
+			# Lex Reinstated
+			triggered_desc = {
+				trigger = {
+					has_variable = dhe_rome_ppr2_flag
+					has_law = lex_hortensia
+				}
+				desc = "dhe_rome.12.desc_1"
+			}
+			# Lex Populist
+			triggered_desc = {
+				trigger = {
+					has_variable = dhe_rome_ppr_flag
+				}
+				desc = "dhe_rome.12.desc_2"
+			}
+			# 2nd Revocation
+			triggered_desc = {
+				trigger = {
+					has_variable = dhe_rome_ppr2_flag
+					NOT = {
+						has_law = lex_hortensia
+					}
+				}
+				desc = "dhe_rome.12.desc_3"
+			}
+			# Lex Aristocracy
+			triggered_desc = {
+				trigger = {
+					always = yes
+				}
+				desc = "dhe_rome.12.desc_4"
+			}
+		}
+	}
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ROM
+		has_land = yes
+		has_variable = dhe_rome_conflict_orders_flag
+		has_law = lex_hortensia
+		OR = {
+			government = aristocratic_republic
+			government = oligarchic_republic
+		}
+	}
+	
+	immediate = {
+		remove_variable = dhe_rome_conflict_orders_flag
+	}
+	
+	option = {
+		name = "dhe_rome.12.a"
+		trigger = {
+			has_law = lex_hortensia
+		}
+		add_stability_effect = yes
+		custom_tooltip = dhe_rome.12.at
+	}
+	
+	option = {
+		name = "dhe_rome.12.b"
+		trigger = {
+			NOT = {
+				has_law = lex_hortensia
+			}
+		}
+	}
+}
+
+# Aftermath of the Second Samnite War, setting the scene for Roman Expansion
+dhe_rome.13 = {
+	type = country_event
+	title = "dhe_rome.13.t"
+	desc = "dhe_rome.13.desc"
+	picture = romans_marching
+	
+	left_portrait = current_ruler
+	right_portrait = C:ETR.current_ruler
+	right_portrait = C:SAM.current_ruler
+	right_portrait = C:SAB.current_ruler
+	
+	fire_only_once = yes
+	
+	trigger = {
+		num_of_cities >= 1
+		tag = ROM
+		has_land = yes
+	}
+
+	option = {
+		name = "dhe_rome.13.a"
+	}
+}
+
+dhe_rome.14 = {
+	type = country_event
+	hidden = yes
+	
+	trigger = {
+		tag = ROM
+		has_land = yes
+		war_with = c:CAR
+		exists = scope:actor
+		scope:actor = {
+			is_navy = yes
+		}
+		NOT = {
+			has_variable = carthaginian_ships_toggle
+		}
+	}
+		
+	immediate = {
+		set_variable = {
+			name = carthaginian_ships_toggle
+		}
+		trigger_event = {
+			id = dhe_rome.15
+			days = { 10 60 }
+		}
+	}
+}
+
+dhe_rome.15 = {
+	type = country_event
+	title = "dhe_rome.15.t"
+	desc = "dhe_rome.15.desc"
+	
+	picture = ship_in_storm
+	
+	option = {
+		name = "dhe_rome.15.a"
+		custom_tooltip = dhe_rome_15_a_tooltip
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						is_in_region = magna_graecia_region
+						is_in_region = central_italy_region
+						is_in_region = cisalpine_gaul_region
+					}
+					is_port = yes
+				}
+				add_province_modifier = {
+					name = dhe_rome_angry_shipwrights
+					duration = 3650
+				}
+			}
+		}
+		add_country_modifier = {
+			name = dhe_rome_carthaginian_ships
+			duration = -1
+		}
+		ai_chance = {
+			modifier = {
+				factor = 60
+			}
+		}
+	}
+	 
+	option = {
+		name = "dhe_rome.15.b"
+		custom_tooltip = dhe_rome_15_b_tooltip
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						is_in_region = magna_graecia_region
+						is_in_region = central_italy_region
+						is_in_region = cisalpine_gaul_region
+					}
+					is_port = yes
+				}
+				add_province_modifier = {
+					name = dhe_rome_happy_shipwrights
+					duration = 7300
+				}
+			}
+		}
+		ai_chance = {
+			modifier = {
+				factor = 40
+			}
+		}
+	}
+	
+}
+
+dhe_rome.16 = {
+	type = country_event
+	title = "dhe_rome.16.t"
+	desc = "dhe_rome.16.desc"
+	
+	fire_only_once = yes
+	
+	picture = romans_marching
+	
+	trigger = {
+		tag = ROM
+		has_land = yes
+		any_owned_province = {
+			is_in_region = macedonia_region
+		}
+		is_tutorial_active = no
+	}
+	
+	option = {
+		name = "dhe_rome.16.a"
+		custom_tooltip = "claims_on_greece_region_tooltip"
+		hidden_effect = {
+			region:greece_region = {
+				every_region_province = {
+					limit = {
+						NOT = { owned_or_subject_owned = root }
+					}
+					add_claim = root
+				}
+			}
+		}
+	}
+	
+}
+
+dhe_rome.17 = {
+	type = country_event
+	title = "dhe_rome.17.t"
+	desc = "dhe_rome.17.desc"
+	
+	fire_only_once = yes
+	
+	picture = romans_marching
+	
+	trigger = {
+		tag = ROM
+		has_land = yes
+		any_owned_province = {
+			is_in_area = tarentum_area
+		}
+		is_tutorial_active = no
+	}
+	
+	option = {
+		name = "dhe_rome.17.a"
+		custom_tooltip = "claims_on_epirus_area_tooltip"
+		hidden_effect = {
+			area:illyria_graeca_area = { mission_area_claim_effect = yes }
+			area:epirus_area = { mission_area_claim_effect = yes }
+			if = {
+				limit = {
+					is_ai = yes
+				}
+				area:dalmatia_orientalis_area = { mission_area_claim_effect = yes }
+				area:dalmatia_centralis_area = { mission_area_claim_effect = yes }
+				area:dalmatia_occidentalis_area = { mission_area_claim_effect = yes }
+				area:histria_area = { mission_area_claim_effect = yes }
+				area:venetia_area = { mission_area_claim_effect = yes }
+			}
+		}
+	}
+	
+}
+
+dhe_rome.18 = {
+	type = country_event
+	title = "dhe_rome.18.t"
+	desc = "dhe_rome.18.desc"
+	
+	picture = romans_marching
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ROM
+		has_land = yes
+		any_owned_province = {
+			is_in_area = illyria_graeca_area
+		}
+		is_tutorial_active = no
+	}
+	
+	option = {
+		name = "dhe_rome.18.a"
+		custom_tooltip = "claims_on_macedonia_region_tooltip"
+		hidden_effect = {
+			region:macedonia_region = {
+				every_region_province = {
+					limit = {
+						NOT = { owned_or_subject_owned = root }
+					}
+					add_claim = root
+				}
+			}
+		}
+	}
+	
+}
+
+dhe_rome.19 = {
+	type = country_event
+	title = "dhe_rome.19.t"
+	desc = "dhe_rome.19.desc"
+	
+	picture = diadochi_legion_carrying_standard
+	
+	left_portrait = scope:legion.commander
+	right_portrait = scope:target.commander
+	goto_location = scope:actor.unit_location
+	
+	trigger = {
+		tag = ROM
+		has_civil_war = no
+		exists = scope:target.unit_owner
+		exists = scope:actor
+		scope:actor = {
+			has_legion_trigger = yes
+			NOT = {
+				any_sub_unit = { is_ship = yes }
+			}
+		}
+		scope:target = {
+			NOT = {
+				any_sub_unit = { is_ship = yes }
+			}
+		}
+		scope:target.unit_owner = {
+			NOR = {
+				tag = MER
+				tag = BAR
+				tag = PIR
+				tag = REB
+			}
+		}
+		scope:target.unit_owner = {
+			NOT = {
+				any_owned_province = {
+					has_variable = has_captured_eagle
+					var:has_captured_eagle = root
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		scope:actor = {
+			save_scope_as = legion
+		}
+		scope:target.unit_owner = {
+			save_scope_as = antagonist
+			trigger_event = {
+				id = dhe_rome.22
+			}
+		}
+		scope:target.unit_location = {
+			save_scope_as = battle_location
+		}
+		add_to_variable_list = {
+			name = captured_eagles
+			target = scope:target.unit_owner.capital_scope
+		}
+		scope:target.unit_owner.capital_scope = {
+			set_variable = {
+				name = has_captured_eagle
+				value = root
+			}
+		}
+		hidden_effect = {
+			if = {
+				limit = { exists = scope:actor.commander }
+				scope:actor.legion = {
+					add_legion_history = {
+						key = eagle_lost_history
+						commander = scope:legion.commander
+						province = scope:battle_location
+					}
+				}
+			}
+			else = {
+				scope:actor.legion = {
+					add_legion_history = {
+						key = eagle_lost_history
+						commander = scope:legion.unit_owner.current_ruler
+						province = scope:battle_location
+					}
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.19.a"
+		if = {
+			limit = {
+				war = yes
+				has_war_exhaustion < 20
+			}
+			add_war_exhaustion = 5
+		}
+		add_stability = -10
+		current_ruler = {
+			add_popularity = {
+				value = 0
+				subtract = this.popularity
+			}
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.19.b"
+		trigger = {
+			exists = scope:legion.commander
+			scope:legion.commander = {
+				is_alive = yes
+				is_ruler = no
+			}
+		}
+		scope:legion.commander = {
+			death = {
+				death_reason = death_execution
+			}
+		}
+		add_stability = -10
+		current_ruler = {
+			add_popularity = {
+				value = 0
+				subtract = this.popularity
+			}
+		}
+	}
+	
+}
+
+dhe_rome.20 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = {
+		has_variable = has_captured_eagle
+		var:has_captured_eagle = owner
+	}
+	
+	immediate = {
+		save_scope_as = eagle_location
+		remove_variable = has_captured_eagle
+		owner = {
+			trigger_event = {
+				id = dhe_rome.21
+			}
+			
+		}
+	}
+	
+}
+
+dhe_rome.21 = {
+	type = country_event
+	title = "dhe_rome.21.t"
+	desc = "dhe_rome.21.desc"
+	
+	picture = romans_marching
+	
+	immediate = {
+		remove_list_variable = {
+			name = captured_eagles
+			target = scope:eagle_location
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.21.a"
+		add_stability = 20
+		current_ruler = {
+			add_popularity = popularity_huge
+		}
+	}
+	
+}
+
+dhe_rome.22 = {
+	type = country_event
+	title = "dhe_rome.22.t"
+	desc = "dhe_rome.22.desc"
+	
+	picture = revolt
+	
+	immediate = {
+		
+	}
+	
+	option = {
+		name = "dhe_rome.22.a"
+		capital_scope = {
+			if = {
+				limit = {
+					NOT = {
+						has_province_modifier = captured_roman_eagle
+					}
+				}
+				add_province_modifier = {
+					name = captured_roman_eagle 
+					duration = -1
+				}
+			}
+		}
+	}
+	
+}
+
+dhe_rome.23 = {
+	type = country_event
+	title = "dhe_rome.23.t"
+	desc = "dhe_rome.23.desc"
+	
+	picture = romans_marching
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ROM
+		num_of_cities > 200
+		has_civil_war = yes
+		NOT = {
+			has_variable = rome_schism_happened
+		}
+		capital_scope = {
+			province_id = 1
+		}
+		any_neighbour_country = {
+			civil_war_with = c:ROM
+			num_of_cities > 100
+			capital_scope = {
+				OR = {
+					city_is_in_greece_or_balkans = yes
+					city_is_in_anatolia = yes
+				}
+			}
+		}
+		NOT = {
+			has_variable = rome_schism_happened
+		}
+	}
+	
+	immediate = {
+		random_neighbour_country = {
+			limit = {
+				civil_war_with = c:ROM
+				num_of_cities > 100
+				capital_scope = {
+					OR = {
+						city_is_in_greece_or_balkans = yes
+						city_is_in_anatolia = yes
+					}
+				}
+			}
+			save_scope_as = other_romans
+		}
+		if = {
+			limit = {
+				is_republic = yes
+			}
+			change_country_name = "western_roman_republic_name"
+		}
+		else_if = {
+			limit = {
+				government = imperium
+			}
+			change_country_name = "western_roman_empire_name"
+		}
+		else_if = {
+			limit = {
+				government = dictatorship
+			}
+			change_country_name = "western_roman_dictatorship_name"
+		}
+		else_if = {
+			limit = {
+				is_monarchy = yes
+			}
+			change_country_name = "western_roman_kingdom_name"
+		}
+		else = {
+			change_country_name = "western_rome_name"
+		}
+		set_variable = {
+			name = rome_schism_happened
+		}
+		hidden_effect = { change_country_adjective = "roman" }
+		scope:other_romans = {
+			if = {
+				limit = {
+					is_republic = yes
+				}
+				change_country_name = "eastern_roman_republic_name"
+			}
+			else_if = {
+				limit = {
+					government = imperium
+				}
+				change_country_name = "eastern_roman_empire_name"
+			}
+			else_if = {
+				limit = {
+					government = dictatorship
+				}
+				change_country_name = "eastern_roman_dictatorship_name"
+			}
+			else_if = {
+				limit = {
+					is_monarchy = yes
+				}
+				change_country_name = "eastern_roman_kingdom_name"
+			}
+			else = {
+				change_country_name = "eastern_rome_name"
+			}
+			set_variable = {
+				name = rome_schism_happened
+			}
+			hidden_effect = { change_country_adjective = "roman" } 
+		}
+	}
+	
+	option = {
+		name = "dhe_rome.23.a"
+		add_stability = -10
+	}
+	
+	option = {
+		name = "dhe_rome.23.b"
+		highlight = yes
+		custom_tooltip = "orator_tooltip"
+		trigger = {
+			current_ruler = {
+				#has_trait = orator
+			}
+		}
+		add_country_modifier = {
+			name = inspiring_roman_monologue
+			duration = 3650
+		}
+	}
+	
+}

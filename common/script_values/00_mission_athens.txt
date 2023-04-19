@@ -1,0 +1,376 @@
+﻿### Foreign Rulership ###
+athenian_mission_01_foreign_rulership_task_2_total = {
+	value = 100
+}
+
+athenian_mission_01_foreign_rulership_task_3_current = {
+	value = 0
+	current_ruler.character_party = {
+		add = party_approval
+	}
+}
+
+athenian_mission_01_foreign_rulership_task_3_total = {
+	value = 40
+}
+
+athenian_mission_01_foreign_rulership_task_5_total = {
+	value = 200
+}
+
+athenian_mission_01_foreign_rulership_task_8_total = {
+	value = -25
+}
+
+athenian_mission_01_foreign_rulership_task_11_current = {
+	value = 0
+	current_ruler.character_party = {
+		add = party_approval
+	}
+}
+
+athenian_mission_01_foreign_rulership_task_11_total = {
+	value = 50
+}
+
+### Developing Attica ###
+athenian_mission_02_attica_task_4 = {
+	value = 150
+}
+
+athenian_mission_02_attica_task_5_current = {
+	value = 0
+	area:central_greece_area = {
+		every_area_province = {
+			limit = {
+				attica_region_trigger = yes
+				num_of_slave_mine_building > 0
+			}
+			add = 1
+		}
+	}
+	max = athenian_mission_02_attica_task_5_total
+}
+
+athenian_mission_02_attica_task_5_total = {
+	value = 0
+	area:central_greece_area = {
+		every_area_province = {
+			limit = {
+				attica_region_trigger = yes
+				has_minable_trade_good_trigger = yes
+				has_city_status = no
+			}
+			add = 1
+		}
+	}
+	max = 2
+}
+
+### Political Athens ###
+athenian_mission_03_political_task_1_statesmanship = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:office_praetor
+		}
+		job_holder:office_praetor = {
+			add = character_experience
+		}
+	}
+}
+
+athenian_mission_03_political_task_1_statesmanship_total = {
+	value = 70
+}
+
+athenian_mission_03_political_task_1_loyalty = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:office_praetor
+		}
+		job_holder:office_praetor = {
+			add = loyalty
+		}
+	}
+}
+
+athenian_mission_03_political_task_1_loyalty_total = {
+	value = 80
+}
+
+athenian_mission_03_political_task_2_statesmanship_thesmothete = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:office_praetor
+		}
+		job_holder:office_praetor = {
+			add = character_experience
+		}
+	}
+}
+
+athenian_mission_03_political_task_2_statesmanship_agoranomus = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:office_plebeian_aedile
+		}
+		job_holder:office_plebeian_aedile = {
+			add = character_experience
+		}
+	}
+}
+
+athenian_mission_03_political_task_2_statesmanship_civic_researcher = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:civic_tech
+		}
+		job_holder:civic_tech = {
+			add = character_experience
+		}
+	}
+}
+
+athenian_mission_03_political_task_2_statesmanship_total = {
+	value = 50
+}
+
+athenian_mission_03_political_task_2_loyalty_thesmothete = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:office_praetor
+		}
+		job_holder:office_praetor = {
+			add = loyalty
+		}
+	}
+}
+
+athenian_mission_03_political_task_2_loyalty_agoranomus = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:office_plebeian_aedile
+		}
+		job_holder:office_plebeian_aedile = {
+			add = loyalty
+		}
+	}
+}
+
+athenian_mission_03_political_task_2_loyalty_civic_researcher = {
+	value = 0
+	if = {
+		limit = {
+			exists = job_holder:civic_tech
+		}
+		job_holder:civic_tech = {
+			add = loyalty
+		}
+	}
+}
+
+athenian_mission_03_political_task_2_loyalty_total = {
+	value = 80
+}
+
+athenian_mission_03_political_task_3_current = {
+	value = 0
+	current_ruler.character_party = {
+		add = party_approval
+	}
+	max = athenian_mission_03_political_task_3_total
+}
+
+athenian_mission_03_political_task_3_total = {
+	value = 50
+}
+
+athenian_mission_03_political_task_6_current = {
+	value = 0
+	current_ruler = {
+		add = corruption
+	}
+	max = athenian_mission_03_political_task_6_total
+}
+
+athenian_mission_03_political_task_6_total = {
+	value = 25
+}
+
+athenian_mission_03_political_task_7_current = {
+	value = 0
+	current_ruler = {
+		add = corruption
+	}
+	max = athenian_mission_03_political_task_7_total
+}
+
+athenian_mission_03_political_task_7_total = {
+	value = 50
+}
+
+athenian_mission_03_political_task_8_current = {
+	value = 0
+	current_ruler = {
+		add = popularity
+	}
+}
+
+athenian_mission_03_political_task_8_total = {
+	value = 90
+}
+
+athenian_mission_03_political_task_9_current = { # TODO JH - Used to show popular support in Athens
+	value = 0
+}
+
+athenian_mission_03_political_task_9_total = {
+	value = 60
+}
+
+athenian_mission_03_political_task_10_current = {
+	value = 0
+	add = popularity
+}
+
+athenian_mission_03_political_task_10_total = {
+	value = 10
+}
+
+### Naval Conquest ###
+athenian_mission_04_delian_league_task_1_effect_count = {
+	value = 50
+	every_owned_province = {
+		limit = {
+			OR = {
+				province_id = 407
+				province_id = 7901
+				province_id = 1835
+				province_id = 263
+				province_id = 365
+				province_id = 349
+				province_id = 1974
+				province_id = 266
+			}
+		}
+		subtract = 5
+	}
+	every_subject = {
+		every_owned_province = {
+			limit = {
+				OR = {
+					province_id = 407
+					province_id = 7901
+					province_id = 1835
+					province_id = 263
+					province_id = 365
+					province_id = 349
+					province_id = 1974
+					province_id = 266
+				}
+			}
+			subtract = 5
+		}
+	}
+}
+
+athenian_mission_04_delian_league_task_5_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_ship = yes
+		}
+		add = 1
+	}
+	max = athenian_mission_04_delian_league_task_5_total
+}
+
+athenian_mission_04_delian_league_task_5_total = {
+	value = 100
+}
+
+athenian_mission_04_delian_league_task_7_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			OR = {
+    			sub_unit_type = liburnian
+    			sub_unit_type = trireme
+    		}
+    		owning_unit.unit_location = p:416
+    		subunit_not_mercenary_unit_trigger = yes
+		}
+		add = 1
+	}
+	max = athenian_mission_04_delian_league_task_7_total
+}
+
+athenian_mission_04_delian_league_task_7_total = {
+	value = 10
+}
+
+athenian_mission_04_delian_league_task_13_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_ship = yes
+	        owning_unit.unit_location = p:1974
+	        subunit_not_mercenary_unit_trigger = yes
+		}
+		add = 1
+	}
+	max = athenian_mission_04_delian_league_task_13_total
+}
+
+athenian_mission_04_delian_league_task_13_total = {
+	value = 5
+}
+
+athenian_mission_04_delian_league_task_15_current = {
+	value = 0
+	every_country_sub_unit = {
+		limit = {
+			is_cohort = yes
+	        owning_unit.unit_location = p:349
+	        subunit_not_mercenary_unit_trigger = yes
+		}
+		add = 1
+	}
+	max = athenian_mission_04_delian_league_task_15_total
+}
+
+athenian_mission_04_delian_league_task_15_total = {
+	value = 5
+}
+
+athenian_mission_04_delian_league_task_16_current = {
+	value = 0
+	capital_scope = {
+		every_pops_in_province = {
+			limit = {
+				pop_culture = root.culture
+				pop_type = freemen
+			}
+			add = 1
+		}
+	}
+	max = athenian_mission_04_delian_league_task_16_total
+}
+
+athenian_mission_04_delian_league_task_16_total = {
+	value = 3
+}
+
+athenian_mission_04_delian_league_task_18_current = {
+	value = 0
+	p:1981 = {
+		add = free_building_slots
+	}
+}

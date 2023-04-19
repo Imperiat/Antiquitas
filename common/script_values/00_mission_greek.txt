@@ -1,0 +1,1565 @@
+﻿gre_mis_1_4_current = {
+    value = 0
+	if = {
+        limit = { exists = scope:gm_1_greek_scope }
+        if = {
+        	limit = {
+        		scope:gm_1_greek_scope = {
+        			any_owned_province = {
+                        is_port = yes
+                        OR = {
+                            is_in_region = bithynia_region
+                            is_in_region = colchis_region
+                            is_in_region = taurica_region
+                            is_in_area = olbia_area
+                            is_in_area = scythia_area
+                            is_in_area = moesia_orientalis_area
+                            is_in_area = haemimontus_area
+                            is_in_area = europa_area
+                        }
+                        province_dominant_culture_group = hellenic
+                        dominant_province_religion = roman_pantheon
+        			}
+        		}
+        	}
+        	every_owned_province = {
+        		limit = {
+        			is_port = yes
+                    OR = {
+                        is_in_region = bithynia_region
+                        is_in_region = colchis_region
+                        is_in_region = taurica_region
+                        is_in_area = olbia_area
+                        is_in_area = scythia_area
+                        is_in_area = moesia_orientalis_area
+                        is_in_area = haemimontus_area
+                        is_in_area = europa_area
+                    }
+                    province_dominant_culture_group = hellenic
+                    dominant_province_religion = roman_pantheon
+        		}
+        		add = 1
+        	}
+        }
+        if = {
+            limit = {
+                scope:gm_1_greek_scope = {
+                    any_subject = {
+                        any_owned_province = {
+                            is_port = yes
+                            OR = {
+                                is_in_region = bithynia_region
+                                is_in_region = colchis_region
+                                is_in_region = taurica_region
+                                is_in_area = olbia_area
+                                is_in_area = scythia_area
+                                is_in_area = moesia_orientalis_area
+                                is_in_area = haemimontus_area
+                                is_in_area = europa_area
+                            }
+                            province_dominant_culture_group = hellenic
+                            dominant_province_religion = roman_pantheon
+                        }
+                    }
+                }
+            }
+            every_subject = {
+                limit = {
+                    any_owned_province = {
+                        is_port = yes
+                        OR = {
+                            is_in_region = bithynia_region
+                            is_in_region = colchis_region
+                            is_in_region = taurica_region
+                            is_in_area = olbia_area
+                            is_in_area = scythia_area
+                            is_in_area = moesia_orientalis_area
+                            is_in_area = haemimontus_area
+                            is_in_area = europa_area
+                        }
+                        province_dominant_culture_group = hellenic
+                        dominant_province_religion = roman_pantheon
+                    }
+                }
+                every_owned_province = {
+                    limit = {
+                        is_port = yes
+                        OR = {
+                            is_in_region = bithynia_region
+                            is_in_region = colchis_region
+                            is_in_region = taurica_region
+                            is_in_area = olbia_area
+                            is_in_area = scythia_area
+                            is_in_area = moesia_orientalis_area
+                            is_in_area = haemimontus_area
+                            is_in_area = europa_area
+                        }
+                        province_dominant_culture_group = hellenic
+                        dominant_province_religion = roman_pantheon
+                    }
+                    add = 1
+                }
+            }
+        }
+    }
+    max = gre_mis_1_4_target
+}
+
+gre_mis_1_4_target = {
+	value = 10
+}
+
+gre_mis_1_16_shepherd_price = {
+    if = {
+        limit = {
+            region:bithynia_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                    NOT = { province_id = 248 } 
+                }
+            }
+        }
+        region:bithynia_region = {
+            every_region_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                    NOT = { province_id = 248 }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:colchis_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    } 
+                }
+            }
+        }
+        region:colchis_region = {
+            every_region_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:taurica_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    } 
+                }
+            }
+        }
+        region:taurica_region = {
+            every_region_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:olbia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    } 
+                }
+            }
+        }
+        area:olbia_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:scythia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    } 
+                }
+            }
+        }
+        area:scythia_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:moesia_orientalis_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    } 
+                }
+            }
+        }
+        area:moesia_orientalis_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:haemimontus_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    } 
+                }
+            }
+        }
+        area:haemimontus_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:europa_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_subject_of = root
+                        }
+                    }
+                    NOR = { 
+                        province_id = 1453
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+            }
+        }
+        area:europa_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    has_owner = yes
+                    owner = {
+                        OR = {
+                            this = root
+                            is_Subject_of = root
+                        }
+                    }
+                    NOR = { 
+                        province_id = 1453
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+}
+
+gre_mis_1_16_shepherd_price_multi = {
+    value = gre_mis_1_16_shepherd_price
+    multiply = 50
+}
+
+gre_mis_1_haven_ongoing_3 = {
+    value = 0
+    add = gre_mis_1_16_shepherd_price
+    max = 3
+}
+
+gre_mis_1_haven_target_3 = {
+    value = 0
+    add = 3
+}
+
+gre_mis_1_17_count = {
+    if = {
+        limit = {
+            region:bithynia_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                    NOT = { province_id = 248 } 
+                }
+            }
+        }
+        region:bithynia_region = {
+            every_region_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                    NOT = { province_id = 248 }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:colchis_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+            }
+        }
+        region:colchis_region = {
+            every_region_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:taurica_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+            }
+        }
+        region:taurica_region = {
+            every_region_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:olbia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+            }
+        }
+        area:olbia_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:scythia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+            }
+        }
+        area:scythia_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:moesia_orientalis_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+            }
+        }
+        area:moesia_orientalis_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:haemimontus_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+            }
+        }
+        area:haemimontus_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:europa_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                    NOR = { 
+                        province_id = 1453
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+            }
+        }
+        area:europa_area = {
+            every_area_province = { 
+                limit = {
+                    has_province_modifier = pirate_haven_modifier 
+                    AND = {
+                        has_owner = yes
+                        owner = root
+                    }
+                    NOR = { 
+                        province_id = 1453
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+}
+
+gre_mis_1_haven_ongoing_all = {
+    value = 0
+    add = gre_mis_1_16_shepherd_price
+    max = gre_mis_1_haven_ongoing_all_target
+}
+
+gre_mis_1_haven_ongoing_all_target = {
+    value = 0
+    if = {
+        limit = {
+            region:bithynia_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                    NOT = { province_id = 248 }
+                }
+            }
+        }
+        region:bithynia_region = {
+            every_region_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                    NOT = { province_id = 248 }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:colchis_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+            }
+        }
+        region:colchis_region = {
+            every_region_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:taurica_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+            }
+        }
+        region:taurica_region = {
+            every_region_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:olbia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+            }
+        }
+        area:olbia_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:scythia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+            }
+        }
+        area:scythia_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:moesia_orientalis_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+            }
+        }
+        area:moesia_orientalis_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:haemimontus_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+            }
+        }
+        area:haemimontus_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:europa_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                    NOR = {
+                        province_id = 1453 
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+            }
+        }
+        area:europa_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        owner = { is_subject_of = root }
+                    }
+                    NOR = {
+                        province_id = 1453 
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+}
+
+gre_mis_1_haven_ongoing_unowned_target = {
+    if = {
+        limit = {
+            region:bithynia_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                    NOT = { province_id = 248 }
+                }
+            }
+        }
+        region:bithynia_region = {
+            every_region_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                    NOT = { province_id = 248 }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:colchis_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+            }
+        }
+        region:colchis_region = {
+            every_region_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            region:taurica_region = {
+                any_region_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+            }
+        }
+        region:taurica_region = {
+            every_region_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:olbia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+            }
+        }
+        area:olbia_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:scythia_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+            }
+        }
+        area:scythia_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:moesia_orientalis_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+            }
+        }
+        area:moesia_orientalis_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:haemimontus_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+            }
+        }
+        area:haemimontus_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+    if = {
+        limit = {
+            area:europa_area = {
+                any_area_province = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                    NOR = {
+                        province_id = 1453 
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+            }
+        }
+        area:europa_area = {
+            every_area_province = { 
+                limit = { 
+                    has_province_modifier = pirate_haven_modifier 
+                    NAND = {
+                        has_owner = yes
+                        OR = {
+                            owner = root 
+                            owner = { is_subject_of = root }
+                        }
+                    }
+                    NOR = {
+                        province_id = 1453 
+                        province_id = 350
+                        province_id = 347
+                    }
+                }
+                add = 1
+            }
+        }
+    }
+}
+
+gm_1_barter_territory_value = {
+    value = 0
+    scope:gm_1_barter_target_territory = {
+        every_pops_in_province = {
+            limit = { pop_type = slaves }
+            add = 2
+        }
+        every_pops_in_province = {
+            limit = { pop_type = tribesmen }
+            add = 1
+        }
+        every_pops_in_province = {
+            limit = { pop_type = freemen }
+            add = 1.5
+        }
+        every_pops_in_province = {
+            limit = { pop_type = citizen }
+            add = 2
+        }
+		every_pops_in_province = {
+            limit = { pop_type = nobles }
+            add = 4
+        }
+    }
+    multiply = 2.5
+}
+
+gm_1_barter_territory_double_value = {
+    value = gm_1_barter_territory_value
+    multiply = 2
+}
+
+gm_1_barter_relative_territory_value = {
+    value = 0
+    add = scope:gm_1_barter_target_territory.total_population
+    divide = scope:gm_1_barter_target_territory.owner.country_population
+    multiply = 100
+}
+
+gm_1_colony_value = {
+    value = 0
+    scope:gm_1_colony_target_scope = {
+        every_owned_province = {
+            every_pops_in_province = {
+                limit = { pop_type = slaves }
+                add = 2
+            }
+            every_pops_in_province = {
+                limit = { pop_type = tribesmen }
+                add = 1
+            }
+            every_pops_in_province = {
+                limit = { pop_type = freemen }
+                add = 1.5
+            }
+            every_pops_in_province = {
+                limit = { pop_type = citizen }
+                add = 2
+            }
+			every_pops_in_province = {
+                limit = { pop_type = nobles }
+                add = 4
+            }
+        }
+    }
+    multiply = 1.5
+}
+
+gm_1_colony_double_value = {
+    value = gm_1_colony_value
+    multiply = 2
+}
+
+gm_1_colony_relative_value = {
+    value = 0
+    add = scope:gm_1_colony_target_scope.country_population
+    divide = scope:gm_1_greek_scope.country_population
+    multiply = 100
+}
+
+gm_2_kindred_counter_svalue = {
+    value = 0
+    if = {
+        limit = {
+            exists = scope:gm_2_greek_scope
+            scope:gm_2_greek_scope = { me_gre_2_olig_mon_trigger = yes }
+            any_country = {
+                OR = {
+                    is_monarchy = yes
+                    government = oligarchic_republic
+                }
+                capital_scope = {
+                    OR = {
+                        is_in_region = greece_region
+                        is_in_area = thessaly_area
+                    }
+                }
+                is_subject = no
+                country_population < root.country_population
+                num_of_cities < root.num_of_cities
+                NOR = { 
+                    this = scope:gm_2_greek_scope
+                    tag = MAC
+                    tag = EGY
+                    tag = SEL
+                    tag = TRE
+                    tag = PRY
+                }
+            }
+        }
+        every_country = {
+            limit = {
+                OR = {
+                    is_monarchy = yes
+                    government = oligarchic_republic
+                }
+                capital_scope = {
+                    OR = {
+                        is_in_region = greece_region
+                        is_in_area = thessaly_area
+                    }
+                }
+                is_subject = no
+                country_population < root.country_population
+                num_of_cities < root.num_of_cities
+                NOR = { 
+                    this = scope:gm_2_greek_scope
+                    tag = MAC
+                    tag = EGY
+                    tag = SEL
+                    tag = TRE
+                    tag = PRY
+                }
+            }
+            add = 1
+        }
+    }
+    else_if = {
+        limit = { 
+            exists = scope:gm_2_greek_scope
+            scope:gm_2_greek_scope = { me_gre_2_rep_trigger = yes }
+            any_country = {
+                AND = {
+                    is_republic = yes
+                    NOT = { government = oligarchic_republic }
+                }
+                capital_scope = {
+                    OR = {
+                        is_in_region = greece_region
+                        is_in_area = thessaly_area
+                    }
+                    NOR = {
+                        is_in_area = crete_area
+                        is_in_area = epirus_area
+                    }
+                }
+                is_subject = no
+                NOR = { 
+                    this = scope:gm_2_greek_scope
+                    tag = MAC
+                    tag = EGY
+                    tag = SEL
+                    tag = TRE
+                    tag = PRY
+                }
+            }
+        }
+        every_country = {
+            limit = {
+                AND = {
+                    is_republic = yes
+                    NOT = { government = oligarchic_republic }
+                }
+                capital_scope = {
+                    OR = {
+                        is_in_region = greece_region
+                        is_in_area = thessaly_area
+                    }
+                    NOR = {
+                        is_in_area = crete_area
+                        is_in_area = epirus_area
+                    }
+                }
+                is_subject = no
+                NOR = { 
+                    this = scope:gm_2_greek_scope
+                    tag = MAC
+                    tag = EGY
+                    tag = SEL
+                    tag = TRE
+                    tag = PRY
+                }
+            }
+            add = 1
+        }
+    }
+}
+
+gm_2_kindred_3rd_svalue = {
+    value = 0
+    if = {
+        limit = {
+            exists = scope:gm_2_greek_scope
+        }
+        add = scope:gm_2_greek_scope.country_population
+        divide = 3
+    }
+}
+
+me_gre_2_6_svalue = {
+    value = 0
+    if = {
+        limit = { exists = scope:gm_2_greek_scope }
+        add = scope:gm_2_greek_scope.has_monthly_income
+        multiply = 6
+        min = 100
+    }
+}
+
+me_gre_3_4_svalue = {
+    value = 0
+    if = {
+        limit = { exists = scope:gm_3_greek_scope }
+        scope:gm_3_greek_scope = {
+            every_owned_province = {
+                limit = { dominant_province_culture = italiotian }
+                add = 1
+            }
+            every_subject = {
+                limit = { primary_culture = italiotian  }
+                every_owned_province = { 
+                    limit = { dominant_province_culture = italiotian }
+                    add = 1
+                }
+            }
+        }
+    }
+}
+
+me_gre_3_4_target_svalue = {
+    value = 5
+}
+
+me_gre_3_12_svalue = {
+    value = 0 
+    if = {
+        limit = {
+            exists = scope:gm_3_greek_scope
+            any_country = {
+                NOT = { country_culture_group = hellenic }
+                capital_scope = { is_in_region = magna_graecia_region }
+            }
+        }
+        scope:gm_3_greek_scope = {
+            every_subject = {
+                limit = {
+                    NOT = { country_culture_group = hellenic }
+                    capital_scope = { is_in_region = magna_graecia_region }
+                }
+                add = 1
+            }
+        }
+    }
+}
+
+me_gre_3_19_cost_svalue = {
+    value = 0
+    if = {
+        limit = { exists = scope:gm_3_greek_scope }
+        add = scope:gm_3_greek_scope.has_monthly_income
+        multiply = 5
+        min = 50
+    }
+}
+
+gm_3_aid_big_value = {
+    value = 0
+    add = scope:gm_3_foreign_aid_target.has_monthly_income
+    multiply = 4
+}
+
+gm_3_aid_value = {
+    value = 0
+    add = scope:gm_3_foreign_aid_target.has_monthly_income
+    multiply = 2
+}
+
+me_gre_3_18_1_svalue = {
+    value = 0
+    if = {
+        limit = { exists = scope:gm_3_greek_scope }
+        scope:gm_3_greek_scope = {
+            every_owned_province = {
+                limit = { 
+                    is_in_region = illyria_region
+                    is_coastal = yes
+                }
+                add = 1
+            }
+        }
+    }
+}
+
+me_gre_3_18_1_target_svalue = {
+    value = 3
+}
+
+me_gre_3_8_cost = {
+    value = 0
+    add = root.has_monthly_income
+    multiply = 4
+    min = 25
+}
+
+gm_4_barter_territory_value = {
+    value = 0
+    scope:gm_4_barter_target_territory = {
+        every_pops_in_province = {
+            limit = { pop_type = slaves }
+            add = 2
+        }
+        every_pops_in_province = {
+            limit = { pop_type = tribesmen }
+            add = 1
+        }
+        every_pops_in_province = {
+            limit = { pop_type = freemen }
+            add = 1.5
+        }
+        every_pops_in_province = {
+            limit = { pop_type = citizen }
+            add = 2
+        }
+		every_pops_in_province = {
+            limit = { pop_type = nobles }
+            add = 4
+        }
+    }
+    multiply = 2.5
+}
+
+gm_4_barter_territory_double_value = {
+    value = gm_4_barter_territory_value
+    multiply = 2
+}
+
+gm_4_barter_relative_territory_value = {
+    value = 0
+    add = scope:gm_4_barter_target_territory.total_population
+    divide = scope:gm_4_barter_target_territory.owner.country_population
+    multiply = 100
+}
+
+gre_mis_4_4_current = {
+    if = {
+        limit = { exists = scope:gm_4_greek_scope }
+        if = {
+            limit = {
+                scope:gm_4_greek_scope = {
+                    any_owned_province = {
+                        is_port = yes
+                        province_dominant_culture_group = hellenic
+                        dominant_province_religion = roman_pantheon
+                    }
+                }
+            }
+            every_owned_province = {
+                limit = {
+                    is_port = yes
+                    province_dominant_culture_group = hellenic
+                    dominant_province_religion = roman_pantheon
+                }
+                add = 1
+            }
+        }
+        if = {
+            limit = {
+                scope:gm_4_greek_scope = {
+                    any_subject = {
+                        any_owned_province = {
+                            is_port = yes
+                            province_dominant_culture_group = hellenic
+                            dominant_province_religion = roman_pantheon
+                        }
+                    }
+                }
+            }
+            every_subject = {
+                limit = {
+                    any_owned_province = {
+                        is_port = yes
+                        province_dominant_culture_group = hellenic
+                        dominant_province_religion = roman_pantheon
+                    }
+                }
+                every_owned_province = {
+                    limit = {
+                        is_port = yes
+                        province_dominant_culture_group = hellenic
+                        dominant_province_religion = roman_pantheon
+                    }
+                    add = 1
+                }
+            }
+        }
+    }
+    max = gre_mis_1_4_target
+}
+
+gre_mis_4_4_target = {
+    value = 8
+}
+
+gm_4_colony_value = {
+    value = 0
+    scope:gm_4_colony_target_scope = {
+        every_owned_province = {
+            every_pops_in_province = {
+                limit = { pop_type = slaves }
+                add = 2
+            }
+            every_pops_in_province = {
+                limit = { pop_type = tribesmen }
+                add = 1
+            }
+            every_pops_in_province = {
+                limit = { pop_type = freemen }
+                add = 1.5
+            }
+            every_pops_in_province = {
+                limit = { pop_type = citizen }
+                add = 2
+            }
+			every_pops_in_province = {
+                limit = { pop_type = nobles }
+                add = 4
+            }
+        }
+    }
+    multiply = 1.5
+}
+
+gm_4_colony_double_value = {
+    value = gm_4_colony_value
+    multiply = 2
+}
+
+gm_4_colony_relative_value = {
+    value = 0
+    add = scope:gm_4_colony_target_scope.country_population
+    divide = scope:gm_4_greek_scope.country_population
+    multiply = 100
+}
+
+gre_mis_4_4_2_current = {
+    if = {
+        limit = { exists = scope:gm_4_greek_scope }
+        if = {
+            limit = {
+                scope:gm_4_greek_scope = {
+                    has_land = yes
+                    capital_scope.state = {
+                        incoming_trade_routes >= 1
+                    }
+                }
+            }
+            add = scope:gm_4_greek_scope.capital_scope.state.incoming_trade_routes
+        }
+    }
+    max = gre_mis_4_4_2_target
+}
+
+gre_mis_4_4_2_target = {
+    value = 10
+}

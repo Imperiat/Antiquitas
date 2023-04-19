@@ -1,0 +1,54 @@
+﻿"CHD"={
+	country="CHD"
+	6={
+		first_name="Nabopolassar" 
+		family = c:CHD.fam:Chaldean
+		birth_date=96.4.1
+		death_date=149.1.1
+		religion="mesopotamian_religion"
+		culture="babylonian"
+		dna="DfIN8qucq5zukO6QAnsCewKAAoAE2gTaAmoCagJuAm4CcgJyAowCjATUBNQBZAFkAogCiAJxAnECogKiA64DrgFcAVwCeQJ5AVwBXAKUApQCmAKYAnECcQFjAWMCagJqAooCigJ4AngCaAJoAWYBZgJwAnADrgOuAo0CjQJ/An8DnQOdAo8CjwKAAoAClQKVAokCiQJyAnICmAKYA6IDogKYApgAQABAAowCjAJ7AnsCcQJxAmoCagOsA6wCkAKQAVUBVQKAAoACiwKLAmgCaAKjAqMCaAJoA4cDhwKBAoECkAKQAnkCeQLHAscBRwFHALgAuAExATECgAKAAIsAiwFdAV0AcQBxAOgA6AEDAQMDLwMvAAoACgB/AH8BDAEMATcBNwEpASkAYgBiAIAAgAFgAWAAqwCrAAgACAB/AH8A0wDTADgAOAFkAWQC2QLZARABEAC6ALoBSwFLA0QDRAEJAQkBPwE/ATcBNwDtAO0EuwS7AH8AfwVHBUcGsAawAZ4BngPRA08EngSeAZgBmAAAAAAAAAAAAAAAAA=="
+	}
+	7={
+		first_name="Nebuchadnezzar" 
+		family = c:CHD.fam:Chaldean
+		birth_date=112.4.1
+		father=char:6
+		religion="mesopotamian_religion"
+		culture="babylonian"
+		no_stats=yes
+		add_martial=4
+		add_charisma=5
+		add_finesse=13
+		add_zeal=3
+		no_traits=yes
+		add_trait="scholar"
+		add_trait="wise"
+		add_gold=400
+		add_popularity=60
+		c:CHD={
+			set_as_ruler=char:7
+		}
+		dna="Ivwi/LKZspnyy/LLAVIBUgJ8AnwClwKXAnYCdgKYApgCjQKNAogCiAKMAowCkQKRAmsCawKBAoEBZgFmA50DnQAyADICfgJ+A6wDrAJ4AngCegJ6AooCigJtAm0BUAFQAoACgAKNAo0CbAJsAVMBUwKQApACfgJ+An8CfwJ3AncClAKUAnACcAJuAm4CiwKLAo4CjgKWApYCegJ6ApgCmAKOAo4ClQKVAngCeAKBAoEAGQAZAm0CbQKAAoAClgKWA68DrwJsAmwCfAJ8AnICcgKwArABVwFXA4IDggJ7AnsClQKVAoACgAIrAisA7gDuACgAKALLAssCjwKPAHkAeQBHAEcAJQAlAE8ATwChAKEA6gDqAPwA/AB/AH8BSwFLAGsAawArACsCxQLFAPQA9AFNAU0CfwJ/AS0BLQB/AH8AKgAqAuQC5ABcAFwBUQFRAs4CzgBiAGIBCgEKA1IDUgFPAU8BBQEFBLMEswE4ATgA1wDXAH8AfwWZBZkGaQZ+ATcBNwP/A/wEnQSdASoBKgAAAAAAAAAAAAAAAA=="
+	}
+	8={
+		first_name="Amytis"
+		family = c:CHD.fam:Chaldean
+		female=yes
+		birth_date=124.1.13
+		culture="babylonian"
+		religion="mesopotamian_religion"
+		marry_character=char:7
+		no_stats=yes
+		add_martial=2
+		add_charisma=5
+		add_finesse=6
+		add_zeal=3
+		no_traits=yes
+		add_trait="lustful"
+		add_trait="crafty"
+		add_gold=2000
+		add_popularity=60
+		dna="DPcM94+jj6O+3r7eAnACcAFQAVACigKKAn4CfgJ2AnYCfgJ+ACQAJAJtAm0AOwA7AmgCaAJwAnACfwJ/AnUCdQKFAoUCdgJ2AmYCZgKMAowCaAJoAncCdwJpAmkChgKGAnICcgKCAoICewJ7AWABYAKOAo4CaAJoAnsCewFYAVgCaAJoAoMCgwKLAosClwKXAosCiwJtAm0CiwKLApcClwBKAEoCdwJ3AnwCfAKZApkCmQKZAocChwOnA6cCfwJ/AogCiAJuAm4ExgTGAoMCgwKvAq8ChQKFAnICcgKFAoUClgKWApUClQQ0BDQAcgByAPMA8wA7ADsABQAFAK4ArgDhAOEAOgA6ADQANAB4AHgBDAEMALkAuQB/AH8ADQANACUAJQFUAVQA9QD1AukC6QEGAQYD8APwAK4ArgB/AH8AkQCRADcANwD+AP4BVgFWArQCtAL+Av4AHwAfBPQE9ACIAIgCugK6A0EDQQMIAwgKugq6AH8AfwWYBZgGGgYaAeQB5AMmAyYE5gTmAZIBkgAAAAAAAAAAAAAAAA=="
+	}
+}

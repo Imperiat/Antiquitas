@@ -1,0 +1,552 @@
+﻿### Sea ###
+egypt_mission_1_sea_task_1_foundry_current = {
+	value = 0
+	p:516 = {
+		add = num_of_port_building
+	}
+}
+
+egypt_mission_1_sea_task_1_foundry_total = {
+	value = 5
+}
+
+egy_liburnian_tracker_svalue = {
+	value = 0
+	c:EGY = {
+		every_navy = {
+			limit = {
+				any_sub_unit = { sub_unit_type = liburnian }
+			}
+			every_sub_unit = {
+				limit = { sub_unit_type = liburnian }
+				add = 1
+			}
+		}
+	}
+}
+egy_total_tracker_svalue = {
+	value = 0
+	c:EGY = {
+		every_navy = {
+			every_sub_unit = { add = 1 }
+		}
+	}
+	divide = 4
+}
+
+egypt_mission_1_sea_task_1_current_trade = {
+	value = 0
+	if = {
+		limit = {
+			p:516.state = {
+				trade_good_surplus = { target = wood value > 0 }
+				trade_good_surplus = { target = wood value <= 1 }
+			}
+		}
+		add = 1
+	}
+	else_if = {
+		limit = {
+			p:516.state = {
+				trade_good_surplus = { target = wood value > 1 }
+				trade_good_surplus = { target = wood value <= 2 }
+			}
+		}
+		add = 2
+	}
+    max = egypt_mission_1_sea_task_1_trade_total
+}
+
+egypt_mission_1_sea_task_1_trade_total = {
+	value = 2
+}
+
+egypt_mission_1_sea_task_2_pirates_current = {
+	value = 0
+	c:EGY = {
+		every_owned_province = {
+			limit = {
+				has_province_modifier = pirate_haven_modifier
+			}
+			add = 1
+		}
+	}
+}
+
+egypt_mission_1_sea_task_2_pirates_total = {
+	value = 0
+}
+
+egypt_mission_1_sea_task_4_ship_current = {
+	value = 0
+	add = num_of_ships
+	max = egypt_mission_1_sea_task_4_ship_total
+}
+
+egypt_mission_1_sea_task_4_ship_total = {
+	value = 200
+}
+
+egypt_mission_1_sea_task_4_galley_current = {
+	value = 0
+	c:EGY = {
+		every_navy = {
+			limit = {
+				any_sub_unit = { sub_unit_type = mega_galley }
+			}
+			every_sub_unit = {
+				limit = { sub_unit_type = mega_galley }
+				add = 1
+			}
+		}
+	}
+}
+
+egypt_mission_1_sea_task_4_galley_total = {
+	value = 15
+}
+
+egypt_mission_1_sea_task_5_province_current = {
+	value = 0
+	if = {
+		limit = {
+			c:PRY = {
+				owns_or_subject_owns = 356
+			}
+		}
+		add = 1
+	}
+	if = {
+		limit = {
+			c:PRY = {
+				owns_or_subject_owns = 420
+			}
+		}
+		add = 1
+	}
+	max = 2
+}
+
+egypt_mission_1_sea_task_5_province_total = {
+	value = 0
+}
+
+egypt_mission_1_sea_task_5_area_current = {
+	value = 0
+	area:rhodope_area = { 
+        every_area_province = {
+        	limit = {
+            	owned_or_subject_owned = PRY
+            }
+            add = 1
+        }
+    }
+    area:euboea_area = { 
+        every_area_province = {
+        	limit = {
+            	owned_or_subject_owned = PRY
+            }
+            add = 1
+        }
+    }
+    area:central_greece_area = { 
+        every_area_province = {
+        	limit = {
+            	owned_or_subject_owned = PRY
+            }
+            add = 1
+        }
+    }
+    max = 31
+}
+
+egypt_mission_1_sea_task_5_area_total = {
+	value = 0
+}
+
+me_egypt_1_sea_8_svalue = {
+	value = -360
+	if = {
+		limit = {
+			p:333 = { has_building = slave_mine_building }
+		}
+		add = 80
+	}
+	if = {
+		limit = {
+			p:338 = { has_building = slave_mine_building }
+		}
+		add = 80
+	}
+	if = {
+		limit = {
+			p:332 = { has_building = slave_mine_building }
+		}
+		add = 80
+	}
+	if = {
+		limit = {
+			p:336 = { has_building = slave_mine_building }
+		}
+		add = 80
+	}
+}
+
+egypt_mission_1_sea_task_12_7902_current = {
+	value = 0
+	p:7902 = {
+		add = num_of_fortress_building
+	}
+	max = egypt_mission_1_sea_task_12_7902_total
+}
+
+egypt_mission_1_sea_task_12_7902_total = {
+	value = 1
+}
+
+egypt_mission_1_sea_task_12_442_current = {
+	value = 0
+	p:442 = {
+		add = num_of_fortress_building
+	}
+	max = egypt_mission_1_sea_task_12_442_total
+}
+
+egypt_mission_1_sea_task_12_442_total = {
+	value = 1
+}
+
+egypt_mission_1_sea_task_12_451_current = {
+	value = 0
+	p:451 = {
+		add = num_of_fortress_building
+	}
+	max = egypt_mission_1_sea_task_12_451_total
+}
+
+egypt_mission_1_sea_task_12_451_total = {
+	value = 2
+}
+
+egypt_mission_1_sea_task_13_diadochi_current = {
+	value = 0
+	region:greece_region = {
+        every_region_province = {
+        	limit = {
+            	NOT = {
+                	is_in_area = epirus_area
+            	}
+				OR = { 
+                	owner = c:MAC
+                	owner = c:SEL
+                	owner = c:PRY
+                	owner = c:TRE
+                }
+            }
+            add = 1 
+        }
+    }
+    area:thessaly_area = {
+        every_area_province = {
+        	limit = {
+            	OR = {
+                	owner = c:MAC
+                	owner = c:SEL
+                	owner = c:PRY
+                	owner = c:TRE
+                }
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_1_sea_task_13_diadochi_total = {
+	value = 0
+}
+
+### Pharaoh ###
+
+egypt_mission_2_pharaoh_task_2_farm_current = {
+	value = 0
+	area:heptanomis_area = {
+       	every_area_province = {
+       		limit = {
+       			has_building = basic_settlement_infratructure_building
+       		}
+       		add = 1
+       	}
+   	}
+}
+
+egypt_mission_2_pharaoh_task_2_farm_total = {
+	value = 0
+	area:heptanomis_area = {
+        every_area_province = {
+            limit = {
+                has_city_status = no
+                has_food_trade_good_trigger = yes
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_2_slave_current = {
+	value = 0
+	area:heptanomis_area = {
+       	every_area_province = {
+       		limit = {
+       			has_building = latifundia_building
+       		}
+       		add = 1
+       	}
+   	}
+}
+
+egypt_mission_2_pharaoh_task_2_slave_total = {
+	value = 0
+	area:heptanomis_area = {
+        every_area_province = {
+            limit = {
+                has_city_status = no
+                has_minable_trade_good_trigger = no
+                has_food_trade_good_trigger = no
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_3_current_commerce_building = {
+	value = 0
+	p:515 = {
+		add = num_of_commerce_building
+	}
+	max = egypt_mission_2_pharaoh_task_3_total_commerce_building
+}
+
+egypt_mission_2_pharaoh_task_3_total_commerce_building = {
+	value = 2
+}
+
+egypt_mission_2_pharaoh_task_3_current_town_hall_building = {
+	value = 0
+	p:515 = {
+		add = num_of_town_hall_building
+	}
+	max = egypt_mission_2_pharaoh_task_3_total_town_hall_building
+}
+
+egypt_mission_2_pharaoh_task_3_total_town_hall_building = {
+	value = 2
+}
+
+egypt_mission_2_pharaoh_task_7_current_trade_routes_wda = {
+	value = 0
+	p:516.state = {
+		add = incoming_trade_routes
+	}
+	max = egypt_mission_2_pharaoh_task_7_total_trade_routes_wda
+}
+
+egypt_mission_2_pharaoh_task_7_total_trade_routes_wda = {
+	value = 12
+}
+
+egypt_mission_2_pharaoh_task_7_current_trade_routes_cda = {
+	value = 0
+	p:504.state = {
+		add = incoming_trade_routes
+	}
+	max = egypt_mission_2_pharaoh_task_7_total_trade_routes_cda
+}
+
+egypt_mission_2_pharaoh_task_7_total_trade_routes_cda = {
+	value = 4
+}
+
+egypt_mission_2_pharaoh_task_8_luxor_commerce_current = {
+	value = 0
+	area:luxor_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            	has_building = commerce_building
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_luxor_commerce_total = {
+	value = 0
+	area:luxor_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_luxor_hall_current = {
+	value = 0
+	area:luxor_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            	has_building = town_hall_building
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_luxor_hall_total = {
+	value = 0
+	area:luxor_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_aswan_commerce_current = {
+	value = 0
+	area:aswan_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            	has_building = commerce_building
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_aswan_commerce_total = {
+	value = 0
+	area:aswan_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_aswan_hall_current = {
+	value = 0
+	area:aswan_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            	has_building = town_hall_building
+            }
+            add = 1
+        }
+    }
+}
+
+egypt_mission_2_pharaoh_task_8_aswan_hall_total = {
+	value = 0
+	area:aswan_area = {
+        every_area_province = {
+            limit = {
+                owner = ROOT
+                has_city_status = yes
+            }
+            add = 1
+        }
+    }
+}
+
+### Empire ###
+egypt_mission_3_empire_task_1_port_current = {
+	value = 0
+	p:505 = {
+		add = num_of_port_building
+	}
+}
+
+egypt_mission_3_empire_task_1_port_total = {
+	value = 3
+}
+
+### Border ###
+egypt_mission_4_border_task_3_fortress_current = {
+	value = 0
+	p:659 = {
+		add = num_of_fortress_building
+	}
+}
+
+egypt_mission_4_border_task_3_fortress_total = {
+	value = 3
+}
+
+egypt_mission_4_border_task_5_s_trade_current = {
+	value = 0
+	p:743.state = {
+		add = trade_routes
+	}
+}
+
+egypt_mission_4_border_task_5_s_trade_total = {
+	value = 4
+}
+
+egypt_mission_4_border_task_5_n_trade_current = {
+	value = 0
+	p:779.state = {
+		add = trade_routes
+	}
+}
+
+egypt_mission_4_border_task_5_n_trade_total = {
+	value = 3
+}
+
+egypt_mission_4_border_task_8_pirates_current = {
+	value = 0
+	c:EGY = {
+		every_owned_province = {
+			limit = {
+				has_province_modifier = pirate_haven_modifier
+				OR = {	
+					is_in_area = cilicia_pedias_area
+					is_in_area = cilicia_trachea_area
+				}
+			}
+			add = 1
+		}
+	}
+}
+
+egypt_mission_4_border_task_8_pirates_total = {
+	value = 0
+}
+
+egypt_mission_4_border_task_10_port_current = {
+	value = 0
+	p:1910 {
+		add = num_of_port_building
+	}
+}
+
+egypt_mission_4_border_task_10_port_total = {
+	value = 3
+}

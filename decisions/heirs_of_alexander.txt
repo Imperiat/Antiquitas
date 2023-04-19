@@ -1,0 +1,165 @@
+﻿#Combining the arms and Armor of Alex
+country_decisions = {
+	panoply_of_alexander_the_great = {
+		potential = {
+			num_of_cities >= 1
+			has_dlc = "Heirs of Alexander"
+			NOT = { 
+				has_variable = made_panoply
+			}
+			exists = treasure:treasure_alexander_helmet
+			exists = treasure:treasure_arms_of_alexander
+			exists = treasure:treasure_armor_of_alexander
+			OR = {
+				country_culture_group = hellenic
+				religion = roman_pantheon
+				treasure:treasure_alexander_helmet = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_alexander_helmet }
+				}
+				treasure:treasure_armor_of_alexander = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_armor_of_alexander }
+				}
+				treasure:treasure_arms_of_alexander = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_arms_of_alexander }
+				}
+			}
+		}
+		allow = {
+			treasure:treasure_alexander_helmet = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_alexander_helmet }
+			}
+			treasure:treasure_armor_of_alexander = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_armor_of_alexander }
+			}
+			treasure:treasure_arms_of_alexander = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_arms_of_alexander }
+			}
+		}
+		effect = {
+			set_variable = made_panoply
+			create_country_treasure = {
+				key = treasure_alexander_panoply
+				icon = treasure_armor
+
+				modifier = {
+					local_defensive = 0.25
+					local_population_happiness = 0.15
+					local_manpower_modifier = 0.15
+				}
+			}
+			treasure:treasure_alexander_helmet = { destroy_treasure = yes }
+			treasure:treasure_arms_of_alexander = { destroy_treasure = yes }
+			treasure:treasure_armor_of_alexander = { destroy_treasure = yes }
+			
+		}
+		ai_will_do = {
+			base = 100
+		}
+	}
+	philosophike_anthologia = {
+		potential = {
+			num_of_cities >= 1
+			has_dlc = "Heirs of Alexander"
+			NOT = { 
+				has_variable = made_anthologia
+			}
+			exists = treasure:treasure_enquiry_into_plants
+			exists = treasure:treasure_partition_triparadeisos
+			exists = treasure:treasure_history_of_animals
+			exists = treasure:treasure_indike
+			exists = treasure:treasure_tragedies
+			exists = treasure:treasure_book_of_the_dead
+			exists = treasure:treasure_gilgamesh
+			exists = treasure:treasure_babylonian_chronicles
+			exists = treasure:history_of_alexander
+			OR = {
+				country_culture_group = hellenic
+				religion = roman_pantheon
+				treasure:treasure_enquiry_into_plants = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_enquiry_into_plants }
+				}
+				treasure:treasure_partition_triparadeisos = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_partition_triparadeisos }
+				}
+				treasure:treasure_history_of_animals = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_history_of_animals }
+				}
+				treasure:treasure_indike = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_indike }
+				}
+				treasure:treasure_tragedies = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_tragedies }
+				}
+				treasure:treasure_book_of_the_dead = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_book_of_the_dead }
+				}
+				treasure:treasure_gilgamesh = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_gilgamesh }
+				}
+				treasure:treasure_babylonian_chronicles = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_babylonian_chronicles }
+				}
+				treasure:history_of_alexander = {
+					treasure_owned_or_altared_trigger = { SHINY = treasure:history_of_alexander }
+				}
+			}
+		}
+		allow = {
+			treasure:treasure_enquiry_into_plants = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_enquiry_into_plants }
+			}
+			treasure:treasure_partition_triparadeisos = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_partition_triparadeisos }
+			}
+			treasure:treasure_history_of_animals = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_history_of_animals }
+			}
+			treasure:treasure_indike = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_indike }
+			}
+			treasure:treasure_tragedies = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_tragedies }
+			}
+			treasure:treasure_book_of_the_dead = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_book_of_the_dead }
+			}
+			treasure:treasure_gilgamesh = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_gilgamesh }
+			}
+			treasure:treasure_babylonian_chronicles = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_babylonian_chronicles }
+			}
+			treasure:history_of_alexander = {
+				treasure_owned_or_altared_trigger = { SHINY = treasure:history_of_alexander }
+			}
+		}
+		effect = {
+			set_variable = made_anthologia
+			create_country_treasure = {
+				key = treasure_anthology
+				icon = treasure_urn_3
+
+				modifier = {
+					local_research_points_modifier = 0.55
+					local_base_trade_routes_modifier = 0.15
+					local_nobles_happyness = 0.1
+					local_nobles_output = 0.1
+					local_population_capacity_modifier = 0.15
+				}
+			}
+			treasure:treasure_enquiry_into_plants = { destroy_treasure = yes }
+			treasure:treasure_partition_triparadeisos = { destroy_treasure = yes }
+			treasure:treasure_history_of_animals = { destroy_treasure = yes }
+			treasure:treasure_indike = { destroy_treasure = yes }
+			treasure:treasure_tragedies = { destroy_treasure = yes }
+			treasure:treasure_book_of_the_dead = { destroy_treasure = yes }
+			treasure:treasure_gilgamesh = { destroy_treasure = yes }
+			treasure:treasure_babylonian_chronicles = { destroy_treasure = yes }
+			treasure:history_of_alexander = { destroy_treasure = yes }
+			
+		}
+		ai_will_do = {
+			base = 100
+		}
+	}
+}

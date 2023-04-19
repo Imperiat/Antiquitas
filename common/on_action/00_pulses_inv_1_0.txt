@@ -34,14 +34,7 @@ invictus_yearly_flavor_pulse = {
 		}
 	}
 	events = {
-		me_kush.58
-		flavor_maurya.1 #Death of Chandragupta
-		flavor_maurya.2 #Chandragupta Jain monk
-		flavor_maurya.5 #Death of Bindusara
-		flavor_maurya.6 #Death of Ashoka
-		flavor_maurya.14 #Ashoka claps his brother
 		bloodlines_setup_completion.3
-		cyr_ophellas_01.4
 	}
 	random_events = {
 		4500 = 0 #This should add up to 5000

@@ -1,0 +1,196 @@
+﻿
+# Monthly incomes
+
+assassinate_chance_scheme = {
+	value = 10
+	add = martial
+	if = {
+		limit = {
+			is_ruler = no
+		}
+		if = {
+			limit = {
+				exists = var:ongoing_scheme_target
+			}
+			subtract = var:ongoing_scheme_target.martial
+		}
+		if = {
+			limit = {
+				has_variable = scheme_adjustment
+			}
+			add = var:scheme_adjustment
+		}
+		if = {
+			limit = {
+				has_ambition = scheme_steal
+			}
+			add = 20
+		}
+		if = {
+			limit = {
+				has_ambition = scheme_steal_holding
+			}
+			add = 15
+		}
+	}
+	else = {
+		multiply = 4
+		subtract = {
+			value = var:ongoing_scheme_target.martial
+			multiply = 2
+		}
+	}
+	min = 0
+	max = 60
+}
+
+gamble_chance_scheme = {
+	value = 10
+	add = finesse
+	if = {
+		limit = {
+			has_variable = scheme_adjustment
+		}
+		add = var:scheme_adjustment
+	}
+	if = {
+		limit = {
+			has_character_modifier = secret_gambler
+		}
+		add = -5
+	}
+	if = {
+		limit = {
+			has_trait = reckless
+		}
+		add = 5
+	}
+	if = {
+		limit = {
+			has_trait = ambitious
+		}
+		add = 5
+	}
+	if = {
+		limit = {
+			has_trait = arbitrary
+		}
+		add = 5
+	}
+	min = 0
+	max = 60
+}
+
+pitfighting_chance_scheme = {
+	value = 10
+	add = martial
+	if = {
+		limit = {
+			has_variable = scheme_adjustment
+		}
+		add = var:scheme_adjustment
+	}
+	if = {
+		limit = {
+			has_character_modifier = secret_pit_fighter
+		}
+		add = 10
+	}
+	if = {
+		limit = {
+			has_trait = reckless
+		}
+		add = 5
+	}
+	if = {
+		limit = {
+			has_trait = disciplined
+		}
+		add = 5
+	}
+	if = {
+		limit = {
+			has_trait = brave
+		}
+		add = 5
+	}
+	if = {
+		limit = {
+			has_trait = cruel
+		}
+		add = 5
+	}
+	min = 0
+	max = 60
+}
+
+escape_prison_chance = {
+	value = 0
+	add = martial
+	add = power_base
+	if = {
+		limit = {
+			has_variable = scheme_adjustment
+		}
+		add = var:scheme_adjustment
+	}
+	min = 0
+	max = 60
+}
+
+seek_spouse_age_window = {
+	value = 0
+	if = { # If the spouse seeker is important
+		limit = {
+			scope:spouse_seeker = {
+				OR = {
+					is_close_relative = employer.current_ruler
+					is_ruler = yes
+					is_head_of_family = yes
+				}
+			}
+		}
+		if = { # If the spouse seeker is an important woman
+			limit = {
+				scope:spouse_seeker = { is_female = yes }
+			}
+			add = seek_spouse_age_window_vip_woman
+		}
+		else = { add = seek_spouse_age_window_vip_man } # If the spouse seeker is an important man
+	}
+	else = { add = seek_spouse_age_window_pleb } # If the spouse seeker is not important
+}
+
+seek_spouse_age_window_vip_man = { # If the spouse seeker is an important man
+	value = scope:spouse_seeker.age
+	add = {
+		integer_range = { # -15 to +3 years, max 25
+			min = -15
+			max = 3
+		}
+	}
+	min = 16
+	max = 26
+}
+
+seek_spouse_age_window_vip_woman = { # If the spouse seeker is an important woman
+	value = scope:spouse_seeker.age
+	add = {
+		integer_range = { # +3 to +15 years
+			min = 3
+			max = 15
+		}
+	}
+	min = 16
+}
+
+seek_spouse_age_window_pleb = { # If the spouse seeker is not important
+	value = scope:spouse_seeker.age
+	add = {
+		integer_range = { # -20 to +10 years
+			min = -20
+			max = 10
+		}
+	}
+	min = 16
+}

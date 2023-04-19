@@ -1,0 +1,453 @@
+﻿### Greece ###
+
+gre_mission_1_4_custom_loc = {
+	type = country
+	text = {
+		localization_key = gre_mis_1_4_allow_sv_ongoing
+		trigger = {
+			gre_mis_1_4_current < gre_mis_1_4_target
+		}
+	}
+
+	text = {
+		localization_key = gre_mis_1_4_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+gre_mission_1_haven_3_custom_loc = {
+	type = country
+	text = {
+		localization_key = gre_mis_1_haven_3_allow_sv_ongoing
+		trigger = {
+			gre_mis_1_haven_ongoing_3 < gre_mis_1_haven_target_3
+		}
+	}
+
+	text = {
+		localization_key = gre_mis_1_haven_3_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+gre_mission_1_haven_all_custom_loc = {
+	type = country
+	text = {
+		localization_key = gre_mis_1_haven_all_allow_sv_ongoing
+		trigger = {
+			gre_mis_1_17_count < gre_mis_1_haven_ongoing_all_target
+		}
+	}
+
+	text = {
+		localization_key = gre_mis_1_haven_all_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+skythoi_security_title = {
+	type = country
+	text = {
+		localization_key = skythoi_security_title_3
+		trigger = { root.var:gm_1_path = 4 }
+	}
+	text = {
+		localization_key = skythoi_security_title_2
+		trigger = { root.var:gm_1_path = 1 }
+	}
+	text = {
+		localization_key = skythoi_security_title_1
+		trigger = { 
+			OR = {
+				root.var:gm_1_path = 2
+				root.var:gm_1_path = 3
+			}
+		}
+	}
+}
+
+gm_1_get_go_back = {
+	type = country
+	text = {
+		localization_key = gm_1_get_go_back_1
+		trigger = { root.var:gm_bartering_tracker = 1 }
+	}
+	text = {
+		localization_key = gm_1_get_go_back_2
+		trigger = { root.var:gm_bartering_tracker = 2 }
+	}
+}
+
+gm_1_get_go_back_colony = {
+	type = country
+	text = {
+		localization_key = gm_1_get_go_back_1
+		trigger = { root.var:gm_colony_tracker = 1 }
+	}
+	text = {
+		localization_key = gm_1_get_go_back_2
+		trigger = { root.var:gm_colony_tracker = 2 }
+	}
+}
+
+gm_1_chance_barter = {
+	type = country
+	text = {
+		localization_key = gm_1_unlikely
+		trigger = { gm_1_barter_relative_territory_value >= 10 }
+	}
+	text = {
+		localization_key = gm_1_likely
+		trigger = { gm_1_barter_relative_territory_value < 10 }
+	}
+}
+
+gm_1_chance_colony = {
+	type = country
+	text = {
+		localization_key = gm_1_unlikely
+		trigger = { gm_1_colony_relative_value >= 30 }
+	}
+	text = {
+		localization_key = gm_1_likely
+		trigger = { gm_1_colony_relative_value < 30 }
+	}
+}
+
+gre_2_4_title = {
+	type = country
+	text = {
+		localization_key = greek_2_4_olig
+		trigger = {
+			root = {
+				is_monarchy = yes
+				AND = {
+					is_republic = yes
+					government = oligarchic_republic
+				}
+			}
+		}
+	}
+
+	text = {
+		localization_key = greek_2_4_demo
+		trigger = {
+			root = {
+				is_republic = yes
+				NOT = { government = oligarchic_republic }
+			}
+		}
+	}
+}
+
+get_gre_3_metropolis_1 = {
+	type = country
+	text = {
+		localization_key = get_gre_3_metropolis_1_1 # Sparta
+		trigger = {
+			OR = {
+				tag = TAR
+				tag = HCL
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_1_2 # Athens
+		trigger = { tag = THU }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_1_3 # Syracuse
+		trigger = { tag = ANO }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_1_4 # Euboea
+		trigger = { tag = RHG }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_1_5 # Massalia
+		trigger = { tag = ELE }
+	}
+}
+
+get_gre_3_metropolis_2 = {
+	type = country
+	text = {
+		localization_key = get_gre_3_metropolis_2_1 # Sparta
+		trigger = {
+			OR = {
+				tag = TAR
+				tag = HCL
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_2_2 # Athenai
+		trigger = { tag = THU }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_2_3 # Syrakousai
+		trigger = { tag = ANO }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_2_4 # Aigion
+		trigger = {
+			OR = {
+				tag = CRO
+				tag = MET
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_2_5 # Delphi
+		trigger = {
+			OR = {
+				tag = LOC
+				tag = HPO
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_2_6 # Chalkis
+		trigger = { tag = RHG }
+	}
+}
+
+get_gre_3_metropolis_3 = {
+	type = country
+	text = {
+		localization_key = get_gre_3_metropolis_3_1
+		trigger = {
+			OR = {
+				tag = TAR
+				tag = HCL
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_3_2
+		trigger = { tag = THU }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_3_3
+		trigger = { tag = ANO }
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_3_4
+		trigger = {
+			OR = {
+				tag = CRO
+				tag = MET
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_3_5
+		trigger = {
+			OR = {
+				tag = LOC
+				tag = HPO
+			}
+		}
+	}
+	text = {
+		localization_key = get_gre_3_metropolis_3_6
+		trigger = { tag = RHG }
+	}
+	
+	text = {
+		localization_key = get_gre_3_metropolis_3_7
+		trigger = { tag = ELE }
+	}
+}
+
+get_greek_3_6_title = {
+	type = country
+	text = {
+		localization_key = get_greek_3_6_title_1
+		trigger = { tag = TAR }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_2
+		trigger = { tag = THU }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_3
+		trigger = { 
+			OR = {
+				tag = RHG
+				tag = HPO
+				tag = LOC
+			}
+		}
+	}
+	text = {
+		localization_key = get_greek_3_6_title_4
+		trigger = { tag = ANO }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_5
+		trigger = { tag = ELE }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_6
+		trigger = { tag = MET }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_7
+		trigger = { tag = CRO }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_8
+		trigger = { tag = HCL }
+	}
+	text = {
+		localization_key = get_greek_3_6_title_fallback
+		trigger = { always = yes }
+	}
+}
+
+get_greek_3_18_title = {
+	type = country
+	text = {
+		localization_key = get_greek_3_18_title_1 # Skylla and Charybdis
+		trigger = {
+			OR = {
+				tag = RHG
+				tag = HPO
+				tag = LOC
+			}
+		}
+	}
+	text = {
+		localization_key = get_greek_3_18_title_2 # Daunian Claims
+		trigger = { tag = SIO }
+	}
+	text = {
+		localization_key = get_greek_3_18_title_3 # Illyrian Ventures
+		trigger = { tag = ANO }
+	}
+}
+
+gre_mission_3_4_custom_loc = {
+	type = country
+	text = {
+		localization_key = gre_mis_3_4_allow_sv_ongoing
+		trigger = {
+			me_gre_3_4_svalue < me_gre_3_4_target_svalue
+		}
+	}
+
+	text = {
+		localization_key = gre_mis_3_4_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+gre_mission_3_18_custom_loc_1 = {
+	type = country
+	text = {
+		localization_key = gre_mis_3_18_1_allow_sv_ongoing
+		trigger = {
+			me_gre_3_18_1_svalue < me_gre_3_18_1_target_svalue
+		}
+	}
+
+	text = {
+		localization_key = gre_mis_3_18_1_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+gre_mission_3_5_custom_loc = {
+	type = country
+	text = {
+		localization_key = get_me_gre_3_5_lca
+		trigger = { root.var:gm_3_greek_country_flag = 1 }
+	}
+
+	text = {
+		localization_key = get_me_gre_3_5_brt
+		trigger = { root.var:gm_3_greek_country_flag = 2 }
+	}
+
+	text = {
+		localization_key = get_me_gre_3_5_sam
+		trigger = { root.var:gm_3_greek_country_flag = 3 }
+	}
+}
+
+gre_4_security_title = {
+	type = country
+	text = {
+		localization_key = gre_4_security_title_3
+		trigger = { root.var:gm_4_path = 4 }
+	}
+	text = {
+		localization_key = gre_4_security_title_2
+		trigger = { root.var:gm_4_path = 1 }
+	}
+	text = {
+		localization_key = gre_4_security_title_1
+		trigger = { 
+			OR = {
+				root.var:gm_4_path = 2
+				root.var:gm_4_path = 3
+			}
+		}
+	}
+}
+
+gm_4_chance_barter = {
+	type = country
+	text = {
+		localization_key = gm_1_unlikely
+		trigger = { gm_4_barter_relative_territory_value >= 10 }
+	}
+	text = {
+		localization_key = gm_1_likely
+		trigger = { gm_4_barter_relative_territory_value < 10 }
+	}
+}
+
+gre_mission_4_4_custom_loc = {
+	type = country
+	text = {
+		localization_key = gre_mis_4_4_allow_sv_ongoing
+		trigger = {
+			gre_mis_4_4_current < gre_mis_4_4_target
+		}
+	}
+	text = {
+		localization_key = gre_mis_4_4_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+gre_mission_4_4_2_custom_loc = {
+	type = country
+	text = {
+		localization_key = gre_mis_4_4_2_allow_sv_ongoing
+		trigger = {
+			gre_mis_4_4_2_current < gre_mis_4_4_2_target
+		}
+	}
+
+	text = {
+		localization_key = gre_mis_4_4_2_allow_sv_complete
+		trigger = {
+			always = yes
+		}
+	}
+}
