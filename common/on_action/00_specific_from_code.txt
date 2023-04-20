@@ -363,12 +363,9 @@ on_ruler_change = {
 		character_events.15
 		roman_flavor.5 # Consul Conspiracy - Successful Election
 		roman_flavor.6 # Consul Conspiracy - Unsuccessful Election
-		italian_flavor.9 # Sicily and the Mamertines
-		italian_flavor.15 # Sicily and the Mamertines fallback
 		ip_monarchy.53 # Consort regency
 		roman_flavor.13 # Dictator in Power
 		country_rename.1 # SEL/MRY/PRY name change
-		me_roman_inheritance.1 # Roman Inheritance
 	}
 	random_events = {
 		100 = 0
@@ -577,7 +574,6 @@ on_civil_war_won = {
 		civil_war.1
 		civil_war.5
 		ip_republic.87
-		me_roman_9_eastern_glory.6
 	}
 }
 
@@ -2369,8 +2365,6 @@ character_story_events =
 		1 = dhe_isis_cult.12
 		1 = dhe_isis_cult.13
 		1 = dhe_isis_cult.14
-		# Eleusinian Mysteries
-		1 = me_athens_02_attica.16
 		# Other
 		3 = character_events.14
 		200 = character_events.18

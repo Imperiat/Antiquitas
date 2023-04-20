@@ -28,6 +28,19 @@ dhe_city_fall.1 = {
 		p:3256 = {
 			save_scope_as = special_province
 		}
+		hidden_effect = { #Invictus changes
+			p:3256 = {
+				if = {
+					limit = {
+						has_variable = cr_walls_of_carthage_exist
+					}
+					add_province_modifier = {
+						name = cr_carthage_walls_of_carthage
+						duration = -1
+					}
+				}
+			}
+		}
 	}
 
 	option = { # Treat them nicely
@@ -47,6 +60,10 @@ dhe_city_fall.1 = {
 				name = country_improvement_carthaginian_fleet
 				duration = 3650
 			}
+		}
+		remove_province_modifier = cr_carthage_walls_of_carthage #Invictus changes
+		hidden_effect = {
+			remove_variable = cr_walls_of_carthage_exist
 		}
 		sacking_conqueror_effect = yes
 		owner = {

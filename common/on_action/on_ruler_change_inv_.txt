@@ -170,21 +170,6 @@
 			remove_variable = ip_mon_38_flag
 		}
 		if = {
-			limit = { 
-				scope:former_ruler = { has_variable = me_syr_current_tyrant_flag }
-			}
-			scope:former_ruler = { 
-				remove_variable = me_syr_current_tyrant_flag
-				save_scope_as = syracuse_old_tyrant
-				employer = {
-					trigger_event = {
-						id = me_syracuse_1_democracy.3
-						days = 1
-					}
-				}
-			}
-		}
-		if = {
 			limit = {
 				is_monarchy = yes
 				scope:former_ruler = { is_alive = no }
@@ -192,10 +177,6 @@
 			trigger_event = {
 				id = gov_pol.9 #Loss of state loyalty
 			}
-		}
-		if = {
-			limit = { has_country_modifier = me_epi_aborted_early }
-			remove_country_modifier = me_epi_aborted_early
 		}
 		if = {
 			limit = {
@@ -216,7 +197,6 @@
 	}
 	events = {
 		country_rename.1 # SEL/MRY/PRY name change
-		me_kush.43 # A New Pharaoh
 	}
 	on_actions = {
 		on_monarchy_ruler_change
