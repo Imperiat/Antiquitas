@@ -160,7 +160,6 @@ tributary = {
 }
 
 feudatory = { #Latin Allies
-###added a new removal of modifier for Judea mission feudatory
     subject_pays = subject_pays_feudatory
 
     joins_overlord_in_war = yes
@@ -233,24 +232,6 @@ feudatory = { #Latin Allies
                  }
              }
          }
-        if = {
-        	limit = {
-        		has_global_variable = is_playing_invictus
-        	}
-	         if = {
-	             limit = {
-	                 has_variable = hebrew_egypt_variable
-	             }
-	             overlord = {
-	                 if = {
-	                     limit = {
-	                         has_country_modifier = judea_modifier_15
-	                     }
-	                     remove_country_modifier = judea_modifier_15
-	                 }
-	             }
-	         }
-	    }
      }
     # on_monthly = {}
     

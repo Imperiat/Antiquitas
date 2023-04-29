@@ -1952,11 +1952,6 @@ naval_tree = {
 				limit = { tag = ROM }
 				tag = ROM
 			}
-			trigger_if = {
-				limit = { tag = CAR }
-				tag = CAR
-				has_completed_mission_task = carthaginian_rome_expansion_mission_task_3
-			}
 		}
 		modifier = { ship_capture_chance = 0.05 }
 	}	

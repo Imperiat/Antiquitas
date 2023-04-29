@@ -559,12 +559,6 @@ get_trade_good_here = {
 			trade_goods = wild_game
 		}
 	}
-	text = {
-		localization_key = kola
-		trigger = {
-			trade_goods = kola
-		}
-	}
 }
 
 num_shrines = {

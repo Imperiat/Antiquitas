@@ -33,9 +33,6 @@ invictus_yearly_flavor_pulse = {
 			has_variable = ongoing_mission_pulse_flag
 		}
 	}
-	events = {
-		bloodlines_setup_completion.3
-	}
 	random_events = {
 		4500 = 0 #This should add up to 5000
 		50 = zorgo_event.1

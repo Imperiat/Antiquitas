@@ -5,13 +5,7 @@
 		
 		potential = {
 			num_of_cities >= 1
-			OR = {
-				primary_culture = macedonian
-				AND = { # Non DLC Epirus trigger
-					NOT = { has_dlc = "Epirus Flavor Pack" }
-					has_variable = me_epirus_start_flag
-				}
-			}
+			primary_culture = macedonian
 			is_republic = no
 			capital_scope = {
 				OR = {
@@ -33,11 +27,6 @@
 			NOT = {
 				is_endgame_tag_trigger = yes
 				is_tier_2_formable_trigger = yes
-			}
-			NAND = {
-				tag = PRY
-				has_global_variable = antigonus_the_failure
-				NOT = { has_completed_mission = antigonid_02_aspiration }
 			}
 		}
 		

@@ -185,24 +185,6 @@ custom_on_action_execute =
 	}
 }
 
-yuezhi_pulse = {
-	trigger = {
-		NOR = {
-			tag = KHN
-			tag = YZI
-		}
-	}
-	events = {
-		yuezhi.3
-	}
-	random_events = {
-		100 = yuezhi.1
-		20 = yuezhi.2
-		20 = yuezhi.4
-		100 = 0
-	}
-}
-
 custom_on_action_sacrifice =
 {
 	random_events =
@@ -1024,18 +1006,6 @@ consul_conspiracy_pulse = {
 	}
 }
 
-yearly_italian_flavor = {
-	trigger = {
-		current_date < 500.1.1
-	}
-	events = {
-		italian_flavor.1 # Tarantine event chain
-		italian_flavor.6 # Marsian Rebellion
-		italian_flavor.11 # Frentani Fidelity
-		italian_flavor.12 # Samnite Aggression
-		italian_flavor.14 # Nucerian Trade
-	}
-}
 dictator_rise_pulse = {
 	trigger = {
 		tag = ROM
