@@ -22,12 +22,6 @@ ruler_retire_price_cost_modifier = {
 training_price_cost_modifier = {
     positive = "gfx/interface/icons/modifiers/training_price_cost_modifier.dds"
 }
-establish_bithynian_city_price_cost_modifier = {
-    positive = "gfx/interface/icons/modifiers/establish_bithynian_city_price_cost_modifier.dds"
-}
-new_establish_bithynian_city_price_cost_modifier = {
-    positive = "gfx/interface/icons/modifiers/new_establish_bithynian_city_price_cost_modifier.dds"
-}
 oasis_combat_bonus = {
     positive = "gfx/interface/icons/modifiers/oasis_combat_bonus.dds"
 }

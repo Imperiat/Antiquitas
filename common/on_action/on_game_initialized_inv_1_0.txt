@@ -2,7 +2,6 @@
 
 	on_actions = {
 		delay = { days = { 10 30 } }
-		cappadocia_gamestart_pulse
 		delay = { days = { 10 30 } }
 		fix_succession_on_action
 	}

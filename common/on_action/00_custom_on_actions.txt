@@ -352,9 +352,7 @@ main_event_pulse_country = {
 	}
 	events = {
 		dhe_roman_warm_period.1
-		dhe_bactria.3
 		dhe_buddhism.2
-		dhe_carthage.15
 	}
 	random_events = {
 		500 = 0
@@ -568,12 +566,6 @@ main_event_pulse_country = {
 		50 = dhe_fortune_cult.2
 		50 = dhe_fortune_cult.3
 		10 = dhe_fortune_cult.4
-		50 = dhe_isis_cult.1 # Isis Cult
-		50 = dhe_isis_cult.2
-		50 = dhe_isis_cult.3
-		30 = dhe_isis_cult.4
-		50 = dhe_isis_cult.5
-		50 = dhe_isis_cult.6
 		100 = dhe_buddhism.1 # Buddhism event
 		100 = dhe_jainism.1 # Jainism event
 		200 = character_events.6
@@ -596,8 +588,6 @@ main_event_pulse_country = {
 		500 = dhe_judea.8
 		100 = ip_republic.43
 		100 = p_actor.1
-		100 = dhe_bactria.1
-		150 = dhe_bactria.2
 		25 = ip_republic.44
 		50 = ip_republic.45 # marius
         ### Diplomacy
@@ -631,14 +621,6 @@ main_event_pulse_country = {
 		400 = dhe_rome.6
 		400 = dhe_rome.7
 		400 = dhe_rome.8
-		#CARTHAGE DHE
-		400 = dhe_carthage.1
-		400 = dhe_carthage.2
-		400 = dhe_carthage.3
-		400 = dhe_carthage.5
-		400 = dhe_carthage.9
-		400 = dhe_carthage.13
-		400 = dhe_carthage.14
 		#SLAVE DHE
 		100 = dhe_slave.1
 		100 = dhe_slave.2

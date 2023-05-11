@@ -339,10 +339,6 @@ on_ruler_change = {
 			}
 		}
 		if = {
-			limit = { has_country_modifier = me_epi_aborted_early }
-			remove_country_modifier = me_epi_aborted_early
-		}
-		if = {
 			limit = {
 				is_republic = yes
 			}
@@ -867,15 +863,6 @@ on_character_death = {
 				}
 				employer = {
 					trigger_event = { id = me_greek_4_west.3 }
-				}
-			}
-		}
-		if = {
-			limit = { has_variable = archimedes_flag }
-			employer = {
-				if = {
-					limit = { has_country_modifier = archimedes_modifier }
-					remove_country_modifier = archimedes_modifier
 				}
 			}
 		}
@@ -1563,15 +1550,6 @@ on_move_country = { #scope:old_country is the origin country
 			}
 		}
 		if = {
-			limit = { has_variable = archimedes_flag }
-			if = {
-				limit = { 
-					scope:old_country = { has_country_modifier = archimedes_modifier }
-				}
-				scope:old_country = { remove_country_modifier = archimedes_modifier }
-			}
-		}
-		if = {
 			limit = { has_variable = betrothed_flag }
 			remove_variable = betrothed_flag
 		}
@@ -1937,11 +1915,6 @@ on_ownership_change = { #province scope
 		dhe_city_fall.16
 		dhe_city_fall.17
 		dhe_city_fall.100
-		dhe_carthage.4
-		dhe_carthage.6
-		dhe_carthage.10
-		dhe_carthage.11
-		dhe_carthage.12
 		comet.2
 		dhe_rome.20
 	}
@@ -1949,30 +1922,6 @@ on_ownership_change = { #province scope
 
 on_province_occupied = { #province scope, it will fire AS WELL as on_siege_won
 	effect = {
-		if = {
-			limit = {
-				this = p:3256
-				this = c:CAR.capital_scope
-				exists = scope:me_syracuse_scope
-				controller = scope:me_syracuse_scope
-				OR = {
-					controller = scope:gm_2_greek_scope
-					controller = { is_subject_of = scope:me_syracuse_scope }
-				}
-			}
-			scope:me_syracuse_scope = { set_variable = syr_occupied_carthage_flag }
-		}
-		if = {
-			limit = {
-				this = p:428
-				exists = scope:gm_2_greek_scope
-				OR = {
-					controller = scope:gm_2_greek_scope
-					controller = { is_subject_of = scope:gm_2_greek_scope }
-				}
-			}
-			scope:gm_2_greek_scope = { set_variable = me_gre_2_14_flag }
-		}
 	}
 	events = {
 		fire_events.1
@@ -2359,12 +2308,6 @@ character_story_events =
 		# Cult of Fortune events
 		1 = dhe_fortune_cult.10
 		1 = dhe_fortune_cult.11
-		# Isis Cult events
-		3 = dhe_isis_cult.10
-		1 = dhe_isis_cult.11
-		1 = dhe_isis_cult.12
-		1 = dhe_isis_cult.13
-		1 = dhe_isis_cult.14
 		# Other
 		3 = character_events.14
 		200 = character_events.18

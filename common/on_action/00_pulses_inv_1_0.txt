@@ -146,14 +146,6 @@ fix_succession_on_action = {
 	}
 }
 
-#ported from Vanilla but just expanded
-claims_pulse = {
-	events = {
-		dhe_rome_inv.181
-		dhe_rome_inv.182
-	}
-}
-
 yearly_invictus_disaster_pulse = {
 	trigger = {
 		num_of_cities >= 5

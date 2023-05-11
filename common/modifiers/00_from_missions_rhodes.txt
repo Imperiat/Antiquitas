@@ -1,0 +1,6 @@
+﻿devestation = {
+	local_output_modifier = -0.1
+	local_population_capacity_modifier = -0.2
+	local_population_growth = -0.05
+	local_monthly_civilization = -0.03
+}

@@ -5,12 +5,7 @@
 		
 		potential = {
 			num_of_cities >= 1
-			OR = {
-				primary_culture = cappadocian
-				current_ruler = {
-					has_same_family = char:52 #Mithridates
-				}
-			}
+			primary_culture = cappadocian
 			NOR = {
 				tag = PON
 				tag = PTU

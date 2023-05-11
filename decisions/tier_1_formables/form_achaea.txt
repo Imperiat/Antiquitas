@@ -4,7 +4,6 @@
 	form_achaea = {
 		
 		potential = {
-			always = no		### diabled forever
 			num_of_cities >= 1
 			country_culture_group = hellenic
 			is_republic = yes
