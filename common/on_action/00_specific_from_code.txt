@@ -822,51 +822,6 @@ on_character_death = {
 			}
 		}
 		if = {
-			limit = { 
-				has_variable = gm_family_head_1_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_1_flag
-			if = {
-				limit = { 
-					employer = { has_variable = gm_1_greek_country_flag }
-				}
-				employer = {
-					trigger_event = { id = me_greek_1_black_sea.13 }
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_3_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_3_flag
-			if = {
-				limit = { 
-					employer = { has_variable = gm_3_greek_country_flag }
-				}
-				employer = {
-					trigger_event = { id = me_greek_3_italiote.26 }
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_4_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_4_flag
-			if = {
-				limit = { 
-					employer = { has_variable = gm_4_greek_country_flag }
-				}
-				employer = {
-					trigger_event = { id = me_greek_4_west.3 }
-				}
-			}
-		}
-		if = {
 			limit = { has_variable = betrothed_flag }
 			remove_variable = betrothed_flag
 		}
@@ -1326,51 +1281,6 @@ on_being_imprisoned = {
 	effect = {
 		clear_ambition_effect = yes
 		if = {
-			limit = { 
-				has_variable = gm_family_head_1_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_1_flag
-			if = {
-				limit = { 
-					employer = { has_variable = gm_1_greek_country_flag }
-				}
-				employer = {
-					trigger_event = { id = me_greek_1_black_sea.13 }
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_3_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_3_flag
-			if = {
-				limit = { 
-					employer = { has_variable = gm_3_greek_country_flag }
-				}
-				employer = {
-					trigger_event = { id = me_greek_3_italiote.26 }
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_4_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_4_flag
-			if = {
-				limit = { 
-					employer = { has_variable = gm_4_greek_country_flag }
-				}
-				employer = {
-					trigger_event = { id = me_greek_4_west.3 }
-				}
-			}
-		}
-		if = {
 			limit = { has_variable = betrothed_flag }
 			remove_variable = betrothed_flag
 		}
@@ -1501,51 +1411,6 @@ on_move_country = { #scope:old_country is the origin country
 				subtract = {
 					value = popularity
 					divide = 2
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_1_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_1_flag
-			if = {
-				limit = { 
-					var:came_from = { has_variable = gm_1_greek_country_flag }
-				}
-				var:came_from = {
-					trigger_event = { id = me_greek_1_black_sea.13 }
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_3_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_3_flag
-			if = {
-				limit = { 
-					var:came_from = { has_variable = gm_3_greek_country_flag }
-				}
-				var:came_from = {
-					trigger_event = { id = me_greek_3_italiote.26 }
-				}
-			}
-		}
-		if = {
-			limit = { 
-				has_variable = gm_family_head_4_flag
-			}
-			save_scope_as = gm_old_family_head
-			remove_variable = gm_family_head_4_flag
-			if = {
-				limit = { 
-					var:came_from = { has_variable = gm_4_greek_country_flag }
-				}
-				var:came_from = {
-					trigger_event = { id = me_greek_4_west.3 }
 				}
 			}
 		}
@@ -1812,9 +1677,6 @@ on_game_initialized = {
 }
 
 on_province_colonized = {
-	events = {
-		dhe_rome.20
-	}
 }
 
 on_ownership_change = { #province scope
@@ -1839,26 +1701,6 @@ on_ownership_change = { #province scope
 						name = ach_render_unto_caesar_var
 					}
 				}
-			}
-		}
-		if = {
-			limit = {
-				exists = owner
-				owner = {
-					has_land = yes
-					tag = ROM
-				}
-				has_variable = roman_colonia_flag
-				NOR = {
-					has_province_modifier = italian_colonia_military_pmod
-					has_province_modifier = italian_colonia_civic_pmod
-					has_province_modifier = italian_colonia_religious_pmod
-					has_province_modifier = italian_colonia_trade_pmod
-					has_province_modifier =  italian_colonia_pmod
-				}
-			}
-			trigger_event = {
-				id = me_roman_1_roman_italia.26
 			}
 		}
 		if = {
@@ -1897,26 +1739,7 @@ on_ownership_change = { #province scope
 		}
 	}
 	events = {
-		dhe_city_fall.1
-		dhe_city_fall.2
-		dhe_city_fall.3
-		dhe_city_fall.4
-		dhe_city_fall.5
-		dhe_city_fall.6
-		dhe_city_fall.7
-		dhe_city_fall.8
-		dhe_city_fall.9
-		dhe_city_fall.10
-		dhe_city_fall.11
-		dhe_city_fall.12
-		dhe_city_fall.13
-		dhe_city_fall.14
-		dhe_city_fall.15
-		dhe_city_fall.16
-		dhe_city_fall.17
-		dhe_city_fall.100
 		comet.2
-		dhe_rome.20
 	}
 }
 
@@ -2140,7 +1963,6 @@ on_great_battle_lost_country = { #root = country scope of the main unit on the l
 	}
 	random_events = {
 		95 = 0
-        5 = dhe_rome.19
         50 = ip_monarchy.62
         50 = ip_monarchy.63
         10 = distinction.21
@@ -2148,13 +1970,6 @@ on_great_battle_lost_country = { #root = country scope of the main unit on the l
 }
 
 on_battle_lost_country = { #root = country scope of the main unit on the losing side, scope:actor = main unit on the losing side, scope:target = main unit on the winning side
-	events = {
-		dhe_rome.14
-	}
-	random_events = {
-		199 = 0
-		1 = dhe_rome.19
-	}
 }
 
 # scope is country being annexed

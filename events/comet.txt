@@ -184,8 +184,8 @@ comet.5 = {
 	
 	trigger = {
 		is_ai = no
-		current_date >= 470.1.1
-		current_date <= 530.1.1
+		current_date >= 173.1.1
+		current_date <= 233.1.1
 		any_owned_province = {
 			is_port = yes
 			total_population > 5

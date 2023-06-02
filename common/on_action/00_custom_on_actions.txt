@@ -195,11 +195,6 @@ custom_on_action_sacrifice =
 }
 
 claims_pulse = {
-	events = {
-		dhe_rome.16
-		dhe_rome.17
-		dhe_rome.18
-	}
 }
 
 yearly_debt_recovery_pulse = {
@@ -352,7 +347,6 @@ main_event_pulse_country = {
 	}
 	events = {
 		dhe_roman_warm_period.1
-		dhe_buddhism.2
 	}
 	random_events = {
 		500 = 0
@@ -566,8 +560,6 @@ main_event_pulse_country = {
 		50 = dhe_fortune_cult.2
 		50 = dhe_fortune_cult.3
 		10 = dhe_fortune_cult.4
-		100 = dhe_buddhism.1 # Buddhism event
-		100 = dhe_jainism.1 # Jainism event
 		200 = character_events.6
 		200 = character_events.7
 		100 = country_diplomacy.1 # Country Diplomacy Events
@@ -583,9 +575,6 @@ main_event_pulse_country = {
 		100 = country_diplomacy.20
 		100 = country_diplomacy.28
 		100 = country_diplomacy.30
-		500 = dhe_judea.1
-		500 = dhe_judea.6
-		500 = dhe_judea.8
 		100 = ip_republic.43
 		100 = p_actor.1
 		25 = ip_republic.44
@@ -612,15 +601,6 @@ main_event_pulse_country = {
 		###Misc and CL
 		100 = commander_loyalty.10
 		100 = city.22
-		#ROME DHE
-		400 = dhe_rome.1
-		400 = dhe_rome.2
-		400 = dhe_rome.3
-		400 = dhe_rome.4
-		400 = dhe_rome.5
-		400 = dhe_rome.6
-		400 = dhe_rome.7
-		400 = dhe_rome.8
 		#SLAVE DHE
 		100 = dhe_slave.1
 		100 = dhe_slave.2
@@ -650,10 +630,6 @@ main_event_pulse_country = {
 		300 = ip_monarchy.54
 		300 = ip_monarchy.59
 		300 = ip_monarchy.64
-		# DHE MASSALIA
-		300 = dhe_massalia.1
-		300 = dhe_massalia.10
-		600 = dhe_massalia.13
 		# FOOD EVENTS
 		150 = food_events.1
 		150 = food_events.2
@@ -724,7 +700,7 @@ yearly_gambling_pulse = {
 yearly_disaster_pulse = {
 	trigger = {
 		num_of_cities >= 5
-		current_date > 480.1.1
+		current_date > 183.1.1
 	}
 	events = {
 

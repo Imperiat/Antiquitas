@@ -186,14 +186,6 @@
 				add_charisma = 1
 			}
 		}
-		if = {
-			limit = {
-				scope:former_ruler = char:37
-				tag = PRY
-			}
-			trigger_event = diadochi_flavor.8 #Antigonus bad
-			trigger_event = diadochi_flavor.9 #Antigonus good
-		}
 	}
 	events = {
 		country_rename.1 # SEL/MRY/PRY name change

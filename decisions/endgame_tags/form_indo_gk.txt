@@ -65,7 +65,6 @@
 					duration = -1
 				}
 			}
-            		trigger_event = indo_greek.1
 			change_country_name = "INDUS_NAME"
 			hidden_effect = {
 				change_country_adjective = "INDUS_ADJECTIVE"

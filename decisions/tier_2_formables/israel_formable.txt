@@ -78,11 +78,6 @@
 					}
 					set_as_coruler = scope:new_judean_co_ruler
 				}
-
-				trigger_event = {
-					id = judea_inv.52
-					days = 1
-				}
 			}
 		}
 	}

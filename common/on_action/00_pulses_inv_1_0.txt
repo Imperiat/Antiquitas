@@ -149,7 +149,7 @@ fix_succession_on_action = {
 yearly_invictus_disaster_pulse = {
 	trigger = {
 		num_of_cities >= 5
-		current_date > 480.1.1
+		current_date > 183.1.1
 	}
 	random_events = {
 		3000 = 0

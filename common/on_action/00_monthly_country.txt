@@ -2,12 +2,6 @@
 
 	events = {
 		rel_flavor_druidic.10
-		dhe_rome.9
-		dhe_judea.2
-		dhe_judea.3
-		dhe_judea.4
-		dhe_judea.5
-		dhe_judea.7
 		family_events.1 #Rise of a Family
 		family_events.2 #Prune Family
 		family_events.5 #Rise of new Royal Dynasty
@@ -21,11 +15,6 @@
 	random_events = {
 		550 = 0
 		5 = comet.4
-		5 = flavor_germanics.1
-		5 = flavor_gaul.1
-		25 = flavor_germanics.6
-		25 = flavor_germanics.7
-		25 = flavor_germanics.13
 	}
 	on_actions = {
 		dictatorship_power_held_pulse

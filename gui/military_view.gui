@@ -1,4 +1,4 @@
-﻿@sidemargins = 2
+@sidemargins = 2
 @topmargins = 14
 @maxwidth = 640
 @listbuttonwidth = 592
@@ -75,83 +75,15 @@ base_window = {
 	}
 
 	base_sub_window = {
-		size = { 640 894 }
+		size = { 705 894 }
 		position = { 640 4 }
 		visible = "[MilitaryView.IsShowTraditions]"
 		blockoverride "Title_text" { text = "TRADITION_SUBWINDOW_TITLE" }
 		movable = no
-		widget = {
-			size = { 100% 890 }
-			scissor = yes
-			flowcontainer = {
-				alpha = 0.5
-				position = { 4 -3 }
-				ignoreinvisible = yes
-				margin_top = 34
-				datamodel = "[MilitaryView.GetTrees]"
-				item = {
-					flowcontainer = {
-						direction = vertical
-						datamodel = "[TraditionTreeItem.GetItems]"
-						ignoreinvisible = yes
-						visible = "[GetVariableSystem.HasValue( 'tradition_tabs', TraditionTreeItem.GetTraditionTree.GetName )]"
-						item = {
-							icon = {
-								visible = "[BonusNode.GetItem.IsOwned]"
-								name = "background_image"
-								texture = "[GetTraditionIcon( BonusNode.GetItem.GetBonus )]"
-								size = { 181 66 }
-
-								#color = "[TraditionTreeItem.GetTraditionTree.GetColor]"
-
-								modify_texture = {
-									name = "Alpha"
-									spriteType = Corneredstretched
-									texture = "gfx/interface/base_parts/horizontal_gradient_stretch.dds"
-									blend_mode = alphamultiply
-								}
-							}
-						}
-					}
-				}
-			}
-			flowcontainer = {
-				position = { -4 -3 }
-				parentanchor = right
-				ignoreinvisible = yes
-				margin_top = 34
-				datamodel = "[MilitaryView.GetTrees]"
-				item = {
-					flowcontainer = {
-						direction = vertical
-						datamodel = "[TraditionTreeItem.GetItems]"
-						ignoreinvisible = yes
-						visible = "[GetVariableSystem.HasValue( 'tradition_tabs', TraditionTreeItem.GetTraditionTree.GetName )]"
-						item = {
-							icon = {
-								name = "background_image"
-								texture = "[GetTraditionIcon( BonusNode.GetItem.GetBonus )]"
-								visible = "[BonusNode.GetItem.IsOwned]"
-								size = { 181 66 }
-
-								#color = "[TraditionTreeItem.GetTraditionTree.GetColor]"
-
-								modify_texture = {
-									name = "Alpha"
-									spriteType = Corneredstretched
-									texture = "gfx/interface/base_parts/horizontal_gradient_stretch_inverted.dds"
-									blend_mode = alphamultiply
-								}
-							}
-						}
-					}
-				}
-			}
-		}
 
 		zoomarea = {
 			name = "graph_zoomarea" # Do not change this name
-			size = { 632 859 }
+			size = { 687 859 }
 			position = { 0 -5 }
 			blockoverride "EdgeAlpha" {  }
 			blockoverride "Margins" {
@@ -166,14 +98,14 @@ base_window = {
 			  duration = 0.15
 			}
 			draggable_by = left|middle
-			zoom = 0.8
-			zoom_step = 0.2
-			zoom_min = 0.2
-			zoom_max = 1.1
-			pan_position = { 30 160 }
+			zoom = 0.9
+			zoom_step = 0.4
+			zoom_min = 0.7
+			zoom_max = 1.8
+			pan_position = { -5 60 }
 			zoom_indicator = {
 				parentanchor = bottom|right
-				position = { -8 -8 }
+				pan_position = { -7 50 }
 				blockoverride "On_Click" {
 					onclick = "[MilitaryView.ResetZoomAreaPosition]"
 				}
@@ -706,21 +638,9 @@ base_window = {
 
 					icon = {
 						texture = "gfx/interface/event_window/Event_local_life.dds"
-						visible = "[Not(GetScriptedGui('UI_is_eastern_culture').IsValid( GuiScope.SetRoot( Player.MakeScope ).End ))]"
 						scale = 0.32
 						alpha = 0.87
 						position = { 12 0 }
-					}
-					icon = {
-						texture = "gfx/interface/icons/military_traditions/ea_tribal_path_attacking_the_city.dds"
-						visible = "[GetScriptedGui('UI_is_eastern_culture').IsValid( GuiScope.SetRoot( Player.MakeScope ).End )]"
-						scale = 0.85
-						alpha = 0.87
-						position = { 0 2 }
-						modify_texture = {
-							texture = "gfx/interface/base_parts/event_picture_alpha.dds"
-							blend_mode = alphamultiply
-						}
 					}
 					widget = {
 						size = { 132 48 }

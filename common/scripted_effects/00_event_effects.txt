@@ -6216,66 +6216,6 @@ add_city_smoke_effect = {
 	}
 }
 
-flavor_egy_move_magids_effect = {
-	if = {
-		limit = { 
-			root.consort = char:18
-			scope:flavor_egy_2_magas_scope = char:46
-			NOT = { root.consort.family = root.current_ruler.family }
-		}
-		root.consort = { save_scope_as = berenike_scope }
-		save_scope_as = egy_scope
-		if = {
-			limit = {
-				scope:berenike_scope.family = {
-					any_family_member = {
-						employer = root
-						prisoner = no
-						NOT = { this = scope:berenike_scope }
-					}
-				}
-			}
-			hidden_effect = {
-				scope:berenike_scope.family = {
-					every_family_member = {
-						limit = {
-							employer = root
-							prisoner = no
-							NOT = { this = scope:berenike_scope }
-							NOT = { is_child_of = scope:berenike_scope }
-						}
-						set_variable = moving_magid_flag
-						remove_all_positions = yes
-						move_country = scope:flavor_egy_2_magas_scope.employer
-						set_home_country = scope:flavor_egy_2_magas_scope.employer
-						remove_character_modifier = foreign_citizen
-						set_family = scope:flavor_egy_2_magas_scope.family 
-					}
-				}
-			}
-			scope:flavor_egy_2_magas_scope.employer = {
-				trigger_event = { id = flavor_egy.14 }
-			}
-			custom_tooltip = flavor_egy_magid_move_tt
-		}
-		scope:berenike_scope.family = {
-			every_family_member = {
-				limit = {
-					employer = root
-					NOT = { this = scope:berenike_scope }
-					OR = {
-						is_child_of = scope:berenike_scope
-						prisoner = yes
-					}
-				}
-				set_family = root.current_ruler.family
-			}
-		}
-		scope:berenike_scope = { set_family = root.current_ruler.family }
-
-	}
-}
-
 flavor_sel_1_claim_bactria_effect = {
 	every_area_province = {
 		limit = {

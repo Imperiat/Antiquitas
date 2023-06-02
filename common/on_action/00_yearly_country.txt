@@ -14,11 +14,7 @@
 		delay = { days = 150 }
 		claims_pulse
 		delay = { days = { 1 364 } }
-		yuezhi_pulse
-		delay = { days = { 1 364 } }
 		yearly_crisis_start_pulse
-		delay = { days = { 1 364 } }
-		yearly_italian_flavor
 		delay = { days = { 1 364 } }
 		yearly_comet_pulse
 		delay = { days = { 1 364 } }
@@ -76,7 +72,6 @@
 	}
 	events = {
 		country_diplomacy.40
-		dhe_rome.23
 		gw_effects.1	# Great Works martial training
 		gw_effects.2	# Great Works finesse training
 		gw_effects.3	# Great Works charisma training

@@ -212,6 +212,9 @@ NPop = {
 
 
 NCombat = {
+	OVERRUN_RETREAT_UNAVAILABLE = 2
+	OVERRUN_RETREAT_AVAILABLE = 10
+	
 	GREAT_BATTLE_SIZE_THRESHOLD = 8000
 	MORALE_COLLAPSE_THRESHOLD = 0.25
 	PERSONAL_LOYALTY_BONUS = 0.1
@@ -1014,7 +1017,7 @@ NAI = {
 NLevy = {
 	MIN_SIZE = 4 # minimum number of cohorts raised as levy
 	SUPPORT_REQUIREMENT = 9 # every n-th number of cohorts in a levy should be support units
-	DISBAND_MILITARY_EXP_MULT = 0.015 # when disbanding a levy military experience will be added to the country
+	DISBAND_MILITARY_EXP_MULT = 0 # when disbanding a levy military experience will be added to the country
 	EXPERIENCE_GAIN_THRESHOLD = 8 # months that the levy has to be raised before disbanding it will give any military experience
 	WAR_EXHAUSTION_THRESHOLD = 6 # months until a newly raised levy will start contributing to war exhaustion
 	WAR_EXHAUSTION_ON_RAISE = 0.5 # amount of war exhaustion gained from simply raising a levy

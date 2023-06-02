@@ -36,7 +36,7 @@
 	trade_goods="wine"
 	civilization_value=37
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=11
 	}
@@ -55,7 +55,7 @@
 	trade_goods="salt"
 	civilization_value=37
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=11
 	}
@@ -140,7 +140,7 @@
 	trade_goods="iron"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		culture="hebrew"
 		religion="judaism"

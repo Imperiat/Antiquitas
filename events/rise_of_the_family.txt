@@ -41,7 +41,6 @@ family_events.1 = {
 					NOT = { has_variable = olympic_attendee }
 					#NOT = { has_character_modifier = was_once_great }
 					NOT = { has_character_modifier = foreign_citizen }
-					NOT = { has_variable = pyrrhus_travelling }
 					prisoner = no
 					trigger_if = {
 						limit = { employer = { gender_equality = no } }
@@ -61,7 +60,6 @@ family_events.1 = {
 					NOT = { has_variable = olympic_attendee }
 					#NOT = { has_character_modifier = was_once_great }
 					NOT = { has_character_modifier = foreign_citizen }
-					NOT = { has_variable = pyrrhus_travelling }
 					prisoner = no
 					trigger_if = {
 						limit = { employer = { gender_equality = no } }
@@ -88,7 +86,6 @@ family_events.1 = {
 					NOT = { has_variable = olympic_attendee }
 					#NOT = { has_character_modifier = was_once_great }
 					NOT = { has_character_modifier = foreign_citizen }
-					NOT = { has_variable = pyrrhus_travelling }
 					prisoner = no
 					trigger_if = {
 						limit = { employer = { gender_equality = no } }
@@ -260,9 +257,8 @@ family_events.2 = {
 	picture = council_country
 
 	trigger = {
-		NOR = {
+		NOT = {
 			has_variable = rising_from_obscurity_cooldown
-			has_variable = cyrenaica_dropper_flag
 		}
 		has_land = yes
 		num_of_families > num_allowed_families
@@ -406,7 +402,6 @@ family_events.3 = {
 						NOT = { has_trait = selfish }
 						NOT = { has_trait = arrogant }
 						NOT = { has_trait = stubborn }
-						NOT = { has_variable = pyrrhus_travelling }
 						OR = {
 							has_culture = root.culture
 							citizenship_restrictions_trigger = yes
@@ -439,7 +434,6 @@ family_events.3 = {
 						NOT = { has_trait = selfish }
 						NOT = { has_trait = arrogant }
 						NOT = { has_trait = stubborn }
-						NOT = { has_variable = pyrrhus_travelling }
 						OR = {
 							has_culture = root.culture
 							citizenship_restrictions_trigger = yes
@@ -486,9 +480,8 @@ family_events.4 = {
 	trigger = {
 		employer =  {
 			is_ai = no
-			NOT = { has_variable = death_to_tyrants_flag }
 		}
-		current_date > 451.3.1 #No need to do this just when the game starts.
+		current_date > 154.11.1 #No need to do this just when the game starts.
 		NOT = { has_variable = adoption_reminder }
 		is_ruler = yes
 		is_minor_character = no
@@ -536,14 +529,6 @@ family_events.4 = {
 						NOT = { has_trait = selfish }
 						NOT = { has_trait = arrogant }
 						NOT = { has_trait = stubborn }
-						NOT = { has_variable = pyrrhus_travelling }
-						NAND = {
-							employer = c:SYR
-							OR = {
-								has_variable = me_syr_democracy_leader
-								has_variable = rebel_character_flag
-							}
-						}
 						citizenship_restrictions_trigger = yes
 					}
 				}
@@ -571,15 +556,7 @@ family_events.4 = {
 						NOT = { has_trait = selfish }
 						NOT = { has_trait = arrogant }
 						NOT = { has_trait = stubborn }
-						NOT = { has_variable = pyrrhus_travelling }
 						citizenship_restrictions_trigger = yes
-						NAND = {
-							employer = c:SYR
-							OR = {
-								has_variable = me_syr_democracy_leader
-								has_variable = rebel_character_flag
-							}
-						}
 					}
 					save_scope_as = adopted_person
 				}
@@ -608,15 +585,7 @@ family_events.4 = {
 						NOT = { has_trait = selfish }
 						NOT = { has_trait = arrogant }
 						NOT = { has_trait = stubborn }
-						NOT = { has_variable = pyrrhus_travelling }
 						citizenship_restrictions_trigger = yes
-						NAND = {
-							employer = c:SYR
-							OR = {
-								has_variable = me_syr_democracy_leader
-								has_variable = rebel_character_flag
-							}
-						}
 					}
 					save_scope_as = adopted_person_2
 				}

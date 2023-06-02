@@ -8,7 +8,7 @@ boar_vessel.1 = {
 	picture = farming
 	
 	trigger = {
-		current_date > 490.1.1
+		current_date > 193.1.1
 		tag = ETR
 		treasury >= 500
 		any_owned_province = {

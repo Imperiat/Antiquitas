@@ -96,17 +96,6 @@
 				move_country = c:MER
 			}
 		}
-		if = {
-			limit = {
-				scope:actor = {
-					has_variable = celtic_mercenary_allowance
-				}
-			}
-			set_variable = {
-				name = celtic_mercenary_created
-				value = 1
-			}
-		}
 		custom_tooltip = create_mercenary_may_return_some_day_tt
 		
 	}

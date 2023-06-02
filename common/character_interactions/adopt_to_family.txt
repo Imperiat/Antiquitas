@@ -39,7 +39,6 @@
 			NOT = { has_trait = selfish }
 			NOT = { has_trait = arrogant }
 			NOT = { has_trait = stubborn }
-			NOT = { has_variable = pyrrhus_travelling }
 			scope:actor.current_ruler.family = {
 				prestige > adoption_cost_svalue
 			}

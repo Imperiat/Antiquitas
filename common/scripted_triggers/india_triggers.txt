@@ -13,16 +13,3 @@
 		trade_goods = silk
 	}
 }
-
-indo_greek_indian_culture_province_trigger = {
-	OR = {
-		dominant_province_culture = purus
-		dominant_province_culture = sindhi
-		dominant_province_culture = dardic
-		dominant_province_culture = kuru
-		dominant_province_culture = gandhari
-		dominant_province_culture = sivi
-		dominant_province_culture = dardic
-		dominant_province_culture = magadhi				
-	}
-}

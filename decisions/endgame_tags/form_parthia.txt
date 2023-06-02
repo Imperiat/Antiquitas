@@ -75,10 +75,6 @@
 				change_country_color = "dahae_color"
 				change_country_tag = DHE
 				change_country_flag = DAHAE_FLAG
-				trigger_event = {
-					id = dhe_parthians.1
-					days = 30
-				}
 			}
 			hidden_effect = {
 				area:parthia_area = {

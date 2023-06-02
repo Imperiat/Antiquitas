@@ -5,7 +5,7 @@ monsoon.1 = {	#Northeast India
 	hidden = yes
 
 	trigger = {
-		current_date > 451.1.1	
+		current_date > 154.1.1	
 		NOT = { has_global_variable = is_monsoon_season }
 		any_owned_province = { 
 			city_is_in_india_trigger = yes

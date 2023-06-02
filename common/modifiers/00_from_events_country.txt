@@ -1085,24 +1085,6 @@ wealthy_family_lends_senate_support = {
 
 }
 
-dhe_dde_pyrrhus_molossians_placated_cm = {
-    change_governor_policy_cost_modifier = -0.25
-}
-
-dhe_dde_pyrrhus_molossians_angered_cm = {
-    character_loyalty = -5
-    monthly_legitimacy = -0.30
-}
-
-dhe_dde_pyrrhus_readiness_for_war_cm = {
-    land_morale_modifier = 0.05
-    global_manpower_modifier = 0.1
-}
-
-dhe_dde_pyrrhus_blessings_of_dodona_cm = {
-    omen_power = 0.10
-}
-
 country_improvement_hindu_grand_ceremony = {
     happiness_for_same_religion_modifier = 0.1
     land_morale_modifier = 0.1
@@ -1200,11 +1182,6 @@ dhe_rome_carthaginian_ships = {
 
 yuezhi_hate_us = {
     happiness_for_wrong_culture_modifier = negative_wrong_culture_large
-}
-
-dhe_dde_pyrrhus_dodona_boon_cm = {
-    land_morale_modifier = 0.1
-    religious_tech_investment = 0.1
 }
 
 dhe_rome_avoided_carthage_conflict_cm = {
