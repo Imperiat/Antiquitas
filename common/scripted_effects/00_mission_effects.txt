@@ -4299,7 +4299,6 @@ me_gre_2_change_gov_effect = {
 }
 
 me_gre_2_variable_clearer_effect = {
-	remove_variable = gm_2_greek_country_flag
 	if = {
 		limit = { has_variable = me_gre_2_7_block }
 		remove_variable = me_gre_2_7_block

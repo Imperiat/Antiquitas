@@ -60,16 +60,6 @@
 			change_country_name = "PONTUS_NAME"
 			monarchy_formable_government_change_effect = yes
 			if = {
-				limit = { has_variable = kios_start_flag }
-				current_ruler = { add_nickname = NICKNAME_KTISTES }
-			}
-			hidden_effect = {
-				change_country_adjective = "PONTUS_ADJECTIVE"
-				change_country_color = "pontus_color"
-				change_country_tag = PTU
-				change_country_flag = PON
-			}
-			if = {
 				limit = {
 					p:1819 = { is_capital = no }
 				}

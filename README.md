@@ -1,2 +1,1 @@
-# Class
- 
+# This is the code for the Imperator Rome mod Antiquitas.

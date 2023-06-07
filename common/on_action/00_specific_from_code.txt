@@ -454,26 +454,20 @@ on_civil_war_won = {
 		}
 		if = {
 			limit = {
-				has_variable = rome_schism_happened
+				government = imperium
 			}
-			remove_variable = rome_schism_happened
-			if = {
-				limit = {
-					government = imperium
-				}
-				change_country_name = "roman_empire_name"
-			}
-			else_if = {
-				limit = {
-					is_monarchy = yes
-				}
-				change_country_name = "roman_kingdom_name"
-			}
-			else = {
-				change_country_name = "ROM"
-			}
-			change_country_adjective = "roman"
+			change_country_name = "roman_empire_name"
 		}
+		else_if = {
+			limit = {
+				is_monarchy = yes
+			}
+			change_country_name = "roman_kingdom_name"
+		}
+		else = {
+			change_country_name = "ROM"
+		}
+		change_country_adjective = "roman"
 		if = {
 			limit = {
 				any_governorships = { has_legion_trigger = yes }
@@ -1732,10 +1726,6 @@ on_ownership_change = { #province scope
 				}
 				remove_from_list = gm_1_hellenic_liberation_list
 			}
-			if = {
-				limit = { has_variable = gm_1_bartered_flag }
-				remove_variable = gm_1_bartered_flag
-			}
 		}
 	}
 	events = {
@@ -2120,9 +2110,6 @@ character_story_events =
 		2 = friend_rival.10
 		# Tribal Pol events
 		50 = tribal_pol.24
-		# Cult of Fortune events
-		1 = dhe_fortune_cult.10
-		1 = dhe_fortune_cult.11
 		# Other
 		3 = character_events.14
 		200 = character_events.18

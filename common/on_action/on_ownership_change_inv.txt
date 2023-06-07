@@ -76,10 +76,6 @@
 				}
 				remove_from_list = gm_1_hellenic_liberation_list
 			}
-			if = {
-				limit = { has_variable = gm_1_bartered_flag }
-				remove_variable = gm_1_bartered_flag
-			}
 		}
 	}
 }

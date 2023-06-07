@@ -1109,7 +1109,6 @@ military_inventions = {
 			OR = {
 				tag = PRY
 				tag = ALX
-				has_variable = me_ant_start_flag
 			}
 		}
 		keystone = yes

@@ -81,7 +81,6 @@ deity_isis = { # FERTILITY
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			has_variable = isis_cult
 			religion = egyptian_pantheon
 			religion = berber_religion
 			religion_pops_in_country = {

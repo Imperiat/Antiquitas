@@ -21,10 +21,7 @@
 			}
 		}
 		hidden:scope:actor = {
-			OR = {
-				is_monarchy = yes
-				has_variable = celtic_mercenary_allowance
-			}
+			is_monarchy = yes
 		}
 	}
 	
