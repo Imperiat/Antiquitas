@@ -79,7 +79,6 @@
 				tag = PON
 				tag = PTU
 			}
-			has_variable = greco_pontic_traditions
 			NOT = { has_variable = hellenistic_omens }
 			OR = {
 				religion = roman_pantheon

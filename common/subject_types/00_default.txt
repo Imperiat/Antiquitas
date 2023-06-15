@@ -200,38 +200,6 @@ feudatory = { #Latin Allies
                  days = { 1 2 }
              }
          }
-         if = {
-             limit = {
-                 has_country_modifier = athenian_mission_04_loyalist_path
-             }
-             remove_country_modifier = athenian_mission_04_loyalist_path
-         }
-         if = {
-             limit = {
-                 has_variable = delos_feudatory
-             }
-             overlord = {
-                 if = {
-                     limit = {
-                         has_country_modifier = athenian_mission_04_religious_delos_modifier
-                     }
-                     remove_country_modifier = athenian_mission_04_religious_delos_modifier
-                 }
-             }
-         }
-         if = {
-             limit = {
-                 has_variable = olympia_feudatory
-             }
-             overlord = {
-                 if = {
-                     limit = {
-                         has_country_modifier = spartan_mission_02_religious_olympia_modifier
-                     }
-                     remove_country_modifier = spartan_mission_02_religious_olympia_modifier
-                 }
-             }
-         }
      }
     # on_monthly = {}
     

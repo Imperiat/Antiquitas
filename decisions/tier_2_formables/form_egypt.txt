@@ -129,11 +129,6 @@
 				region:lower_egypt_region = { formable_region_province_effect = yes }
 				region:upper_egypt_region = { formable_region_province_effect = yes }
 			}
-			hidden_effect = {
-				set_variable = {
-					name = ach_new_kingdom_var
-				}
-			}
 			add_3_free_province_investments = yes
 		}
 		

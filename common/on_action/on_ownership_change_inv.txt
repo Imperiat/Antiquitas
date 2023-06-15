@@ -55,27 +55,5 @@
 				remove_holding = root
 			}
 		}
-		if = {
-			limit = {
-				any_in_list = {
-					list = gm_1_hellenic_liberation_list
-					this = root
-				}
-			}
-			if = {
-				limit = {
-					OR = {
-						AND = {
-							has_owner = yes
-							owner = {
-								country_culture_group = hellenic
-							}
-						}
-						has_owner = no
-					}
-				}
-				remove_from_list = gm_1_hellenic_liberation_list
-			}
-		}
 	}
 }

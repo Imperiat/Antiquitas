@@ -773,14 +773,6 @@ cities_in_province_svalue = {
 	min = 0
 }
 
-rm_punic_exodus_svalue = {
-	value = c:ROM.var:rm_punic_exodus_pop_total
-}
-
-rm_gallic_exodus_svalue = {
-	value = c:ROM.var:rm_gallic_exodus_pop_total
-}
-
 rm_total_latin_subject_strength_svalue = {
 	value = 0
 	every_subject = {
@@ -794,22 +786,6 @@ rm_total_latin_subject_strength_svalue = {
 			add = 1
 		}
 	}
-	min = 0
-}
-
-rm_offer_bully_svalue = {
-	value = 0
-	scope:rm_offer_scope = {
-		every_country_sub_unit = {
-			add = 1
-		}
-		every_allied_country = {
-			every_country_sub_unit = {
-				add = 1
-			}
-		}
-	}
-	multiply = 2
 	min = 0
 }
 
@@ -978,77 +954,6 @@ cm_economic_ports_counter_svalue = {
 	max = 10
 }
 
-rm_land_grants_svalue = {
-	value = var:rm_land_grants_counter_var
-}
-
-rm_4_deter_convinced_counter_svalue = {
-	value = 0
-	if = {
-		limit = {
-			any_country = { has_variable = rm_4_deter_convinced_flag }
-		}
-		every_country = {
-			limit = { has_variable = rm_4_deter_convinced_flag }
-			add = 1
-		}
-	}
-}
-
-rm_4_deter_loyal_counter_svalue = {
-	value = 0
-	if = {
-		limit = {
-			any_country = { 
-				NOT = { has_variable = rm_4_deter_convinced_flag }
-				has_variable = rm_4_convincing_flag
-				OR = {
-					alliance_with = c:CAR
-					is_subject_of = c:CAR
-				}
-			}
-		}
-		every_country = {
-			limit = { 
-				NOT = { has_variable = rm_4_deter_convinced_flag }
-				has_variable = rm_4_convincing_flag
-				OR = {
-					alliance_with = c:CAR
-					is_subject_of = c:CAR
-				}
-			}
-			add = 1
-		}
-	}
-}
-
-rm_4_deter_unconvinced_counter_svalue = {
-	value = 0
-	if = {
-		limit = {
-			any_country = { 
-				NOT = { has_variable = rm_4_deter_convinced_flag }
-				has_variable = rm_4_convincing_flag
-				NOR = {
-					alliance_with = c:CAR
-					is_subject_of = c:CAR
-				}
-			}
-		}
-		every_country = {
-			limit = { 
-				NOT = { has_variable = rm_4_deter_convinced_flag }
-				has_variable = rm_4_convincing_flag
-				NOR = {
-					alliance_with = c:CAR
-					is_subject_of = c:CAR
-				}
-			}
-			add = 1
-		}
-	}
-}
-
 rm_4_rome_city_count_counter_svalue = {
 	value = 0
 	if = {
@@ -1085,19 +990,6 @@ rm_4_rome_subject_city_counter_svalue = {
 					every_owned_province = { add = 1 }
 				}
 			}
-		}
-	}
-}
-
-rm_siculia_counter_svalue = {
-	value = 0 
-	if = {
-		limit = {
-			any_country = { has_variable = rm_4_deter_convinced_flag }
-		}
-		every_country = {
-			limit = { has_variable = rm_4_deter_convinced_flag }
-			add = 1
 		}
 	}
 }
