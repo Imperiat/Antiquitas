@@ -9,16 +9,8 @@
 	nobles={
 		amount=1
 	}
-	nobles={
-		culture="athenian"
-		amount=1
-	}
 	citizen={
 		amount=6
-	}
-	citizen={
-		culture="athenian"
-		amount=2
 	}
 	freemen={
 		amount=6
@@ -31,7 +23,7 @@
 
 277={ #Skyros
 	terrain="hills"
-	culture="macedonian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=24
@@ -443,10 +435,6 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="athenian"
-		amount=1
-	}
 	slaves={
 		amount=3
 	}
@@ -493,7 +481,7 @@
 
 413={ #Oropos
 	terrain="marsh"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=17
@@ -509,7 +497,7 @@
 
 416={ #Athenai
 	terrain="farmland"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=53
@@ -533,7 +521,7 @@
 
 417={ #Megara
 	terrain="hills"
-	culture="athenian"
+	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=37
@@ -720,11 +708,6 @@
 		amount=1
 	}
 	citizen={
-		culture="athenian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		culture="peloponnesian"
 		religion="roman_pantheon"
 		amount=2
@@ -736,11 +719,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="athenian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		culture="arcadian"
@@ -769,11 +747,6 @@
 	}
 	slaves={
 		culture="arcadian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		culture="athenian"
 		religion="roman_pantheon"
 		amount=1
 	}
@@ -969,7 +942,7 @@
 	trade_goods="earthware"
 	civilization_value=28
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount=2
 	}
@@ -1645,7 +1618,7 @@
 
 472={ #Karthaia
 	terrain="hills"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=19
@@ -1792,14 +1765,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="athenian"
-		amount=1
-	}
-	slaves={
-		culture="athenian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1832,16 +1797,8 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="athenian"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="athenian"
-		amount=1
 	}
 }
 
@@ -1885,7 +1842,7 @@
 
 7799={ #Thorikos
 	terrain="plains"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=21
@@ -2069,7 +2026,7 @@
 
 7897={ #Eleusis
 	terrain="plains"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=21
@@ -2089,7 +2046,7 @@
 
 7898={ #Rhamnous
 	terrain="hills"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=19
@@ -2144,7 +2101,7 @@
 
 7902={ #Salamis
 	terrain="hills"
-	culture="athenian"
+	culture="peloponnesian"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
@@ -2278,4 +2235,3 @@
 		amount=3
 	}
 }
-

@@ -1172,16 +1172,6 @@ me_syr_4_support_opmod_2 = {
 	yearly_decay = 2
 }
 
-athenian_mission_01_foreign_rulership_subservient_subject_opinion = {
-	value = 25
-	yearly_decay = 1
-}
-
-athenian_mission_01_foreign_rulership_case_for_independence_opinion = {
-	value = -50
-	yearly_decay = 2
-}
-
 me_gre_1_barter_rejection_opmod = {
 	value = -25
 	yearly_decay = 1
@@ -1194,16 +1184,6 @@ me_gre_1_happy_metropolis_opmod = {
 
 me_gre_1_sad_metropolis_opmod = {
 	value = -50
-	yearly_decay = 1
-}
-
-athenian_mission_01_foreign_rulership_securing_protection_positive_opinion = {
-	value = 25
-	yearly_decay = 2
-}
-
-athenian_mission_01_foreign_rulership_securing_protection_negative_opinion = {
-	value = -10
 	yearly_decay = 1
 }
 
@@ -1220,11 +1200,6 @@ me_gre_1_sad_metro_type_opmod = {
 me_gre_1_16_bad_opmod = {
 	value = -50
 	yearly_decay = 3
-}
-
-athenian_mission_04_athenian_subject = {
-	value = 25
-	yearly_decay = 1
 }
 
 me_gre_2_20_opmod = {

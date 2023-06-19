@@ -170,10 +170,6 @@
 		amount=5
 	}
 	freemen={
-		culture="athenian"
-		amount=1
-	}
-	freemen={
 		culture="mariandynian"
 		amount=1
 	}
@@ -1390,10 +1386,6 @@
 		amount=1
 	}
 	citizen={
-		culture="athenian"
-		amount=1
-	}
-	citizen={
 		culture="pasargadi"
 		religion="zoroaster"
 		amount=1
@@ -1489,14 +1481,6 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		culture="athenian"
-		amount=1
-	}
-	nobles={
-		amount=1
-	}
-	citizen={
-		culture="athenian"
 		amount=1
 	}
 	citizen={

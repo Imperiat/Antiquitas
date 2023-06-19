@@ -3223,209 +3223,6 @@ me_syr_4_1_effect = {
     }
 }
 
-athenian_mission_loyalist_family_bonus_effect = {
-	if = {
-		limit = {
-			exists = scope:loyalist_family
-		}
-		scope:loyalist_family = {
-    		add_prestige = 75
-    		custom_tooltip = athenian_mission_loyalist_family_loyalty_tt
-    		hidden_effect = {
-        		every_family_member = {
-        			add_loyalty = athenian_mission_01_appreciative_family
-        		}
-    		}
-    	}
-    	if = {
-    		limit = {
-    			exists = scope:independence_family
-    		}
-    		scope:independence_family = {
-    			add_prestige = -75
-    			custom_tooltip = athenian_mission_independence_family_disloyalty_tt
-    			hidden_effect = {
-    				every_family_member = {
-    					add_loyalty = athenian_mission_01_unappreciative_family
-    				}
-    			}
-    		}
-    	}
-	}	
-}
-
-athenian_mission_independence_family_bonus_effect = {
-	if = {
-		limit = {
-			exists = scope:independence_family
-		}
-		scope:independence_family = {
-    		add_prestige = 75
-    		custom_tooltip = athenian_mission_independence_family_loyalty_tt
-    		hidden_effect = {
-        		every_family_member = {
-        			add_loyalty = athenian_mission_01_appreciative_family
-        		}
-    		}
-    	}
-    	if = {
-    		limit = {
-    			exists = scope:loyalist_family
-    		}
-    		scope:loyalist_family = {
-    			add_prestige = -75
-    			custom_tooltip = athenian_mission_loyalist_family_disloyalty_tt
-    			hidden_effect = {
-    				every_family_member = {
-    					add_loyalty = athenian_mission_01_unappreciative_family
-    				}
-    			}
-    		}
-    	}
-	}	
-}
-
-athenian_mission_loyalist_path_modifier_effect = {
-	custom_tooltip = athenian_mission_loyalist_path_modifier_effect_tt
-	if = {
-		limit = {
-			has_country_modifier = athenian_mission_04_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_04_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_03_independence_path
-			duration = 10950
-		}
-	}
-	if = {
-		limit = {
-			has_country_modifier = athenian_mission_03_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_03_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_02_independence_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_02_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_02_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_01_independence_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_01_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_01_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_01_loyalist_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_01_loyalist_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_01_loyalist_path }
-		add_country_modifier = {
-			name = athenian_mission_02_loyalist_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_02_loyalist_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_02_loyalist_path }
-		add_country_modifier = {
-			name = athenian_mission_03_loyalist_path
-			duration = 10950
-		}
-	}
-	else = {
-		add_country_modifier = {
-			name = athenian_mission_01_loyalist_path
-			duration = 10950
-		}
-	}
-}
-
-athenian_mission_independence_path_modifier_effect = {
-	custom_tooltip = athenian_mission_independence_path_modifier_effect_tt
-	if = {
-		limit = {
-			has_country_modifier = athenian_mission_03_loyalist_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_03_loyalist_path }
-		add_country_modifier = {
-			name = athenian_mission_02_loyalist_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_02_loyalist_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_02_loyalist_path }
-		add_country_modifier = {
-			name = athenian_mission_01_loyalist_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_01_loyalist_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_01_loyalist_path }
-		add_country_modifier = {
-			name = athenian_mission_01_independence_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_01_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_01_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_02_independence_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_02_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_02_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_03_independence_path
-			duration = 10950
-		}
-	}
-	else_if = {
-		limit = {
-			has_country_modifier = athenian_mission_03_independence_path
-		}
-		hidden_effect = { remove_country_modifier = athenian_mission_03_independence_path }
-		add_country_modifier = {
-			name = athenian_mission_04_independence_path
-			duration = 10950
-		}
-	}
-	else = {
-		add_country_modifier = {
-			name = athenian_mission_01_independence_path
-			duration = 10950
-		}
-	}
-}
-
-
 gm_1_bartering_portrait_effect = {
 	if = {
 		limit = {
@@ -3646,16 +3443,6 @@ gm_1_list_effect = {
 	}
 }
 
-
-athenian_mission_01_variable_cleanup_effect = {
-	if = {
-		limit = {
-			has_variable = athenian_mission_01_task_4_aborted
-		}
-		remove_variable = athenian_mission_01_task_4_aborted
-	}
-}
-
 me_gre_1_3_effect = {
 	if = {
 		limit = {
@@ -3811,42 +3598,6 @@ me_gre_1_3_effect = {
 		}
 	}
 	else = { custom_tooltip = greek_1_3_reward_tt }
-}
-
-athenian_mission_02_variable_cleanup_effect = {
-	if = {
-		limit = {
-			has_variable = attican_minerals_enabled
-		}
-		remove_variable = attican_minerals_enabled
-	}
-	if = {
-		limit = {
-			has_variable = attica_for_athens_disabled
-		}
-		remove_variable = attica_for_athens_disabled
-	}
-	if = {
-		limit = {
-			has_variable = athenian_mission_02_attica_task_3_effect_1
-		}
-		remove_variable = athenian_mission_02_attica_task_3_effect_1
-	}
-}
-
-athenian_mission_04_variable_cleanup_effect = {
-	if = {
-		limit = {
-			has_variable = athenian_mission_04_ionia_route
-		}
-		remove_variable = athenian_mission_04_ionia_route
-	}
-	if = {
-		limit = {
-			has_variable = athenian_mission_04_europa_route
-		}
-		remove_variable = athenian_mission_04_europa_route
-	}
 }
 
 me_gre_2_3_effect = {
@@ -4095,7 +3846,7 @@ me_gre_2_regional_subjects_effect = {
                 save_scope_as = attic_league_scope
                 add_treasury = 100
                 change_country_color = ocean_blue
-                set_primary_culture = athenian
+                set_primary_culture = attican
                 me_gre_2_change_gov_effect = yes
                 add_country_modifier = { name = me_gre_2_self_government_cmod }
             }

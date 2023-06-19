@@ -427,7 +427,7 @@ zorgo_event.10 = {
 					first_name = "Euthymios"
 					age = 32
 					female = no
-					culture = athenian
+					culture = attican
 					religion = roman_pantheon
 					save_scope_as = euthymios
 				}

@@ -87,8 +87,6 @@
 		startup_variables_unique_mechanics_effect = yes
 		### Unique Deities ###
 		startup_variables_unique_deities_effect = yes
-		### Achievement Checks ###
-		startup_variables_achievement_effect = yes
 		### Cultural Minority Rights ###
 		startup_cultural_decisions_effect = yes
 		### Other ###

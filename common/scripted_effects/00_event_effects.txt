@@ -9142,14 +9142,6 @@ clear_loyalty_effect = {
 		remove_loyalty = national_conversion_l
 	}
 	if = {
-		limit = { has_loyalty = athenian_mission_01_appreciative_family }
-		remove_loyalty = athenian_mission_01_appreciative_family
-	}
-	if = {
-		limit = { has_loyalty = athenian_mission_01_unappreciative_family }
-		remove_loyalty = athenian_mission_01_unappreciative_family
-	}
-	if = {
 		limit = { has_loyalty = loyalty_tyrant_family_upset }
 		remove_loyalty = loyalty_tyrant_family_upset
 	}

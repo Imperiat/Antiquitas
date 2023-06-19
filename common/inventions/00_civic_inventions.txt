@@ -46,7 +46,7 @@
 		}
 		requires = { greek_advanced_mechanics_inv }
 		allow = {
-			primary_culture = athenian
+			primary_culture = attican
 		}
 	}
 
@@ -551,10 +551,7 @@
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					OR = {
-						has_variable = nubian_science
-						has_variable = new_egyptian_dynasty
-					}
+					has_variable = nubian_science
 					any_country_culture = {
 						is_integrated = yes
 						this.culture.culture_group = culture_group:meroitic_group
@@ -685,10 +682,7 @@
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					OR = {
 					has_variable = nubian_science
-					has_variable = new_egyptian_dynasty
-					}
 					any_country_culture = {
 						is_integrated = yes
 						this.culture.culture_group = culture_group:meroitic_group
@@ -714,10 +708,7 @@
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					OR = {
 					has_variable = nubian_science
-					has_variable = new_egyptian_dynasty
-					}
 					any_country_culture = {
 						is_integrated = yes
 						this.culture.culture_group = culture_group:meroitic_group
@@ -1172,7 +1163,7 @@ civic_2 = {
 		modifier = { build_time = -0.1 }
 		requires = { civic_tech_investment_inv_1 }
 		allow = {
-			primary_culture = athenian
+			primary_culture = attican
 		}
 	}
 

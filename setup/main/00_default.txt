@@ -3346,6 +3346,9 @@ provinces = { #Any entry must contain a comment with city name.
 }
 
 road_network = {
+	501 = 500
+	914 = 911
+	899 = 914
 	918 = 915
 	915 = 913
 	913 = 911
@@ -9805,7 +9808,7 @@ country = {
 			#family = 12
 			#family = 13
 			government = democratic_republic
-			primary_culture = athenian
+			primary_culture = attican
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 416
@@ -9835,7 +9838,7 @@ country = {
 
 		IMB = {
 			government = democratic_republic
-			primary_culture = athenian
+			primary_culture = attican
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 297
@@ -9854,7 +9857,7 @@ country = {
 
 		HST = {
 			government = democratic_republic
-			primary_culture = athenian
+			primary_culture = attican
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 270
@@ -10900,9 +10903,9 @@ country = {
 			
 		}
 		
-		MGA = { #Independent, eventually joined Achaean league
+		MGA = { #Megaris
 			government = oligarchic_republic
-			primary_culture = athenian
+			primary_culture = peloponnesian
 			religion = roman_pantheon
 			
 			technology={
@@ -10924,29 +10927,10 @@ country = {
 			}
 		
 			own_control_core = 	{
-				417
+				417 7902
 			}
 			
 			treasures = { 54 111 119 }
-		}
-
-		SAL = {
-			government = oligarchic_republic
-			primary_culture = athenian
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 7902
-			
-			own_control_core = 	{
-				7902
-			}
 		}
 		
 		SPA = { #Sparta
@@ -17742,210 +17726,6 @@ country = {
 			
 			own_control_core = {
 				1464
-			}
-		}
-		
-		BKT = {
-			government = tribal_kingdom
-			primary_culture = pyu
-			religion = roman_pantheon
-			
-			capital = 10096
-			
-			own_control_core = {
-				10096 10095
-			}
-		}
-		
-		MGM = {
-			government = tribal_kingdom
-			primary_culture = pyu
-			religion = roman_pantheon
-			
-			capital = 10093
-			
-			own_control_core = {
-				10093 10092 10091
-			}
-		}
-		
-		BNK = {
-			government = tribal_kingdom
-			primary_culture = pyu
-			religion = roman_pantheon
-			
-			capital = 10094
-			
-			own_control_core = {
-				10094 10097
-			}
-		}
-		
-		HLN = {
-			government = tribal_kingdom
-			primary_culture = pyu
-			religion = roman_pantheon
-			
-			capital = 10089
-			
-			own_control_core = {
-				10089 10085
-			}
-		}
-
-		SRK = {
-			government = tribal_kingdom
-			primary_culture = pyu
-			religion = roman_pantheon
-			
-			capital = 10103
-			
-			own_control_core = {
-				10103 10104
-			}
-		}
-
-		KNT = {
-			government = tribal_chiefdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10139
-			
-			own_control_core = {
-				10139 10140 10142
-			}
-		}
-
-		KPH = {
-			government = tribal_chiefdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10136 
-			
-			own_control_core = {
-				10136 10137 10138
-			}
-		}
-
-		MSG = {
-			government = tribal_chiefdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10135 
-			
-			own_control_core = {
-				10135 10134 10133
-			}
-		}
-
-		BTG = {
-			government = tribal_chiefdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10127 
-			
-			own_control_core = {
-				10127 10126
-			}
-		}
-
-		JHR = {
-			government = tribal_chiefdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10143 
-			
-			own_control_core = {
-				10143 10141
-			}
-		}
-
-		LGG = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10207  
-			
-			own_control_core = {
-				10207 10206
-			}
-		}
-
-		GNG = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10200  
-			
-			own_control_core = {
-				10200 10201 10203
-			}
-		}
-
-		ODG = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10196  
-			
-			own_control_core = {
-				10196 10204 10195
-			}
-		}
-
-		RGD = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10205  
-			
-			own_control_core = {
-				10205 10202 10210
-			}
-		}
-
-		KTE = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10213
-			
-			own_control_core = {
-				10213 10211
-			}
-		}
-
-		SRG = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital = 10216
-			
-			own_control_core = {
-				10216 10215 10218
-			}
-		}
-
-		LGS = {
-			government = tribal_kingdom
-			primary_culture = roman
-			religion = roman_pantheon
-			
-			capital =  10193
-			
-			own_control_core = {
-				10193 10194
 			}
 		}
 	}

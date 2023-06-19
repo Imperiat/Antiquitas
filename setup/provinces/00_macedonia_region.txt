@@ -266,10 +266,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="athenian"
-		amount=2
-	}
-	citizen={
 		amount=2
 	}
 	freemen={

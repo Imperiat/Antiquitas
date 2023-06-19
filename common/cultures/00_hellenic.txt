@@ -236,7 +236,7 @@
 		epirote = { levy_template = levy_epirotes }
 		boeotian = {}
 		peloponnesian = { levy_template = levy_spartan }
-		athenian = {}
+		attican = {}
 		euboean = {}
 		aetolian = {}
 		aegean = {}

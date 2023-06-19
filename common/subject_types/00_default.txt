@@ -397,12 +397,6 @@ subject_colony = {
 	on_enable = { remove_subject_focus_effect = yes }
 	on_disable = {
 		remove_subject_focus_effect = yes
-		if = {
-	 		limit = {
-	 			has_country_modifier = athenian_mission_04_loyalist_path
-	 		}
-	 		remove_country_modifier = athenian_mission_04_loyalist_path
-	 	}
 	}
 	# on_monthly = {}
 	

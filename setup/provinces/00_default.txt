@@ -680,7 +680,7 @@
 
 5062={ #Parnes Mons
 	terrain="impassable_terrain"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -7110,7 +7110,7 @@
 
 7800={ #
 	terrain="impassable_terrain"
-	culture="athenian"
+	culture="attican"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0

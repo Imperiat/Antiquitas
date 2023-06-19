@@ -769,7 +769,6 @@ LIA = "setup/countries/italia/alalia.txt"
 
 # Greece
 SIK = "setup/countries/greece/sikyon.txt"
-SAL = "setup/countries/greece/salamis.txt"
 AGN = "setup/countries/greece/aigina.txt"
 KYP = "setup/countries/greece/kyphantia.txt"
 KYT = "setup/countries/greece/kythera.txt"

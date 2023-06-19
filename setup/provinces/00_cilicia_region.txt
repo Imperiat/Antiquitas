@@ -411,14 +411,6 @@
 		religion="roman_pantheon"
 		amount=1
 	}
-	nobles={
-		culture="athenian"
-		amount=1
-	}
-	citizen={
-		culture="athenian"
-		amount=2
-	}
 	citizen={
 		amount=8
 	}
