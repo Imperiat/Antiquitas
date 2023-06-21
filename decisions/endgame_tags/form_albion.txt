@@ -88,18 +88,6 @@
 				name = formable_country_huge_modifier
 				duration = 7600
 			}
-			if = {
-				limit = {
-					is_iron_man = yes
-					is_ai = no
-					NOT = {
-						has_variable = ach_perfidious_albion_var
-					}
-				}
-				set_variable = {
-					name = ach_perfidious_albion_var
-				}
-			}
 			add_4_free_province_investments = yes
 		}
 		

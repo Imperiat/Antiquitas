@@ -137,10 +137,6 @@
 			remove_variable = dictatorship_enabled
 		}
 		if = {
-			limit = { has_variable = ach_dictator_appointed }
-			remove_variable = dictatorship_enabled
-		}
-		if = {
 			limit = {
 				has_country_modifier = oaths_of_allegiance
 			}

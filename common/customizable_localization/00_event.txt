@@ -4348,7 +4348,7 @@ get_random_culture = {
 	}
  
 	text = {
-		localization_key = peloponnesian
+		localization_key = doric
 		trigger = { always = yes }
 	}
  
@@ -4358,17 +4358,17 @@ get_random_culture = {
 	}
  
 	text = {
-		localization_key = euboean
+		localization_key = western_ionic
 		trigger = { always = yes }
 	}
  
 	text = {
-		localization_key = aetolian
+		localization_key = elean
 		trigger = { always = yes }
 	}
 	
 	text = {
-		localization_key = aegean
+		localization_key = eastern_ionic
 		trigger = { always = yes }
 	}
 	

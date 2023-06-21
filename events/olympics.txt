@@ -288,29 +288,6 @@ olympic.3 = {
 				}
 			}
 		}
-		if = {
-			limit = {
-				is_iron_man = yes
-				is_ai = no
-			}
-			if = {
-				limit = {
-					NOT = {
-						has_variable = ach_panem_et_circenses_var
-					}
-				}
-				set_variable = {
-					name = ach_panem_et_circenses_var
-					value = 1
-				}
-			}
-			else = {
-				change_variable = {
-					name = ach_panem_et_circenses_var
-					add = 1
-				}
-			}
-		}
 		ai_chance = {
 			base = 1
 			modifier = {

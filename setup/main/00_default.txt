@@ -2071,14 +2071,14 @@ family={
 		5={
 			key = "Agiad"
 			prestige=350
-			culture=peloponnesian
+			culture=doric
 			owner=SPA
 			color = 0
 		}
 		6={
 			key = "Euryclid"
 			prestige=300
-			culture=peloponnesian
+			culture=doric
 			owner=SPA
 			color = 1
 		}
@@ -9925,7 +9925,7 @@ country = {
 			
 		AET = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 		
 			capital = 456
@@ -9947,7 +9947,7 @@ country = {
 			
 		AKR = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 		
 			capital = 462
@@ -10020,7 +10020,7 @@ country = {
 		
 		EUB = {	# Phrygian Tributary - Freed by Demetrios in 304
 			government = oligarchic_republic
-			primary_culture = euboean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10042,7 +10042,7 @@ country = {
 
 		CLK = {
 			government = oligarchic_republic
-			primary_culture = euboean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10061,7 +10061,7 @@ country = {
 
 		ANT = {
 			government = oligarchic_republic
-			primary_culture = euboean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10080,7 +10080,7 @@ country = {
 
 		SKY = {
 			government = oligarchic_republic
-			primary_culture = euboean
+			primary_culture = attican
 			religion = roman_pantheon
 			
 			technology={
@@ -10099,7 +10099,7 @@ country = {
 		
 		ORE = { # Macedonian Tributary
 			government = oligarchic_republic
-			primary_culture = euboean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 		
 			capital = 403
@@ -10238,7 +10238,7 @@ country = {
 		
 		COT = {
 			government = oligarchic_republic
-			primary_culture = achaean
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10257,7 +10257,7 @@ country = {
 
 		DEL = {
 			government = democratic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			# Nesiotic League
 			
@@ -10289,7 +10289,7 @@ country = {
 		
 		ADR = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			# Vassal of Ptolemies
 			
@@ -10309,7 +10309,7 @@ country = {
 
 		MYT = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10328,7 +10328,7 @@ country = {
 
 		CHO = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10347,7 +10347,7 @@ country = {
 
 		SMO = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10366,7 +10366,7 @@ country = {
 
 		KLM = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10385,7 +10385,7 @@ country = {
 
 		AYP = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10404,7 +10404,7 @@ country = {
 
 		THA = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10423,7 +10423,7 @@ country = {
 
 		AKS = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10442,7 +10442,7 @@ country = {
 
 		NXS = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10461,7 +10461,7 @@ country = {
 
 		PRX = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10480,7 +10480,7 @@ country = {
 
 		MLS = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10499,7 +10499,7 @@ country = {
 
 		KTH = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10518,7 +10518,7 @@ country = {
 
 		KYN = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10537,7 +10537,7 @@ country = {
 
 		SRS = {
 			government = oligarchic_republic
-			primary_culture = aegean
+			primary_culture = western_ionic
 			religion = roman_pantheon
 			
 			technology={
@@ -10556,7 +10556,7 @@ country = {
 		
 		KOS = {
 			government = plutocratic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			# Vassal of Ptolemies
 			
@@ -10640,7 +10640,7 @@ country = {
 		
 		ARG = { #Aligned with Macedonia
 			government = oligarchic_republic
-			primary_culture = argolian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10688,7 +10688,7 @@ country = {
 		
 		ELI = { #Independent
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = elean
 			religion = roman_pantheon
 			
 			technology={
@@ -10719,7 +10719,7 @@ country = {
 
 		ZKY = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = achaean
 			religion = roman_pantheon
 			
 			technology={
@@ -10738,7 +10738,7 @@ country = {
 
 		LKS = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = elean
 			religion = roman_pantheon
 			
 			technology={
@@ -10757,7 +10757,7 @@ country = {
 		
 		TRN = { #Independent
 			government = oligarchic_republic
-			primary_culture = argolian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10778,7 +10778,7 @@ country = {
 		
 		HRM = { #Independent
 			government = oligarchic_republic
-			primary_culture = argolian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10818,7 +10818,7 @@ country = {
 		
 		EPD = { #Independent
 			government = oligarchic_republic
-			primary_culture = argolian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10846,7 +10846,7 @@ country = {
 
 		AGN = {
 			government = oligarchic_republic
-			primary_culture = argolian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10885,7 +10885,7 @@ country = {
 		
 		LPR = { #Independent, eventually joined Achaean league
 			government = oligarchic_republic
-			primary_culture = achaean
+			primary_culture = elean
 			religion = roman_pantheon
 			
 			technology={
@@ -10905,7 +10905,7 @@ country = {
 		
 		MGA = { #Megaris
 			government = oligarchic_republic
-			primary_culture = peloponnesian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10937,7 +10937,7 @@ country = {
 			family = 5
 			family = 6
 			government = stratocratic_monarchy
-			primary_culture = peloponnesian
+			primary_culture = doric
 			religion = roman_pantheon
 			monarchy_military_reforms = recruit_from_nobles
 			
@@ -10993,7 +10993,7 @@ country = {
 
 		KYP = {
 			government = oligarchic_republic
-			primary_culture = peloponnesian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11012,7 +11012,7 @@ country = {
 
 		KYT = {
 			government = oligarchic_republic
-			primary_culture = peloponnesian
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11292,7 +11292,7 @@ country = {
 		
 		ILY = {
 			government = plutocratic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 266 #Ialysus
@@ -11318,7 +11318,7 @@ country = {
 		
 		LND = {
 			government = plutocratic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 1830 #Lindos
@@ -11344,7 +11344,7 @@ country = {
 		
 		KMS = {
 			government = plutocratic_republic
-			primary_culture = aegean
+			primary_culture = eastern_ionic
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 8015 #Kameiros
@@ -17041,7 +17041,7 @@ country = {
 		
 		AMP = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17062,7 +17062,7 @@ country = {
 
 		LAM = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17081,7 +17081,7 @@ country = {
 		
 		HYP = {
 			government = oligarchic_republic
-			primary_culture = aetolian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17138,7 +17138,7 @@ country = {
 
 		OPU = {
 			government = oligarchic_republic
-			primary_culture = boeotian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17158,7 +17158,7 @@ country = {
 		PHO = {
 			#family = 73
 			government = aristocratic_monarchy
-			primary_culture = boeotian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17179,7 +17179,7 @@ country = {
 		
 		DLP = {
 			government = oligarchic_republic
-			primary_culture = boeotian
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17228,7 +17228,7 @@ country = {
 		
 		AMK = { # Ambrakia
 			government = oligarchic_republic
-			primary_culture = epirote
+			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
 			technology={

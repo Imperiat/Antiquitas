@@ -16,7 +16,7 @@ special_spartan_event.1 = {
 		create_character = {
 			first_name="Hippocratidas"
 			family_name="Eurypontid"
-			culture="peloponnesian"
+			culture="doric"
 			religion="roman_pantheon"
 			save_scope_as = spartan_co_ruler
 		}

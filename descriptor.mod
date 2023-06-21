@@ -4,3 +4,5 @@ tags={
 	"Overhaul"
 }
 name="Antiquitas"
+supported_version="2.0.*"
+remote_file_id="2992438857"

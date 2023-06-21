@@ -3768,7 +3768,7 @@ me_gre_2_regional_subjects_effect = {
                 save_scope_as = peloponnesian_league_scope
                 add_treasury = 100
                 change_country_color = samnite_red
-                set_primary_culture = peloponnesian
+                set_primary_culture = doric
                 me_gre_2_change_gov_effect = yes
                 add_country_modifier = { name = me_gre_2_self_government_cmod }
             }
@@ -3858,7 +3858,7 @@ me_gre_2_regional_subjects_effect = {
                 save_scope_as = euboean_league_scope
                 add_treasury = 100
                 change_country_color = euboean_blue
-                set_primary_culture = euboean
+                set_primary_culture = western_ionic
                 me_gre_2_change_gov_effect = yes
                 add_country_modifier = { name = me_gre_2_self_government_cmod }
             }
@@ -3888,7 +3888,7 @@ me_gre_2_regional_subjects_effect = {
                 save_scope_as = aegean_league_scope
                 add_treasury = 100
                 change_country_color = sun_yellow
-                set_primary_culture = aegean
+                set_primary_culture = western_ionic
                 me_gre_2_change_gov_effect = yes
                 add_country_modifier = { name = me_gre_2_self_government_cmod }
             }
@@ -3918,7 +3918,7 @@ me_gre_2_regional_subjects_effect = {
                 save_scope_as = aetolian_league_scope
                 add_treasury = 100
                 change_country_color = pure_white
-                set_primary_culture = aetolian
+                set_primary_culture = elean
                 me_gre_2_change_gov_effect = yes
                 add_country_modifier = { name = me_gre_2_self_government_cmod }
             }

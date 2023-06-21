@@ -1400,7 +1400,10 @@ oratory_2 = {
 		modifier = { monthly_political_influence_modifier = 0.1 }
 		requires = { monthly_character_loyalty_inv_1 }
 		allow = {
-			primary_culture = aegean
+			OR = {
+				primary_culture = eastern_ionic
+				primary_culture = western_ionic
+			}
 		}
 	}
 

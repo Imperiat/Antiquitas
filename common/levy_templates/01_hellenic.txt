@@ -50,13 +50,6 @@ levy_spartan = {
 	spearmen = 0.55
 }
 
-levy_argolis = {
-	default = no
-	
-	heavy_infantry = 0.45
-	spearmen = 0.55
-}
-
 levy_thessalian = {
 	default = no
 	

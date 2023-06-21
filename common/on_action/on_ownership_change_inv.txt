@@ -14,28 +14,6 @@
 		}
 		if = {
 			limit = {
-				is_iron_man = yes
-				exists = owner
-				owner = {
-					is_ai = no
-					has_land = yes
-				}
-			}
-			owner = {
-				if = {
-					limit = {
-						NOT = {
-							has_variable = ach_render_unto_caesar_var
-						}
-					}
-					set_variable = {
-						name = ach_render_unto_caesar_var
-					}
-				}
-			}
-		}
-		if = {
-			limit = {
 				exists = owner
 				owner = {
 					has_land = yes

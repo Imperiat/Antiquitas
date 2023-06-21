@@ -1902,10 +1902,6 @@ senate_objectives.19 = { # Sack Shrine - Traditionalist
 				trigger_event = { id = desecration.3 } #Holy Site of our Faith Sacked
 			}
 			custom_tooltip = desecration_opinion
-			if = {
-				limit = { is_iron_man = yes }
-				ach_holy_fire_effect = yes
-			}
 		}
 		approval_with_custom_tooltip_effect = {
 			CUSTOM_TOOLTIP = senate_agenda_passed_tt

@@ -288,10 +288,6 @@ on_ruler_change = {
 			remove_variable = dictatorship_enabled
 		}
 		if = {
-			limit = { has_variable = ach_dictator_appointed }
-			remove_variable = dictatorship_enabled
-		}
-		if = {
 			limit = {
 				has_country_modifier = oaths_of_allegiance
 			}
@@ -435,18 +431,6 @@ on_civil_war_won = {
 		scope:losing_side = {
 			every_country_treasure = {
 				transfer_treasure_to_country = root
-			}
-		}
-		if = {
-			limit = {
-				is_iron_man = yes
-				is_ai = no
-				NOT = { 
-					has_variable = ach_triumvir_var
-				}
-			}
-			set_variable = {
-				name = ach_triumvir_var
 			}
 		}
 		scope:losing_side = {
@@ -1675,28 +1659,6 @@ on_ownership_change = { #province scope
 	effect = {
 		if = {
 			limit = {
-				is_iron_man = yes
-				exists = owner
-				owner = {
-					is_ai = no
-					has_land = yes
-				}
-			}
-			owner = {
-				if = {
-					limit = {
-						NOT = {
-							has_variable = ach_render_unto_caesar_var
-						}
-					}
-					set_variable = {
-						name = ach_render_unto_caesar_var
-					}
-				}
-			}
-		}
-		if = {
-			limit = {
 				exists = holding_owner
 			}
 			holding_owner = {
@@ -1975,30 +1937,6 @@ on_invention = {
 				name = invention_purchased
 			}
 		}
-		if = {
-			limit = {
-				is_iron_man = yes
-				is_ai = no
-				has_land = yes
-			}
-			if = {
-				limit = {
-					NOT = {
-						has_variable = ach_circles_var
-					}
-				}
-				set_variable = {
-					name = ach_circles_var
-					value = 1
-				}
-			}
-			else = {
-				change_variable = {
-					name = ach_circles_var
-					add = 1
-				}
-			}
-		}
 	}
 }
 
@@ -2237,33 +2175,7 @@ on_great_work_completed = {
 
 on_great_work_destroyed = {
 #scope:target = the builder of the destroyed great work
-	effect = {
-		if = {
-			limit = {
-				NOT = { scope:target = root }
-				is_iron_man = yes
-				is_ai = no
-				has_land = yes
-			}
-			if = {
-				limit = {
-					NOT = {
-						has_variable = ach_gw_destroyed_var
-					}
-				}
-				set_variable = {
-					name = ach_gw_destroyed_var
-					value = 1
-				}
-			}
-			else = {
-				change_variable = {
-					name = ach_gw_destroyed_var
-					add = 1
-				}
-			}
-		}
-	}
+
 }
 
 on_action_requiring_senate_approval = { #If you change this, also change the scripted effect: change_religion_effect

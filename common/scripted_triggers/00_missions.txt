@@ -998,54 +998,6 @@ ant_1_5_tyre_trigger = {
     }
 }
 
-ant_hellas_trigger = {
-	NOR = {
-		is_in_area = aegean_islands_area
-		is_in_area = crete_area
-		is_in_area = epirus_area
-		is_in_area = aetolia_area
-	}
-}
-
-ant_aegean_port_trigger = {
-	is_port = yes
-}
-
-ant_aegean_diad_port_trigger = {
-	is_port = yes
-	has_owner = yes
-	OR = {
-		owner = c:SEL
-		owner = c:MAC
-		owner = c:EGY
-		owner = c:TRE
-		owner = { is_subject_of = c:SEL }
-		owner = { is_subject_of = c:MAC }
-		owner = { is_subject_of = c:EGY }
-		owner = { is_subject_of = c:TRE }
-	}
-}
-
-ant_aegean_other_port_trigger = {
-	is_port = yes
-	has_owner = yes
-	exists = scope:me_antigonids_scope
-	NOR = {
-		owner = scope:me_antigonids_scope
-		owner = { is_subject_of = scope:me_antigonids_scope }
-	}
-}
-
-ant_aegean_ant_port_trigger = {
-	is_port = yes
-	has_owner = yes
-	exists = scope:me_antigonids_scope
-	OR = {
-		owner = scope:me_antigonids_scope
-		owner = { is_subject_of = scope:me_antigonids_scope }
-	}
-}
-
 ant_3_5_potential_trigger = {
 	has_land = yes
 	num_of_ports >= 1

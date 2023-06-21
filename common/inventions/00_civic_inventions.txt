@@ -1377,7 +1377,10 @@ civic_2 = {
 
 		requires = { global_citizen_output_inv_3 }
 		allow = {
-			primary_culture = aegean
+			OR = {
+				primary_culture = eastern_ionic
+				primary_culture = western_ionic
+			}
 		}
 	}
 

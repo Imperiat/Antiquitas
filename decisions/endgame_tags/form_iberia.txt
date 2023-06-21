@@ -113,18 +113,6 @@
 				region:tarraconensis_region = { formable_region_province_effect = yes }
 			}
 			monarchy_republic_into_imperium_formable_effect = yes
-			if = {
-				limit = {
-					is_iron_man = yes
-					is_ai = no
-					NOT = {
-						has_variable = ach_hispania_universalis_var
-					}
-				}
-				set_variable = {
-					name = ach_hispania_universalis_var
-				}
-			}
 			add_5_free_province_investments = yes
 		}
 		

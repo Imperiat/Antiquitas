@@ -2163,8 +2163,6 @@ ip_republic.23 = {
 	
 	trigger = {
 		has_variable = dictatorship_enabled
-		has_variable = ach_dictator_appointed
-		var:ach_dictator_appointed = current_ruler
 		war = no
 	}
 	
@@ -2192,13 +2190,6 @@ ip_republic.24 = {
 	trigger = {
 		scope:dictator_standing_down = {
 			is_alive = yes
-		}
-	}
-	
-	immediate = {
-		set_variable = {
-			name = ach_dictator_stands_down
-			value = current_ruler
 		}
 	}
 	
@@ -2601,8 +2592,6 @@ ip_republic.32 = { # Dictator chooses not to stand down
 	
 	trigger = {
 		has_variable = dictatorship_enabled
-		has_variable = ach_dictator_appointed
-		var:ach_dictator_appointed = current_ruler
 		war = no
 		NOT = {
 			has_country_modifier = electoral_extension_mod
@@ -2649,18 +2638,6 @@ ip_republic.32 = { # Dictator chooses not to stand down
 		}
 		current_ruler = {
 			save_scope_as = dictator_holding_power_scope
-		}
-		if = {
-			limit = {
-				is_iron_man = yes
-				is_ai = no
-				NOT = {
-					has_variable = ach_alea_iacta_est_var
-				}
-			}
-			set_variable = {
-				name = ach_alea_iacta_est_var
-			}
 		}
 	}
 	
@@ -2738,15 +2715,12 @@ ip_republic.34 = {
 	
 	trigger = {
 		has_variable = dictatorship_enabled
-		has_variable = ach_dictator_appointed
-		var:ach_dictator_appointed = current_ruler
 		NOT = {
 			has_country_modifier = electoral_extension_mod
 		}
 	}
 	
 	immediate = {
-		remove_variable = ach_dictator_appointed
 		current_ruler = {
 			save_scope_as = dictator_holding_power
 		}

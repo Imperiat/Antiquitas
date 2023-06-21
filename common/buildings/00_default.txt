@@ -997,7 +997,7 @@ aqueduct_building = { #Aqueduct // Sanitation Works
 	cost = 100
 	time = 180
 
-	max_amount = 1
+	max_amount = 15
 
 	potential = {
 		has_city_status = yes

@@ -638,16 +638,6 @@
 			switch_government_type_event_clearup_effect = yes
 			if = {
 				limit = {
-					is_iron_man = yes
-					is_ai = no
-					NOT = {
-						has_variable = ach_tribal_assembly_var
-					}
-				}
-				set_variable = ach_tribal_assembly_var
-			}
-			if = {
-				limit = {
 					exists = scope:republic_family
 					scope:republic_family = {
 						any_family_member = {

@@ -620,7 +620,7 @@
 
 5056={ #
 	terrain="impassable_terrain"
-	culture="peloponnesian"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -630,7 +630,7 @@
 
 5057={ #
 	terrain="impassable_terrain"
-	culture="peloponnesian"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -640,7 +640,7 @@
 
 5058={ #
 	terrain="impassable_terrain"
-	culture="peloponnesian"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -660,7 +660,7 @@
 
 5060={ #
 	terrain="impassable_terrain"
-	culture="peloponnesian"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -710,7 +710,7 @@
 
 5065={ #
 	terrain="impassable_terrain"
-	culture="aetolian"
+	culture="elean"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -6930,7 +6930,7 @@
 
 7734={ #Methana Volcano
 	terrain="impassable_terrain"
-	culture="peloponnesian"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -7120,7 +7120,7 @@
 
 7801={ #
 	terrain="impassable_terrain"
-	culture="aetolian"
+	culture="elean"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -7290,7 +7290,7 @@
 
 7900={ #Dirphys Mons
 	terrain="impassable_terrain"
-	culture="euboean"
+	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0

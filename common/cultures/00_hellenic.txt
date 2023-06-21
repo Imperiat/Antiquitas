@@ -231,15 +231,15 @@
 		}
 		cretan = { levy_template = levy_cretan }
 		achaean = { }
-		argolian = { levy_template = levy_argolis }
-		arcadian = {}
+		arcadian = { }
 		epirote = { levy_template = levy_epirotes }
-		boeotian = {}
-		peloponnesian = { levy_template = levy_spartan }
-		attican = {}
-		euboean = {}
-		aetolian = {}
-		aegean = {}
+		boeotian = { }
+		doric = { levy_template = levy_spartan }
+		north_western_doric = { }
+		attican = { }
+		western_ionic = { }
+		elean = { }
+		eastern_ionic = { }
 		greco_pontic = { }
 		greco_indian = {
 			male_names = {

@@ -1596,15 +1596,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="aegean"
-		amount=1
-	}
-	citizen={
 		amount=5
-	}
-	freemen={
-		culture="aegean"
-		amount=1
 	}
 	freemen={
 		amount=4
@@ -1629,15 +1621,7 @@
 		amount=1
 	}
 	citizen={
-		culture="aegean"
-		amount=1
-	}
-	citizen={
 		amount=7
-	}
-	freemen={
-		culture="aegean"
-		amount=1
 	}
 	freemen={
 		amount=6

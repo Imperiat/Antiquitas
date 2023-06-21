@@ -1829,7 +1829,7 @@ deity_aphrodite_areia = {
 		polytheistic_check_religion_trigger = yes
 		NOT = { country_culture_group = latin }
 		OR = {
-			primary_culture = peloponnesian
+			primary_culture = doric
 			primary_culture = italiotian
 		}
 		OR = {
