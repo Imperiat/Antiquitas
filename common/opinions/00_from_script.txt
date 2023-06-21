@@ -1067,26 +1067,6 @@ recent_conflicts = {
 	yearly_decay = 1
 }
 
-spartan_mission_03_peloponnesian_league_task_2_subject_opinion = {
-	value = 10
-	yearly_decay = 1	
-}
-
-spartan_mission_03_peloponnesian_league_task_2_impressive_gift_opinion = {
-	value = 30
-	yearly_decay = 1
-}
-
-spartan_mission_03_peloponnesian_league_task_2_random_bauble_opinion = {
-	value = 10
-	yearly_decay = 2
-}
-
-spartan_mission_03_peloponnesian_league_task_2_insulted_opinion = {
-	value = -25
-	yearly_decay = 1
-}
-
 flavor_syr_egy_marriage_op = {
 	value = 50
 	yearly_decay = 2

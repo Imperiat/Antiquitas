@@ -4353,7 +4353,7 @@ get_random_culture = {
 	}
  
 	text = {
-		localization_key = athenian
+		localization_key = attican
 		trigger = { always = yes }
 	}
  

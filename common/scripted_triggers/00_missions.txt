@@ -552,36 +552,6 @@ gm_1_colony_trigger = {
 	num_of_cities <= 5
 }
 
-athenian_02_attica_foreign_minds_trigger = {
-	trigger_if = {
-		limit = {
-			root = {
-				gender_equality = no
-			}
-		}
-		is_female = no
-	}
-	employer = {
-		is_tribal = no
-	}
-	is_minor_character = yes
-	is_party_leader = no
-	is_ruler = no
-	is_pretender = no
-	age >= 15
-	OR = {
-		charisma >= 8
-		finesse >= 8
-	}
-	OR = {
-		has_trait = scholar
-		has_trait = poet
-		finesse >= 10
-		charisma >= 10
-	}
-	has_religion = roman_pantheon
-}
-
 resource_building_trigger = {
 	trigger_if = {
 		limit = {

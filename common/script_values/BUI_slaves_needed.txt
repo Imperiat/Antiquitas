@@ -223,18 +223,6 @@ slaves_needed = {
     limit = { has_province_modifier = me_syr_4_eleph_pmod }
     add = 20
   }
-  if = {
-    limit = { has_province_modifier = athenian_mission_02_attican_minerals_modifier }
-    add = -1
-  }
-  if = {
-    limit = { has_province_modifier = athenian_mission_04_naxian_quarry_modifier }
-    add = -3
-  }
-  if = {
-    limit = { has_province_modifier = athenian_mission_04_amphipolian_mines_modifier }
-    add = -2
-  }
 
   if = {
     limit = { has_province_modifier = established_city }
