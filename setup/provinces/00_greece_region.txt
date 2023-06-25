@@ -65,7 +65,7 @@
 
 351={ #Eleutherna
 	terrain="hills"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=19
@@ -111,7 +111,7 @@
 
 358={ #Knossos
 	terrain="hills"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=24
@@ -157,7 +157,7 @@
 
 361={ #Gortyna
 	terrain="forest"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
@@ -180,7 +180,7 @@
 
 367={ #Kydonia
 	terrain="plains"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=31
@@ -200,7 +200,7 @@
 
 368={ #Polyrrhenia
 	terrain="hills"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=29
@@ -226,7 +226,7 @@
 
 370={ #Tarrha
 	terrain="hills"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=19
@@ -249,7 +249,7 @@
 
 372={ #Korion
 	terrain="hills"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=19
@@ -835,7 +835,7 @@
 	}
 }
 
-436={ #Megalopolis
+436={ #Lykosoura
 	terrain="farmland"
 	culture="arcadian"
 	religion="roman_pantheon"
@@ -1234,7 +1234,7 @@
 
 459={ #Leukas
 	terrain="hills"
-	culture="elean"
+	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=24
@@ -1308,7 +1308,7 @@
 
 463={ #Thyrrheion
 	terrain="farmland"
-	culture="elean"
+	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=28
@@ -1324,7 +1324,7 @@
 
 464={ #Kassope
 	terrain="hills"
-	culture="epirote"
+	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
@@ -1446,7 +1446,7 @@
 
 470={ #Korkyra
 	terrain="plains"
-	culture="epirote"
+	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=26
@@ -2054,7 +2054,7 @@
 
 8016={ #Lappa
 	terrain="hills"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
@@ -2076,7 +2076,7 @@
 
 8018={ #Arkades
 	terrain="plains"
-	culture="cretan"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=26

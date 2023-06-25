@@ -230,6 +230,7 @@
            }
 		}
 		cretan = { levy_template = levy_cretan }
+		kerkyran = { }
 		achaean = { }
 		arcadian = { }
 		epirote = { levy_template = levy_epirotes }

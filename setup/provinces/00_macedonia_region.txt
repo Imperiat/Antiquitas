@@ -34,11 +34,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
 }
 
 364={ #Philippoi
@@ -56,21 +51,6 @@
 		amount=4
 	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
 		amount=2
 	}
 }
@@ -167,11 +147,6 @@
 		amount=4
 	}
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	citizen={
 		amount=7
 	}
 	freemen={
@@ -179,11 +154,6 @@
 	}
 	slaves={
 		amount=11
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -286,26 +256,18 @@
 	trade_goods="wine"
 	civilization_value=47
 	barbarian_power=0
-	province_rank="city"
-	nobles={
-		amount=5
-	}
+	province_rank="settlement"
 	citizen={
-		amount=14
+		amount=1
 	}
 	freemen={
-		amount=13
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
+		amount=3
 	}
 	slaves={
-		amount=14
+		amount=5
 	}
 	tribesmen={
-		amount=6
+		amount=2
 	}
 	port_building=2
 }
@@ -470,29 +432,11 @@
 	civilization_value=37
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		amount=1
-	}
 	citizen={
 		amount=8
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
 	freemen={
 		amount=14
-	}
-	freemen={
-		culture="macedonian"
-		amount=3
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
 	}
 	slaves={
 		amount=12
@@ -663,7 +607,7 @@
 
 398={ #Halos
 	terrain="marsh"
-	culture="thessalian"
+	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=22
@@ -841,7 +785,7 @@
 
 420={ #Peparethos
 	terrain="hills"
-	culture="macedonian"
+	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
@@ -877,7 +821,7 @@
 	}
 }
 
-428={ #Methone
+428={ #Aigeai
 	terrain="plains"
 	culture="macedonian"
 	religion="roman_pantheon"
@@ -885,11 +829,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
 	freemen={
 		amount=5
 	}

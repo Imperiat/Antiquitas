@@ -548,7 +548,7 @@
 	}
 }
 
-266={ #Rhodos
+266={ #Ialysos
 	terrain="hills"
 	culture="eastern_ionic"
 	religion="roman_pantheon"

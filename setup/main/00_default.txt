@@ -9898,14 +9898,14 @@ country = {
 			}
 		
 			own_control_core = 	{
-				426
+				426 406
 			}
 			
 		}
 		
 		KRK = {
 			government = despotic_monarchy
-			primary_culture = epirote
+			primary_culture = kerkyran
 			religion = roman_pantheon
 		
 			capital = 470
@@ -10055,26 +10055,7 @@ country = {
 			capital = 407
 		
 			own_control_core = 	{
-				407
-			}
-		}
-
-		ANT = {
-			government = oligarchic_republic
-			primary_culture = western_ionic
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 406
-		
-			own_control_core = 	{
-				406
+				407 7899
 			}
 		}
 
@@ -10105,7 +10086,7 @@ country = {
 			capital = 403
 		
 			own_control_core = 	{
-				403 7899
+				403
 			}
 		}
 		
@@ -10496,8 +10477,8 @@ country = {
 				1964 7905
 			}
 		}
-
-		KTH = {
+		
+		IOU = { #Ioulis
 			government = oligarchic_republic
 			primary_culture = western_ionic
 			religion = roman_pantheon
@@ -10512,26 +10493,7 @@ country = {
 			capital = 472
 		
 			own_control_core = 	{
-				472
-			}
-		}
-
-		KYN = {
-			government = oligarchic_republic
-			primary_culture = western_ionic
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-			
-			capital = 443
-		
-			own_control_core = 	{
-				443 437
+				472 443 437
 			}
 		}
 
@@ -10638,7 +10600,7 @@ country = {
 			
 		}
 		
-		ARG = { #Aligned with Macedonia
+		ARG = {
 			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
@@ -10662,7 +10624,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				440 7894 7892
+				440 7894 7892 471
 			}	
 		}
 		
@@ -10738,7 +10700,7 @@ country = {
 
 		LKS = {
 			government = oligarchic_republic
-			primary_culture = elean
+			primary_culture = kerkyran
 			religion = roman_pantheon
 			
 			technology={
@@ -10984,56 +10946,18 @@ country = {
 			}
 		
 			own_control_core = 	{
-				427 429 430 7889 431 432 473
+				427 429 430 7889 431 432 473 450
 			}
 		
 			treasures = { 88 }
 			
-		}
-
-		KYP = {
-			government = oligarchic_republic
-			primary_culture = doric
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-	
-			capital = 450
-
-			own_control_core = 	{
-				450
-			}			
-		}
-
-		KYT = {
-			government = oligarchic_republic
-			primary_culture = doric
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-	
-			capital = 471
-
-			own_control_core = 	{
-				471
-			}			
 		}
 		
 		#Crete
 		
 		KNO = {
 			government = despotic_monarchy
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11052,7 +10976,7 @@ country = {
 		
 		ELT = {
 			government = despotic_monarchy
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11071,7 +10995,7 @@ country = {
 		
 		PYR = {
 			government = aristocratic_republic
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11109,7 +11033,7 @@ country = {
 		
 		KYD = {
 			government = plutocratic_republic
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11128,7 +11052,7 @@ country = {
 		
 		GRT = {
 			government = democratic_republic
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -11166,7 +11090,7 @@ country = {
 		
 		TRA = {
 			government = democratic_republic
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17247,7 +17171,7 @@ country = {
 		
 		ARD = { # Arkades
 			government = oligarchic_republic
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -17265,7 +17189,7 @@ country = {
 		
 		LAP = { # Lappa
 			government = plutocratic_republic
-			primary_culture = cretan
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
