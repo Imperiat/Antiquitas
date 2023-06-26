@@ -191,7 +191,6 @@ aristocratic_monarchy = {
 	bonus = {
 		monthly_tyranny = -0.05
 		global_citizen_happyness = happiness_large_svalue
-		global_freemen_city_desired_pop_ratio = 0.1
 	}
 	base = {
 		country_civilization_value = 20
@@ -216,7 +215,6 @@ stratocratic_monarchy = {
 	}
 	base = {
 		country_civilization_value = 20
-		global_freemen_city_desired_pop_ratio = 0.1
 	}
 	
 	election_delay = 0

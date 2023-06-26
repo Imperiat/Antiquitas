@@ -340,8 +340,8 @@ NUnit = {
 
 	DISBAND_MANPOWER_RESTORE = 0.25
 	
-	LAND_MORALE = 3.0
-	NAVAL_MORALE = 3.0
+	LAND_MORALE = 1.65 #Antiquitas - changed from 3.0 to 1.65
+	NAVAL_MORALE = 1.65 #Antiquitas - changed from 3.0 to 1.65
 	
 	MOVEMENT_LOCKED = 0.5
 	LOW_MORALE_THRESHOLD = 0.5
