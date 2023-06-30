@@ -10263,7 +10263,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				1835
+				1835 447 452
 			}
 			
 		}
@@ -10402,25 +10402,6 @@ country = {
 			}
 		}
 
-		AKS = {
-			government = oligarchic_republic
-			primary_culture = western_ionic
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-			
-			capital = 375
-		
-			own_control_core = 	{
-				375
-			}
-		}
-
 		NXS = {
 			government = oligarchic_republic
 			primary_culture = western_ionic
@@ -10436,7 +10417,7 @@ country = {
 			capital = 263
 		
 			own_control_core = 	{
-				263 387
+				263 387 375
 			}
 		}
 
@@ -10494,25 +10475,6 @@ country = {
 		
 			own_control_core = 	{
 				472 443 437
-			}
-		}
-
-		SRS = {
-			government = oligarchic_republic
-			primary_culture = western_ionic
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-			
-			capital = 447
-		
-			own_control_core = 	{
-				447 452
 			}
 		}
 		
@@ -10937,13 +10899,6 @@ country = {
 			{ deity = 161 }
 			
 			}
-			
-			poptype_rights = { 
-				{
-					culture = messenian 
-					type = slaves
-				}
-			}
 		
 			own_control_core = 	{
 				427 429 430 7889 431 432 473 450
@@ -11014,7 +10969,7 @@ country = {
 		
 		LYT = {
 			government = oligarchic_republic
-			primary_culture = cretan
+			primary_culture = eteocretan
 			religion = roman_pantheon
 			
 			technology={
@@ -11071,7 +11026,7 @@ country = {
 		
 		IEP = {
 			government = despotic_monarchy
-			primary_culture = cretan
+			primary_culture = eteocretan
 			religion = roman_pantheon
 			
 			technology={
@@ -11109,7 +11064,7 @@ country = {
 		
 		PRE = {
 			government = plutocratic_republic
-			primary_culture = cretan
+			primary_culture = eteocretan
 			religion = roman_pantheon
 			
 			technology={
@@ -11128,7 +11083,7 @@ country = {
 
 		PSD = {
 			government = plutocratic_republic
-			primary_culture = cretan
+			primary_culture = eteocretan
 			religion = roman_pantheon
 			
 			technology={

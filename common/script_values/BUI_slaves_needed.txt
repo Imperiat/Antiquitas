@@ -176,14 +176,6 @@ slaves_needed = {
     add = -2
   }
   if = {
-    limit = { has_province_modifier = roman_mission_bread_basket_grain_egypt_modifier }
-    add = -2
-  }
-  if = {
-    limit = { has_province_modifier = carthaginian_mission_sardinian_mines_modifier }
-    add = -3
-  }
-  if = {
     limit = { has_province_modifier = province_improvement_capital_iberia }
     add = -2
   }
@@ -209,10 +201,6 @@ slaves_needed = {
   }
   if = {
     limit = { has_province_modifier = italian_colonia_trade_pmod }
-    add = -1
-  }
-  if = {
-    limit = { has_province_modifier = spartan_mission_messenia_modifier }
     add = -1
   }
   if = {

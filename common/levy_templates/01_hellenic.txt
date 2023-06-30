@@ -14,16 +14,6 @@ levy_general_greek = {	#Poleis with Hoplites
 	heavy_infantry = 0.25
 }
 
-levy_cretan = {
-	default = no
-	
-	#Basic:
-	archers = 0.45
-	#Advanced:
-	heavy_infantry = 0.15
-	spearmen = 0.40
-}
-
 levy_macedonian = {
 	default = no
 	

@@ -19,6 +19,7 @@
  illyrian_group:0 "Illyrian"
  indian:0 "Dravidian"
  latin:1 "Italic"
+ minoan:0 "Minoan"
  meroitic_group:0 "Nubian"
  north_african:2 "Egyptian"
  persia:0 "Iranian"
@@ -185,7 +186,6 @@
  italiotian:0 "Italiotian"
  thracian:2 "Propontic"
  kerkyran:0 "Kerkyran"
- cretan:0 "Cretan"
  achaean:0 "Achaean"
  arcadian:0 "Arcadian"
  epirote:0 "Epirote"
@@ -301,6 +301,8 @@
  athagaun:0 "Athagauan"
  avalitian:0 "Avalitian"
  berberian:0 "Berberian"
+ #Minoan
+ eteocretan:0 "Eteocretan"
  #Meroitic
  meroitic:0 "Meroitic"
  lower_nubian:0 "Kerman"
@@ -482,6 +484,8 @@
  indian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  latin_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  latin_femalename:1 "$FAMILY_FEMALE$ $FEMALE_ORDER$ $REGNALNUMBER$ $NICKNAME$"
+ minoan_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ minoan_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  meroitic_group_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  meroitic_group_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  north_african_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

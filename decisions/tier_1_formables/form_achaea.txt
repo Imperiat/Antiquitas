@@ -11,7 +11,7 @@
 				tag = ACH
 			}
 			NOT = {
-				tag = HLA
+				tag = HEL
 			}
 			NOR = {
 				is_tier_1_formable_trigger = yes

@@ -412,7 +412,7 @@ intervention_subject_country_opinion = {
 	yearly_decay = 5
 }
 
-pan_hellenic_league_opinion = {
+hellas_opinion = {
 	value = 50
 	yearly_decay = 1
 }
@@ -1313,12 +1313,12 @@ chrysaoric_league_loyalty = {
 	yearly_decay = 1
 }
 
-hellenic_league_loyalty = {
+hellas_loyalty = {
 	value = 100
 	yearly_decay = 1
 }
 
-hellenic_league_creation = {
+hellas_creation = {
 	value = 50
 	yearly_decay = 1
 }
@@ -1338,7 +1338,7 @@ mithridates_gratitude_opmod = {
 	yearly_decay = 1
 }
 
-hellenic_league_oppressed = {
+hellas_oppressed = {
 	value = -50
 	yearly_decay = 1
 }

@@ -82,7 +82,7 @@ colored_emblem_texture_lists = {
 				1 = "ce_border_stars_03.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = cretan }
+				trigger = { primary_culture = eteocretan }
 				4 = "ce_border_meander_06.dds"
 				8 = "ce_border_meander_07.dds"
 			}

@@ -82,7 +82,7 @@ cretan_heritage = {
 	}
 
 	trigger = {
-		primary_culture = cretan
+		primary_culture = eteocretan
 	}
 }
 

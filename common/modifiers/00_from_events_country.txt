@@ -1985,59 +1985,6 @@ rm_destroy_latins_cmod = {
     diplomatic_reputation = -2
 }
 
-carthage_mission_iberian_investments_iberian_riches_modifier = {
-    global_monthly_state_loyalty = 0.05
-    global_pop_assimilation_speed = 0.10
-}
-
-carthage_mission_rome_rival_modifier = {
-    global_monthly_state_loyalty = 0.05
-    manpower_recovery_speed = 0.05
-}
-
-carthage_mission_rome_disloyal_subjects_modifier = {
-    loyalty_to_overlord = -20
-}
-
-carthage_mission_rome_naval_supremacy_modifier = {
-    naval_damage_done = 0.05
-}
-
-carthage_mission_rome_naval_destruction_modifier = {
-    global_ship_recruit_speed = -0.5
-}
-
-carthage_mission_broken_roman_spirit_modifier = {
-    loyalty_to_overlord = 25
-    manpower_recovery_speed = -0.3
-    land_morale_modifier = -0.1
-    naval_morale_modifier = -0.1
-}
-
-carthage_mission_roman_building_materials_modifier = {
-    build_cost = -0.1
-}
-
-carthage_mission_roman_slaves_modifier = {
-    global_slaves_output = output_large_svalue
-}
-
-carthage_mission_trade_metropolis_west_flourishing_trade_modifier = {
-    global_import_commerce_modifier = 0.1
-    global_export_commerce_modifier = 0.1
-}
-
-carthage_mission_byblian_timber_modifier = {
-    naval_damage_taken = -0.05
-    global_ship_recruit_speed = 0.15
-}
-
-carthage_mission_controlling_the_seas_modifier = {
-    navy_maintenance_cost = -0.05
-    navy_movement_speed = 0.05
-    naval_damage_done = 0.05
-}
-
 rm_2_praying_cmod = {
     omen_power = -0.075
 }

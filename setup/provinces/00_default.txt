@@ -7990,7 +7990,7 @@
 
 8014={ #Idaion Mons
 	terrain="impassable_terrain"
-	culture="cretan"
+	culture="eteocretan"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -8000,7 +8000,7 @@
 
 8017={ #Leuka Mons
 	terrain="impassable_terrain"
-	culture="cretan"
+	culture="eteocretan"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0

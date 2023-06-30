@@ -953,7 +953,7 @@
 
 280={ #Poseidion
 	terrain="hills"
-	culture="cretan"
+	culture="eteocretan"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24

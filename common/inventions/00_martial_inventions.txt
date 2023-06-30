@@ -1118,7 +1118,7 @@ military_inventions = {
 				tag = BOE
 				AND = {
 					primary_culture = boeotian
-					tag = HLA
+					tag = HEL
 				}
 			}
 		}

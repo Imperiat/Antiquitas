@@ -1898,30 +1898,13 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="cretan"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="pisidian"
-		amount=1
-	}
-	freemen={
-		culture="cretan"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="pisidian"
 		amount=1
 	}
 }
@@ -2262,7 +2245,7 @@
 
 7942={ #Daidala
 	terrain="hills"
-	culture="cretan"
+	culture="lycian"
 	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=26
@@ -2274,22 +2257,7 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="lycian"
-		religion="anatolian_religion"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="lycian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="cabalian"
-		religion="anatolian_religion"
 		amount=1
 	}
 }
@@ -2308,18 +2276,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="lycian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="milyadian"
 		amount=1
 	}
 }
@@ -2341,14 +2301,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="cabalian"
-		amount=1
-	}
-	tribesmen={
-		culture="milyadian"
-		amount=1
-	}
 }
 
 7949={ #Kandyba
@@ -2365,17 +2317,7 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="milyadian"
-		religion="anatolian_religion"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="milyadian"
-		religion="anatolian_religion"
 		amount=1
 	}
 }
@@ -2392,20 +2334,7 @@
 		religion="roman_pantheon"
 		amount=1
 	}
-	freemen={
-		culture="lycian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="pisidian"
-		amount=1
-	}
-	tribesmen={
-		culture="milyadian"
 		amount=1
 	}
 }
@@ -2421,16 +2350,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="pisidian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="pisidian"
-		amount=1
 	}
 }
 

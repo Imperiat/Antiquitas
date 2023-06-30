@@ -4323,7 +4323,7 @@ get_random_culture = {
 	}
 	
 	text = {
-		localization_key = cretan
+		localization_key = eteocretan
 		trigger = { always = yes }
 	}
 	

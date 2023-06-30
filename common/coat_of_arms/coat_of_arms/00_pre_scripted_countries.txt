@@ -1165,7 +1165,7 @@ DACIA_FLAG = {
 	}
 }
 
-HELLENIC_LEAGUE_FLAG = {
+HELLAS_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "helvetia_color"
 	color2 = "pan_hellenic_blue"
