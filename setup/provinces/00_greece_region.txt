@@ -1259,7 +1259,7 @@
 
 465={ #Ambrakia
 	terrain="farmland"
-	culture="north_western_doric"
+	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=35

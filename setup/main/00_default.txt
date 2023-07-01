@@ -10018,7 +10018,7 @@ country = {
 			}
 		}
 		
-		EUB = {	# Phrygian Tributary - Freed by Demetrios in 304
+		EUB = {	#Eretria
 			government = oligarchic_republic
 			primary_culture = western_ionic
 			religion = roman_pantheon
@@ -10033,7 +10033,7 @@ country = {
 			capital = 7901
 		
 			own_control_core = 	{
-				409 410 7901 7904
+				410 7901 7904
 			}
 			
 			treasures = { 208 209 }
@@ -10640,44 +10640,6 @@ country = {
 			treasures = { 113 115 }
 			
 		}
-
-		ZKY = {
-			government = oligarchic_republic
-			primary_culture = achaean
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 460
-		
-			own_control_core = 	{
-				460 
-			}
-		}
-
-		LKS = {
-			government = oligarchic_republic
-			primary_culture = kerkyran
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 459
-		
-			own_control_core = 	{
-				459 461 
-			}
-		}
 		
 		TRN = { #Independent
 			government = oligarchic_republic
@@ -10962,7 +10924,7 @@ country = {
 			
 			capital = 368
 			own_control_core = 	{
-				368
+				368 370
 			}
 			
 		}
@@ -11039,25 +11001,6 @@ country = {
 			capital = 355
 			own_control_core = 	{
 				355
-			}
-			
-		}
-		
-		TRA = {
-			government = democratic_republic
-			primary_culture = doric
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-			
-			capital = 370
-			own_control_core = 	{
-				370
 			}
 			
 		}
@@ -17107,7 +17050,7 @@ country = {
 		
 		AMK = { # Ambrakia
 			government = oligarchic_republic
-			primary_culture = north_western_doric
+			primary_culture = kerkyran
 			religion = roman_pantheon
 			
 			technology={
@@ -17605,6 +17548,29 @@ country = {
 			
 			own_control_core = {
 				1464
+			}
+		}
+		
+		KRY = { #Karystos
+			government = oligarchic_republic
+			primary_culture = western_ionic
+			religion = roman_pantheon
+			
+			capital = 409
+			
+			own_control_core = {
+				409
+			}
+		}
+		KEP = { #Kephallenia
+			government = oligarchic_republic
+			primary_culture = achaean
+			religion = roman_pantheon
+			
+			capital = 461
+			
+			own_control_core = {
+				459 460 461
 			}
 		}
 	}

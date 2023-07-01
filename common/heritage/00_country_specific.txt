@@ -5155,21 +5155,6 @@ kydonia_heritage = {
 	}
 }
 
-tarrha_heritage = {
-	modifier = {
-		#good
-		stability_cost_modifier = -0.05
-		inspire_devotio_cost_modifier = -0.15
-	   
-		#bad
-		global_migration_speed = -0.1
-	}
-   
-	trigger = {
-		tag = TRA
-	}
-}
-
 lappa_heritage = {
 	modifier = {
 		#good
