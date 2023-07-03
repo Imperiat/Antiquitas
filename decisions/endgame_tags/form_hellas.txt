@@ -6,7 +6,6 @@
 		potential = {
 			num_of_cities >= 1
 			country_culture_group = hellenic
-			is_republic = yes
 			NOT = {
 				tag = HEL
 			}
@@ -36,22 +35,8 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 407 #Chalcis
-					province_id = 424 #Delphi
-					province_id = 440 #Argos
-					province_id = 416 #Athens
-					province_id = 418 #Korinth
-					province_id = 434 #Patrai
-					province_id = 426 #Thebes
-					province_id = 427 #Sparta
-					province_id = 439 #Olympia
-					province_id = 456 #Thermon
-					province_id = 462 #Stratos
-					province_id = 389 #Larissa
-					province_id = 358 #Knossos
-					province_id = 344 #Praesos
-					province_id = 435 #Dodona
-					province_id = 1835 #Delos
+					is_in_region = greece_region
+					is_in_area = thessaly_area
 				}
 			}
 		}
@@ -66,24 +51,9 @@
 				}
 			}
 			
-			is_republic = yes
 			can_form_nation_trigger = yes
-			owns_or_subject_owns = 407 #Chalcis
-			owns_or_subject_owns = 424 #Delphi
-			owns_or_subject_owns = 440 #Argos
-			owns_or_subject_owns = 416 #Athens
-			owns_or_subject_owns = 418 #Korinth
-			owns_or_subject_owns = 434 #Patrai
-			owns_or_subject_owns = 426 #Thebes
-			owns_or_subject_owns = 427 #Sparta
-			owns_or_subject_owns = 439 #Olympia
-			owns_or_subject_owns = 456 #Thermon
-			owns_or_subject_owns = 462 #Stratos
-			owns_or_subject_owns = 389 #Larissa
-			owns_or_subject_owns = 358 #Knossos
-			owns_or_subject_owns = 344 #Praesos
-			owns_or_subject_owns = 435 #Dodona
-			owns_or_subject_owns = 1835 #Delos
+			owns_or_subject_owns_region = greece_region
+			owns_or_subject_owns_area = thessaly_area
 		}
 		
 		
@@ -99,22 +69,6 @@
 			}
 			custom_tooltip = hellas_tooltip
 			hidden_effect = {
-				region:greece_region = {
-					every_region_province = {
-						limit = {
-							NOT = { owner = ROOT }
-						}
-							add_claim = ROOT
-					}
-				}
-				area:thessaly_area = {
-					every_area_province = {
-						limit = {
-							NOT = { owner = ROOT }
-						}
-							add_claim = ROOT
-					}
-				}
 				every_country = {
 					limit = {
 						is_republic = yes

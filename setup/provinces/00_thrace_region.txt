@@ -15,11 +15,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=3
-	}
 	holy_site=omen_hephaestus
 	port_building=1
 }
@@ -40,11 +35,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=2
 	}
 }
 
@@ -85,10 +75,6 @@
 	slaves={
 		amount=3
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=2
-	}
 }
 
 343={ #Aulaiouteichos
@@ -102,16 +88,8 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		culture="macedonian"
-		amount=2
-	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=2
 	}
 }
 
@@ -126,21 +104,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="bithynian"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
-	tribesmen={
-		culture="bithynian"
-		amount=2
 	}
 }
 
@@ -169,10 +134,6 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="macedonian"
-		amount=3
-	}
-	citizen={
 		amount=1
 	}
 	freemen={
@@ -193,10 +154,6 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="macedonian"
-		amount=1
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
@@ -204,11 +161,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=5
 	}
 }
 
@@ -239,14 +191,6 @@
 	civilization_value=37
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		amount=4
-	}
-	citizen={
-		culture="macedonian"
-		amount=3
-	}
 	citizen={
 		amount=3
 	}
@@ -255,11 +199,6 @@
 	}
 	slaves={
 		amount=17
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
 	}
 	port_building=1
 }
@@ -273,10 +212,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
 		amount=2
 	}
 	freemen={
@@ -299,10 +234,6 @@
 		amount=1
 	}
 	freemen={
-		culture="macedonian"
-		amount=2
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -322,18 +253,9 @@
 		amount=1
 	}
 	freemen={
-		culture="macedonian"
-		amount=2
-	}
-	freemen={
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -350,15 +272,6 @@
 		amount=1
 	}
 	freemen={
-		culture="macedonian"
-		amount=2
-	}
-	freemen={
-		amount=2
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
 		amount=2
 	}
 }
@@ -380,11 +293,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
 }
 
 362={ #Abdera
@@ -396,10 +304,6 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="macedonian"
-		amount=4
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
@@ -407,11 +311,6 @@
 	}
 	slaves={
 		amount=6
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=5
 	}
 	port_building=1
 }
@@ -452,16 +351,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
 }
 
 480={ #Mesembria
@@ -475,29 +364,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="macedonian"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		amount=2
-	}
 	freemen={
 		amount=1
-	}
-	freemen={
-		culture="moesi"
-		amount=1
-	}
-	slaves={
-		culture="moesi"
-		amount=2
-	}
-	tribesmen={
-		culture="moesi"
-		religion="shamanism"
-		amount=3
 	}
 }
 
@@ -510,15 +378,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		culture="odrysi"
-		amount=1
-	}
-	tribesmen={
-		culture="moesi"
-		religion="shamanism"
 		amount=1
 	}
 	port_building=1
@@ -535,33 +394,7 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="macedonian"
-		amount=1
-	}
 	freemen={
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		amount=1
-	}
-	freemen={
-		culture="odrysi"
-		amount=1
-	}
-	slaves={
-		culture="odrysi"
-		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=2
-	}
-	tribesmen={
-		culture="moesi"
-		religion="shamanism"
 		amount=2
 	}
 }
@@ -580,16 +413,6 @@
 	freemen={
 		amount=4
 	}
-	slaves={
-		culture="odrysi"
-		religion="shamanism"
-		amount=2
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=2
-	}
 }
 
 485={ #Pulpuveda
@@ -605,16 +428,6 @@
 	}
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="odrysi"
-		religion="shamanism"
-		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
-		amount=2
 	}
 }
 
@@ -690,10 +503,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -854,16 +663,8 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="bithynian"
-		amount=1
-	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="bithynian"
-		amount=2
 	}
 	port_building=1
 }
@@ -883,11 +684,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="odrysi"
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -924,10 +720,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=2
 	}
 }
 
@@ -1028,10 +820,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		religion="shamanism"
 		amount=2
 	}
 }

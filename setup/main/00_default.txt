@@ -2334,49 +2334,33 @@ provinces = { #Any entry must contain a comment with city name.
 		treasure_slots = { treasures = { 186 } }
 	}
 
-	### BUILDINGS
-	795={
-		modifier = { modifier = alexandria always = yes }
-	}
-	1968={
-		modifier = { modifier = alexandria always = yes }
-	}
-	6694 = {	 #Citadel of Ay Khanum
-		modifier = { modifier = oskobara_palace_pmod always = yes }
-	}
-	
-	6611 = {	 #Indo Greek Capital
-		modifier = { modifier = alexandria always = yes }
-	}
-	
-	6615 = { # Alexandreia Opiane
-		modifier = { modifier = alexandria always = yes }
-	}
-	6821 = {
-		modifier = { modifier = alexandria always = yes }
-	}
-	407 = { #Chalchis
-		modifier = { modifier = chalkis_province_modifier always = yes }
-	}
+	### BUILDINGS ###
 	416 = { #Athenai
 		forum_building = 1
 		shrine_building = 1
 		commerce_building = 1
 		workshop_building = 1
-		modifier = { modifier = academy_of_athens always = yes }
 	}
-	266 = { #Rhodos
-		modifier = { modifier = fortifications_of_rhodes always = yes }
+	417 = { #Megara
+		fortress_building = 1
+		shrine_building = 1
+	}
+	418 = { #Korinthos
+		fortress_building = 1
+		forum_building = 1
+		shrine_building = 1
+	}
+	440 = { #Argos
+		fortress_building = 1
+		forum_building = 1
+		shrine_building = 1
+	}
+	442 = { #Aigina
+		shrine_building = 1
+		forum_building = 1
 	}
 	
-	#Peter beyond this point:
 
-	55 = { #metapontum
-		fortress_building = 1 
-		modifier = { modifier = pythagoras_tomb_modifier always = yes }
-	}
-
-	
 	#Isthmus of Corinth
 	418 = { #Corinth
 		 modifier = { modifier = lesser_pass_modifier always = yes } 
@@ -2820,15 +2804,16 @@ provinces = { #Any entry must contain a comment with city name.
 	7500 = { modifier = { modifier = pirate_haven_modifier always = yes } } #Red Sea
 	7528 = { modifier = { modifier = pirate_haven_modifier always = yes } } #Opone
 	
-	#Buildings
+	### MODIFIERS ###
+	55 = { #Metapontum
+		modifier = { modifier = pythagoras_tomb_modifier always = yes }
+	}
 	266 = { #Rhodos
 		modifier = { modifier = rhodian_glass_workshops always = yes }
+		modifier = { modifier = fortifications_of_rhodes always = yes }
 	}
 	278 = { #Pergamon
 		modifier = { modifier = pergamon_acropolis_pmod always = yes }
-	}
-	6431 = { #Marion
-		modifier = { modifier = cypriot_copper_mines always = yes }
 	}
 	333 = { #Soloi
 		modifier = { modifier = cypriot_copper_mines always = yes }
@@ -2842,8 +2827,11 @@ provinces = { #Any entry must contain a comment with city name.
 	395 = {
 		modifier = { modifier = asklepion always = yes }
 	}
-	1970 = {
-		modifier = { modifier = asklepion always = yes }
+	407 = { #Chalchis
+		modifier = { modifier = chalkis_province_modifier always = yes }
+	}
+	416 = { #Athenai
+		modifier = { modifier = academy_of_athens always = yes }
 	}
 	417 =  {
 		modifier = { modifier = megarian_school always = yes }
@@ -2869,6 +2857,9 @@ provinces = { #Any entry must contain a comment with city name.
 	784 = { #Sigon
 		modifier = { modifier = cedars_of_lebanon always = yes }
 	}
+	937 = { #Anu Temple of Uruk
+		modifier = { modifier = anu_temple always = yes }
+	}
 	1036 = { #Mastia/Carthago Nova
 		modifier = { modifier = mastian_gold_range always = yes }
 	}
@@ -2881,33 +2872,11 @@ provinces = { #Any entry must contain a comment with city name.
 	1594 = { #Kangavar
 		modifier = { modifier = nisean_horses always = yes }
 	}
+	1970 = {
+		modifier = { modifier = asklepion always = yes }
+	}
 	2012 = {
 		modifier = { modifier = stonehenge_pmod always = yes }
-	}
-	4959 = { #Alexandria Carmana
-		modifier = { modifier = alexandria always = yes }
-	}
-	6637 = {
-		modifier = { modifier = alexandria always = yes }
-	}
-	6686 = { # Alexandreia Tarmita
-		modifier = { modifier = alexandria always = yes }	
-	}
-	6688 = { # Alexandria Oxiana
-		modifier = { modifier = alexandria always = yes }
-	}
-	7314 = {
-		modifier = { modifier = taxila_university_pmod always = yes }
-	}
-	
-	#Special Places:
-	
-	#Alexandrias (ie greek Settlements founded by Alexander, small civilization boost.
-	516 = { #By the Nile
-		modifier = { modifier = alexandria always = yes }
-	}
-	940 = { #In Mesopotamia
-		modifier = { modifier = alexandria always = yes }
 	}
 	3672 = {
 		modifier = { modifier = noric_steel always = yes }
@@ -2915,76 +2884,20 @@ provinces = { #Any entry must contain a comment with city name.
 	4131 = {
 		modifier = { modifier = noric_steel always = yes }
 	}
-	4316 = { # Boukephalia
-		modifier = { modifier = alexandria always = yes }
+	6431 = { #Marion
+		modifier = { modifier = cypriot_copper_mines always = yes }
 	}
-	4322 = { # Alexandreia Nikaia
-		modifier = { modifier = alexandria always = yes }
-	}
-	4371 = { #By the Indus
-		modifier = { modifier = alexandria always = yes }
-	}
-	4372 = { # Alexandria Sogdiana
-		modifier = { modifier = alexandria always = yes }
-	}
-	5550 = { # Alexandrou Parembole
-		modifier = { modifier = alexandria always = yes }
-	}
-	6620 = { # Alexandria Rhambacia
-		modifier = { modifier = alexandria always = yes }
-	}
-	6518 = { # Alexandreia Prophtasia
-		modifier = { modifier = alexandria always = yes }
-	}
-	6552 = { #Sacastene
-		modifier = { modifier = alexandria always = yes }
-	}
-	6558 = { #Alexandreia Areiois
-		modifier = { modifier = alexandria always = yes }
-	}
-	6541 = { #Arachosia
-		modifier = { modifier = alexandria always = yes }
-	}
-	6668 = { #In Persia
-		modifier = { modifier = alexandria always = yes }
-	}
-	6704 = { #Eschate
-		modifier = { modifier = alexandria always = yes }
+	6694 = { #Citadel of Ay Khanum
+		modifier = { modifier = oskobara_palace_pmod always = yes }
 	}
 	6978 = {
 		modifier = { modifier = lion_of_sigiriya_pmod always = yes }
 	}
-	7485 = { # Alexandria Hypasis
-		modifier = { modifier = alexandria always = yes }
+	7314 = {
+		modifier = { modifier = taxila_university_pmod always = yes }
 	}
 	8011 = { #Korlon
 		modifier = { modifier = cedars_of_lebanon always = yes }
-	}
-	#Gardens of Babylon
-	918 = {
-		#modifier = { modifier = gardens_of_babylon always = yes }
-		aqueduct_building = 1
-		library_building = 5
-	}
-	
-	#Pyramids of Giza
-	500 = {
-		#modifier = { modifier = pyramid_complex always = yes }
-	}
-	
-	
-	#Anu Temple of Uruk
-	937 = {
-		modifier = { modifier = anu_temple always = yes }
-	}
-	#
-	290 = { #Ephesos
-		temple_building = 1
-		#modifier = { modifier = artemis_temple always = yes }
-	}
-	1981 = { #Halicarnassus
-		temple_building = 1
-		#modifier = { modifier = mausoleum_of_mausolos always = yes }
 	}
 	
 	#Bosporus
@@ -3022,7 +2935,6 @@ provinces = { #Any entry must contain a comment with city name.
 	
 	439 = { #Olympia
 		modifier = { modifier = olympic_games_modifier always = yes }
-		#modifier = { modifier = zeus_temple_at_olympia always = yes }
 	}
 	
 	########################################
@@ -3030,7 +2942,6 @@ provinces = { #Any entry must contain a comment with city name.
 	########################################
 	
 	#Egypt & Surroundings
-	
 	
 	5294 = {
 		modifier = { modifier = generic_barbarian_spawn_place }
@@ -9938,7 +9849,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				456 457 7803
+				456 462
 			}
 		
 			treasures = { 86 }
@@ -9950,7 +9861,7 @@ country = {
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 		
-			capital = 462
+			capital = 7803
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -9960,15 +9871,12 @@ country = {
 			}
 		
 			own_control_core = 	{
-				462 463
+				 463 7803
 			}
 			
 		}
 		
 		PSR = {
-			#family = 40
-			#family = 41
-			#family = 86
 			government = aristocratic_monarchy
 			primary_culture = epirote
 			religion = roman_pantheon
@@ -10090,7 +9998,7 @@ country = {
 			}
 		}
 		
-		BOE = { #Macedonian Tributary - Third Boetian League, sans Thebes as they won't rejoin until the city has its revival under the Antigonids
+		TSP = { # Thespiae
 			government = oligarchic_republic
 			primary_culture = boeotian
 			religion = roman_pantheon
@@ -10113,7 +10021,7 @@ country = {
 		
 			capital = 468
 			own_control_core = 	{
-				423 468
+				468
 			}
 		
 			treasures = { 56 57 87 }
@@ -10891,7 +10799,7 @@ country = {
 			
 		}
 		
-		ELT = {
+		RHI = { # Rhithymna
 			government = despotic_monarchy
 			primary_culture = doric
 			religion = roman_pantheon
@@ -10929,7 +10837,7 @@ country = {
 			
 		}
 		
-		LYT = {
+		DRE = { # Dreros
 			government = oligarchic_republic
 			primary_culture = eteocretan
 			religion = roman_pantheon
@@ -16882,7 +16790,7 @@ country = {
 			treasures = { 53 }
 		}
 
-		LAM = {
+		DOR = { #Doris
 			government = oligarchic_republic
 			primary_culture = north_western_doric
 			religion = roman_pantheon
@@ -16894,29 +16802,10 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			capital = 399
+			capital = 475
 		
 			own_control_core = {
-				399 475 7896
-			}
-		}
-		
-		HYP = {
-			government = oligarchic_republic
-			primary_culture = north_western_doric
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 401
-		
-			own_control_core = {
-				401 466 469
+				399 475
 			}
 		}
 
@@ -16957,28 +16846,8 @@ country = {
 				389 388 404 392 390 398 391 420
 			}
 		}
-
-		OPU = {
-			government = oligarchic_republic
-			primary_culture = north_western_doric
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
 		
-			capital = 402
-		
-			own_control_core = {
-				402
-			}
-		}
-		
-		PHO = {
-			#family = 73
+		PHO = { # Phokis
 			government = aristocratic_monarchy
 			primary_culture = north_western_doric
 			religion = roman_pantheon
@@ -17067,7 +16936,7 @@ country = {
 			}
 		}
 		
-		ARD = { # Arkades
+		PR1 = { # Priansos
 			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
@@ -17551,7 +17420,7 @@ country = {
 			}
 		}
 		
-		KRY = { #Karystos
+		KRY = { # Karystos
 			government = oligarchic_republic
 			primary_culture = western_ionic
 			religion = roman_pantheon
@@ -17562,7 +17431,7 @@ country = {
 				409
 			}
 		}
-		KEP = { #Kephallenia
+		KEP = { # Kephallenia
 			government = oligarchic_republic
 			primary_culture = achaean
 			religion = roman_pantheon
@@ -17571,6 +17440,61 @@ country = {
 			
 			own_control_core = {
 				459 460 461
+			}
+		}
+		ORC = { # Orchomenos
+			government = oligarchic_republic
+			primary_culture = boeotian
+			religion = roman_pantheon
+			
+			capital = 423
+			
+			own_control_core = {
+				423
+			}
+		}
+		DOL = { # Dolopia
+			government = oligarchic_republic
+			primary_culture = north_western_doric
+			religion = roman_pantheon
+			
+			capital = 466
+			
+			own_control_core = {
+				466
+			}
+		}
+		LCO = { # Locris Opuntian
+			government = oligarchic_republic
+			primary_culture = north_western_doric
+			religion = roman_pantheon
+			
+			capital = 402
+			
+			own_control_core = {
+				402 7896
+			}
+		}
+		LCS = { # Locris Ozolia
+			government = oligarchic_republic
+			primary_culture = north_western_doric
+			religion = roman_pantheon
+			
+			capital = 457
+			
+			own_control_core = {
+				457
+			}
+		}
+		AIN = { # Aeniania
+			government = oligarchic_republic
+			primary_culture = north_western_doric
+			religion = roman_pantheon
+			
+			capital = 401
+			
+			own_control_core = {
+				401 469
 			}
 		}
 	}

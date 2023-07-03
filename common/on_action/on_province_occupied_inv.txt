@@ -15,7 +15,7 @@ on_province_occupied = { #province scope, it will fire AS WELL as on_siege_won
 				}
 				trigger_if = {
 					limit = {
-						current_date >= 650.1.1
+						current_date >= 354.1.1
 					}
 					OR = {
 						total_population >= 50
@@ -26,8 +26,8 @@ on_province_occupied = { #province scope, it will fire AS WELL as on_siege_won
 				}
 				trigger_else_if = {
 					limit = {
-						current_date >= 550.1.1
-						current_date < 650.1.1
+						current_date >= 254.1.1
+						current_date < 354.1.1
 					}
 					OR = {
 						total_population >= 40
@@ -38,8 +38,8 @@ on_province_occupied = { #province scope, it will fire AS WELL as on_siege_won
 				}
 				trigger_else_if = {
 					limit = {
-						current_date >= 450.1.1
-						current_date < 550.1.1
+						current_date >= 154.6.1
+						current_date < 254.1.1
 					}
 					OR = {
 						total_population >= 30

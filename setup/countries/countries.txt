@@ -37,7 +37,7 @@ THE = "setup/countries/greece/thebes.txt"
 EUB = "setup/countries/greece/euboea.txt"
 KRY = "setup/countries/greece/karystos.txt"
 KEP = "setup/countries/greece/kephallenia.txt"
-BOE = "setup/countries/greece/boeotia.txt"
+TSP = "setup/countries/greece/thespiae.txt"
 DEL = "setup/countries/greece/delos.txt"
 ADR = "setup/countries/greece/andros.txt"
 KOS = "setup/countries/greece/kos.txt"
@@ -83,16 +83,20 @@ SND = "setup/countries/caucasiamesopotamia/sindica.txt"
 SCE = "setup/countries/caucasiamesopotamia/siracia.txt"
 LGA = "setup/countries/caucasiamesopotamia/legia.txt"
 SCA = "setup/countries/caucasiamesopotamia/scythia.txt"
-#
 
 KNO = "setup/countries/greece/knossos.txt"
 PYR = "setup/countries/greece/polyrrhenia.txt"
-LYT = "setup/countries/greece/lyctus.txt"
+DRE = "setup/countries/greece/dreros.txt"
 KYD = "setup/countries/greece/kydonia.txt"
 GRT = "setup/countries/greece/gortyna.txt"
 IEP = "setup/countries/greece/ierapetra.txt"
 PRE = "setup/countries/greece/praesos.txt"
-ELT = "setup/countries/greece/eleutherna.txt"
+RHI = "setup/countries/greece/rhithymna.txt"
+ORC = "setup/countries/greece/orchomenos.txt"
+DOL = "setup/countries/greece/dolopia.txt"
+LCO = "setup/countries/greece/locris_opuntian.txt"
+LCS = "setup/countries/greece/lokris_ozolia.txt"
+AIN = "setup/countries/greece/aeniania.txt"
 
 ## Thracia/Illyria
 TRE = "setup/countries/greece/thrace.txt"
@@ -655,8 +659,7 @@ SIN = "setup/countries/italia/selinous.txt"
 
 # Extra Boeotia
 AMP = "setup/countries/greece/amphissa.txt"
-OPU = "setup/countries/greece/opus.txt"
-PHO = "setup/countries/greece/phocis.txt"
+PHO = "setup/countries/greece/phokis.txt"
 DLP = "setup/countries/greece/delphi.txt"
 
 # Epirus
@@ -664,7 +667,7 @@ AMK = "setup/countries/greece/ambrakia.txt"
 
 # Crete
 LAP = "setup/countries/greece/lappa.txt"
-ARD = "setup/countries/greece/arcades.txt"
+PR1 = "setup/countries/greece/priansos.txt"
 
 # Maedia
 MAD = "setup/countries/greece/maedia.txt"
@@ -774,8 +777,7 @@ SIK = "setup/countries/greece/sikyon.txt"
 AGN = "setup/countries/greece/aigina.txt"
 CLK = "setup/countries/greece/chalkis.txt"
 SKY = "setup/countries/greece/skyros.txt"
-LAM = "setup/countries/greece/lamia.txt"
-HYP = "setup/countries/greece/hypata.txt"
+DOR = "setup/countries/greece/doris.txt"
 PHR = "setup/countries/greece/pharsalos.txt"
 THS = "setup/countries/greece/thessaly.txt"
 PYD = "setup/countries/greece/pydna.txt"

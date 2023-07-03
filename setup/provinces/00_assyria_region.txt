@@ -64,51 +64,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	citizen={
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
 		amount=6
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	citizen={
-		culture="pasargadi"
-		amount=1
 	}
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=12
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	slaves={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -125,11 +87,6 @@
 	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=3
 	}
 	slaves={
 		amount=3
@@ -410,16 +367,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=5
 	}
 	freemen={
@@ -427,11 +374,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
 	}
 }
 

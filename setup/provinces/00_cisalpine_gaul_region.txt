@@ -12,22 +12,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="ligurian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="ligurian"
-		amount=2
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
 		amount=2
 	}
 }
@@ -43,19 +31,11 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="etruscan"
-		amount=3
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=6
-	}
-	tribesmen={
-		culture="etruscan"
-		amount=2
 	}
 }
 
@@ -68,10 +48,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
-	}
-	citizen={
-		culture="etruscan"
 		amount=2
 	}
 	freemen={
@@ -128,16 +104,6 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		culture="haedui"
-		religion="druidism"
-		amount=4
-	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=2
-	}
 	port_building=1
 }
 
@@ -152,33 +118,13 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="venetic"
-		religion="roman_pantheon"
-		amount=2
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="venetic"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
 		amount=2
 	}
 	port_building=1
@@ -195,21 +141,11 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="italiotian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -231,11 +167,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
@@ -252,34 +183,14 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="etruscan"
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
 		amount=4
 	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=3
-	}
 	tribesmen={
 		amount=9
-	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=6
 	}
 }
 
@@ -291,24 +202,10 @@
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="sennonian"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="umbrian"
-		religion="roman_pantheon"
 		amount=2
 	}
 }
@@ -324,21 +221,11 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -359,11 +246,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=2
-	}
 }
 
 151={ #Regium Lepidum
@@ -377,17 +259,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -406,29 +278,14 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
 	}
 }
 
@@ -446,21 +303,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=3
 	}
 }
 
@@ -500,17 +347,7 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
 		amount=1
 	}
 }
@@ -596,11 +433,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=3
-	}
 }
 
 3549={ #Genua
@@ -656,29 +488,14 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=3
-	}
 	tribesmen={
 		amount=6
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=5
 	}
 }
 
@@ -740,11 +557,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=3
-	}
 }
 
 3555={ #Forum Fulvii
@@ -756,11 +568,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -768,11 +575,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
 	}
 }
 
@@ -828,21 +630,11 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -863,11 +655,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
-	}
 }
 
 3560={ #Bodincomagos
@@ -886,11 +673,6 @@
 	}
 	tribesmen={
 		amount=1
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -927,18 +709,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
 	}
 }
 
@@ -956,18 +728,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
 	}
 }
 
@@ -984,11 +746,6 @@
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -1009,11 +766,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 }
 
 3566={ #Novaria
@@ -1026,11 +778,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -1155,18 +902,8 @@
 	freemen={
 		amount=3
 	}
-	slaves={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -1190,11 +927,6 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=3
-	}
 }
 
 3574={ #Clastidium
@@ -1211,18 +943,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=3
 	}
 }
 
@@ -1240,23 +962,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -1274,20 +981,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
 		amount=2
 	}
 }
@@ -1391,18 +1088,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="rhaetian"
-		religion="roman_pantheon"
-		amount=1
 	}
 }
 
@@ -1423,18 +1110,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="rhaetian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	port_building=1
 }
@@ -1475,27 +1152,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="rhaetian"
-		amount=1
-	}
-	freemen={
-		culture="lepontic"
-		religion="druidism"
-		amount=2
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="lepontic"
-		religion="druidism"
-		amount=3
-	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=8
 	}
 	tribesmen={
 		amount=4
@@ -1519,16 +1177,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="etruscan"
-		amount=2
 	}
 }
 
@@ -1543,20 +1193,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="etruscan"
-		amount=1
-	}
-	slaves={
-		culture="etruscan"
-		amount=1
-	}
 	tribesmen={
 		amount=6
-	}
-	tribesmen={
-		culture="etruscan"
-		amount=2
 	}
 }
 
@@ -1574,18 +1212,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 
@@ -1600,16 +1228,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="etruscan"
-		amount=2
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="etruscan"
-		amount=1
 	}
 }
 
@@ -1624,16 +1244,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="venetic"
-		amount=1
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="venetic"
-		amount=2
 	}
 }
 
@@ -1657,11 +1269,6 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=3
-	}
 }
 
 3591={ #Vicus Varianus
@@ -1677,10 +1284,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	slaves={
-		culture="etruscan"
-		amount=2
 	}
 	tribesmen={
 		amount=4
@@ -1704,11 +1307,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=2
-	}
 }
 
 3593={ #Hatria
@@ -1722,48 +1320,14 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=2
-	}
-	citizen={
-		culture="syracusan"
-		religion="roman_pantheon"
-		amount=2
-	}
-	citizen={
-		culture="venetic"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="italiotian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		culture="haedui"
-		amount=3
-	}
-	tribesmen={
-		culture="venetic"
-		religion="roman_pantheon"
-		amount=6
-	}
-	tribesmen={
-		culture="etruscan"
-		religion="roman_pantheon"
-		amount=6
 	}
 	port_building=1
 }
@@ -1785,18 +1349,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="lepontic"
-		religion="druidism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=3
 	}
 }
 
@@ -1814,21 +1368,11 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="lepontic"
-		religion="druidism"
-		amount=2
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=3
 	}
 }
 
@@ -2115,11 +1659,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="lepontic"
-		religion="druidism"
-		amount=2
-	}
 }
 
 3662={ #Bretina
@@ -2136,21 +1675,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="rhaetian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="rhaetian"
-		religion="roman_pantheon"
-		amount=2
 	}
 }
 

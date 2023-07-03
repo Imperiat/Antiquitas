@@ -367,16 +367,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="sindhi"
-		religion="hindu"
-		amount=1
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=3
-	}
 	port_building=1
 }
 

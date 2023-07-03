@@ -1167,13 +1167,13 @@ DACIA_FLAG = {
 
 HELLAS_FLAG = {
 	pattern = "pattern_solid.tga"
-	color1 = "helvetia_color"
-	color2 = "pan_hellenic_blue"
+	color1 = "bone_white"
+	color2 = "offwhite"
 
 	colored_emblem = {
-		texture = "ce_pegasus_01.dds"
-		color1 = "pan_hellenic_blue"
-		color2= "helvetia_color"
+		texture = "ce_hellenic_2.dds"
+		color1 = "argead_blue"
+		color2= "offwhite"
 		instance = { 
 			scale = { 1 1 }  
 		}

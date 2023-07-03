@@ -53,7 +53,7 @@
 	}
 }
 
-351={ #Eleutherna
+351={ #Rhithymna
 	terrain="hills"
 	culture="doric"
 	religion="roman_pantheon"
@@ -110,7 +110,7 @@
 	port_building=1
 }
 
-359={ #Lyktos
+359={ #Chersonesos
 	terrain="hills"
 	culture="eteocretan"
 	religion="roman_pantheon"
@@ -914,7 +914,11 @@
 		amount=2
 	}
 	slaves={
-		amount=5
+		amount=1
+	}
+	slaves={
+		culture="attican"
+		amount=4
 	}
 	port_building=1
 }
@@ -1439,7 +1443,7 @@
 	}
 }
 
-475={ #Herakleia Trachinia
+475={ # Doris
 	terrain="hills"
 	culture="north_western_doric"
 	religion="roman_pantheon"
@@ -1613,7 +1617,7 @@
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -1781,7 +1785,7 @@
 		amount=3
 	}
 	tribesmen={
-		amount=4
+		amount=5
 	}
 	holy_site=omen_demeter
 }
@@ -1943,7 +1947,7 @@
 	}
 }
 
-8018={ #Arkades
+8018={ #Priansos
 	terrain="plains"
 	culture="doric"
 	religion="roman_pantheon"

@@ -1,6 +1,6 @@
 ﻿NGame = {
 	START_DATE = "154.6.1"
-	END_DATE = "900.2.17" #Dementive - made this 900 because I can
+	END_DATE = "9999.1.1" #Dementive - made this 900 because I can
 	GAME_SPEED_TICKS = {	 #how many seconds should a day take in every game speed
 		1
 		0.75

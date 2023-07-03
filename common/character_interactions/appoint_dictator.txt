@@ -50,10 +50,6 @@
 				set_variable = {
 					name = "dictatorship_enabled"
 				}
-				set_variable = {
-					name = ach_dictator_appointed
-					value = scope:target
-				}
 			}
 		}
 		custom_tooltip = "appoint_dictator_effect_tooltip"

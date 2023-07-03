@@ -438,7 +438,6 @@ punic_heritage = {
 	trigger = {
 		primary_culture = carthaginian
 		NOR = {
-			tag = THA
 			tag = LIX
 			tag = CAR
 			tag = KUS

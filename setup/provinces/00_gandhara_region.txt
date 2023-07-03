@@ -1493,16 +1493,6 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	nobles={
 		amount=1
 	}
 	citizen={

@@ -1520,7 +1520,7 @@ oratory_2 = {
 				AND = {
 					is_republic = yes
 					num_of_cities >= 200
-					current_date > 560.1.1
+					current_date > 264.1.1
 				}
 			}
 		}

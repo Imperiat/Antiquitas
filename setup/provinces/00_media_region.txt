@@ -489,42 +489,14 @@
 	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		amount=2
-	}
-	nobles={
-		culture="median"
-		amount=2
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
 	citizen={
 		amount=2
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
 	}
 	freemen={
 		amount=10
 	}
 	slaves={
 		amount=9
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
 	}
 	tribesmen={
 		amount=12
@@ -1493,33 +1465,11 @@
 	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		amount=1
-	}
 	citizen={
-		amount=2
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
 		amount=2
 	}
 	freemen={
 		amount=6
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	freemen={
-		culture="pasargadi"
-		amount=4
 	}
 	slaves={
 		amount=7
@@ -1734,33 +1684,11 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		amount=2
-	}
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=6
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	freemen={
-		culture="pasargadi"
-		amount=3
 	}
 	slaves={
 		amount=10
@@ -1779,10 +1707,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		culture="pasargadi"
 		amount=1
 	}
 	freemen={
@@ -1886,28 +1810,11 @@
 	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		amount=2
-	}
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	citizen={
 		amount=6
 	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=4
-	}
-	freemen={
-		culture="pasargadi"
-		amount=2
 	}
 	slaves={
 		amount=5
@@ -1935,17 +1842,8 @@
 	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	citizen={
 		amount=4
-	}
-	citizen={
-		culture="pasargadi"
-		amount=1
 	}
 	freemen={
 		amount=4
@@ -1966,10 +1864,6 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=1
-	}
 	citizen={
 		amount=2
 	}
@@ -2041,25 +1935,13 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		culture="pasargadi"
-		amount=1
-	}
-	nobles={
 		amount=1
 	}
 	citizen={
 		amount=7
 	}
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=9
-	}
-	freemen={
-		culture="pasargadi"
-		amount=3
 	}
 	slaves={
 		amount=8

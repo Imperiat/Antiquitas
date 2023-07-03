@@ -56,22 +56,7 @@
 	citizen={
 		amount=10
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=5
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=4
-	}
 	freemen={
-		amount=2
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
 		amount=2
 	}
 	slaves={
@@ -909,21 +894,6 @@
 	citizen={
 		amount=7
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=3
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=13
 	}
@@ -985,23 +955,8 @@
 	nobles={
 		amount=2
 	}
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=3
-	}
 	citizen={
 		amount=4
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=3
 	}
 	freemen={
 		amount=22

@@ -1,6 +1,6 @@
 ﻿minoan = {
 
-	color = hsv { 0.56  1  0.85 }
+	color = hsv { 0.15 0.15 0.05 }
 
 	primary = archers
 	second = heavy_infantry

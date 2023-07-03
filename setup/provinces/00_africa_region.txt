@@ -945,45 +945,10 @@
 	citizen={
 		amount=15
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=3
-	}
-	citizen={
-		culture="syracusan"
-		religion="roman_pantheon"
-		amount=5
-	}
-	citizen={
-		culture="massalian"
-		religion="roman_pantheon"
-		amount=3
-	}
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="massylian"
-		religion="berber_religion"
-		amount=2
-	}
-	freemen={
-		culture="syracusan"
-		religion="roman_pantheon"
-		amount=2
-	}
 	slaves={
-		amount=10
-	}
-	slaves={
-		culture="massylian"
-		religion="berber_religion"
-		amount=6
-	}
-	tribesmen={
-		culture="massylian"
-		religion="berber_religion"
 		amount=10
 	}
 	holy_site=omen_tanit

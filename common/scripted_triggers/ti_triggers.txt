@@ -103,7 +103,7 @@ TI_generic_infrastructure_mission_block = {
 				tag = JSN
 			}
 		}
-		current_date > 452.1.1
+		current_date > 156.1.1
 	}
 }
 

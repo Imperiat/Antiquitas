@@ -306,26 +306,12 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
 	}
 	freemen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -342,15 +328,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
@@ -358,10 +335,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -395,31 +368,10 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		amount=2
-	}
-	tribesmen={
-		religion="roman_pantheon"
 		amount=2
 	}
 	tribesmen={
@@ -459,20 +411,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
@@ -655,27 +593,10 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=5
-	}
-	slaves={
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=8
@@ -694,20 +615,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=2
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=1
@@ -742,19 +650,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="roman_pantheon"
-		amount=2
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
@@ -803,34 +698,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
 		amount=2
 	}
 	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -853,26 +727,9 @@
 		amount=2
 	}
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1017,34 +874,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=5
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=4
 	}
 	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
 		amount=7
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=5
@@ -1063,27 +899,10 @@
 		amount=1
 	}
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -1098,15 +917,6 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="roman_pantheon"
-		amount=3
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=3
 	}
@@ -1126,24 +936,7 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1193,26 +986,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1229,47 +1005,7 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="aeolian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=5
-	}
-	citizen={
-		culture="mysian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	citizen={
 		amount=10
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	freemen={
-		culture="ionian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="aeolian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
 	}
 	freemen={
 		amount=9
@@ -1292,24 +1028,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="roman_pantheon"
-		amount=3
-	}
-	slaves={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1328,19 +1046,6 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -1377,15 +1082,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	citizen={
-		culture="margian"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
@@ -1438,34 +1134,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -1483,33 +1158,11 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="bactra"
-		amount=1
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	freemen={
-		culture="bactra"
-		amount=1
-	}
 	freemen={
 		amount=14
 	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		culture="bactra"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -1563,24 +1216,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1600,16 +1238,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=2
 	}
 	freemen={
@@ -1631,16 +1259,6 @@
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -1700,30 +1318,10 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1742,30 +1340,10 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 }
@@ -1781,41 +1359,11 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=7
 	}
 	slaves={
 		amount=6
-	}
-	slaves={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=2
 	}
 	tribesmen={
 		amount=4
@@ -1854,22 +1402,9 @@
 		amount=2
 	}
 	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	tribesmen={
-		religion="indo_iranian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -1888,43 +1423,14 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="bactra"
-		religion="eastern_animism"
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="eastern_animism"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="bactra"
-		religion="eastern_animism"
-		amount=1
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="bactra"
-		religion="eastern_animism"
-		amount=1
 	}
 }
 

@@ -153,32 +153,14 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=4
 	}
 	freemen={
 		amount=5
 	}
-	freemen={
-		culture="mariandynian"
-		amount=1
-	}
 	slaves={
 		amount=4
-	}
-	tribesmen={
-		culture="mariandynian"
-		amount=3
 	}
 	port_building=1
 }
@@ -907,34 +889,11 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="macedonian"
-		amount=1
-	}
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="macedonian"
-		amount=1
-	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
 	}
 }
 

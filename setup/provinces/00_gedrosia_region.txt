@@ -362,26 +362,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="pasargadi"
-		amount=1
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="pasargadi"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=4
@@ -1285,11 +1267,6 @@
 	}
 	citizen={
 		amount=10
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=5
 	}
 	freemen={
 		amount=7

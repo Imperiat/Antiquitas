@@ -298,74 +298,17 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
-		amount=1
-	}
-	citizen={
-		religion="zoroaster"
-		amount=2
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
 		amount=5
 	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="morimenian"
-		amount=1
-	}
-	freemen={
-		culture="cataonian"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="morimenian"
-		amount=1
-	}
-	slaves={
-		culture="cataonian"
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
-		amount=3
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="morimenian"
-		amount=1
-	}
-	tribesmen={
-		culture="cataonian"
-		amount=2
 	}
 }
 
@@ -1425,74 +1368,17 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=2
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="ionian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="cilician"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="cataonian"
-		amount=1
-	}
-	freemen={
-		culture="morimenian"
-		amount=1
-	}
-	freemen={
-		culture="isaurian"
-		amount=1
-	}
-	freemen={
-		culture="lycaonian"
-		amount=1
-	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="kennataian"
-		amount=1
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="isaurian"
-		amount=1
-	}
-	tribesmen={
-		culture="lycaonian"
-		amount=1
-	}
-	tribesmen={
-		culture="kennataian"
-		amount=1
 	}
 }
 
@@ -1504,56 +1390,17 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
-		amount=1
-	}
-	citizen={
-		culture="cappadocian"
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
 		amount=1
 	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="phrygian"
-		amount=1
-	}
-	freemen={
-		culture="cataonian"
-		amount=1
-	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
-	freemen={
-		culture="lycaonian"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=4
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="lycaonian"
-		amount=1
 	}
 }
 

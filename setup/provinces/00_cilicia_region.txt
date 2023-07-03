@@ -434,30 +434,10 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="phoenician"
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="phoenician"
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="phoenician"
-		religion="carthaginian_pantheon"
 		amount=1
 	}
 	port_building=1
@@ -487,16 +467,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
 	citizen={
 		amount=5
 	}
@@ -984,62 +954,14 @@
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	citizen={
 		amount=2
-	}
-	citizen={
-		culture="ionian"
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
 	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		culture="kennataian"
-		religion="anatolian_religion"
-		amount=2
-	}
-	freemen={
-		culture="ionian"
-		amount=1
-	}
-	freemen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
 	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	slaves={
-		culture="kennataian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="kennataian"
-		religion="anatolian_religion"
-		amount=4
-	}
-	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
 	}
 }
 

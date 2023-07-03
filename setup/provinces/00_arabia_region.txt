@@ -349,21 +349,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	slaves={
-		culture="hebrew"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="hebrew"
-		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -382,11 +369,6 @@
 		amount=2
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
 		amount=1
 	}
 	slaves={
@@ -486,10 +468,6 @@
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		culture="hebrew"
-		amount=1
-	}
 	tribesmen={
 		amount=1
 	}
@@ -917,17 +895,7 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
 		amount=1
 	}
 	slaves={

@@ -28,11 +28,6 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	citizen={
 		amount=2
 	}
