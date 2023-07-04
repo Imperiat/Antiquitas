@@ -4403,9 +4403,6 @@ character_events.51 = {
 				is_tribal = yes
 			}
 			num_of_cities <= 100
-			NOR = {
-				is_diadochi_trigger = yes
-			}
 		}
 		has_variable = ostracized_from
 		var:ostracized_from = {

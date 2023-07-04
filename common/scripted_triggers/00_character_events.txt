@@ -147,16 +147,6 @@ random_populist_character_trigger = {
 	}
 }
 
-is_diadochi_trigger = {
-	OR = {
-		tag = SEL
-		tag = PRY
-		tag = EGY
-		tag = TRE
-		tag = MAC
-	}
-}
-
 #MON RIVAL BROTHERS Check
 rival_brothers_trigger = {
 	is_monarchy = yes

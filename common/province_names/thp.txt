@@ -1,0 +1,3 @@
+﻿THP = {
+	419 = PROV419_THP # Ephyra
+}

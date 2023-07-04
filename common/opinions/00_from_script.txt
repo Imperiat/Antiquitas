@@ -622,63 +622,8 @@ generic_missions_rep_event_2_good = {
 	yearly_decay = 1
 }
 
-dhe_diadochi_insulted = {
-	value = -25
-	yearly_decay = 1
-}
-
-dhe_diadochi_appeased = {
-	value = 10
-	yearly_decay = 0.5
-}
-
-mission_carthaginian_iberian_balearides_allies = {
-	value = 50
-	yearly_decay = 1
-}
-
 generic_missions_rep_event_2_bad = {
 	value = -50
-	yearly_decay = 1
-}
-
-mission_carthaginian_iberian_balearides_allies_light = {
-	value = 20
-	yearly_decay = 2
-}
-
-mission_carthaginian_iberian_tartessian_opinion = {
-	value = 25
-	yearly_decay = 3
-}
-
-mission_carthaginian_iberian_punic_oppressor_opinion = {
-	value = -30
-	yearly_decay = 2
-}
-
-mission_carthaginian_sicily_acragas_opinion = {
-	value = 40
-	yearly_decay = 1
-}
-
-mission_carthaginian_magna_graecia_treaty_opinion = {
-	value = 25
-	yearly_decay = 1
-}
-
-mission_carthaginian_magna_graecia_hostile_treaty_opinion = {
-	value = -50
-	yearly_decay = 2
-}
-
-mission_carthaginian_africa_stole_tribesmen_opinion = {
-	value = -20
-	yearly_decay = 2
-}
-
-mission_carthaginian_phoenician_liberation_opinion = {
-	value = 50
 	yearly_decay = 1
 }
 
@@ -1614,11 +1559,6 @@ flv_egy_arg_1 = {
 
 flv_egy_arg_2 = {
 	value = -50
-	yearly_decay = 1
-}
-
-diadochi_rivals = {
-	value = -75
 	yearly_decay = 1
 }
 

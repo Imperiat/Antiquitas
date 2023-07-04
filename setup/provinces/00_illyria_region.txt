@@ -196,14 +196,6 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		culture="histrian"
-		amount=2
-	}
-	slaves={
-		culture="histrian"
-		amount=1
-	}
 }
 
 4035={ #Ortopla
@@ -1067,14 +1059,6 @@
 	freemen={
 		amount=3
 	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=2
-	}
-	slaves={
-		culture="greco_illyrian"
-		amount=2
-	}
 	port_building=1
 }
 
@@ -1094,18 +1078,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		culture="taulantian"
-		amount=1
-	}
-	tribesmen={
-		culture="taulantian"
-		amount=1
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=2
 	}
 	port_building=1
 }
@@ -1284,14 +1256,6 @@
 	freemen={
 		amount=3
 	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=1
-	}
-	slaves={
-		culture="greco_illyrian"
-		amount=3
-	}
 	port_building=1
 }
 
@@ -1308,14 +1272,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=2
-	}
-	slaves={
-		culture="greco_illyrian"
-		amount=1
 	}
 	port_building=1
 }

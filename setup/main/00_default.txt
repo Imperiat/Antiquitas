@@ -6953,7 +6953,6 @@ country = {
 			religion = druidism
 			centralization=10
 		
-			#is_antagonist = yes
 			capital = 2373
 		
 			own_control_core = 	{
@@ -9786,7 +9785,7 @@ country = {
 		}
 		
 		THE = {
-			government = despotic_monarchy
+			government = oligarchic_republic
 			primary_culture = boeotian
 			religion = roman_pantheon
 			monarchy_military_reforms = recruit_from_nobles
@@ -9815,7 +9814,7 @@ country = {
 		}
 		
 		KRK = {
-			government = despotic_monarchy
+			government = oligarchic_republic
 			primary_culture = kerkyran
 			religion = roman_pantheon
 		
@@ -9872,38 +9871,6 @@ country = {
 		
 			own_control_core = 	{
 				 463 7803
-			}
-			
-		}
-		
-		PSR = {
-			government = aristocratic_monarchy
-			primary_culture = epirote
-			religion = roman_pantheon
-			diplomatic_stance=warmongering_stance
-			capital = 476
-			monarchy_military_reforms = work_for_the_best
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			pantheon = { 
-			
-			{ deity = 102 }
-			{ deity = 107 }
-			{ deity = 110 }
-			{ deity = 116 }
-			
-			}
-		
-			treasures = { 75 85 }		
-	
-			own_control_core = 	{
-				419 421 474 476
 			}
 			
 		}
@@ -10108,7 +10075,7 @@ country = {
 
 		SIK = {
 			government = oligarchic_republic
-			primary_culture = achaean
+			primary_culture = doric
 			religion = roman_pantheon
 			
 			technology={
@@ -10126,7 +10093,7 @@ country = {
 		}
 		
 		COT = {
-			government = oligarchic_republic
+			government = aristocratic_monarchy
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -10145,7 +10112,7 @@ country = {
 		}
 
 		DEL = {
-			government = democratic_republic
+			government = oligarchic_republic
 			primary_culture = western_ionic
 			religion = roman_pantheon
 			# Nesiotic League
@@ -10408,8 +10375,8 @@ country = {
 			treasures = { 103 }
 		}
 		
-		MGL = { #Part of the Arcadian League
-			government = despotic_monarchy
+		MGL = { #Parrhasia
+			government = oligarchic_republic
 			primary_culture = arcadian
 			religion = roman_pantheon
 			
@@ -10494,7 +10461,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				440 7894 7892 471
+				440 471 7892 7894 7903
 			}	
 		}
 		
@@ -10569,26 +10536,6 @@ country = {
 		
 			treasures = { 109 }
 		}
-		
-		HRM = { #Independent
-			government = oligarchic_republic
-			primary_culture = doric
-			religion = roman_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 7903 #Hermione
-		
-			own_control_core = 	{
-				7903
-			}
-		}
-		
 		
 		STP = { #Arcadian League
 			government = oligarchic_republic
@@ -10781,7 +10728,7 @@ country = {
 		#Crete
 		
 		KNO = {
-			government = despotic_monarchy
+			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -10800,7 +10747,7 @@ country = {
 		}
 		
 		RHI = { # Rhithymna
-			government = despotic_monarchy
+			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -10819,7 +10766,7 @@ country = {
 		}
 		
 		PYR = {
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -10857,7 +10804,7 @@ country = {
 		}
 		
 		KYD = {
-			government = plutocratic_republic
+			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -10876,7 +10823,7 @@ country = {
 		}
 		
 		GRT = {
-			government = democratic_republic
+			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -10895,7 +10842,7 @@ country = {
 		}
 		
 		IEP = {
-			government = despotic_monarchy
+			government = oligarchic_republic
 			primary_culture = eteocretan
 			religion = roman_pantheon
 			
@@ -10914,7 +10861,7 @@ country = {
 		}
 		
 		PRE = {
-			government = plutocratic_republic
+			government = oligarchic_republic
 			primary_culture = eteocretan
 			religion = roman_pantheon
 			
@@ -16848,7 +16795,7 @@ country = {
 		}
 		
 		PHO = { # Phokis
-			government = aristocratic_monarchy
+			government = oligarchic_republic
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -16932,7 +16879,7 @@ country = {
 			capital = 465
 		
 			own_control_core = {
-				465 425 464
+				465 464
 			}
 		}
 		
@@ -16955,7 +16902,7 @@ country = {
 		}
 		
 		LAP = { # Lappa
-			government = plutocratic_republic
+			government = oligarchic_republic
 			primary_culture = doric
 			religion = roman_pantheon
 			
@@ -17475,7 +17422,7 @@ country = {
 				402 7896
 			}
 		}
-		LCS = { # Locris Ozolia
+		LCS = { # Lokris Ozolia
 			government = oligarchic_republic
 			primary_culture = north_western_doric
 			religion = roman_pantheon
@@ -17496,6 +17443,57 @@ country = {
 			own_control_core = {
 				401 469
 			}
+		}
+		MOL = { # Molossia
+			government = oligarchic_republic
+			primary_culture = epirote
+			religion = roman_pantheon
+			
+			capital = 476
+			
+			own_control_core = {
+				425 476
+			}
+		}
+		CH1 = { # Chaonia
+			government = oligarchic_republic
+			primary_culture = epirote
+			religion = roman_pantheon
+			
+			capital = 421
+			
+			own_control_core = {
+				421 474
+			}
+		}
+		THP = { # Thesprotia
+			government = oligarchic_republic
+			primary_culture = epirote
+			religion = roman_pantheon
+			capital = 419
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			pantheon = {
+			
+			{ deity = 102 }
+			{ deity = 107 }
+			{ deity = 110 }
+			{ deity = 116 }
+			
+			}
+		
+			treasures = { 75 85 }		
+	
+			own_control_core = 	{
+				419
+			}
+			
 		}
 	}
 }

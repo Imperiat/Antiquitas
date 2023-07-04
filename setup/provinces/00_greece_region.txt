@@ -110,7 +110,7 @@
 	port_building=1
 }
 
-359={ #Chersonesos
+359={ #Chersonesos Kriti
 	terrain="hills"
 	culture="eteocretan"
 	religion="roman_pantheon"
@@ -259,7 +259,7 @@
 	trade_goods="iron"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=4
 	}
@@ -307,7 +307,7 @@
 	trade_goods="wine"
 	civilization_value=28
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=4
 	}
@@ -679,7 +679,7 @@
 
 431={ #Messene
 	terrain="farmland"
-	culture="doric"
+	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=35
@@ -699,13 +699,14 @@
 
 432={ #Mothone
 	terrain="hills"
-	culture="doric"
+	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		culture="doric"
 		amount=2
 	}
 	tribesmen={
@@ -1220,7 +1221,7 @@
 	trade_goods="marble"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=2
 	}
@@ -1245,7 +1246,7 @@
 	}
 }
 
-464={ #Kassope
+464={ #Aktion
 	terrain="hills"
 	culture="kerkyran"
 	religion="roman_pantheon"
@@ -1326,7 +1327,7 @@
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -1362,7 +1363,7 @@
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -1377,7 +1378,7 @@
 
 471={ #Kythera
 	terrain="hills"
-	culture="western_ionic"
+	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=24
@@ -1413,13 +1414,14 @@
 
 473={ #Leuktra
 	terrain="mountain"
-	culture="doric"
+	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		culture="doric"
 		amount=2
 	}
 	slaves={
