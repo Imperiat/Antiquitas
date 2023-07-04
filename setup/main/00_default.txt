@@ -2342,16 +2342,13 @@ provinces = { #Any entry must contain a comment with city name.
 		workshop_building = 1
 	}
 	417 = { #Megara
-		fortress_building = 1
 		shrine_building = 1
 	}
 	418 = { #Korinthos
-		fortress_building = 1
 		forum_building = 1
 		shrine_building = 1
 	}
 	440 = { #Argos
-		fortress_building = 1
 		forum_building = 1
 		shrine_building = 1
 	}
@@ -8796,8 +8793,7 @@ country = {
 		}
 		
 		TLN = {
-			#family = 53
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = taulantian
 			religion = roman_pantheon
 		
@@ -8809,7 +8805,7 @@ country = {
 		}
 
 		LYN = {
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = taulantian
 			religion = roman_pantheon
 		
@@ -9573,8 +9569,7 @@ country = {
 		
 		MAC = {
 			family = 3
-			#family = 23
-			government = aristocratic_monarchy
+			government = tribal_kingdom
 			primary_culture = macedonian
 			religion = roman_pantheon
 			diplomatic_stance=warmongering_stance
@@ -9678,7 +9673,7 @@ country = {
 		}
 
 		APS = {
-			government = aristocratic_monarchy
+			government = tribal_kingdom
 			primary_culture = mygdonian
 			religion = roman_pantheon
 			capital = 366
@@ -9834,7 +9829,7 @@ country = {
 		}
 			
 		AET = {
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 		
@@ -9856,7 +9851,7 @@ country = {
 			
 			
 		AKR = {
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 		
@@ -9876,7 +9871,7 @@ country = {
 		}
 
 		BYL = {
-			government = aristocratic_monarchy
+			government = tribal_kingdom
 			primary_culture = epirote
 			religion = roman_pantheon
 			capital = 3192
@@ -10107,7 +10102,7 @@ country = {
 			capital = 418
 		
 			own_control_core = 	{
-				418
+				418 464
 			}
 		}
 
@@ -10376,7 +10371,7 @@ country = {
 		}
 		
 		MGL = { #Parrhasia
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = arcadian
 			religion = roman_pantheon
 			
@@ -16738,7 +16733,7 @@ country = {
 		}
 
 		DOR = { #Doris
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -16757,7 +16752,7 @@ country = {
 		}
 
 		PHR = {
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = thessalian
 			religion = roman_pantheon
 			
@@ -16776,7 +16771,7 @@ country = {
 		}
 
 		THS = {
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = thessalian
 			religion = roman_pantheon
 			
@@ -16795,7 +16790,7 @@ country = {
 		}
 		
 		PHO = { # Phokis
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -16879,7 +16874,7 @@ country = {
 			capital = 465
 		
 			own_control_core = {
-				465 464
+				465
 			}
 		}
 		
@@ -17401,7 +17396,7 @@ country = {
 			}
 		}
 		DOL = { # Dolopia
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -17412,7 +17407,7 @@ country = {
 			}
 		}
 		LCO = { # Locris Opuntian
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -17423,7 +17418,7 @@ country = {
 			}
 		}
 		LCS = { # Lokris Ozolia
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -17434,7 +17429,7 @@ country = {
 			}
 		}
 		AIN = { # Aeniania
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = north_western_doric
 			religion = roman_pantheon
 			
@@ -17445,7 +17440,7 @@ country = {
 			}
 		}
 		MOL = { # Molossia
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = epirote
 			religion = roman_pantheon
 			
@@ -17456,7 +17451,7 @@ country = {
 			}
 		}
 		CH1 = { # Chaonia
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = epirote
 			religion = roman_pantheon
 			
@@ -17467,7 +17462,7 @@ country = {
 			}
 		}
 		THP = { # Thesprotia
-			government = oligarchic_republic
+			government = tribal_kingdom
 			primary_culture = epirote
 			religion = roman_pantheon
 			capital = 419

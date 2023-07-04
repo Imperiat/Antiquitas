@@ -1,3 +1,0 @@
-﻿MGA = {
-	463 = PROV463_MGA # Anaktorion
-}

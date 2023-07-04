@@ -1239,10 +1239,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		culture="doric"
+		amount=1
+	}
+	freemen={
+		amount=1
 	}
 	tribesmen={
-		amount=4
+		culture="doric"
+		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -1255,10 +1263,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		culture="doric"
+		amount=1
+	}
+	freemen={
+		amount=1
 	}
 	tribesmen={
-		amount=4
+		culture="doric"
+		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
