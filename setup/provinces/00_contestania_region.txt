@@ -157,7 +157,7 @@
 1031={ #Hemeroskopeion
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -171,18 +171,13 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="contestanian"
-		religion="animism"
-		amount=5
-	}
 	port_building=1
 }
 
 1032={ #Sykronou Limen
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -195,11 +190,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="contestanian"
-		religion="animism"
-		amount=3
 	}
 	port_building=1
 }

@@ -1,7 +1,7 @@
 ﻿263={ #Naxos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=24
 	barbarian_power=0
@@ -21,7 +21,7 @@
 277={ #Skyros
 	terrain="hills"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -37,7 +37,7 @@
 344={ #Praisos
 	terrain="hills"
 	culture="eteocretan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -56,7 +56,7 @@
 351={ #Rhithymna
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=19
 	barbarian_power=0
@@ -72,7 +72,7 @@
 355={ #Hierapytna
 	terrain="hills"
 	culture="eteocretan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=24
 	barbarian_power=0
@@ -92,7 +92,7 @@
 358={ #Knossos
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -113,7 +113,7 @@
 359={ #Chersonesos Kriti
 	terrain="hills"
 	culture="eteocretan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -132,7 +132,7 @@
 361={ #Gortyna
 	terrain="forest"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -152,7 +152,7 @@
 367={ #Kydonia
 	terrain="plains"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -171,7 +171,7 @@
 368={ #Polyrrhenia
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=29
 	barbarian_power=0
@@ -190,7 +190,7 @@
 370={ #Tarrha
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=19
 	barbarian_power=0
@@ -207,7 +207,7 @@
 372={ #Korion
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=19
 	barbarian_power=0
@@ -226,7 +226,7 @@
 375={ #Arkesine
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="silk"
 	civilization_value=19
 	barbarian_power=0
@@ -242,7 +242,7 @@
 387={ #Ios
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=19
 	barbarian_power=0
@@ -255,7 +255,7 @@
 399={ #Lamia
 	terrain="plains"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=33
 	barbarian_power=0
@@ -271,7 +271,7 @@
 401={ #Hypate
 	terrain="mountain"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -287,7 +287,7 @@
 402={ #Opous
 	terrain="hills"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -303,7 +303,7 @@
 403={ #Histiaia
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=28
 	barbarian_power=0
@@ -320,7 +320,7 @@
 406={ #Anthedon
 	terrain="hills"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="horses"
 	civilization_value=24
 	barbarian_power=0
@@ -337,7 +337,7 @@
 407={ #Chalkis
 	terrain="plains"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
@@ -360,7 +360,7 @@
 409={ #Karystos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=24
 	barbarian_power=0
@@ -380,7 +380,7 @@
 410={ #Oichalia Euboike
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -396,7 +396,7 @@
 413={ #Oropos
 	terrain="marsh"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=17
 	barbarian_power=0
@@ -412,7 +412,7 @@
 416={ #Athenai
 	terrain="farmland"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=53
 	barbarian_power=0
@@ -439,7 +439,7 @@
 417={ #Megara
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=37
 	barbarian_power=0
@@ -465,7 +465,7 @@
 418={ #Korinthos
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -491,7 +491,7 @@
 419={ #Toryne
 	terrain="hills"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="horses"
 	civilization_value=24
 	barbarian_power=0
@@ -507,7 +507,7 @@
 421={ #Phoinike
 	terrain="hills"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -526,7 +526,7 @@
 423={ #Orchomenos
 	terrain="hills"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -548,7 +548,7 @@
 424={ #Delphoi
 	terrain="mountain"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=37
 	barbarian_power=0
@@ -572,7 +572,7 @@
 425={ #Dodona
 	terrain="mountain"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=22
 	barbarian_power=0
@@ -591,7 +591,7 @@
 426={ #Thebai
 	terrain="farmland"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=26
 	barbarian_power=0
@@ -617,7 +617,7 @@
 427={ #Sparta
 	terrain="farmland"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=37
 	barbarian_power=0
@@ -642,7 +642,7 @@
 429={ #Epidauros Limira
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -661,7 +661,7 @@
 430={ #Gytheion
 	terrain="farmland"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
@@ -680,7 +680,7 @@
 431={ #Messene
 	terrain="farmland"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=35
 	barbarian_power=0
@@ -700,7 +700,7 @@
 432={ #Mothone
 	terrain="hills"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -720,7 +720,7 @@
 433={ #Lepreon
 	terrain="hills"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=29
 	barbarian_power=0
@@ -739,7 +739,7 @@
 434={ #Patrai
 	terrain="hills"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -759,7 +759,7 @@
 435={ #Heraia
 	terrain="farmland"
 	culture="arcadian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=28
 	barbarian_power=0
@@ -775,7 +775,7 @@
 436={ #Lykosoura
 	terrain="farmland"
 	culture="arcadian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=28
 	barbarian_power=0
@@ -794,7 +794,7 @@
 437={ #Seriphos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=19
 	barbarian_power=0
@@ -813,7 +813,7 @@
 438={ #Mantineia
 	terrain="mountain"
 	culture="arcadian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=22
 	barbarian_power=0
@@ -829,7 +829,7 @@
 439={ #Olympia
 	terrain="forest"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -849,7 +849,7 @@
 440={ #Argos
 	terrain="plains"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=31
 	barbarian_power=0
@@ -876,7 +876,7 @@
 441={ #Epidauros
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=54
 	barbarian_power=0
@@ -897,7 +897,7 @@
 442={ #Aigina
 	terrain="plains"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -927,7 +927,7 @@
 443={ #Kythnos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=19
 	barbarian_power=0
@@ -943,7 +943,7 @@
 444={ #Aigion
 	terrain="hills"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -963,7 +963,7 @@
 446={ #Elis
 	terrain="farmland"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=33
 	barbarian_power=0
@@ -986,7 +986,7 @@
 447={ #Syros
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 448={ #Stymphalos
 	terrain="mountain"
 	culture="arcadian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=22
 	barbarian_power=0
@@ -1018,7 +1018,7 @@
 449={ #Kleitor
 	terrain="mountain"
 	culture="arcadian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1034,7 +1034,7 @@
 450={ #Kyphanta
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 451={ #Troizen
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -1073,7 +1073,7 @@
 452={ #Tenos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -1089,7 +1089,7 @@
 454={ #Thera
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="silk"
 	civilization_value=19
 	barbarian_power=0
@@ -1108,7 +1108,7 @@
 456={ #Thermos
 	terrain="mountain"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=27
 	barbarian_power=0
@@ -1127,7 +1127,7 @@
 457={ #Naupaktos
 	terrain="hills"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
@@ -1147,7 +1147,7 @@
 458={ #Amphissa
 	terrain="hills"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
@@ -1166,7 +1166,7 @@
 459={ #Leukas
 	terrain="hills"
 	culture="kerkyran"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
@@ -1182,7 +1182,7 @@
 460={ #Zakynthos
 	terrain="farmland"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=28
 	barbarian_power=0
@@ -1198,7 +1198,7 @@
 461={ #Kranioi
 	terrain="hills"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -1217,7 +1217,7 @@
 462={ #Stratos
 	terrain="plains"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=31
 	barbarian_power=0
@@ -1233,7 +1233,7 @@
 463={ #Thyrrheion
 	terrain="farmland"
 	culture="kerkyran"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=28
 	barbarian_power=0
@@ -1257,7 +1257,7 @@
 464={ #Aktion
 	terrain="hills"
 	culture="kerkyran"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -1281,7 +1281,7 @@
 465={ #Ambrakia
 	terrain="farmland"
 	culture="kerkyran"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=35
 	barbarian_power=0
@@ -1304,7 +1304,7 @@
 466={ #Oichalia Aitolia
 	terrain="mountain"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
@@ -1323,7 +1323,7 @@
 467={ #Orikon
 	terrain="hills"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1339,7 +1339,7 @@
 468={ #Thespiai
 	terrain="hills"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
@@ -1359,7 +1359,7 @@
 469={ #Thaumakoi
 	terrain="plains"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -1375,7 +1375,7 @@
 470={ #Korkyra
 	terrain="plains"
 	culture="kerkyran"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -1395,7 +1395,7 @@
 471={ #Kythera
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -1411,7 +1411,7 @@
 472={ #Karthaia
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=19
 	barbarian_power=0
@@ -1431,14 +1431,17 @@
 473={ #Leuktra
 	terrain="mountain"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		culture="doric"
-		amount=2
+		amount=1
+	}
+	citizen={
+		amount=1
 	}
 	slaves={
 		amount=2
@@ -1448,7 +1451,7 @@
 474={ #Hekatompedon
 	terrain="mountain"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=22
 	barbarian_power=0
@@ -1464,7 +1467,7 @@
 475={ # Doris
 	terrain="hills"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
@@ -1483,7 +1486,7 @@
 476={ #Passaron
 	terrain="mountain"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="honey"
 	civilization_value=31
 	barbarian_power=0
@@ -1499,7 +1502,7 @@
 1835={ #Delos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -1520,7 +1523,7 @@
 1903={ #Andros
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -1540,7 +1543,7 @@
 1915={ #Paros
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="base_metals"
 	civilization_value=19
 	barbarian_power=0
@@ -1560,7 +1563,7 @@
 1964={ #Melos
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=19
 	barbarian_power=0
@@ -1580,7 +1583,7 @@
 3192={ #Byllis
 	terrain="forest"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=18
 	barbarian_power=0
@@ -1596,7 +1599,7 @@
 7798={ #Elateia
 	terrain="hills"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -1615,7 +1618,7 @@
 7799={ #Thorikos
 	terrain="plains"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="base_metals"
 	civilization_value=21
 	barbarian_power=0
@@ -1631,7 +1634,7 @@
 7802={ #Tanagra
 	terrain="plains"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -1650,7 +1653,7 @@
 7803={ #Oiniadai
 	terrain="farmland"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=28
 	barbarian_power=0
@@ -1666,7 +1669,7 @@
 7889={ #Tainaron
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1682,7 +1685,7 @@
 7890={ #Dyme
 	terrain="hills"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -1702,7 +1705,7 @@
 7891={ #Thyreai
 	terrain="hills"
 	culture="arcadian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1718,7 +1721,7 @@
 7892={ #Thyrea
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1737,7 +1740,7 @@
 7893={ #Pellene
 	terrain="hills"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -1756,7 +1759,7 @@
 7894={ #Kleonai
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -1775,7 +1778,7 @@
 7896={ #Nikaia Lokre
 	terrain="mountain"
 	culture="north_western_doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=22
 	barbarian_power=0
@@ -1791,7 +1794,7 @@
 7897={ #Eleusis
 	terrain="plains"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=21
 	barbarian_power=0
@@ -1811,7 +1814,7 @@
 7898={ #Rhamnous
 	terrain="hills"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=19
 	barbarian_power=0
@@ -1827,7 +1830,7 @@
 7899={ #Kerinthos
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=23
 	barbarian_power=0
@@ -1843,7 +1846,7 @@
 7901={ #Eretria
 	terrain="plains"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=31
 	barbarian_power=0
@@ -1866,7 +1869,7 @@
 7902={ #Salamis
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -1882,7 +1885,7 @@
 7903={ #Hermione
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1900,7 +1903,7 @@
 7904={ #Styra
 	terrain="hills"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1916,7 +1919,7 @@
 7905={ #Siphnos
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=19
 	barbarian_power=0
@@ -1932,7 +1935,7 @@
 8003={ #Sikyon
 	terrain="plains"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -1952,7 +1955,7 @@
 8016={ #Lappa
 	terrain="hills"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1968,7 +1971,7 @@
 8018={ #Priansos
 	terrain="plains"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0

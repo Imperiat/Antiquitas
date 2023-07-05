@@ -35,24 +35,14 @@
 
 6611={ #Alexandreia Kaukasou
 	terrain="mountain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="magadhi"
+	religion="buddhism"
 	trade_goods="lapis"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="magadhi"
-		religion="buddhism"
-		amount=1
-	}
-	citizen={
 		amount=5
-	}
-	freemen={
-		culture="magadhi"
-		religion="buddhism"
-		amount=1
 	}
 	freemen={
 		amount=6
@@ -60,22 +50,7 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="sattagydian"
-		religion="buddhism"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="sattagydian"
-		religion="zoroaster"
-		amount=1
-	}
-	tribesmen={
-		culture="sattagydian"
-		religion="hindu"
 		amount=1
 	}
 }
@@ -140,8 +115,8 @@
 
 6615={ #Alexandreia Opiane
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sattagydian"
+	religion="zoroaster"
 	trade_goods="leather"
 	civilization_value=44
 	barbarian_power=0
@@ -157,16 +132,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="sattagydian"
-		religion="zoroaster"
-		amount=2
-	}
-	tribesmen={
-		culture="sattagydian"
-		religion="hindu"
-		amount=1
 	}
 }
 
@@ -394,10 +359,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="roman_pantheon"
-		amount=2
-	}
-	tribesmen={
 		amount=2
 	}
 }
@@ -414,10 +375,6 @@
 		amount=1
 	}
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		religion="roman_pantheon"
 		amount=2
 	}
 	tribesmen={
@@ -663,7 +620,7 @@
 6652={ #Komeia
 	terrain="dry_plains"
 	culture="bactra"
-	religion="roman_pantheon"
+	religion="zoroaster"
 	trade_goods="fur"
 	civilization_value=21
 	barbarian_power=0
@@ -719,10 +676,6 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
 	citizen={
 		amount=2
 	}
@@ -780,8 +733,8 @@
 
 6668={ #Alexandreia Margiana
 	terrain="dry_plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="margian"
+	religion="zoroaster"
 	trade_goods="leather"
 	civilization_value=36
 	barbarian_power=0
@@ -791,21 +744,6 @@
 	}
 	freemen={
 		amount=8
-	}
-	freemen={
-		culture="margian"
-		religion="zoroaster"
-		amount=1
-	}
-	slaves={
-		culture="margian"
-		religion="zoroaster"
-		amount=4
-	}
-	tribesmen={
-		culture="margian"
-		religion="zoroaster"
-		amount=5
 	}
 }
 
@@ -818,25 +756,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=2
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=1
 	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -956,15 +882,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=2
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=3
@@ -1104,10 +1022,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=1
 	}
 	freemen={
@@ -1115,10 +1029,6 @@
 	}
 	slaves={
 		amount=4
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -1149,8 +1059,8 @@
 
 6688={ #Alexandreia Oxou
 	terrain="dry_plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="bactra"
+	religion="zoroaster"
 	trade_goods="earthware"
 	civilization_value=36
 	barbarian_power=0
@@ -1272,8 +1182,8 @@
 
 6694={ #Eukratideia
 	terrain="farmland"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="bactra"
+	religion="zoroaster"
 	trade_goods="lapis"
 	civilization_value=34
 	barbarian_power=0
@@ -1281,26 +1191,11 @@
 	nobles={
 		amount=1
 	}
-	nobles={
-		culture="bactra"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=15
 	}
-	citizen={
-		culture="bactra"
-		religion="zoroaster"
-		amount=2
-	}
 	freemen={
 		amount=10
-	}
-	freemen={
-		culture="bactra"
-		religion="zoroaster"
-		amount=2
 	}
 	slaves={
 		amount=6

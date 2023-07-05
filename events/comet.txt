@@ -221,7 +221,7 @@ comet.5 = {
 					first_name = "Demodamas"
 					age = 32
 					culture = macedonian
-					religion = roman_pantheon
+					religion = greek_pantheon
 					save_scope_as = demodamas
 				}
 				scope:demodamas = {

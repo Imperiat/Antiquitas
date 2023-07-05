@@ -5,7 +5,7 @@
 		family = c:MAC.fam:Argead
 		birth_date=131.12.19
 		culture="macedonian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		father="char:12"
 		no_stats=yes
 		add_martial=9

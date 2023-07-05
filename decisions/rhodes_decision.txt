@@ -38,7 +38,7 @@
 				stability > 50
 			}
 			tag = RHO
-			religion = roman_pantheon
+			religion = greek_pantheon
 			p:266 = {
 				free_building_slots >= 1
 				great_work_locator_is_free = secondary_great_work

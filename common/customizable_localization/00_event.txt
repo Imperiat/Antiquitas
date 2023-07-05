@@ -5602,7 +5602,7 @@ festival_type = {
 		localization_key = pyanepsia
 		trigger = { 
 			country_culture_group = hellenic
-			religion = roman_pantheon
+			religion = greek_pantheon
 		}
 	}
 	

@@ -20,7 +20,7 @@
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 }
@@ -41,12 +41,12 @@
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	port_building=1
@@ -84,22 +84,22 @@
 	}
 	freemen={
 		culture="getian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="getian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 }
@@ -107,7 +107,7 @@
 4525={ #Tyras
 	terrain="marsh"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=22
 	barbarian_power=0
@@ -141,7 +141,7 @@
 4526={ #Nikonia
 	terrain="marsh"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=22
 	barbarian_power=0
@@ -159,7 +159,7 @@
 	}
 	slaves={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -173,7 +173,7 @@
 4527={ #Istrianon
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wild_game"
 	civilization_value=21
 	barbarian_power=0
@@ -198,7 +198,7 @@
 4528={ #Skopouloi
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="steppe_horses"
 	civilization_value=21
 	barbarian_power=0
@@ -218,12 +218,12 @@
 	}
 	freemen={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 }
@@ -231,7 +231,7 @@
 4529={ #Olbia
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=26
 	barbarian_power=0
@@ -262,7 +262,7 @@
 	}
 	slaves={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 	tribesmen={
@@ -272,7 +272,7 @@
 	}
 	slaves={
 		culture="getian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	port_building=1
@@ -297,7 +297,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }
@@ -454,7 +454,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }
@@ -1488,12 +1488,12 @@
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }
@@ -1538,7 +1538,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 }
@@ -1607,7 +1607,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 }
@@ -1778,7 +1778,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=3
 	}
 }
@@ -1808,7 +1808,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }
@@ -1832,17 +1832,17 @@
 	}
 	freemen={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=4
 	}
 }
@@ -1866,7 +1866,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=3
 	}
 }
@@ -1890,22 +1890,22 @@
 	}
 	tribesmen={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }
@@ -1923,17 +1923,17 @@
 	}
 	tribesmen={
 		culture="scythian"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }
@@ -1970,7 +1970,7 @@
 	}
 	slaves={
 		culture="bosporan"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=2
 	}
 }

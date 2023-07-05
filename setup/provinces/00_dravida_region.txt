@@ -941,7 +941,7 @@
 	}
 	freemen={
 		culture="hellenistic"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={

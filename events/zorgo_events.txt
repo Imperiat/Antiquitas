@@ -428,7 +428,7 @@ zorgo_event.10 = {
 					age = 32
 					female = no
 					culture = attican
-					religion = roman_pantheon
+					religion = greek_pantheon
 					save_scope_as = euthymios
 				}
 				scope:euthymios = {

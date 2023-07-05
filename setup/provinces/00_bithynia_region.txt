@@ -121,7 +121,7 @@
 206={ #Kytoros
 	terrain="forest"
 	culture="paphlagonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -148,7 +148,7 @@
 207={ #Herakleia Pontike
 	terrain="hills"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
@@ -168,7 +168,7 @@
 208={ #Sesamos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0
@@ -200,7 +200,7 @@
 209={ #Teion
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -223,7 +223,7 @@
 210={ #Dadybra
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=3
 	barbarian_power=0
@@ -257,20 +257,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="mariandynian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="mariandynian"
-		religion="roman_pantheon"
 		amount=1
 	}
 }
@@ -278,7 +268,7 @@
 212={ #Parthenia
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=3
 	barbarian_power=0
@@ -328,7 +318,7 @@
 214={ #Timonion
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=3
 	barbarian_power=0
@@ -384,23 +374,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="paphlagonian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="mariandynian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="paphlagonian"
 		amount=1
 	}
 }
@@ -419,17 +396,7 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="mariandynian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="mariandynian"
-		religion="roman_pantheon"
 		amount=1
 	}
 }
@@ -437,7 +404,7 @@
 219={ #Salon
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=3
 	barbarian_power=0
@@ -504,16 +471,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="mariandynian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
-	}
 }
 
 224={ #Gordioukome
@@ -574,17 +531,12 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="mariandynian"
-		religion="roman_pantheon"
-		amount=1
-	}
 }
 
 233={ #Kieros
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=3
 	barbarian_power=0
@@ -611,7 +563,7 @@
 234={ #Kalpe
 	terrain="forest"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -643,7 +595,7 @@
 236={ #Tarsos Bithynias
 	terrain="hills"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -666,7 +618,7 @@
 237={ #Embolos
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=3
 	barbarian_power=0
@@ -693,7 +645,7 @@
 238={ #Diospolis
 	terrain="forest"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -722,7 +674,7 @@
 239={ #Artanes
 	terrain="plains"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -744,7 +696,7 @@
 240={ #Chalkedon
 	terrain="plains"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -775,7 +727,7 @@
 241={ #Rhebas
 	terrain="plains"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=26
 	barbarian_power=0
@@ -807,7 +759,7 @@
 242={ #Libyssa
 	terrain="plains"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=26
 	barbarian_power=0
@@ -841,7 +793,7 @@
 243={ #Astakos
 	terrain="hills"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
@@ -881,7 +833,7 @@
 244={ #Antigoneia Bithynias
 	terrain="hills"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=29
 	barbarian_power=0
@@ -900,7 +852,7 @@
 245={ #Kios
 	terrain="hills"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=29
 	barbarian_power=0
@@ -945,7 +897,7 @@
 246={ #Strobilos
 	terrain="hills"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -979,7 +931,7 @@
 247={ #Pythopolis
 	terrain="hills"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -1013,7 +965,7 @@
 248={ #Myrleia
 	terrain="plains"
 	culture="thracian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -1055,28 +1007,14 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="thracian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="thracian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="phrygian"
-		amount=1
 	}
 }
 
@@ -1094,16 +1032,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="thracian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="phrygian"
 		amount=2
 	}
 }
@@ -1203,32 +1132,18 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		culture="bithynian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="bithynian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
-		amount=1
-	}
 }
 
 326={ #Modra
 	terrain="hills"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=3
 	barbarian_power=0
@@ -1298,21 +1213,12 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		culture="mysian"
-		amount=1
-	}
-	tribesmen={
-		culture="mariandynian"
-		religion="roman_pantheon"
-		amount=1
-	}
 }
 
 1806={ #Themiskyra
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=9
 	barbarian_power=0
@@ -1326,17 +1232,12 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=2
-	}
 }
 
 1807={ #Amisos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
@@ -1373,7 +1274,7 @@
 1809={ #Gadilon
 	terrain="forest"
 	culture="cappadocian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
@@ -1405,7 +1306,7 @@
 1810={ #Zaliches
 	terrain="hills"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=19
 	barbarian_power=0
@@ -1434,7 +1335,7 @@
 1812={ #Sinope
 	terrain="plains"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=26
 	barbarian_power=0
@@ -1482,7 +1383,7 @@
 1814={ #Stephane
 	terrain="hills"
 	culture="cappadocian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=18
 	barbarian_power=0
@@ -1514,7 +1415,7 @@
 1815={ #Abonouteichos
 	terrain="hills"
 	culture="cappadocian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=18
 	barbarian_power=0
@@ -1544,7 +1445,7 @@
 1816={ #Karambis
 	terrain="hills"
 	culture="cappadocian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -1641,7 +1542,7 @@
 7763={ #Sophon Pass
 	terrain="mountain"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1674,7 +1575,7 @@
 7914={ #Modra Pass
 	terrain="mountain"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

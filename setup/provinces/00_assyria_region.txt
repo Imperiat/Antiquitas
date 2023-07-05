@@ -180,8 +180,8 @@
 
 830={ #Antiocheia Mygdonias
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="assyrian"
+	religion="mesopotamian_religion"
 	trade_goods="horses"
 	civilization_value=38
 	barbarian_power=0
@@ -195,18 +195,8 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="assyrian"
-		religion="zoroaster"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -653,19 +643,14 @@
 
 853={ #Ichnai
 	terrain="desert"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="aramaic"
+	religion="carthaginian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=2
 	}
 }
 

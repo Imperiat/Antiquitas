@@ -886,7 +886,7 @@
 117={ #Ankon
 	terrain="farmland"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="dye"
 	civilization_value=33
 	barbarian_power=0

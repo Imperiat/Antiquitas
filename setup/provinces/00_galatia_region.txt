@@ -1121,32 +1121,14 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="bithynian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="bithynian"
-		amount=1
 	}
 }
 
@@ -1661,14 +1643,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -1676,14 +1650,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		amount=1
-	}
-	tribesmen={
-		culture="pisidian"
 		amount=1
 	}
 }
@@ -1766,29 +1732,13 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="phrygian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
-	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
 		amount=1
 	}
 }
@@ -1801,10 +1751,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=3
 	}

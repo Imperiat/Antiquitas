@@ -137,7 +137,7 @@ country_decisions = {
 		}
 	}
 
-	convert_to_hellenic = {
+	convert_to_dei_consentes = {
 
 		potential = {
 			num_of_cities >= 1
@@ -164,6 +164,38 @@ country_decisions = {
 				add = 1
 				capital_scope = {
 					dominant_province_religion = roman_pantheon
+				}
+			}
+		}
+	}
+	
+	convert_to_olympioi = {
+
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = greek_pantheon
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = greek_pantheon
+			}
+		}
+
+		effect = {
+			change_religion_effect = {
+				RELIGION = greek_pantheon
+			}
+		}
+
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = greek_pantheon
 				}
 			}
 		}

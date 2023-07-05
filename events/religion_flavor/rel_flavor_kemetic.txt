@@ -3446,13 +3446,13 @@ rel_flavor_kemetic.49 = {	#Hellenics/Arabians turning to our faith
 		NOT = { has_variable = rel_flavor_kemetic_49_cooldown }
 		any_owned_province = {
 			OR = {
-				dominant_province_religion = roman_pantheon
+				dominant_province_religion = greek_pantheon
 				dominant_province_religion = arabian_pantheon
 			}
 			any_pops_in_province = {
 				count > 5
 				OR = {
-					pop_religion = roman_pantheon
+					pop_religion = greek_pantheon
 					pop_religion = arabian_pantheon
 				}
 			}
@@ -3470,13 +3470,13 @@ rel_flavor_kemetic.49 = {	#Hellenics/Arabians turning to our faith
 		random_owned_province = {
 			limit = {
 				OR = {
-					dominant_province_religion = roman_pantheon
+					dominant_province_religion = greek_pantheon
 					dominant_province_religion = arabian_pantheon
 				}
 				any_pops_in_province = {
 					count > 5
 					OR = {
-						pop_religion = roman_pantheon
+						pop_religion = greek_pantheon
 						pop_religion = arabian_pantheon
 					}
 				}
@@ -3498,7 +3498,7 @@ rel_flavor_kemetic.49 = {	#Hellenics/Arabians turning to our faith
 			ordered_pops_in_province = {
 				limit = {
 					OR = {
-						pop_religion = roman_pantheon
+						pop_religion = greek_pantheon
 						pop_religion = arabian_pantheon
 					}
 				}
@@ -3519,7 +3519,7 @@ rel_flavor_kemetic.49 = {	#Hellenics/Arabians turning to our faith
 			ordered_pops_in_province = {
 				limit = {
 					OR = {
-						pop_religion = roman_pantheon
+						pop_religion = greek_pantheon
 						pop_religion = arabian_pantheon
 					}
 				}
@@ -3677,7 +3677,7 @@ rel_flavor_kemetic.51 = {	# Hellenics convinced by charismatic character to beco
 			dominant_province_religion = root.religion
 			any_pops_in_province = {
 				count > 2
-				pop_religion = roman_pantheon
+				pop_religion = greek_pantheon
 			}
 		}
 	}
@@ -3692,7 +3692,7 @@ rel_flavor_kemetic.51 = {	# Hellenics convinced by charismatic character to beco
 				dominant_province_religion = root.religion
 				any_pops_in_province = {
 					count > 2
-					pop_religion = roman_pantheon
+					pop_religion = greek_pantheon
 				}
 			}
 			weight = {
@@ -3700,14 +3700,14 @@ rel_flavor_kemetic.51 = {	# Hellenics convinced by charismatic character to beco
 					factor = 10
 					any_pops_in_province = {
 						count > 10
-						pop_religion = roman_pantheon
+						pop_religion = greek_pantheon
 					}
 				}
 				modifier = {
 					factor = 10
 					any_pops_in_province = {
 						count > 5
-						pop_religion = roman_pantheon
+						pop_religion = greek_pantheon
 					}
 				}
 			}
@@ -3720,7 +3720,7 @@ rel_flavor_kemetic.51 = {	# Hellenics convinced by charismatic character to beco
 		scope:country_province = {
 			ordered_pops_in_province = {
 				limit = {
-					pop_religion = roman_pantheon
+					pop_religion = greek_pantheon
 				}
 				order_by = pop_hapiness
 				max = 1
@@ -3740,7 +3740,7 @@ rel_flavor_kemetic.51 = {	# Hellenics convinced by charismatic character to beco
 		scope:country_province = {
 			every_pops_in_province = {
 				limit = {
-					pop_religion = roman_pantheon
+					pop_religion = greek_pantheon
 				}
 				set_pop_religion = root.religion
 			}

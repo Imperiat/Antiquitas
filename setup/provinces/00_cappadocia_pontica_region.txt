@@ -52,11 +52,6 @@
 		amount=2
 	}
 	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -70,7 +65,7 @@
 1732={ #Hyssos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
@@ -111,7 +106,7 @@
 1734={ #Trapezous
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=29
 	barbarian_power=0
@@ -267,7 +262,7 @@
 1773={ #Theia
 	terrain="hills"
 	culture="colchian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -281,16 +276,12 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
-	}
 }
 
 1775={ #Magnana
 	terrain="hills"
 	culture="colchian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -517,36 +508,8 @@
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=2
@@ -595,43 +558,21 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
 1793={ #Side Pontike
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -656,7 +597,7 @@
 1795={ #Kotyora
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=24
 	barbarian_power=0
@@ -683,7 +624,7 @@
 1797={ #Koralla
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
@@ -702,7 +643,7 @@
 1798={ #Kerasous
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -765,22 +706,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="greco_pontic"
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -796,36 +722,11 @@
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
 	}
 	slaves={
 		amount=4
@@ -849,15 +750,7 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="paphlagonian"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
 		amount=1
 	}
 }
@@ -1023,28 +916,8 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
 	}
 	slaves={
 		amount=3

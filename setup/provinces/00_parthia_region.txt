@@ -110,8 +110,8 @@
 
 3439={ #Hekatompylos
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="parthian"
+	religion="zoroaster"
 	trade_goods="steppe_horses"
 	civilization_value=34
 	barbarian_power=0
@@ -1375,17 +1375,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=3
-	}
-	freemen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=3

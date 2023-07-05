@@ -1026,8 +1026,8 @@
 
 6815={ #Thatta
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -1041,18 +1041,13 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=8
-	}
 	port_building=1
 }
 
 6821={ #Debal
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="gems"
 	civilization_value=41
 	barbarian_power=0
@@ -1065,11 +1060,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=10
 	}
 	port_building=1
 }

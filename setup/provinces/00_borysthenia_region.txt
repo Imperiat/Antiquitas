@@ -60,26 +60,7 @@
 	freemen={
 		amount=5
 	}
-	freemen={
-		culture="bosporan"
-		religion="roman_pantheon"
-		amount=3
-	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="chernolian"
-		religion="matrist_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="scythian"
-		amount=2
-	}
-	tribesmen={
-		culture="budinian"
-		religion="matrist_religion"
 		amount=2
 	}
 }

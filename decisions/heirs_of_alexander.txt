@@ -12,7 +12,10 @@ country_decisions = {
 			exists = treasure:treasure_armor_of_alexander
 			OR = {
 				country_culture_group = hellenic
-				religion = roman_pantheon
+				OR = { 
+					religion = roman_pantheon
+					religion = greek_pantheon
+				}
 				treasure:treasure_alexander_helmet = {
 					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_alexander_helmet }
 				}
@@ -74,7 +77,10 @@ country_decisions = {
 			exists = treasure:history_of_alexander
 			OR = {
 				country_culture_group = hellenic
-				religion = roman_pantheon
+				OR = { 
+					religion = roman_pantheon
+					religion = greek_pantheon
+				}
 				treasure:treasure_enquiry_into_plants = {
 					treasure_owned_or_altared_trigger = { SHINY = treasure:treasure_enquiry_into_plants }
 				}

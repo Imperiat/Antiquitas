@@ -10,7 +10,7 @@ deity_athena_tritogeneia = {  # WAR
 				holy_site_deity_check_trigger = yes
 			}
 			AND = {
-				religion = roman_pantheon
+				religion = greek_pantheon
 				owns = p:3201
 			}
 		}
@@ -18,7 +18,7 @@ deity_athena_tritogeneia = {  # WAR
 		NOT = { country_culture_group = latin }
 		OR = {
 			very_common_deity_trigger = {
-				RELIGION = roman_pantheon
+				RELIGION = greek_pantheon
 			}
 			deity:omen_athena_tritogeneia = {
 				holy_site_deity_check_trigger = yes
@@ -28,7 +28,7 @@ deity_athena_tritogeneia = {  # WAR
 	icon = deity_war
 	passive_modifier = { military_tech_investment = deity_military_tech_investment_svalue }
 	omen = { land_morale = omen_land_morale_modifier_svalue } #Bonus from Omen
-	religion = roman_pantheon
+	religion = greek_pantheon
 	deity_category = war  #This Deity uses a War Slot
 	
 	deification_trigger = {

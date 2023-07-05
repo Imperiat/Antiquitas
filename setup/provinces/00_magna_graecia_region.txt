@@ -24,7 +24,7 @@
 7={ #Neapolis
 	terrain="farmland"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=37
 	barbarian_power=0
@@ -134,7 +134,7 @@
 12={ #Elea
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
@@ -289,7 +289,7 @@
 38={ #Sipious
 	terrain="plains"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -551,7 +551,7 @@
 52={ #Thourioi
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
@@ -596,7 +596,7 @@
 54={ #Herakleia
 	terrain="farmland"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=33
 	barbarian_power=0
@@ -619,7 +619,7 @@
 55={ #Metapontion
 	terrain="forest"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=29
 	barbarian_power=0
@@ -641,7 +641,7 @@
 56={ #Taras
 	terrain="farmland"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="horses"
 	civilization_value=33
 	barbarian_power=0
@@ -994,7 +994,7 @@
 72={ #Rhegion
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
@@ -1017,7 +1017,7 @@
 73={ #Lokroi Epizephyrioi
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=29
 	barbarian_power=0
@@ -1063,7 +1063,7 @@
 75={ #Hipponion
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
@@ -1130,7 +1130,7 @@
 78={ #Kroton
 	terrain="farmland"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
@@ -1175,7 +1175,7 @@
 80={ #Messene
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=29
 	barbarian_power=0
@@ -1201,7 +1201,7 @@
 81={ #Tauromenion
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=24
 	barbarian_power=0
@@ -1220,7 +1220,7 @@
 82={ #Katane
 	terrain="farmland"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=33
 	barbarian_power=0
@@ -1243,7 +1243,7 @@
 83={ #Leontinoi
 	terrain="forest"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -1265,7 +1265,7 @@
 84={ #Syrakousai
 	terrain="plains"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -1292,7 +1292,7 @@
 85={ #Gela
 	terrain="forest"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1314,7 +1314,7 @@
 86={ #Akragas
 	terrain="farmland"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="horses"
 	civilization_value=33
 	barbarian_power=0
@@ -1341,7 +1341,7 @@
 87={ #Akrai
 	terrain="mountain"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
@@ -1404,7 +1404,7 @@
 90={ #Hypana
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -1426,7 +1426,7 @@
 91={ #Herakleia Minoia
 	terrain="farmland"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=33
 	barbarian_power=0
@@ -1470,7 +1470,7 @@
 93={ #Selinous
 	terrain="forest"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=29
 	barbarian_power=0
@@ -1518,7 +1518,7 @@
 95={ #Eryx
 	terrain="plains"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=26
 	barbarian_power=0
@@ -1557,7 +1557,7 @@
 97={ #Tirm
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1576,7 +1576,7 @@
 98={ #Kephaloidion
 	terrain="plains"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=26
 	barbarian_power=0
@@ -1598,7 +1598,7 @@
 99={ #Tyndaris
 	terrain="plains"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="base_metals"
 	civilization_value=31
 	barbarian_power=0
@@ -1623,7 +1623,7 @@
 100={ #Kale Akte
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=24
 	barbarian_power=0
@@ -1645,7 +1645,7 @@
 101={ #Kamarina
 	terrain="farmland"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
@@ -1686,7 +1686,7 @@
 1472={ #Meligounis
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
@@ -1765,7 +1765,7 @@
 7837={ #Megara Hyblaia
 	terrain="plains"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -1828,7 +1828,7 @@
 7840={ #Menai
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1885,7 +1885,7 @@
 7843={ #Hadranum
 	terrain="hills"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0

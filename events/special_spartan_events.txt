@@ -17,7 +17,7 @@ special_spartan_event.1 = {
 			first_name="Hippocratidas"
 			family_name="Eurypontid"
 			culture="doric"
-			religion="roman_pantheon"
+			religion="greek_pantheon"
 			save_scope_as = spartan_co_ruler
 		}
 		

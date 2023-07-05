@@ -104,8 +104,8 @@
 
 4316={ #Mong
 	terrain="forest"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="gandhari"
+	religion="hindu"
 	trade_goods="cedar"
 	civilization_value=39
 	barbarian_power=0
@@ -227,8 +227,8 @@
 
 4322={ #Manikyal
 	terrain="forest"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="gandhari"
+	religion="hindu"
 	trade_goods="cedar"
 	civilization_value=39
 	barbarian_power=0

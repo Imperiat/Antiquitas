@@ -82,6 +82,7 @@
 			NOT = { has_variable = hellenistic_omens }
 			OR = {
 				religion = roman_pantheon
+				religion = greek_pantheon
 				religion = anatolian_religion
 				religion = zoroaster
 			}
@@ -90,6 +91,7 @@
 			can_form_nation_trigger = yes
 			OR = {
 				religion = roman_pantheon
+				religion = greek_pantheon
 				religion = anatolian_religion
 				religion = zoroaster
 			}

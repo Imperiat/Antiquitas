@@ -219,8 +219,11 @@
  convert_to_kemeticism:0 "Embrace the Kemetic Pantheon"
  convert_to_kemeticism_desc:0 "The followers of Isis have become a prominent part of our society, and our people are looking to them for guidance in their daily lives. It is time we put our old traditions behind and accept their teachings."
 
- convert_to_hellenic:0 "Embrace the Hellenic Pantheon"
- convert_to_hellenic_desc:0 "We have seen temples and shrines to the many deities of the Greek Pantheon being raised in [COUNTRY.GetCapital.GetName] lately, and our citizens turning to their priests and oracles for their wisdom. Maybe it is time we all started looking to them for guidance?"
+ convert_to_dei_consentes:0 "Embrace the Roman Pantheon"
+ convert_to_dei_consentes_desc:0 "We have seen temples and shrines to the many deities of the Greek Pantheon being raised in [COUNTRY.GetCapital.GetName] lately, and our citizens turning to their priests and oracles for their wisdom. Maybe it is time we all started looking to them for guidance?"
+
+ convert_to_olympioi:0 "Embrace the Hellenic Pantheon"
+ convert_to_olympioi_desc:0 "We have seen temples and shrines to the many deities of the Greek Pantheon being raised in [COUNTRY.GetCapital.GetName] lately, and our citizens turning to their priests and oracles for their wisdom. Maybe it is time we all started looking to them for guidance?"
 
  convert_to_canaanite:0 "Embrace the Canaanite Pantheon"
  convert_to_canaanite_desc:0 "Melqart and his followers have been commonplace in [COUNTRY.GetCapital.GetName] since we first met those who worshiped him, but now we have seen a newfound interest in Ba'al, Astarte and the other deities as well. Traditions that was once an important part of our identity are being left behind as foreign exotic rituals are becoming a matter of course. It is time to accept the Canaanite Pantheon as our own."

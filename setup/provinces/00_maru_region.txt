@@ -355,8 +355,8 @@
 
 4371={ #Deogarh
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="incense"
 	civilization_value=41
 	barbarian_power=0
@@ -765,7 +765,7 @@
 6825={ #Kanthi
 	terrain="marsh"
 	culture="saurashtran"
-	religion="roman_pantheon"
+	religion="hindu"
 	trade_goods="stone"
 	civilization_value=22
 	barbarian_power=0

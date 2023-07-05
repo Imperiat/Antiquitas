@@ -253,7 +253,7 @@ get_holy_site = {
 		localization_key = holy_site_saqqara_serapeum
 		trigger = {
 			province_id = 500 #Memphis
-			owner = { religion = roman_pantheon }
+			owner = { religion = greek_pantheon }
 		}
 	}
 
@@ -814,7 +814,7 @@ get_holy_site_descriptive = {
 		localization_key = holy_site_saqqara_serapeum_desc
 		trigger = {
 			province_id = 500 #Memphis
-			owner = { religion = roman_pantheon }
+			owner = { religion = greek_pantheon }
 		}
 	}
 

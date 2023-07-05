@@ -398,10 +398,6 @@
 	civilization_value=39
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="macedonian"
-		amount=2
-	}
 	slaves={
 		amount=1
 	}
@@ -453,8 +449,8 @@
 
 6541={ #Alexandreia Arachosias
 	terrain="desert"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="pactyan"
+	religion="zoroaster"
 	trade_goods="honey"
 	civilization_value=33
 	barbarian_power=0
@@ -462,26 +458,11 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="pactyan"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=5
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="pactyan"
-		religion="zoroaster"
-		amount=7
-	}
-	tribesmen={
-		culture="pactyan"
-		religion="zoroaster"
-		amount=5
 	}
 }
 
@@ -583,8 +564,8 @@
 
 6552={ #Sigal
 	terrain="desert"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="carmanian"
+	religion="zoroaster"
 	trade_goods="cloth"
 	civilization_value=43
 	barbarian_power=0
@@ -675,8 +656,8 @@
 
 6558={ #Alexandreia Areios
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sattagydian"
+	religion="zoroaster"
 	trade_goods="cloth"
 	civilization_value=44
 	barbarian_power=0

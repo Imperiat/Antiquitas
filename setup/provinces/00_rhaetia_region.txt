@@ -881,7 +881,7 @@
 3654={ #Foetes
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
@@ -900,7 +900,7 @@
 3655={ #Tiralia
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="stone"
 	civilization_value=7
 	barbarian_power=0
@@ -922,7 +922,7 @@
 3656={ #Alpis Superior
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
@@ -944,7 +944,7 @@
 3657={ #Alpis Inferior
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="fur"
 	civilization_value=7
 	barbarian_power=0
@@ -963,7 +963,7 @@
 3658={ #Statio Maiensis
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="horses"
 	civilization_value=7
 	barbarian_power=0
@@ -985,7 +985,7 @@
 3659={ #Vadena
 	terrain="hills"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
@@ -1007,7 +1007,7 @@
 3660={ #Salurnis
 	terrain="hills"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="precious_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -1026,7 +1026,7 @@
 3663={ #Sublavione
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="stone"
 	civilization_value=7
 	barbarian_power=0
@@ -1062,17 +1062,12 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		amount=2
-		culture="rhaetian"
-		religion="roman_pantheon"
-	}
 }
 
 3665={ #Vipitenum
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
@@ -1088,7 +1083,7 @@
 3666={ #Mastiacum
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
@@ -1117,11 +1112,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=2
-		culture="rhaetian"
-		religion="roman_pantheon"
 	}
 }
 

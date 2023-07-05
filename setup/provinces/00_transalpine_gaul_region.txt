@@ -161,7 +161,7 @@
 2260={ #Agathe
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0
@@ -174,16 +174,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="volcae"
-		religion="druidism"
-		amount=1
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount=2
 	}
 }
 
@@ -880,7 +870,7 @@
 2325={ #Massalia
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0
@@ -895,21 +885,6 @@
 		amount=9
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="salluvian"
-		religion="druidism"
-		amount=2
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount=3
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
 		amount=1
 	}
 	port_building=1
@@ -979,7 +954,7 @@
 3517={ #Tauroention
 	terrain="forest"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -992,16 +967,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	port_building=1
 }
@@ -1405,7 +1370,7 @@
 3541={ #Agathum
 	terrain="forest"
 	culture="ligurian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="fish"
 	civilization_value=9
 	barbarian_power=0
@@ -1420,11 +1385,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
 		amount=2
 	}
 }
@@ -1446,17 +1406,12 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=3
-	}
 }
 
 3543={ #Antipolis
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=31
 	barbarian_power=0
@@ -1470,18 +1425,13 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="ligurian"
-		religion="druidism"
-		amount=3
-	}
 	port_building=1
 }
 
 3544={ #Cemelenum
 	terrain="plains"
 	culture="ligurian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0

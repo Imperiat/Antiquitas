@@ -135,17 +135,7 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	slaves={
-		culture="bactra"
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -267,7 +257,7 @@
 6704={ #Alexandreia Eschate
 	terrain="farmland"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="zoroaster"
 	trade_goods="silk"
 	civilization_value=42
 	barbarian_power=0
@@ -800,17 +790,9 @@
 		amount=1
 	}
 	freemen={
-		religion="eastern_animism"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="eastern_animism"
 		amount=1
 	}
 }
@@ -818,7 +800,7 @@
 6734={ #Damna
 	terrain="hills"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="eastern_animism"
 	trade_goods="salt"
 	civilization_value=17
 	barbarian_power=0
@@ -829,18 +811,8 @@
 	freemen={
 		amount=7
 	}
-	freemen={
-		culture="sogdian"
-		religion="zoroaster"
-		amount=2
-	}
 	slaves={
 		amount=5
-	}
-	tribesmen={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=3
 	}
 }
 
@@ -888,7 +860,7 @@
 6737={ #Throana
 	terrain="hills"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="eastern_animism"
 	trade_goods="base_metals"
 	civilization_value=21
 	barbarian_power=0
@@ -897,32 +869,9 @@
 		amount=7
 	}
 	freemen={
-		culture="tayuan"
-		religion="zoroaster"
-		amount=4
-	}
-	freemen={
 		amount=10
 	}
-	freemen={
-		culture="tayuan"
-		religion="zoroaster"
-		amount=5
-	}
 	slaves={
-		amount=6
-	}
-	slaves={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=5
-	}
-	tribesmen={
-		amount=4
-	}
-	tribesmen={
-		culture="sakan"
-		religion="indo_iranian_religion"
 		amount=6
 	}
 }

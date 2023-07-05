@@ -1,7 +1,7 @@
 ﻿943={ #Seleukeia Hedyphonte
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="elamite"
+	religion="zoroaster"
 	trade_goods="spices"
 	civilization_value=31
 	barbarian_power=0
@@ -1102,8 +1102,8 @@
 
 4787={ #Antiocheia Persidos
 	terrain="desert"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="pasargadi"
+	religion="zoroaster"
 	trade_goods="salt"
 	civilization_value=28
 	barbarian_power=0

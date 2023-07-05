@@ -61,7 +61,7 @@
 5000={ #Aetna Volcano
 	terrain="impassable_terrain"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -71,7 +71,7 @@
 5001={ #Aspromons
 	terrain="impassable_terrain"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -621,7 +621,7 @@
 5056={ #
 	terrain="impassable_terrain"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -631,7 +631,7 @@
 5057={ #
 	terrain="impassable_terrain"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -641,7 +641,7 @@
 5058={ #
 	terrain="impassable_terrain"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -651,7 +651,7 @@
 5059={ #
 	terrain="impassable_terrain"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -661,7 +661,7 @@
 5060={ #
 	terrain="impassable_terrain"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -671,7 +671,7 @@
 5061={ #
 	terrain="impassable_terrain"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -681,7 +681,7 @@
 5062={ #Parnes Mons
 	terrain="impassable_terrain"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -691,7 +691,7 @@
 5063={ #
 	terrain="impassable_terrain"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -701,7 +701,7 @@
 5064={ #
 	terrain="impassable_terrain"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -711,7 +711,7 @@
 5065={ #
 	terrain="impassable_terrain"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -721,7 +721,7 @@
 5066={ #
 	terrain="impassable_terrain"
 	culture="thessalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -731,7 +731,7 @@
 5067={ #
 	terrain="impassable_terrain"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -741,7 +741,7 @@
 5068={ #Upper Epirus
 	terrain="impassable_terrain"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -751,7 +751,7 @@
 5069={ #
 	terrain="impassable_terrain"
 	culture="thessalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -761,7 +761,7 @@
 5070={ #
 	terrain="impassable_terrain"
 	culture="epirote"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -771,7 +771,7 @@
 5071={ #
 	terrain="impassable_terrain"
 	culture="thessalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -781,7 +781,7 @@
 5072={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -791,7 +791,7 @@
 5073={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -801,7 +801,7 @@
 5074={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -811,7 +811,7 @@
 5075={ #
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -821,7 +821,7 @@
 5076={ #Upper Macedonia
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -831,7 +831,7 @@
 5077={ #
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -841,7 +841,7 @@
 5078={ #
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -851,7 +851,7 @@
 5079={ #Dalmatian Mountains
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -861,7 +861,7 @@
 5080={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -871,7 +871,7 @@
 5081={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -881,7 +881,7 @@
 5082={ #
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -891,7 +891,7 @@
 5083={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -901,7 +901,7 @@
 5084={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -911,7 +911,7 @@
 5085={ #Dalmatia
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -921,7 +921,7 @@
 5086={ #
 	terrain="impassable_terrain"
 	culture="liburnian_culture"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -931,7 +931,7 @@
 5087={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -941,7 +941,7 @@
 5088={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -951,7 +951,7 @@
 5089={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -961,7 +961,7 @@
 5090={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -971,7 +971,7 @@
 5091={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -981,7 +981,7 @@
 5092={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -991,7 +991,7 @@
 5093={ #Upper Dardania
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1021,7 +1021,7 @@
 5096={ #
 	terrain="impassable_terrain"
 	culture="dardanian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1031,7 +1031,7 @@
 5097={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 5098={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1051,7 +1051,7 @@
 5099={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1061,7 +1061,7 @@
 5100={ #
 	terrain="impassable_terrain"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1541,7 +1541,7 @@
 5148={ #
 	terrain="impassable_terrain"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1691,7 +1691,7 @@
 5163={ #
 	terrain="impassable_terrain"
 	culture="carian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1751,7 +1751,7 @@
 5169={ #
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6931,7 +6931,7 @@
 7734={ #Methana Volcano
 	terrain="impassable_terrain"
 	culture="doric"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6971,7 +6971,7 @@
 7751={ #Mesogis Mons
 	terrain="impassable_terrain"
 	culture="carian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6981,7 +6981,7 @@
 7752={ #Tmolus Mons
 	terrain="impassable_terrain"
 	culture="lydian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7061,7 +7061,7 @@
 7761={ #Sophon Mons
 	terrain="impassable_terrain"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7071,7 +7071,7 @@
 7762={ #
 	terrain="impassable_terrain"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7081,7 +7081,7 @@
 7764={ #
 	terrain="impassable_terrain"
 	culture="mariandynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7101,7 +7101,7 @@
 7797={ #Parnassus Mons
 	terrain="impassable_terrain"
 	culture="boeotian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7111,7 +7111,7 @@
 7800={ #
 	terrain="impassable_terrain"
 	culture="attican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7121,7 +7121,7 @@
 7801={ #
 	terrain="impassable_terrain"
 	culture="elean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7271,7 +7271,7 @@
 7861={ #Strongyle Volcano
 	terrain="impassable_terrain"
 	culture="syracusan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7281,7 +7281,7 @@
 7895={ #Arachnaion Mons
 	terrain="impassable_terrain"
 	culture="achaean"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7291,7 +7291,7 @@
 7900={ #Dirphys Mons
 	terrain="impassable_terrain"
 	culture="western_ionic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7301,7 +7301,7 @@
 7909={ #Ida Mons
 	terrain="impassable_terrain"
 	culture="mysian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7311,7 +7311,7 @@
 7910={ #Markaion Mons
 	terrain="impassable_terrain"
 	culture="mysian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7341,7 +7341,7 @@
 7913={ #
 	terrain="impassable_terrain"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7351,7 +7351,7 @@
 7915={ #
 	terrain="impassable_terrain"
 	culture="mysian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7361,7 +7361,7 @@
 7916={ #
 	terrain="impassable_terrain"
 	culture="mysian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7371,7 +7371,7 @@
 7917={ #
 	terrain="impassable_terrain"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7381,7 +7381,7 @@
 7918={ #
 	terrain="impassable_terrain"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7401,7 +7401,7 @@
 7920={ #
 	terrain="impassable_terrain"
 	culture="mysian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7411,7 +7411,7 @@
 7921={ #
 	terrain="impassable_terrain"
 	culture="bithynian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7421,7 +7421,7 @@
 7922={ #
 	terrain="impassable_terrain"
 	culture="mysian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7501,7 +7501,7 @@
 7930={ #
 	terrain="impassable_terrain"
 	culture="carian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7521,7 +7521,7 @@
 7932={ #
 	terrain="impassable_terrain"
 	culture="carian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7531,7 +7531,7 @@
 7933={ #
 	terrain="impassable_terrain"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7821,7 +7821,7 @@
 7984={ #
 	terrain="impassable_terrain"
 	culture="carian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7851,7 +7851,7 @@
 7989={ #Trogodos Mons
 	terrain="impassable_terrain"
 	culture="cypriot"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7991,7 +7991,7 @@
 8014={ #Idaion Mons
 	terrain="impassable_terrain"
 	culture="eteocretan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8001,7 +8001,7 @@
 8017={ #Leuka Mons
 	terrain="impassable_terrain"
 	culture="eteocretan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8061,7 +8061,7 @@
 8055={ #
 	terrain="impassable_terrain"
 	culture="cypriot"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

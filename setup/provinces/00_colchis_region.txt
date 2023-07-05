@@ -653,7 +653,7 @@
 1720={ #Phasis
 	terrain="plains"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -716,11 +716,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -862,16 +857,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
-		amount=1
-	}
-	freemen={
-		culture="greco_pontic"
-		religion="roman_pantheon"
 		amount=1
 	}
 	freemen={
@@ -885,7 +870,7 @@
 1738={ #Gyenos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -948,7 +933,7 @@
 1741={ #Dioskourias
 	terrain="hills"
 	culture="greco_pontic"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0

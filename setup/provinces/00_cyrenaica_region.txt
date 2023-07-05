@@ -432,7 +432,7 @@
 3340={ #Medrion
 	terrain="desert"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -455,7 +455,7 @@
 3341={ #Astrochonda
 	terrain="desert"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -478,7 +478,7 @@
 3342={ #Kainon
 	terrain="desert"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=18
 	barbarian_power=0
@@ -515,7 +515,7 @@
 3344={ #Serapeion
 	terrain="desert"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="silphium"
 	civilization_value=23
 	barbarian_power=0
@@ -547,7 +547,7 @@
 	province_rank="settlement"
 	freemen={
 		culture="cyrenaican"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	slaves={
@@ -561,7 +561,7 @@
 3346={ #Amastor
 	terrain="dry_plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=21
 	barbarian_power=0
@@ -584,7 +584,7 @@
 	province_rank="settlement"
 	citizen={
 		culture="cyrenaican"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
@@ -601,7 +601,7 @@
 3348={ #Chersis
 	terrain="dry_plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -627,7 +627,7 @@
 	province_rank="settlement"
 	citizen={
 		culture="cyrenaican"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
@@ -644,7 +644,7 @@
 3350={ #Euesperides
 	terrain="dry_plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="silphium"
 	civilization_value=21
 	barbarian_power=0
@@ -679,7 +679,7 @@
 3352={ #Stratonikeia Kyrenaike
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="leather"
 	civilization_value=26
 	barbarian_power=0
@@ -699,7 +699,7 @@
 3353={ #Taucheira
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="cloth"
 	civilization_value=26
 	barbarian_power=0
@@ -718,7 +718,7 @@
 3354={ #Limen Barkias
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -760,7 +760,7 @@
 3358={ #Phykous
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -786,7 +786,7 @@
 	province_rank="settlement"
 	citizen={
 		culture="cyrenaican"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
@@ -803,7 +803,7 @@
 3360={ #Kyrene
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="leather"
 	civilization_value=26
 	barbarian_power=0
@@ -829,7 +829,7 @@
 3361={ #Apollonia Kyrenaike
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -867,7 +867,7 @@
 3363={ #Darnis
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="silphium"
 	civilization_value=21
 	barbarian_power=0
@@ -890,12 +890,12 @@
 	province_rank="settlement"
 	citizen={
 		culture="cyrenaican"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
 		culture="cyrenaican"
-		religion="roman_pantheon"
+		religion="greek_pantheon"
 		amount=1
 	}
 	freemen={
@@ -909,7 +909,7 @@
 3365={ #Aziris
 	terrain="plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="silphium"
 	civilization_value=21
 	barbarian_power=0
@@ -928,7 +928,7 @@
 3366={ #Paliouros
 	terrain="dry_plains"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -948,7 +948,7 @@
 3367={ #Petra Mikra
 	terrain="desert"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=18
 	barbarian_power=0
@@ -964,7 +964,7 @@
 3368={ #Batrachos
 	terrain="desert"
 	culture="cyrenaican"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0

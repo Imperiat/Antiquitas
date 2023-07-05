@@ -128,6 +128,12 @@ own_religious_center_province_trigger = { #List of locations of particular relig
 						OR = {
 							province_id = 11 #Paestum
 							province_id = 86 #Akragas / Valle dei Templi
+						}
+					}
+				}
+				greek_pantheon = {
+					PREV = {
+						OR = {
 							province_id = 334 #Paphos
 							province_id = 290 #Ephesos
 							province_id = 395 #Asklepion at Trikka

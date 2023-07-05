@@ -889,16 +889,7 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="cilician"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="cappadocian"
 		amount=1
 	}
 	slaves={
@@ -906,10 +897,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="lycaonian"
-		amount=1
 	}
 }
 

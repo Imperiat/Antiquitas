@@ -1,7 +1,7 @@
 ﻿1000={ #Emporie
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=31
 	barbarian_power=0
@@ -15,18 +15,13 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="indiketian"
-		religion="animism"
-		amount=4
-	}
 	port_building=1
 }
 
 1001={ #Rhode
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=31
 	barbarian_power=0
@@ -39,11 +34,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="indiketian"
-		religion="animism"
-		amount=3
 	}
 	port_building=1
 }
@@ -115,7 +105,7 @@
 1006={ #Kallipolis Iberias
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="animism"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -127,16 +117,6 @@
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="indiketian"
-		religion="animism"
-		amount=2
-	}
-	tribesmen={
-		culture="lacetanian"
-		religion="animism"
 		amount=1
 	}
 	port_building=1

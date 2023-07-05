@@ -467,8 +467,8 @@
 
 1594={ #Herakleia Medias
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="zoroaster"
 	trade_goods="horses"
 	civilization_value=29
 	barbarian_power=0
@@ -506,8 +506,8 @@
 
 1596={ #Apameia Medias
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="zoroaster"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
@@ -598,8 +598,8 @@
 
 1601={ #Nikaia Nialia
 	terrain="mountain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="zoroaster"
 	trade_goods="leather"
 	civilization_value=27
 	barbarian_power=0
@@ -1526,8 +1526,8 @@
 
 4976={ #Paraitaka
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="zoroaster"
 	trade_goods="precious_metals"
 	civilization_value=29
 	barbarian_power=0
@@ -1826,8 +1826,8 @@
 
 4992={ #Pylai Hyrkanikai
 	terrain="mountain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="amardian"
+	religion="zoroaster"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1836,8 +1836,8 @@
 
 4993={ #Apameia Rhagiane
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="amardian"
+	religion="zoroaster"
 	trade_goods="earthware"
 	civilization_value=36
 	barbarian_power=0
