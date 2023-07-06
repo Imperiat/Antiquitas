@@ -1,9 +1,9 @@
 ﻿roman_pantheon = { # Dei Consentes
 	color = hsv { 0  1  0.8 }
 	modifier = { 
-		global_citizen_happyness = happiness_small_svalue
-		build_cost = -0.025
-		governor_loyalty = -5
+		stability_monthly_change = 0.1
+		global_unrest = -1
+		local_pop_conversion_speed = -0.2
 	}
 	religion_category = pantheon
 }

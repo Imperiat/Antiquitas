@@ -199,20 +199,11 @@
  social_equity_tooltip:0 "You cannot switch #Y Gender Equality#! policy for #Y 20#! years after changing it."
  
  persian_claims_tooltip:1 "Persia will gain Claims on the Regions of #Y Persis#!, #Y Media#!, #Y Parthia#!, #Y Ariana#!, #Y Mesopotamia#!, #Y Bactriana#!, #Y Gedrosia#! and #Y Assyria#!."
- 
- move_capital_antioch:0 "A Mediterranean Capital!"
- move_capital_antioch_desc:0 "For too long the rightful heirs of Alexander's empire have been disconnected from the Macedonian heartland which bore the greatest conquest of history and all the fortunes of our people. Fertile Babylonia has served us well, but we must restore our ties with the lost lands to the west and establish a central point of governance on the Mediterranean if we are to succeed in re-claiming the lands of Megas Alexandros."
- move_capital_antioch_claims:0 "The Seleukid Empire will gain claims on Palestine and Syria."
- antioch_orontes_modifier:0 "Antioch on the Orontes"
+
  desc_antioch_orontes_modifier:1 "Antioch on the Orontes was established as the new capital for the Seleukid Empire, far closer to the Macedonian heartland than the old capital in Babylonia and with access to the trade routes of the Mediterranean through its natural harbor."
  form_super_etruria:0 "Confirm Italic Superiority"
  form_super_etruria_desc:0 "For centuries, the growing rivalry with our Roman neighbors has dominated our politics. Once and for all, it is time to reclaim our birthright, and restore the wrongs visited upon our ancestor's great ally, Tarquinius."
  
- found_seleukia_pieria:0 "A port for Antioch!"
- found_seleukia_pieria_desc:0 "With a new focus towards the Mediterranean and the moving of the Seleukid capital to Syria the need for a new great port in Syria has grown ever more urgent. Let us pool our resources to expand the port of Seleuika Pieria and work for the establishment of Seleukid hegemony in the west."
- seleukia_pieria_modifier:1 "Seleukia on the Sea"
- desc_seleukia_pieria_modifier:0 "With the establishment of a new capital at Antioch the Seleukid empire required a new Mediterranean port to act as a fleet base for a new Mediterranean fleet as well as an entrepot for trade between east and west."
-
  indo_greek_decision:0 "An Indo-Greek Kingdom"
  indo_greek_decision_desc:0 "The lure of friends, empires, and riches to the East leads many of our people to the realization that fighting over the scraps of Alexander's Empire, may not be a goal worth pursuing. Greater glory lies in tying our destiny to the land beyond the Indus."
 
@@ -220,7 +211,7 @@
  convert_to_kemeticism_desc:0 "The followers of Isis have become a prominent part of our society, and our people are looking to them for guidance in their daily lives. It is time we put our old traditions behind and accept their teachings."
 
  convert_to_dei_consentes:0 "Embrace the Roman Pantheon"
- convert_to_dei_consentes_desc:0 "We have seen temples and shrines to the many deities of the Greek Pantheon being raised in [COUNTRY.GetCapital.GetName] lately, and our citizens turning to their priests and oracles for their wisdom. Maybe it is time we all started looking to them for guidance?"
+ convert_to_dei_consentes_desc:0 "The influence of Dei Consentes has spread far and wide. It is, therefore, no surprise that many of our people have come to admire and emulate the Roman way of life. Seeking divine favor, they go as far as to adopt the Roman gods as their own. With all these in mind, perhaps it is now time to acknowledge the will of Jupiter."
 
  convert_to_olympioi:0 "Embrace the Hellenic Pantheon"
  convert_to_olympioi_desc:0 "We have seen temples and shrines to the many deities of the Greek Pantheon being raised in [COUNTRY.GetCapital.GetName] lately, and our citizens turning to their priests and oracles for their wisdom. Maybe it is time we all started looking to them for guidance?"
@@ -275,11 +266,6 @@
 
  convert_to_matrist_religion:0 "Embrace the Matrist Traditions"
  convert_to_matrist_religion_desc:0 "The Aestuian Mother Goddess has found a home in [COUNTRY.GetName], and our people are putting aside all our old rituals in favor of those in her honor. It is time we do the same."
- 
- secure_phrygian_position:0 "Secure Antigonid Position"
- secure_phrygian_position_desc:0 "To ensure the strength of Antigonos' new eastern kingdom and the freedom of the Greeks; Kassandros' occupiers in Korinthos must be cast out, our southern gains kept safe from jealous Ptolemaic schemes, and the new capital of Antigoneia defended from Seleukid ambition."
- secure_phrygian_position_tt:2 "$PRY_DYN$ will not splinter upon Antigonos' death if #Y [GetProvince('(int32)418').GetName]#!, #Y [GetProvince('(int32)660').GetName]#!, #Y [GetProvince('(int32)790').GetName]#!, #Y [GetProvince('(int32)407').GetName]#!, #Y [GetProvince('(int32)331').GetName]#!, and #Y [GetProvince('(int32)1936').GetName]#! are still held."
- secure_phrygian_position_allow_tt:0 "#Y [GetCharacter('(int32)37').GetName]#! is the #Y [GetCountry('PRY').GetRulerTitle]#! of #Y [GetCountry('PRY').GetName]#!."
 
  epirus_not_exists:0 "Epirus must not exist."
  form_epirus:0 "Form Epirus"
