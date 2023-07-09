@@ -14,19 +14,6 @@
 		}
 		if = {
 			limit = {
-				exists = owner
-				owner = {
-					has_land = yes
-					tag = MAC
-				}
-				has_variable = mac_city_rename_var
-			}
-			trigger_event = {
-				id = mac_rename_events.1
-			}
-		}
-		if = {
-			limit = {
 				exists = holding_owner
 			}
 			holding_owner = {

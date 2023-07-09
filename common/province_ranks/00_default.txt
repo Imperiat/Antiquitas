@@ -37,6 +37,7 @@ city = {
 }
 
 settlement = {
+
 	rank_modifier = {
 		local_freemen_desired_pop_ratio = 0.025
 		local_tribesmen_desired_pop_ratio = 0.4

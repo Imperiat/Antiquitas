@@ -298,6 +298,9 @@ NCombat = {
 	TACTICS_START_EFFECTIVENESS = 0.0			# The base line effectiveness the algorithm starts calculating with
 	TACTICS_EFFECTIVENESS_MIN_CAP = 0.0			# Will cap to this in the end of calculation
 	TACTICS_EFFECTIVENESS_MAX_CAP = 1.0			
+	
+	OVERRUN_RETREAT_AVAILABLE = 10			#The divider for calculating if the combat resulted in an overrun or not
+	OVERRUN_RETREAT_UNAVAILABLE = 2			#Similar as above, but used in the case where an enemy unit already lost within 'DAYS_PER_PHASE' days
 }
 
 NHorde = {
@@ -619,6 +622,10 @@ NCharacter = {
 	CULTURE_HAPPINESS_LOWER_THRESHOLD = 0.3 #Lower threshold for culture happiness. If Culture happiness < CULTURE_HAPPINESS_LOWER_THRESHOLD - CULTURE_HAPPINESS_THRESHOLD , character loyalty will be negatively affected
 	CULTURE_HAPPINESS_FACTOR = 3 #Scale culture happiness to loyalty after exceeding threshold
 	CULTURE_HAPPINESS_LOYALTY_MAX = 12 #Max/min values that culture happiness can have on loyalty
+	
+	BONUS_LOYALITY_CIVIL_WAR_CUTOFF = 50 #Characters with loyality above this value will receive additional 'bonus' loyality. Recommend to keep between 40 & 90
+	BONUS_LOYALITY_CIVIL_WAR_ADD = 30 #The bonus loyality added. This is mainly used to defeat the disloyality check. Can be used to balance civil war sizes. Recommend to keep between 0 & 50
+
 }
 
 NFamily = {

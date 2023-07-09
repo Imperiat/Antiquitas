@@ -413,7 +413,7 @@
 	terrain="farmland"
 	culture="attican"
 	religion="greek_pantheon"
-	trade_goods="precious_metals"
+	trade_goods="earthware"
 	civilization_value=53
 	barbarian_power=0
 	province_rank="city"
@@ -1619,7 +1619,7 @@
 	terrain="plains"
 	culture="attican"
 	religion="greek_pantheon"
-	trade_goods="base_metals"
+	trade_goods="precious_metals"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
