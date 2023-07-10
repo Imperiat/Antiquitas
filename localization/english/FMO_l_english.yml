@@ -7,7 +7,6 @@
   #Mod
   foundry_building:0 "Workshop"
   military_harbor_building:0 "Shipyard"
-  trade_harbor_building:0 "Trade Harbor"
   food_trader_building:0 "Farmer's Market"
   shrine_building:0 "Shrine"
   tavern_building:0 "Tavern"
@@ -18,10 +17,7 @@
   hunting_camps:0 "Hunting Camps"
   logging_camps:0 "Logging Camps"
   shipyards:0 "Shipyard"
-  sanctuary_building:0 "Sanctuary"
-  villa_building:0 "Villa Estate"
   arena_building:0 "Arena" #prospect
-  local_forum_building:0 "Colonia"
 
  construct_happiness_buildings_TOOLTIP:0 "#t Construct Public Buildings#!"
  construct_happiness_buildings:0 "Construct Public Buildings"
@@ -34,15 +30,6 @@
  logging_camps_tooltip:0 "Requires #Y Wood#! or #Y Cedar#!."
  enclosure_building_tt:0 "Requires #Y Livestock#!."
  nomad_camp_building_tt:0 "Requires #Y Desert#!, #Y Desert Hills#!, or #Y Oasis#! terrain."
-
- #Roma Invicta
-commons_building:0 "Town Commons"
-crafts_workshop_building:0 "Crafts Workshop"
-sacred_enclosure_building:0 "Sacred Enclosure"
-reservoir_building:0 "Reservoir"
-council_of_elders_building:0 "Council of Elders"
-nomad_camp_building:0 "Nomad Camp"
-enclosure_building:0 "Enclosure"
 
 
 #New

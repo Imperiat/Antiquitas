@@ -28,10 +28,6 @@ fortress_ramparts_building = {
 
 	max_amount = 1
 
-	potential = {
-		has_city_status = yes
-	}
-
 	allow = {
 		AND = {
 			exists = owner
@@ -122,10 +118,6 @@ military_harbor_building = { #Military Harbor [UNIQUE]
 	time = 180
 	max_amount = 1
 
-	potential = {
-		has_city_status = yes
-	}
-
 	allow = {
 		is_port = yes
 	}
@@ -164,10 +156,6 @@ foundry_building = { #Foundry
 	time = 180
 
 	max_amount = 1
-
-	potential = {
-		has_city_status = yes
-	}
 
 	allow = {
 		AND = {
@@ -213,10 +201,6 @@ military_building = { #Conscription Camp
 	time = 180
 
 	max_amount = 3
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		0 = value_manpower
@@ -265,10 +249,6 @@ library_building = { #Library
 	time = 180
 
 	max_amount = 5
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		0 = research_points_modifier
@@ -331,10 +311,6 @@ academy_building = { #Academy
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = local_nobles_output
 		1 = local_citizen_output
@@ -392,10 +368,6 @@ commerce_building = { #Commercial District
 
 	cost = 100
 	time = 180
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		0 = local_base_trade_routes_modifier
@@ -457,10 +429,6 @@ town_hall_building = { #Tax Office
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = local_tax_modifier
 		1 = local_pop_demotion_speed
@@ -505,10 +473,6 @@ workshop_building = { #Production District
 	time = 180
 
 	max_amount = 3
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		0 = local_goods_from_slaves
@@ -557,10 +521,6 @@ temple_building = {
 
 	cost = 300
 	time = 360
-
-	potential = {
-		has_city_status = yes
-	}
 
 	allow = {
 		AND = {
@@ -637,10 +597,6 @@ theathre_building = { #Theater
 
 	max_amount = 1
 
-	potential = {
-		has_city_status = yes
-	}
-
 	allow = {
 		AND = {
 			exists = owner
@@ -716,10 +672,6 @@ shrine_building = { #Shrine
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = local_happiness_for_same_religion_modifier
 		1 = local_freemen_happyness
@@ -771,10 +723,6 @@ tavern_building = { #Tavern
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = local_happiness_for_same_culture_modifier
 		1 = local_freemen_happyness
@@ -817,10 +765,6 @@ forum_building = { #Forum [UNIQUE]
 	time = 180
 
 	max_amount = 1
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		0 = local_population_happiness
@@ -902,10 +846,6 @@ court_building = { #Court of Law
 
 	max_amount = 1
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = unrest
 		1 = city_monthly_state_loyalty
@@ -937,10 +877,6 @@ food_trader_building = { #Food Trader (UNIQUE)
 
 	max_amount = 1
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = local_monthly_food_modifier
 		1 = pop_food_consumption
@@ -967,10 +903,6 @@ population_building = { #Granary
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		0 = local_food_capacity
 		1 = supply_limit_modifier
@@ -992,10 +924,6 @@ aqueduct_building = { #Aqueduct // Sanitation Works
 	time = 180
 
 	max_amount = 15
-
-	potential = {
-		has_city_status = yes
-	}
 
 	allow = {
 		civilization_value  >= 25
@@ -1082,10 +1010,6 @@ nobles_building = {
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		1 = local_population_capacity
 		2 = local_nobles_desired_pop_ratio
@@ -1146,10 +1070,6 @@ citizen_building = {
 	time = 180
 
 	max_amount = 3
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		1 = local_population_capacity
@@ -1212,10 +1132,6 @@ freemen_building = {
 
 	max_amount = 3
 
-	potential = {
-		has_city_status = yes
-	}
-
 	modification_display = {
 		1 = local_population_capacity
 		2 = local_freemen_desired_pop_ratio
@@ -1260,10 +1176,6 @@ slave_building = {
 	time = 180
 
 	max_amount = 3
-
-	potential = {
-		has_city_status = yes
-	}
 
 	modification_display = {
 		1 = local_population_capacity
@@ -1311,876 +1223,3 @@ slave_building = {
 # Settlement Buildings
 ##############################
 ##############################
-
-
-#Generic
-
-villa_building = { #Villa Estate
-	local_nobles_desired_pop_ratio = 0.05
-	local_citizen_desired_pop_ratio = 0.05
-	local_base_trade_routes_modifier = 0.25
-	local_research_points_modifier = 0.1
-	local_population_capacity_modifier = 0.25
-	local_country_civilization_value = 5
-	local_migration_speed_modifier = -0.25
-
-	cost = 200
-	time = 180
-
-	max_amount = 1
-
-	potential = {
-		has_city_status = no
-	}
-
-	modification_display = {
-		0 = local_research_points_modifier
-	}
-
-	chance = {
-		modifier = {
-			add = {
-				value = 4
-				multiply = num_of_nobles
-			}
-		}
-		modifier = {
-			add = {
-				value = 2.5
-				multiply = num_of_citizen
-			}
-		}
-		modifier = {
-			num_of_citizen < 2
-			num_of_nobles < 2
-			add = -50
-		}
-	}
-
-}
-
-barracks_building = { #Barracks
-	local_freemen_desired_pop_ratio = 0.15
-	local_freemen_happyness = 0.1
-	local_manpower_modifier = 0.2
-	local_cohort_start_experience = 15
-	local_population_capacity_modifier = 0.25
-	local_country_civilization_value = 5
-	local_migration_speed_modifier = -0.25
-
-	cost = 200
-	time = 180
-
-	max_amount = 1
-
-	potential = {
-		has_city_status = no
-	}
-
-	modification_display = {
-		0 = value_manpower
-		1 = local_freemen_happyness
-	}
-
-	chance = {
-		modifier = {
-			add = {
-				value = fort_level
-				multiply = {
-					value = 10
-				}
-			}
-		}
-		modifier = {
-			add = {
-				value = 2
-				multiply = num_of_freemen
-			}
-		}
-		modifier = {
-			any_pops_in_province = {
-				percent > 0.3
-				pop_type = freemen
-			}
-			add = 5
-		}
-		modifier = {
-			OR = {
-				trade_goods = horses
-				trade_goods = elephants
-				trade_goods = iron
-				trade_goods = steppe_horses
-				trade_goods = camel
-			}
-			add = 2
-		}
-		modifier = {
-			add = -15
-		}
-	}
-}
-
-
-hill_fort = { #Tribal Settlement
-	local_tribesmen_happyness = happiness_large_svalue
-	local_tribesmen_output = 0.3
-	local_population_capacity_modifier = 0.1
-	local_citizen_desired_pop_ratio = -0.025
-	potential = {
-		has_city_status = no
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = value_income
-		1 = value_manpower
-	}
-
-	chance = {
-		modifier = {
-			owner = {
-				is_tribal = yes
-			}
-			add = 3
-		}
-		modifier = {
-			owner = {
-				is_tribal = yes
-			}
-			add = {
-				value = 1.5
-				multiply = num_of_tribesmen
-			}
-		}
-
-		# really bad unless we have some tribesmen in the province
-		modifier = {
-			any_pops_in_province = {
-				percent < 0.25
-				pop_type = tribesmen
-			}
-			add = -100
-		}
-		modifier = {
-			is_capital = yes
-			add = -100
-		}
-	}
-
-}
-
-latifundia_building = { #Slave Estate
-	local_slaves_output = 0.4
-	local_slaves_desired_pop_ratio = 0.05
-	local_population_capacity_modifier = 0.25
-	local_population_growth = 0.1
-	local_country_civilization_value = 5
-	local_migration_speed_modifier = -0.25
-
-	potential = {
-		has_city_status = no
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = value_income
-	}
-
-	chance = {
-		modifier = {
-			add = 3
-		}
-		modifier = {
-			add = {
-				value = 1.5
-				multiply = num_of_slaves
-			}
-		}
-		modifier = {
-			num_of_slaves < 7
-			add = -20
-		}
-	}
-}
-
-local_forum_building = { #Provincial Legation (Colonia)
-	local_unrest = -1
-	local_pop_promotion_speed = 0.5
-	local_pop_demotion_speed = 0.5
-	local_pop_assimilation_speed = 0.5
-	local_pop_conversion_speed = 0.5
-
-	potential = {
-		has_city_status = no
-	}
-
-	cost = 100
-	time = 180
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_unrest
-		1 = local_pop_promotion_speed
-		2 = local_pop_demotion_speed
-		3 = local_pop_assimilation_speed
-		4 = local_pop_conversion_speed
-	}
-
-	chance = {
-		modifier = {
-			province_unrest > 1
-			add = 1
-		}
-		modifier = {
-			province_unrest >= 3
-			add = 3
-		}
-		modifier = {
-			NOT = { dominant_province_culture_group = owner.culture_group }
-			add = 3
-		}
-		modifier = {
-			NOT = {dominant_province_religion = owner.religion}
-			add = 3
-		}
-		modifier = {
-			# Don't build in homogenous areas
-			dominant_province_culture_group = owner.culture_group
-			dominant_province_religion = owner.religion
-			add = -20
-		}
-		modifier = {
-			total_population <= 7
-			add = -10
-		}
-	}
-}
-
-
-crafts_workshop_building = {
-	local_population_capacity_modifier = 0.15
-	local_citizen_desired_pop_ratio = 0.15
-	local_country_civilization_value = 1
-	local_output_modifier = 0.05
-	local_base_trade_routes_modifier = 0.15
-
-	max_amount = 1
-
-	potential = {
-		has_city_status = no
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_base_trade_routes_modifier
-		1 = value_income
-	}
-	chance = {
-		modifier = {
-			province_unrest > 1
-			add = 1
-		}
-		modifier = {
-			NOT = { has_expensive_trade_good = yes }
-			add = -20
-		}
-	}
-}
-
-commons_building = {
-	local_population_happiness = 0.1
-	local_pop_promotion_speed = 0.5
-	local_country_civilization_value = 1
-	local_population_capacity_modifier = 0.05
-	local_pop_assimilation_speed = 0.25
-	local_pop_conversion_speed = 0.25
-
-	potential = {
-		has_city_status = no
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_pop_promotion_speed
-		1 = local_pop_assimilation_speed
-		2 = local_pop_conversion_speed
-	}
-
-	chance = {
-		modifier = {
-			province_unrest > 1
-			add = 1
-		}
-		modifier = {
-			province_unrest >= 3
-			add = 3
-		}
-		modifier = {
-			total_population <= 7
-			add = -20
-		}
-		modifier = {
-			NOT = { dominant_province_culture_group = owner.culture_group }
-			add = 3
-		}
-		modifier = {
-			NOT = {dominant_province_religion = owner.religion}
-			add = 3
-		}
-		modifier = {
-			# Don't build in homogenous areas
-			dominant_province_culture_group = owner.culture_group
-			dominant_province_religion = owner.religion
-			add = -20
-		}
-	}
-}
-
-council_of_elders_building = {
-	local_tribesmen_happyness = happiness_large_svalue
-	local_tribesmen_output = 0.2
-	local_tribesmen_desired_pop_ratio = 0.05
-	local_population_happiness = 0.05
-	local_goods_from_slaves = -3
-
-	potential = {
-		has_city_status = no
-	}
-	allow = {
-		owner = {
-			is_tribal = yes
-		}
-	}
-	cost = 250
-	time = 730
-
-	max_amount = 1
-	modification_display = {
-		0 = local_tribesmen_output
-		1 = local_tribesmen_happyness
-	}
-	chance = {
-		modifier = {
-			owner = {
-				is_tribal = yes
-			}
-			add = 1
-		}
-		modifier = {
-			owner = {
-				is_tribal = yes
-			}
-			add = {
-				value = 1.5
-				multiply = num_of_tribesmen
-			}
-		}
-
-		# really bad unless we have some tribesmen in the province
-		modifier = {
-			any_pops_in_province = {
-				percent < 0.25
-				pop_type = tribesmen
-			}
-			add = -100
-		}
-		modifier = {
-			is_capital = yes
-			add = -100
-		}
-	}
-}
-
-reservoir_building = {
-	local_country_civilization_value = 3
-	local_population_capacity_modifier = 0.25
-	local_freemen_happyness = 0.2
-	local_population_happiness = 0.05
-	local_goods_from_slaves = -2
-	local_migration_attraction = 0.25
-
-	potential = {
-		has_city_status = no
-	}
-	modification_display = {
-		0 = local_country_civilization_value
-		1 = local_goods_from_slaves
-	}
-	cost = 200
-	time = 730
-
-	max_amount = 1
-}
-
-settlement_entertainment_complex = {
-	local_pop_promotion_speed = 0.5
-	local_pop_demotion_speed = 0.5
-	local_pop_assimilation_speed_modifier = 0.05
-	local_happiness_for_same_culture_modifier = 0.05
-	local_freemen_output = 0.1
-
-	potential = {
-		has_city_status = no
-	}
-	modification_display = {
-		0 = local_pop_assimilation_speed_modifier
-		1 = local_freemen_output
-	}
-	cost = 200
-	time = 730
-
-	max_amount = 1
-	chance = {
-		modifier = {
-			add = -10
-		}
-	}
-}
-
-settlement_market = {
-	local_base_trade_routes_modifier = 0.15
-	local_tax_modifier = 0.05
-	local_country_civilization_value = 10
-	local_population_capacity = 3
-
-	potential = {
-		has_city_status = no
-	}
-	modification_display = {
-		0 = local_base_trade_routes_modifier
-		1 = local_tax_modifier
-	}
-	cost = 200
-	time = 730
-
-	max_amount = 1
-	chance = {
-		modifier = {
-			has_expensive_trade_good = yes
-			add = 5
-		}
-	}
-}
-
-#Conditional
-
-nomad_camp_building = {
-	local_manpower_modifier = 0.05
-	local_pop_assimilation_speed_modifier = 0.05
-	local_pop_promotion_speed_modifier = 0.1
-	local_population_capacity = 5
-	local_tax_modifier = 0.05
-	local_country_civilization_value = 5
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		custom_tooltip = {
-			text = nomad_camp_building_tt
-			OR = {
-				terrain = desert
-				terrain = oasis
-				terrain = desert_hills
-			}
-		}
-	}
-	cost = 200
-	time = 730
-	modification_display = {
-		0 = local_manpower_modifier
-		1 = local_country_civilization_value
-	}
-	max_amount = 1
-}
-
-sacred_enclosure_building = {
-	local_population_capacity_modifier = 0.25
-	local_population_happiness = 0.1
-	local_base_trade_routes_modifier = 0.3
-	local_citizen_desired_pop_ratio = 0.05
-	local_nobles_desired_pop_ratio = 0.01
-	local_tax_modifier = 0.3
-	local_country_civilization_value = 5
-	local_migration_speed_modifier = -0.25
-
-	potential = {
-		has_city_status = no
-		trigger_if = {
-			limit = {
-				exists = owner
-			}
-			owner = {
-				is_tribal = yes
-			}
-		}
-		trigger_else = { always = no }
-	}
-
-	allow = {
-		is_holy_site = yes
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_base_trade_routes_modifier
-		1 = value_income
-	}
-
-	chance = {
-		modifier = {
-			is_holy_site = yes
-			add = 10
-		}
-		modifier = {
-			add = {
-				value = 5
-				multiply = num_of_nobles
-			}
-		}
-		modifier = {
-			add = {
-				value = 3
-				multiply = num_of_citizen
-			}
-		}
-	}
-}
-
-sanctuary_building = { #Sanctuary
-	local_population_capacity_modifier = 0.1
-	local_base_trade_routes_modifier = 0.3
-	local_citizen_desired_pop_ratio = 0.05
-	local_nobles_desired_pop_ratio = 0.01
-	local_tax_modifier = 0.2
-	local_country_civilization_value = 5
-	local_migration_speed_modifier = -0.25
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		is_holy_site = yes
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_base_trade_routes_modifier
-		1 = value_income
-	}
-
-	chance = {
-		modifier = {
-			is_holy_site = yes
-			add = 10
-		}
-		modifier = {
-			add = {
-				value = 5
-				multiply = num_of_nobles
-			}
-		}
-		modifier = {
-			add = {
-				value = 3
-				multiply = num_of_citizen
-			}
-		}
-	}
-}
-
-slave_mine_building = { #Mine
-	local_goods_from_slaves = -5
-	base_resources = 1
-	local_migration_attraction = 3
-	local_migration_speed_modifier = -0.25
-	local_country_civilization_value = 10
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		has_minable_trade_good_trigger = yes
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = value_num_of_goods_produced
-		1 = local_migration_speed_modifier
-		2 = value_civilization_cap
-	}
-
-	chance = {
-		modifier = {
-			has_minable_trade_good_trigger = yes
-			add = 10
-		}
-		modifier = {
-			add = 15
-			num_of_slaves >= 10
-		}
-	}
-}
-settlement_blacksmith = { #Blacksmith
-	local_goods_from_slaves = -6
-	base_resources = 1
-	local_country_civilization_value = 10
-	local_migration_attraction = 3
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		custom_tooltip = {
-			text = settlement_blacksmith_has_iron_tt
-			OR = {
-				trade_goods = iron
-				trade_goods = base_metals
-			}
-		}
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = value_num_of_goods_produced
-		2 = value_civilization_cap
-	}
-
-	chance = {
-		modifier = {
-			has_minable_trade_good_trigger = yes
-			add = 10
-		}
-		modifier = {
-			add = 15
-			num_of_slaves >= 10
-		}
-	}
-}
-basic_settlement_infratructure_building = { #Farming Settlement
-	local_monthly_food_modifier = 0.5
-	local_goods_from_slaves = -5
-	base_resources = 1
-	local_migration_attraction = 3
-	local_migration_speed_modifier = -0.25
-	local_country_civilization_value = 10
-	max_amount = 1
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		has_food_trade_good_trigger = yes
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_goods_from_slaves
-		1 = local_monthly_food_modifier
-	}
-
-	chance = {
-		modifier = {
-			has_food_trade_good_trigger = yes
-			add = 15
-		}
-		modifier = {
-			add = 15
-			num_of_slaves >= 10
-		}
-		modifier = {
-			add = {
-				value = 0.5
-				multiply = num_of_slaves
-			}
-		}
-		modifier = {
-			has_expensive_trade_good = yes
-			add = 5
-		}
-	}
-
-}
-
-enclosure_building = {
-	local_monthly_food_modifier = 0.25
-	local_goods_from_slaves = -5
-	base_resources = 1
-	local_manpower_modifier = 0.05
-	local_country_civilization_value = 10
-	max_amount = 1
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		custom_tooltip = {
-			text = enclosure_building_tt
-			trade_goods = cattle
-		}
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_manpower_modifier
-		1 = local_monthly_food_modifier
-		2 = local_goods_from_slaves
-	}
-	chance = {
-		modifier = {
-			add = 15
-			num_of_slaves >= 10
-		}
-		modifier = {
-			add = {
-				value = 0.5
-				multiply = num_of_slaves
-			}
-		}
-	}
-}
-
-hunting_camps = { #Hunting Camps
-	local_goods_from_slaves = -5
-	local_monthly_food_modifier = 0.25
-	local_tribesmen_desired_pop_ratio = 0.05
-	local_population_capacity_modifier = 0.25
-	local_tribesmen_output = 0.1
-	local_country_civilization_value = -3
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		custom_tooltip = {
-			text = hunting_camps_tooltip
-			OR = {
-				trade_goods = wild_game
-				trade_goods = fur
-			}
-		}
-	}
-
-	chance = {
-		modifier = {
-			owner = {
-				is_tribal = yes
-			}
-			add = 5
-		}
-		modifier = {
-			add = 8
-			num_of_slaves >= 10
-		}
-		modifier = {
-			owner = {
-				is_tribal = yes
-			}
-			add = {
-				value = 1
-				multiply = num_of_tribesmen
-			}
-		}
-	}
-
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = value_base_resources
-		1 = local_monthly_food_modifier
-	}
-
-}
-
-logging_camps = {
-	local_goods_from_slaves = -6
-	local_population_capacity_modifier = 0.25
-
-
-	potential = {
-		has_city_status = no
-	}
-
-	allow = {
-		custom_tooltip = {
-			text = logging_camps_tooltip
-			OR = {
-				trade_goods = wood
-				trade_goods = cedar
-			}
-		}
-	}
-
-	chance = {
-		modifier = {
-			add = 5
-			num_of_slaves >= 8
-		}
-		modifier = {
-			total_population > 15
-			add = -25
-		}
-	}
-
-	cost = 200
-	time = 730
-
-	max_amount = 1
-
-	modification_display = {
-		0 = local_goods_from_slaves
-	}
-
-}

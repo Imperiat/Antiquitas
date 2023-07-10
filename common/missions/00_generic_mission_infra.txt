@@ -241,7 +241,6 @@ generic_mission_home_infrastructure = { #Fix up Region
 					limit = {
 						any_state_province = {
 							count >= 3
-							has_city_status = no
 							has_minable_trade_good_trigger = yes
 						}
 						NOT = { THIS = scope:governorship_capital_area }
@@ -285,7 +284,6 @@ generic_mission_home_infrastructure = { #Fix up Region
 					if = {
 						limit = {
 							any_state_province = {
-								has_city_status = no
 								OR = {
 									terrain = hills
 									terrain = mountain
@@ -1854,7 +1852,6 @@ generic_mission_home_infrastructure = { #Fix up Region
 				exists = state
 				state = scope:food_province
 				has_food_trade_good_trigger = yes
-				has_city_status = no
 			}
 		}
 
@@ -1873,10 +1870,9 @@ generic_mission_home_infrastructure = { #Fix up Region
 						state = scope:food_province
 						has_food_trade_good_trigger = yes
 						free_building_slots >= 1
-						NOT = { has_building = basic_settlement_infratructure_building }
-						has_city_status = no
+						NOT = { has_building = food_trader_building }
 					}
-					add_building_level = basic_settlement_infratructure_building
+					add_building_level = food_trader_building
 				}
 			}
 			scope:food_province = {
@@ -2098,7 +2094,6 @@ generic_mission_home_infrastructure = { #Fix up Region
 				exists = scope:mining_province
 				exists = state
 				state = scope:mining_province
-				has_city_status = no
 				has_minable_trade_good_trigger = yes
 			}
 		}
@@ -2116,19 +2111,17 @@ generic_mission_home_infrastructure = { #Fix up Region
 				every_owned_province = {
 					limit = {
 						state = scope:mining_province
-						has_city_status = no
 						free_building_slots >= 1
 						has_minable_trade_good_trigger = yes
-						NOT = { has_building = slave_mine_building }
+						NOT = { has_building = workshop_building }
 					}
-					add_building_level = slave_mine_building
+					add_building_level = workshop_building
 				}
 			}
 			scope:mining_province = {
 				show_as_tooltip = {
 					every_state_province = {
 						limit = {
-							has_city_status = no
 							has_minable_trade_good_trigger = yes
 						}
 						add_province_modifier = {
@@ -2139,7 +2132,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 				hidden_effect = {
 					every_state_province = {
-						limit = { has_building = slave_mine_building }
+						limit = { has_building = workshop_building }
 						add_province_modifier = {
 							name = "thriving_mining_sector"
 							duration = -1
@@ -2279,7 +2272,6 @@ generic_mission_home_infrastructure = { #Fix up Region
 			exists = scope:mining_province
 			scope:mining_province = {
 				any_state_province = {
-					has_city_status = no
 					OR = {
 						terrain = hills
 						terrain = mountain
@@ -2298,7 +2290,6 @@ generic_mission_home_infrastructure = { #Fix up Region
 				exists = scope:mining_province
 				exists = state
 				state = scope:mining_province
-				has_city_status = no
 				OR = {
 					terrain = hills
 					terrain = mountain

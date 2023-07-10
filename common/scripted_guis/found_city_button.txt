@@ -68,12 +68,6 @@
 		}
 		custom_tooltip = "newline_tt"
 		custom_tooltip = "founding_city_in_progress_tt"
-		if = {
-			limit = {
-				has_food_trade_good_trigger = yes
-			}
-			custom_tooltip = "gains_new_trade_good_city_tt"
-		}
 		custom_tooltip = "time_to_complete_city_tt"
 		hidden_effect = {
 			add_province_modifier = {
@@ -269,7 +263,6 @@ revoke_city_status_button = {
 			}
 		}
 		custom_tooltip = "newline_tt" 
-		restore_food_effect = yes
 		set_city_status = settlement
 		custom_tooltip = "city_angry_for_a_while"
 		hidden_effect = {

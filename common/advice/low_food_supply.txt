@@ -1,0 +1,290 @@
+﻿low_food_supply = { # Starving Province
+	max_advice = 3
+	title = "ADVICE_LOW_FOOD_TITLE"
+	description = "ADVICE_LOW_FOOD_SUMMARY"
+	icon = "gfx/interface/icons/shared_icons/food_deficiency.dds"
+	background = "gfx/interface/advice/alert_icon_bg_yellow_.dds"
+
+	item = {
+		description = "ADVICE_LOW_FOOD_FALLBACK"
+		title = "ADVICE_LOW_FOOD_FALLBACK_TITLE"
+		icon = "gfx/interface/icons/advice/advice_nothing.dds"
+		fallback = yes
+	}
+
+	item = {
+		description = "ADVICE_OCCUPIED_PROVINCE"
+		title = "ADVICE_OCCUPIED_PROVINCE_TITLE"
+		icon = "gfx/interface/icons/advice/advice_army.dds"
+
+		effect = {
+			scope:target = {
+				random_state_province = {
+					limit = {
+						OR = {
+							is_previous_controller = root # Occupied
+							has_siege = yes
+						}
+					}
+					save_scope_as = result
+				}
+			}
+		}
+	}
+
+	item = {
+		initial_view = single_unit
+		description = "ADVICE_LOW_FOOD_MOVEARMY"
+		title = "ADVICE_MOVEARMY_TITLE"
+		button_text = "ADVICE_MOVEARMY_BTN"
+		icon = "gfx/interface/icons/advice/advice_army.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:target = {
+						NOT = {
+							any_state_province = {
+								OR = {
+									is_previous_controller = root # Occupied
+									has_siege = yes
+								}
+							}
+						}
+					}
+				}
+				scope:target = {
+					random_state_province = {
+						limit = {
+							owner = scope:actor
+							any_unit_in_province = {
+								unit_owner = prev.owner
+							}
+						}
+						random_unit_in_province = {
+							limit = {
+								unit_owner = prev.owner
+								is_navy = no
+								OR = {
+									AND = {
+										exists = commander
+										commander.loyalty > 33
+									}
+									NOT = {
+										exists = commander
+									}
+								}
+							}
+							save_scope_as = result
+						}
+					}
+				}
+			}
+		}
+	}
+
+	item = {
+		initial_view = overview
+		highlight_elements = { civic_ideas idea_grain_admin }
+		description = "ADVICE_LOW_FOOD_IDEA"
+		title = "ADVICE_LOW_FOOD_IDEA_TITLE"
+		button_text = "ADVICE_IDEA_BTN"
+		icon = "gfx/interface/icons/advice/advice_policy.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:actor = {
+						can_change_idea = idea_grain_admin
+					}
+				}
+				scope:actor = { save_scope_as = result }
+			}
+		}
+	}
+
+	item = {
+		initial_view = province
+		highlight_elements = { btn_province_import vegetables fish grain cattle }
+		chain_length = 2
+		description = "ADVICE_IMPORT_FOOD"
+		title = "ADVICE_IMPORT_FOOD_TITLE"
+		button_text = "ADVICE_IMPORT_BTN"
+		icon = "gfx/interface/icons/advice/advice_currency.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:target = {
+						NOT = {
+							any_state_province = {
+								OR = {
+									is_previous_controller = root # Occupied
+									has_siege = yes
+								}
+							}
+						}
+						OR = {
+							can_import_trade_good = vegetables
+							can_import_trade_good = fish
+							can_import_trade_good = grain
+							can_import_trade_good = cattle
+						}
+					}
+				}
+				scope:target.capital_scope = { save_scope_as = result }
+			}
+		}
+	}
+
+	item = {
+		initial_view = province
+		highlight_elements = {
+			btn_province_build
+			build_food_trader_building
+		}
+		description = "ADVICE_LOW_FOOD_FARM"
+		title = "ADVICE_LOW_FOOD_FARM_TITLE"
+		button_text = "ADVICE_FARM_BTN"
+		icon = "gfx/interface/icons/advice/advice_build.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:target = {
+						NOT = {
+							any_state_province = {
+								OR = {
+									is_previous_controller = root # Occupied
+									has_siege = yes
+								}
+							}
+						}
+					}
+				}
+				scope:target = {
+					random_state_province = {
+						limit = {
+							owner = scope:actor
+							can_build_building = food_trader_building
+							NOT = { has_specific_construction = food_trader_building }
+						}
+						save_scope_as = result
+					}
+				}
+			}
+		}
+	}
+
+	item = {
+		initial_view = province
+		highlight_elements = {
+			btn_province_change_governor_policy
+			encourage_trade
+		}
+		description = "ADVICE_LOW_FOOD_POLICY"
+		title = "ADVICE_LOW_FOOD_POLICY_TITLE"
+		button_text = "ADVICE_POLICY_BTN"
+		icon = "gfx/interface/icons/advice/advice_policy.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:target = {
+						can_change_governor_policy = encourage_trade
+					}
+				}
+				scope:target.capital_scope = { save_scope_as = result }
+			}
+		}
+	}
+
+	item = {
+		initial_view = religion
+		highlight_elements = { activate_deity }
+		description = "ADVICE_LOW_FOOD_OMEN"
+		title = "ADVICE_OMEN_TITLE"
+		button_text = "ADVICE_OMEN_BTN"
+		icon = "gfx/interface/icons/advice/advice_omen.dds"
+
+		effect = {
+			scope:actor = {
+				random_pantheon_deity = {
+					limit = {
+						scope:actor = { can_activate = PREV }
+						has_active_modifier = global_monthly_food_modifier
+					}
+					save_scope_as = result
+				}
+			}
+		}
+	}
+
+	item = {
+		initial_view = religion
+		highlight_elements = { replace_deity }
+		chain_length = 2
+		description = "ADVICE_LOW_FOOD_PASSIVE_OMEN"
+		title = "ADVICE_PASSIVE_OMEN_TITLE"
+		button_text = "ADVICE_PASSIVE_OMEN_BTN"
+		icon = "gfx/interface/icons/advice/advice_omen.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:target = {
+						NOT = {
+							any_state_province = {
+								OR = {
+									is_previous_controller = root # Occupied
+									has_siege = yes
+								}
+							}
+						}
+					}
+				}
+				scope:actor = {
+					if = {
+						limit = {
+							any_pantheon_deity = {
+								has_passive_modifier = global_monthly_food_modifier
+							}
+						}
+					}
+					else = {
+						random_available_deity = {
+							limit = {
+								has_passive_modifier = global_monthly_food_modifier
+							}
+							save_scope_as = result
+						}
+					}
+				}
+			}
+		}
+	}
+
+	item = {
+		description = "ADVICE_LOW_FOOD_DONOTHING"
+		title = "ADVICE_LOW_FOOD_DONOTHING_TITLE"
+		icon = "gfx/interface/icons/advice/advice_nothing.dds"
+
+		effect = {
+			if = {
+				limit = {
+					scope:target = {
+						NOT = {
+							any_state_province = {
+								OR = {
+									is_previous_controller = root # Occupied
+									has_siege = yes
+								}
+							}
+						}
+					}
+				}
+				scope:target = { save_scope_as = result }
+			}
+		}
+	}
+}

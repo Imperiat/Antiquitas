@@ -96,15 +96,6 @@ slaves_needed = {
     limit = { has_city_status = no }
     add = -5
   }
-  if = {
-    limit = {
-      OR = {
-         num_of_basic_settlement_infratructure_building = 1
-         num_of_slave_mine_building = 1
-       }
-    }
-    add = -5
-  }
 
   if = {
     limit = {

@@ -1,32 +1,4 @@
-﻿
-
-construct_buildings = {
-    base = build_in_province
-    layout = build_in_province_with_list
-	
-	map_mode = macro_builder_build_in_province
-
-	
-	includes = {
-		fortress_building
-		barracks_building
-		latifundia_building
-		slave_mine_building
-		basic_settlement_infratructure_building
-		hill_fort
-		local_forum_building
-		villa_building
-		hunting_camps
-		logging_camps
-		shipyards
-		sanctuary_building
-		port_building
-	}
-	
-	sound = "event:/SFX/UI/Province/sfx_ui_province_build_building"
-}
-
-construct_city_buildings = {
+﻿construct_city_buildings = {
     base = build_in_province
     layout = build_in_province_with_list
 	
@@ -43,7 +15,6 @@ construct_city_buildings = {
 		town_hall_building
 		workshop_building
 		military_harbor_building
-		trade_harbor_building
 		port_building
 	}
 	

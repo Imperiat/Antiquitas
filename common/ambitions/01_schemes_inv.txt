@@ -304,7 +304,6 @@ scheme_invest_in_port = {
 		num_holdings_owned > 0
 		any_holdings = {
 			can_have_port = yes
-			has_city_status = yes
 			has_construction = no
 			num_of_port_building >= 1
 			num_of_port_building < 5

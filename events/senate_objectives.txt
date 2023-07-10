@@ -2092,12 +2092,6 @@ senate_objectives.21 = { # Provincial City - Democratic
 		pay_price = price_found_city
 		custom_tooltip = "founding_city_in_progress_tt"
 		scope:city_target = {
-			if = {
-				limit = {
-					has_food_trade_good_trigger = yes
-				}
-				custom_tooltip = "gains_new_trade_good_city_tt"
-			}
 			custom_tooltip = "time_to_complete_city_tt"
 			hidden_effect = {
 				add_province_modifier = {

@@ -905,7 +905,6 @@
 						num_of_library_building >= 1
 						num_of_court_building >= 1
 					}
-					num_of_local_forum_building >= 1
 				}
 			}
 		}
