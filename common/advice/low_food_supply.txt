@@ -141,7 +141,7 @@
 		initial_view = province
 		highlight_elements = {
 			btn_province_build
-			build_food_trader_building
+			build_agriculture_building
 		}
 		description = "ADVICE_LOW_FOOD_FARM"
 		title = "ADVICE_LOW_FOOD_FARM_TITLE"
@@ -166,8 +166,8 @@
 					random_state_province = {
 						limit = {
 							owner = scope:actor
-							can_build_building = food_trader_building
-							NOT = { has_specific_construction = food_trader_building }
+							can_build_building = agriculture_building
+							NOT = { has_specific_construction = agriculture_building }
 						}
 						save_scope_as = result
 					}

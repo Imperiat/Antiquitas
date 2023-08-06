@@ -1769,7 +1769,7 @@ scheme_invest_in_agriculture = {
 		any_holdings = {
 			has_food_trade_good_trigger = yes
 			has_construction = no
-			NOT = { has_building = food_trader_building }
+			NOT = { has_building = agriculture_building }
 			NOT = {
 				has_province_modifier = founding_city_in_progress
 			}
@@ -1803,7 +1803,7 @@ scheme_invest_in_agriculture = {
 			scope:latifundia_holding = {
 				OR = {
 					has_construction = yes
-					has_building = food_trader_building
+					has_building = agriculture_building
 					has_province_modifier = founding_city_in_progress
 					has_province_modifier = urban_development_in_progress
 				}
@@ -1861,7 +1861,7 @@ scheme_invest_in_mining = {
 		any_holdings = {
 			has_minable_trade_good_trigger = yes
 			has_construction = no
-			NOT = { has_building = workshop_building }
+			NOT = { has_building = production_building }
 			NOT = {
 				has_province_modifier = founding_city_in_progress
 			}
@@ -1895,7 +1895,7 @@ scheme_invest_in_mining = {
 			scope:mining_holding = {
 				OR = {
 					has_construction = yes
-					has_building = workshop_building
+					has_building = production_building
 					has_province_modifier = founding_city_in_progress
 					has_province_modifier = urban_development_in_progress
 				}

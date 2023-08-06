@@ -55,20 +55,20 @@ disasters_inv.1 = { #flood in flood_plain
 						remove_building_level = theathre_building
 					}
 					1 = {
-						trigger = { has_building = academy_building }
-						remove_building_level = academy_building
+						trigger = { has_building = education_building }
+						remove_building_level = education_building
 					}
 					1 = {
-						trigger = { has_building = population_building } # granary
-						remove_building_level = population_building
+						trigger = { has_building = depot_building } # granary
+						remove_building_level = depot_building
 					}
 					1 = {
-						trigger = { has_building = forum_building }
-						remove_building_level = forum_building
+						trigger = { has_building = government_building }
+						remove_building_level = government_building
 					}
 					1 = {
-						trigger = { has_building = workshop_building }
-						remove_building_level = workshop_building
+						trigger = { has_building = production_building }
+						remove_building_level = production_building
 					}
 					1 = {
 						trigger = { has_building = port_building }
@@ -179,20 +179,20 @@ disasters_inv.2 = { #spread of the flood
 								remove_building_level = theathre_building
 							}
 							1 = {
-								trigger = { has_building = academy_building }
-								remove_building_level = academy_building
+								trigger = { has_building = education_building }
+								remove_building_level = education_building
 							}
 							1 = {
-								trigger = { has_building = population_building } # granary
-								remove_building_level = population_building
+								trigger = { has_building = depot_building } # granary
+								remove_building_level = depot_building
 							}
 							1 = {
-								trigger = { has_building = forum_building }
-								remove_building_level = forum_building
+								trigger = { has_building = government_building }
+								remove_building_level = government_building
 							}
 							1 = {
-								trigger = { has_building = workshop_building }
-								remove_building_level = workshop_building
+								trigger = { has_building = production_building }
+								remove_building_level = production_building
 							}
 							1 = {
 								trigger = { has_building = port_building }
@@ -313,20 +313,20 @@ disasters_inv.4 = { #Avalanche
 						remove_building_level = theathre_building
 					}
 					1 = {
-						trigger = { has_building = academy_building }
-						remove_building_level = academy_building
+						trigger = { has_building = education_building }
+						remove_building_level = education_building
 					}
 					1 = {
-						trigger = { has_building = population_building } # granary
-						remove_building_level = population_building
+						trigger = { has_building = depot_building } # granary
+						remove_building_level = depot_building
 					}
 					1 = {
-						trigger = { has_building = forum_building }
-						remove_building_level = forum_building
+						trigger = { has_building = government_building }
+						remove_building_level = government_building
 					}
 					1 = {
-						trigger = { has_building = workshop_building }
-						remove_building_level = workshop_building
+						trigger = { has_building = production_building }
+						remove_building_level = production_building
 					}
 					1 = {
 						trigger = { has_building = port_building }
@@ -470,20 +470,20 @@ disasters_inv.5 = { #landslide
 						remove_building_level = theathre_building
 					}
 					1 = {
-						trigger = { has_building = academy_building }
-						remove_building_level = academy_building
+						trigger = { has_building = education_building }
+						remove_building_level = education_building
 					}
 					1 = {
-						trigger = { has_building = population_building } # granary
-						remove_building_level = population_building
+						trigger = { has_building = depot_building } # granary
+						remove_building_level = depot_building
 					}
 					1 = {
-						trigger = { has_building = forum_building }
-						remove_building_level = forum_building
+						trigger = { has_building = government_building }
+						remove_building_level = government_building
 					}
 					1 = {
-						trigger = { has_building = workshop_building }
-						remove_building_level = workshop_building
+						trigger = { has_building = production_building }
+						remove_building_level = production_building
 					}
 					1 = {
 						trigger = { has_building = port_building }
@@ -619,20 +619,20 @@ disasters_inv.6 = {
 							remove_building_level = theathre_building
 						}
 						1 = {
-							trigger = { has_building = academy_building }
-							remove_building_level = academy_building
+							trigger = { has_building = education_building }
+							remove_building_level = education_building
 						}
 						1 = {
-							trigger = { has_building = population_building } # granary
-							remove_building_level = population_building
+							trigger = { has_building = depot_building } # granary
+							remove_building_level = depot_building
 						}
 						1 = {
-							trigger = { has_building = forum_building }
-							remove_building_level = forum_building
+							trigger = { has_building = government_building }
+							remove_building_level = government_building
 						}
 						1 = {
-							trigger = { has_building = workshop_building }
-							remove_building_level = workshop_building
+							trigger = { has_building = production_building }
+							remove_building_level = production_building
 						}
 						1 = {
 							trigger = { has_building = port_building }
@@ -657,20 +657,20 @@ disasters_inv.6 = {
 							remove_building_level = theathre_building
 						}
 						1 = {
-							trigger = { has_building = academy_building }
-							remove_building_level = academy_building
+							trigger = { has_building = education_building }
+							remove_building_level = education_building
 						}
 						1 = {
-							trigger = { has_building = population_building } # granary
-							remove_building_level = population_building
+							trigger = { has_building = depot_building } # granary
+							remove_building_level = depot_building
 						}
 						1 = {
-							trigger = { has_building = forum_building }
-							remove_building_level = forum_building
+							trigger = { has_building = government_building }
+							remove_building_level = government_building
 						}
 						1 = {
-							trigger = { has_building = workshop_building }
-							remove_building_level = workshop_building
+							trigger = { has_building = production_building }
+							remove_building_level = production_building
 						}
 						1 = {
 							trigger = { has_building = port_building }

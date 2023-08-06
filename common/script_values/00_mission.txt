@@ -2,7 +2,7 @@
 	value = 0
 	scope:food_province = {
 		every_state_province = {
-			limit = { has_building = food_trader_building }
+			limit = { has_building = agriculture_building }
 			add = 1
 		}
 	}
@@ -23,7 +23,7 @@ potential_farms_in_province_tooltip_svalue = {
 farms_in_province_svalue = {
 	value = 0
 	every_state_province = {
-		limit = { has_building = food_trader_building }
+		limit = { has_building = agriculture_building }
 		add = 1
 	}
 }
@@ -44,7 +44,7 @@ mines_in_province_tooltip_svalue = {
 	value = 0
 	scope:mining_province = {
 		every_state_province = {
-			limit = { has_building = workshop_building }
+			limit = { has_building = production_building }
 			add = 1
 		}
 	}
@@ -66,7 +66,7 @@ potential_mines_in_province_tooltip_svalue = {
 mines_in_province_svalue = {
 	value = 0
 	every_state_province = {
-		limit = { has_building = workshop_building }
+		limit = { has_building = production_building }
 		add = 1
 	}
 }

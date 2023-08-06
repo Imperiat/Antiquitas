@@ -1381,8 +1381,8 @@ generic_infra_mission.22 = {
 		name = generic_infra_mission.22.a
 		scope:find_struck_here = {
 			if = {
-				limit = { has_building = food_trader_building }
-				remove_building_level = food_trader_building
+				limit = { has_building = agriculture_building }
+				remove_building_level = agriculture_building
 				ROOT = { add_treasury = -200 }
 			}
 			else = {
@@ -1445,8 +1445,8 @@ generic_infra_mission.23 = {
 		name = generic_infra_mission.23.a
 		scope:find_struck_here = {
 			if = {
-				limit = { has_building = food_trader_building }
-				remove_building_level = food_trader_building
+				limit = { has_building = agriculture_building }
+				remove_building_level = agriculture_building
 				ROOT = { add_treasury = -200 }
 			}
 			else = {
@@ -1510,8 +1510,8 @@ generic_infra_mission.24 = {
 		name = generic_infra_mission.24.a
 		scope:find_struck_here = {
 			if = {
-				limit = { has_building = food_trader_building }
-				remove_building_level = food_trader_building
+				limit = { has_building = agriculture_building }
+				remove_building_level = agriculture_building
 				ROOT = { add_treasury = -800 }
 			}
 			else = {
@@ -1576,8 +1576,8 @@ generic_infra_mission.25 = {
 		name = generic_infra_mission.25.a
 		scope:find_struck_here = {
 			if = {
-				limit = { has_building = food_trader_building }
-				remove_building_level = food_trader_building
+				limit = { has_building = agriculture_building }
+				remove_building_level = agriculture_building
 				ROOT = { add_treasury = -100 }
 			}
 			else = {

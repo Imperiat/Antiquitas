@@ -1356,7 +1356,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 						fort_level >= 1
 					}
 					has_city_status = yes
-					num_of_town_hall_building >= 2
+					num_of_taxation_building >= 2
 				}
 			}
 			trigger_else = {
@@ -1386,8 +1386,8 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 				add_treasury = -150
 				scope:governorship_capital = {
-					add_building_level = town_hall_building
-					add_building_level = town_hall_building
+					add_building_level = taxation_building
+					add_building_level = taxation_building
 					add_building_level = fortress_building
 				}
 			}
@@ -1601,9 +1601,9 @@ generic_mission_home_infrastructure = { #Fix up Region
 			} #needs to expire first
 			trigger_else = {
 				scope:governorship_capital = {
-					has_building = aqueduct_building
-					has_building = court_building
-					has_building = population_building
+					has_building = housing_building
+					has_building = security_building
+					has_building = depot_building
 				}
 			}
 		}
@@ -1617,18 +1617,18 @@ generic_mission_home_infrastructure = { #Fix up Region
 				scope:governorship_capital = {
 					if = {
 						limit = {
-							NOT = { has_building = aqueduct_building }
+							NOT = { has_building = housing_building }
 							free_building_slots >= 1
 						}
-						add_building_level = aqueduct_building
+						add_building_level = housing_building
 						owner = { add_treasury = -50 }
 					}
 					if = {
 						limit = {
-							NOT = { has_building = population_building }
+							NOT = { has_building = depot_building }
 							free_building_slots >= 1
 						}
-						add_building_level = population_building
+						add_building_level = depot_building
 						owner = { add_treasury = -50 }
 					}
 					if = {
@@ -1870,9 +1870,9 @@ generic_mission_home_infrastructure = { #Fix up Region
 						state = scope:food_province
 						has_food_trade_good_trigger = yes
 						free_building_slots >= 1
-						NOT = { has_building = food_trader_building }
+						NOT = { has_building = agriculture_building }
 					}
-					add_building_level = food_trader_building
+					add_building_level = agriculture_building
 				}
 			}
 			scope:food_province = {
@@ -1918,7 +1918,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 				scope:food_province_capital = {
 					is_state_capital = yes
 					has_city_status = yes
-					num_of_population_building >= 2
+					num_of_depot_building >= 2
 				}
 			}
 			trigger_else = { always = no } #AI does the other task.
@@ -2113,9 +2113,9 @@ generic_mission_home_infrastructure = { #Fix up Region
 						state = scope:mining_province
 						free_building_slots >= 1
 						has_minable_trade_good_trigger = yes
-						NOT = { has_building = workshop_building }
+						NOT = { has_building = production_building }
 					}
-					add_building_level = workshop_building
+					add_building_level = production_building
 				}
 			}
 			scope:mining_province = {
@@ -2132,7 +2132,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 				hidden_effect = {
 					every_state_province = {
-						limit = { has_building = workshop_building }
+						limit = { has_building = production_building }
 						add_province_modifier = {
 							name = "thriving_mining_sector"
 							duration = -1
@@ -2484,7 +2484,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 			}
 			scope:ship_building_center = {
-				num_of_foundry_building >= 1
+				num_of_manufacturing_building >= 1
 			}
 		}
 		highlight = {
@@ -2859,7 +2859,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 			trigger_if = {
 				limit = { is_ai = no }
 				scope:urbanize_area_city = {
-					num_of_workshop_building >= 2
+					num_of_production_building >= 2
 				}
 			}
 			trigger_else = {
@@ -2881,10 +2881,10 @@ generic_mission_home_infrastructure = { #Fix up Region
 				scope:urbanize_area_city = {
 					while = {
 						limit = {
-							num_of_town_hall_building < 2
+							num_of_taxation_building < 2
 							free_building_slots >= 1
 						}
-						add_building_level = town_hall_building
+						add_building_level = taxation_building
 					}
 				}
 			}

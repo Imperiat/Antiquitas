@@ -1,4 +1,4 @@
-﻿construct_city_buildings = {
+﻿construct_buildings = {
     base = build_in_province
     layout = build_in_province_with_list
 	
@@ -6,59 +6,33 @@
 
 	
 	includes = {
-		fortress_building
-		foundry_building
-		military_building
-		commerce_building
-		academy_building
+		production_building
+		conscription_building
 		library_building
-		town_hall_building
-		workshop_building
+		education_building
+		commerce_building
 		military_harbor_building
+		agriculture_building
+		depot_building
+		manufacturing_building
+		shrine_building
+		healthcare_building
+		government_building
+		security_building
+		housing_building
+		sanitation_building
+		recreation_building
+		military_building
+		transportation_building
+		fortress_building
+		taxation_building
+		temple_building
+		theathre_building
 		port_building
 	}
 	
 	sound = "event:/SFX/UI/Province/sfx_ui_province_build_building"
-
 }
-
-construct_happiness_buildings = {
-	base = build_in_province
-	layout = build_in_province_with_list
-
-	map_mode = macro_builder_build_in_province
-
-	includes = {
-		forum_building
-		temple_building
-		theathre_building
-		shrine_building
-		tavern_building
-		court_building
-	}
-
-	sound = "event:/SFX/UI/Province/sfx_ui_province_build_building"
-}
-
-construct_pop_buildings = {
-    base = build_in_province
-    layout = build_in_province_with_list
-
-    map_mode = macro_builder_build_in_province
-
-    includes = {
-        nobles_building
-        citizen_building
-        freemen_building
-		slave_building
-		aqueduct_building
-		food_trader_building
-		population_building
-	}
-	
-	sound = "event:/SFX/UI/Province/sfx_ui_province_build_building"
-}
-
 
 recruit_naval_units = {
     base = build_in_province

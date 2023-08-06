@@ -914,7 +914,7 @@ architect_1_building_type_DE1 = {
 		}
 	}
 	text = {
-		localization_key = population_building_DE1
+		localization_key = depot_building_DE1
 		trigger = {
 			var:architect_building_type = 4
 		}

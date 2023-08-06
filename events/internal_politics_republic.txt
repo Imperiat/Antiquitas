@@ -5421,8 +5421,8 @@ ip_republic.57 = {
 		}
 		scope:ip_rep_55_city = {
 			if = {
-				limit = { can_build_building = aqueduct_building }
-				add_building_level = aqueduct_building
+				limit = { can_build_building = housing_building }
+				add_building_level = housing_building
 			}
 		}
 		scope:ip_rep_55_city.state = {
@@ -7366,24 +7366,24 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 				scope:ip_rep_66_supporting_city.free_building_slots >= 1
 				scope:ip_rep_66_supporting_city = {
 					AND = {
-						NOT = { has_building = forum_building }
-						can_build_building = forum_building
+						NOT = { has_building = government_building }
+						can_build_building = government_building
 					}
 					AND = {
 						can_build_building = library_building 
 						NOT = { has_building = library_building }
 					}
 					AND = {
-						can_build_building = town_hall_building
-						NOT = { has_building = town_hall_building }
+						can_build_building = taxation_building
+						NOT = { has_building = taxation_building }
 					}
 					AND = {
 						can_build_building = library_building
 						NOT = { has_building = library_building }
 					}
 					AND = {
-						can_build_building = aqueduct_building
-						NOT = { has_building = aqueduct_building }
+						can_build_building = housing_building
+						NOT = { has_building = housing_building }
 					}
 				}
 			}
@@ -7457,7 +7457,7 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 					var:ip_rep_66_building_var = 1
 				}
 				scope:ip_rep_66_supporting_city = {
-					add_building_level = forum_building
+					add_building_level = government_building
 				}
 			}
 			else_if = {
@@ -7473,7 +7473,7 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 					var:ip_rep_66_building_var = 3
 				}
 				scope:ip_rep_66_supporting_city = {
-					add_building_level = town_hall_building
+					add_building_level = taxation_building
 				}
 			}
 			else_if = {
@@ -7489,7 +7489,7 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 					var:ip_rep_66_building_var = 5
 				}
 				scope:ip_rep_66_supporting_city = {
-					add_building_level = aqueduct_building
+					add_building_level = housing_building
 				}
 			}
 			add_treasury = {

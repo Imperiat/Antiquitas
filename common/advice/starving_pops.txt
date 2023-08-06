@@ -108,7 +108,7 @@
 		initial_view = province
 		highlight_elements = {
 			btn_province_build
-			build_food_trader_building
+			build_agriculture_building
 		}
 		description = "ADVICE_LOW_FOOD_FARM"
 		title = "ADVICE_LOW_FOOD_FARM_TITLE"
@@ -124,8 +124,8 @@
 							has_siege = yes
 						}
 
-						can_build_building = food_trader_building
-						NOT = { has_specific_construction = food_trader_building }
+						can_build_building = agriculture_building
+						NOT = { has_specific_construction = agriculture_building }
 					}
 				}
 				scope:target = { save_scope_as = result }
@@ -230,7 +230,7 @@
 		initial_view = province
 		highlight_elements = {
 			btn_province_build
-			build_population_building
+			build_depot_building
 		}
 		description = "ADVICE_STARVING_POPS_GRANARY"
 		title = "ADVICE_STARVING_POPS_GRANARY_TITLE"
@@ -246,8 +246,8 @@
 							has_siege = yes
 						}
 
-						can_build_building = population_building
-						NOT = { has_specific_construction = population_building }
+						can_build_building = depot_building
+						NOT = { has_specific_construction = depot_building }
 					}
 				}
 				scope:target = { save_scope_as = result }

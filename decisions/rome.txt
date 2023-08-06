@@ -93,9 +93,9 @@
 				capital_formable_medium_effect = yes
 				if = {
 					limit = {
-						can_build_building = population_building
+						can_build_building = depot_building
 					}
-					add_building_level = population_building
+					add_building_level = depot_building
 				}
 			}
 			set_variable = {

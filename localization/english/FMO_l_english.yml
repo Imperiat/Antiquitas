@@ -1,51 +1,7 @@
 ﻿l_english:
-  #Vanilla
-  military_building:0 "Conscription Camp"
-  commerce_building:0 "Commercial District"
-  workshop_building:1 "Production District"
-  aqueduct_building:0 "Sanitation Works"
-  #Mod
-  foundry_building:0 "Workshop"
-  military_harbor_building:0 "Shipyard"
-  food_trader_building:0 "Farmer's Market"
-  shrine_building:0 "Shrine"
-  tavern_building:0 "Tavern"
-  nobles_building:0 "Noble District"
-  citizen_building:0 "Citizen District"
-  freemen_building:0 "Freemen District"
-  slave_building:0 "Slave Trader"
-  hunting_camps:0 "Hunting Camps"
-  logging_camps:0 "Logging Camps"
-  shipyards:0 "Shipyard"
-  arena_building:0 "Arena" #prospect
-
- construct_happiness_buildings_TOOLTIP:0 "#t Construct Public Buildings#!"
- construct_happiness_buildings:0 "Construct Public Buildings"
-
- construct_pop_buildings_TOOLTIP:0 "#t Construct Population Buildings#!"
- construct_pop_buildings:0 "Construct Population Buildings"
-
- enables_foundry_building_tt:0 "Unlocks the #Y Workshop#! City building."
- hunting_camps_tooltip:0 "Requires #Y Wild Game#! or #Y Fur#!."
- logging_camps_tooltip:0 "Requires #Y Wood#! or #Y Cedar#!."
- enclosure_building_tt:0 "Requires #Y Livestock#!."
- nomad_camp_building_tt:0 "Requires #Y Desert#!, #Y Desert Hills#!, or #Y Oasis#! terrain."
-
-
-#New
-
-settlement_blacksmith:0 "Blacksmith"
-settlement_entertainment_complex:0 "Entertainment Complex"
-settlement_market:0 "Market"
-
-
-
-
-
 ######################################
 # FMO province investments
 #
-
 
 INVEST_IN_STATE_BUTTON_ADMIN_BUTTON_TOOLTIP:1 "#T Organize Administration#!\n[ScriptedGui.BuildTooltip( GuiScope.SetRoot( ProvinceWindow.GetState.MakeScope ).AddScope('player', Player.MakeScope ).End )]"
 INVEST_IN_STATE_BUTTON_MANPOWER_BUTTON_TOOLTIP:0 "#T Increase Proscription#!\n[ScriptedGui.BuildTooltip( GuiScope.SetRoot( ProvinceWindow.GetState.MakeScope ).AddScope('player', Player.MakeScope ).End )]"
@@ -88,7 +44,6 @@ production_focus_desc:0 "The entire nation is focused on producing this trade go
 
 INCREASE_CIV_CAP_TT:0 "#T Coordinate Urban Development#!\n"
 city_output_reduced_ttt:0 "Output will be #R reduced#! for #Y 2#! years, while urban development is coordinated.\n\nAfter #Y 2#! years:"
-settlement_blacksmith_has_iron_tt:0 "Requires Iron or Base Metals"
 
 CIVILIZATION_GOLD_SCALE_TT:0 "Our current investments here add an additional cost of [SCOPE.ScriptValue('calc_civ_cap_fee')|R]@gold!\nThis money will be given to the holding owner if their is one."
 

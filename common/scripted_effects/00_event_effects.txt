@@ -5726,49 +5726,65 @@ destroy_building_effect = {
 			random_list = {
 				# Unlimited Buildings
 				99 = {
-					trigger = { num_of_population_building > 0 }
-					remove_building_level = population_building
-				}
-				99 = {
-					trigger = { num_of_aqueduct_building > 0 }
-					remove_building_level = aqueduct_building
-				}
-				99 = {
 					trigger = { num_of_commerce_building > 0 }
 					remove_building_level = commerce_building
 				}
 				99 = {
-					trigger = { num_of_library_building > 0 }
-					remove_building_level = library_building
+					trigger = { num_of_taxation_building > 0 }
+					remove_building_level = taxation_building
 				}
 				99 = {
-					trigger = { num_of_military_building > 0 }
-					remove_building_level = military_building
+					trigger = { num_of_education_building > 0 }
+					remove_building_level = education_building
 				}
 				99 = {
-					trigger = { num_of_town_hall_building > 0 }
-					remove_building_level = town_hall_building
+					trigger = { num_of_agriculture_building > 0 }
+					remove_building_level = agriculture_building
 				}
+				# Limited Buildings
 				10 = {
 					trigger = { num_of_port_building > 0 }
 					remove_building_level = port_building
 				}
-				# Limited Buildings
 				10 = {
-					trigger = { num_of_academy_building > 0 }
-					remove_building_level = academy_building
+					trigger = { num_of_military_building > 0 }
+					remove_building_level = military_building
 				}
 				10 = {
-					trigger = { num_of_court_building > 0 }
-					remove_building_level = court_building
+					trigger = { num_of_recreation_building > 0 }
+					remove_building_level = recreation_building
 				}
 				10 = {
-					trigger = { num_of_forum_building > 0 }
-					remove_building_level = forum_building
+					trigger = { num_of_sanitation_building > 0 }
+					remove_building_level = sanitation_building
 				}
 				10 = {
-					trigger = { num_of_workshop_building > 0 }
-					remove_building_level = workshop_building
+					trigger = { num_of_housing_building > 0 }
+					remove_building_level = housing_building
+				}
+				10 = {
+					trigger = { num_of_healthcare_building > 0 }
+					remove_building_level = healthcare_building
+				}
+				10 = {
+					trigger = { num_of_shrine_building > 0 }
+					remove_building_level = shrine_building
+				}
+				10 = {
+					trigger = { num_of_depot_building > 0 }
+					remove_building_level = depot_building
+				}
+				10 = {
+					trigger = { num_of_library_building > 0 }
+					remove_building_level = library_building
+				}
+				10 = {
+					trigger = { num_of_conscription_building > 0 }
+					remove_building_level = conscription_building
+				}
+				10 = {
+					trigger = { num_of_production_building > 0 }
+					remove_building_level = production_building
 				}
 				10 = {
 					trigger = {
@@ -5787,12 +5803,28 @@ destroy_building_effect = {
 					remove_building_level = theathre_building
 				}
 				1 = {
-					trigger = { num_of_foundry_building > 0 }
-					remove_building_level = foundry_building
+					trigger = { num_of_manufacturing_building > 0 }
+					remove_building_level = manufacturing_building
+				}
+				1 = {
+					trigger = { num_of_security_building > 0 }
+					remove_building_level = security_building
+				}
+				1 = {
+					trigger = { num_of_government_building > 0 }
+					remove_building_level = government_building
+				}
+				1 = {
+					trigger = { num_of_military_harbor_building > 0 }
+					remove_building_level = military_harbor_building
 				}
 				1 = {
 					trigger = { num_of_fortress_ramparts_building > 0 }
 					remove_building_level = fortress_ramparts_building
+				}
+				1 = {
+					trigger = { num_of_transportation_building > 0 }
+					remove_building_level = transportation_building
 				}
 			}
 		}

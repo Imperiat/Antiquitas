@@ -388,9 +388,6 @@
 	}
 	holy_site=omen_alexander
 	port_building=3
-	library_building=3
-	commerce_building=2
-	court_building=1
 }
 
 517={ #Hermopolis Mikra

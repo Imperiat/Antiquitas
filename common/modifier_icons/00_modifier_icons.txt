@@ -1467,28 +1467,6 @@ religious_tech_investment = {
     positive = "gfx/interface/icons/modifiers/religious_tech_investment.dds"
 }
 
-
-
-military_building_cost = {
-    positive = "gfx/interface/icons/modifiers/military_building_cost.dds"
-}
-
-fortress_building_cost = {
-    positive = "gfx/interface/icons/modifiers/fortress_building_cost.dds"
-}
-
-fortress_ramparts_building_cost = {
-	positive = "gfx/interface/icons/modifiers/fortress_building_cost.dds"
-}
-
-commerce_building_cost = {
-    positive = "gfx/interface/icons/modifiers/commerce_building_cost.dds"
-}
-
-population_building_cost = {
-    positive = "gfx/interface/icons/modifiers/population_building_cost.dds"
-}
-
 build_expensive_roads_cost_modifier = {
     positive = "gfx/interface/icons/modifiers/build_expensive_roads_cost_modifier.dds"
 }
@@ -2495,11 +2473,15 @@ change_pop_type_right_cost_modifier = {
 	positive = "gfx/interface/icons/modifiers/change_pop_type_right_cost_modifier.dds"
 }
 
-forum_building_cost = {
+theathre_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-workshop_building_cost = {
+production_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+conscription_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
@@ -2507,19 +2489,59 @@ library_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-town_hall_building_cost = {
+education_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-theathre_building_cost = {
+commerce_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-court_building_cost = {
+military_harbor_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-academy_building_cost = {
+agriculture_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+manufacturing_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+shrine_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+healthcare_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+government_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+security_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+housing_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+sanitation_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+recreation_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+transportation_building_cost = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
+
+taxation_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
@@ -2527,12 +2549,28 @@ temple_building_cost = {
 	positive = "gfx/interface/icons/modifiers/commerce_building_cost.dds"
 }
 
-foundry_building_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+military_building_cost = {
+    positive = "gfx/interface/icons/modifiers/military_building_cost.dds"
 }
 
-aqueduct_building_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+fortress_building_cost = {
+    positive = "gfx/interface/icons/modifiers/fortress_building_cost.dds"
+}
+
+fortress_ramparts_building_cost = {
+	positive = "gfx/interface/icons/modifiers/fortress_building_cost.dds"
+}
+
+commerce_building_cost = {
+    positive = "gfx/interface/icons/modifiers/commerce_building_cost.dds"
+}
+
+depot_building_cost = {
+    positive = "gfx/interface/icons/modifiers/population_building_cost.dds"
+}
+
+port_building_cost = {
+    positive = "gfx/interface/icons/_default.dds"
 }
 
 paid_character_loyalty = {
@@ -2994,10 +3032,6 @@ coastal_terrain_combat_bonus = {
 }
 riverine_terrain_combat_bonus = {
     positive = "gfx/interface/icons/modifiers/riverine_terrain_combat_bonus.dds"
-}
-
-port_building_cost = {
-    positive = "gfx/interface/icons/_default.dds"
 }
 
 innovations = {

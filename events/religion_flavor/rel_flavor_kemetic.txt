@@ -1342,7 +1342,7 @@ rel_flavor_kemetic.14 = {	#Holding Owner Challenges Maat
 		current_date > 453.1.1
 		religion = egyptian_pantheon
 		any_owned_province = {
-			has_building = academy_building
+			has_building = education_building
 			dominant_province_religion = egyptian_pantheon
 			exists = holding_owner
 			holding_owner = {
@@ -1355,7 +1355,7 @@ rel_flavor_kemetic.14 = {	#Holding Owner Challenges Maat
     	hidden_effect = {
     		random_owned_province = {
     			limit = {
-					has_building = academy_building
+					has_building = education_building
 					dominant_province_religion = egyptian_pantheon
 					exists = holding_owner
 					holding_owner = {
@@ -1582,9 +1582,9 @@ rel_flavor_kemetic.17 = {	#Egyptian Investments
 			}
 			else_if = {
 				limit = {
-					can_build_building = population_building
+					can_build_building = depot_building
 				}
-				add_building_level = population_building
+				add_building_level = depot_building
 			}
 			else = {
 				create_2_citizens_effect = yes

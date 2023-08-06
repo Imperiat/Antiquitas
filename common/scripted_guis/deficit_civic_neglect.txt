@@ -11,7 +11,7 @@
 	is_valid = {
 		any_owned_province = {
 			has_city_status = yes
-			has_building = aqueduct_building
+			has_building = housing_building
 		# always = yes
 		}
 	}
@@ -38,12 +38,12 @@
 			random_owned_province = {
 				limit = {
 					has_city_status = yes
-					has_building = aqueduct_building
+					has_building = housing_building
 					total_population >= 3
 				}
 				while = {
-					count = 3 # has_building = aqueduct_building 
-					remove_building_level = aqueduct_building 
+					count = 3 # has_building = housing_building 
+					remove_building_level = housing_building 
 				}
 				random_pops_in_province = {
 					kill_pop = yes

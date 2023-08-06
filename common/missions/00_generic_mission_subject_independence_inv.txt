@@ -899,11 +899,11 @@
 				OR = {
 					AND = {
 						num_of_commerce_building >= 1
-						num_of_forum_building >= 1
+						num_of_government_building >= 1
 					}
 					AND = {
 						num_of_library_building >= 1
-						num_of_court_building >= 1
+						num_of_security_building >= 1
 					}
 				}
 			}

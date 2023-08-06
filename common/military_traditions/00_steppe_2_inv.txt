@@ -259,7 +259,7 @@
 		}
 		modifier = { 
 			price_found_city_cost_modifier = -0.1
-			#local_forum_building_cost = -0.1
+			#local_government_building_cost = -0.1
 			discipline = 0.05 
 		} 
 		icon = levantine_egyptian_path_4

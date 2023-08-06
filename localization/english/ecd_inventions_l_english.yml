@@ -727,7 +727,7 @@
  SUPER_GUARANTEES_ENABLED:0 "#Y Sphere of Influence:#!\nNeighboring countries with fewer than #Y 12#! territories that we have #Y Guaranteed#! will have a small chance over time to offer to become our subject. This chance is increased by the #Y Charisma#! of our Ruler, and our relative power."
  global_settlement_building_slot_inv:0 "Rural Planning"
  global_settlement_building_slot_inv_desc:0 "By focusing the efforts of our city planners on rural integration, we can economize how we use our precious land and resources.\n\n#R We cannot have this and Urban Planning.#!"
- enables_foundry_building_tt:0 "Unlocks the #Y Foundry#! City building."
+ enables_manufacturing_building_tt:0 "Unlocks #Y Manufacturing Infastructure#! in cities."
  unlocks_theater_tt:0 "Unlocks the #Y Grand Theater#! City building."
  unlocks_temple_tt:0 "Unlocks the #Y Great Temple#! City building."
  has_proclaimed_dictatorship_ci:0 "Our ruler has been granted temporary dictatorship."

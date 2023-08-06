@@ -2026,6 +2026,7 @@ treasure_manager = {
 		}
     }
 }
+
 family={
 	families={
 		#Numbers do not have to appear in numerical order but do have to be unique:
@@ -2084,12 +2085,14 @@ family={
 		}
 	}
 }
+
 diplomacy = {
 
 }
 
-provinces = { #Any entry must contain a comment with city name.
 	### TREASURES ###
+provinces = { #Any entry must contain a comment with city name.
+
 	1 = { # Roma
 		treasure_slots = { treasures = { 16 198 } }
 	}
@@ -2335,28 +2338,6 @@ provinces = { #Any entry must contain a comment with city name.
 	}
 
 	### BUILDINGS ###
-	416 = { #Athenai
-		forum_building = 1
-		shrine_building = 1
-		commerce_building = 1
-		workshop_building = 1
-	}
-	417 = { #Megara
-		shrine_building = 1
-	}
-	418 = { #Korinthos
-		forum_building = 1
-		shrine_building = 1
-	}
-	440 = { #Argos
-		forum_building = 1
-		shrine_building = 1
-	}
-	442 = { #Aigina
-		shrine_building = 1
-		forum_building = 1
-	}
-	
 
 	#Isthmus of Corinth
 	418 = { #Corinth
@@ -2742,8 +2723,7 @@ provinces = { #Any entry must contain a comment with city name.
 		modifier = { modifier = aos_terrain_too_small_modifier always = yes }
 	}
 	
-	#Pirates
-	
+	### PIRATES ###
 	12 = { modifier = { modifier = pirate_haven_modifier always = yes } } #Lucanians
 	35 = { modifier = { modifier = pirate_haven_modifier always = yes } } #Frentani
 	64 = { modifier = { modifier = pirate_haven_modifier always = yes } } #Mesapians

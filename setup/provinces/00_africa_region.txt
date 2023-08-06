@@ -953,10 +953,6 @@
 	}
 	holy_site=omen_tanit
 	port_building=3
-	library_building=2
-	commerce_building=2
-	town_hall_building=1
-	aqueduct_building=2
 }
 
 3257={ #'Oteq

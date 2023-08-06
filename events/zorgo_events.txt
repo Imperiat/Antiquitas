@@ -206,7 +206,7 @@ zorgo_event.5 = {
 		capital_scope = {
 			AND = {
 				has_city_status = yes
-				has_building = population_building # granary
+				has_building = depot_building # granary
 			}
 		}
 	}

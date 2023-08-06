@@ -94,7 +94,6 @@
 	tribesmen={
 		amount=6
 	}
-	aqueduct_building=1
 }
 
 9950={ #Bu Athla
@@ -433,7 +432,6 @@
 		religion="egyptian_pantheon"
 		amount=2
 	}
-	aqueduct_building=1
 }
 
 9973={ #Mahruqah
@@ -695,7 +693,6 @@
 		religion="berber_religion"
 		amount=2
 	}
-	aqueduct_building=3
 }
 
 9985={ #Zinchekra
@@ -730,7 +727,6 @@
 		religion="egyptian_pantheon"
 		amount=1
 	}
-	aqueduct_building=2
 }
 
 9986={ #Gadduwah
@@ -870,7 +866,6 @@
 		religion="egyptian_pantheon"
 		amount=2
 	}
-	aqueduct_building=1
 }
 
 9994={ #Dujal
@@ -1618,7 +1613,6 @@
 	tribesmen={
 		amount=9
 	}
-	aqueduct_building=2
 }
 
 10043={ #Debdeb

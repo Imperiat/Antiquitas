@@ -2612,7 +2612,7 @@ scheme_invest_in_agriculture_finish = {
 		custom_tooltip = invest_in_agriculture_effect_tt
 		hidden_effect = {
 			scope:latifundia_holding = {
-				add_building_level = food_trader_building
+				add_building_level = agriculture_building
 			}
 			remove_scheme_variables_effect = yes
 		}
@@ -2656,7 +2656,7 @@ scheme_invest_in_mining_finish = {
 		custom_tooltip = invest_in_mining_effect_tt
 		hidden_effect = {
 			scope:mining_holding = {
-				add_building_level = workshop_building
+				add_building_level = production_building
 			}
 			remove_scheme_variables_effect = yes
 		}

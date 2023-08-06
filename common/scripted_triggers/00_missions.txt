@@ -557,13 +557,13 @@ resource_building_trigger = {
 		limit = {
 			has_minable_trade_good_trigger = yes
 		}
-		has_building = workshop_building
+		has_building = production_building
 	}
 	trigger_else_if = {
 		limit = {
 			has_food_trade_good_trigger = yes
 		}
-		has_building = food_trader_building
+		has_building = agriculture_building
 	}
 }
 

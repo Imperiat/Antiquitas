@@ -22,9 +22,9 @@
 		}
 		else_if = {
 			limit = {
-				can_build_building = population_building
+				can_build_building = depot_building
 			}
-			add_building_level = population_building
+			add_building_level = depot_building
 		}
 		else = {
 			create_2_citizens_effect = yes
@@ -34,9 +34,9 @@
 		limit = { $REWARD$ = 2 }
 		if = {
 			limit = {
-				can_build_building = population_building
+				can_build_building = depot_building
 			}
-			add_building_level = population_building
+			add_building_level = depot_building
 		}
 		else_if = {
 			limit = {
@@ -46,9 +46,9 @@
 		}
 		else_if = {
 			limit = {
-				can_build_building = aqueduct_building
+				can_build_building = housing_building
 			}
-			add_building_level = aqueduct_building
+			add_building_level = housing_building
 		}
 		else = {
 			create_2_nobles_effect = yes
