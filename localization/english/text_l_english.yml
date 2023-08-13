@@ -15,7 +15,7 @@
  CIVIL_WAR_NAME:0 "$NUM$$ORDER$ $FIRST$ Civil War"
  ######RELIGIONS######:0 ""
  roman_pantheon:0 "Dei Consentes"
- desc_roman_pantheon:0 "Having spread from the Greek heartland, the Olympian pantheon is venerated by many. The names, aspects and hierarchy of many of the gods can vary widely from region to region, however, Zeus, or Jupiter as he is known to the Romans, is regarded as the figurehead of the Olympian pantheon."
+ desc_roman_pantheon:0 "Dei Consentes, in English, the council of the divine, refers to the twelve principal deities of the Roman pantheon. In Rome, the veneration of these deities was an integral and daily part of life. The average believer regularly attributed success in life to collective piety and favor from the Gods."
  greek_pantheon:0 "Olympioi"
  desc_greek_pantheon:0 "Having spread from the Greek heartland, the Olympian pantheon is venerated by many. The names, aspects and hierarchy of many of the gods can vary widely from region to region, however, Zeus, or Jupiter as he is known to the Romans, is regarded as the figurehead of the Olympian pantheon."
  egyptian_pantheon:0 "Kemetic"

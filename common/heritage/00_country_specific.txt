@@ -420,11 +420,6 @@ kushite_heritage = {
 }
 
 nabatean_heritage = {
-
-	trigger = {
-		tag = NBT
-	}
-
 	modifier = {
 		#good
 		global_migration_speed_modifier = 0.05
@@ -433,15 +428,13 @@ nabatean_heritage = {
 		#bad
 		global_pop_conversion_speed_modifier = -0.05
 	}
-
+	
+	trigger = {
+		tag = NBT
+	}
 }
 
 helot_heritage = {
-
-	trigger = {
-		tag = MSE
-	}
-
 	modifier = {
 		#good
 		global_freemen_happyness = happiness_large_svalue
@@ -450,7 +443,10 @@ helot_heritage = {
 		#bad
 		global_commerce_modifier = -0.05
 	}
-
+	
+	trigger = {
+		tag = MSE
+	}
 }
 
 kalingan_heritage = {
@@ -679,6 +675,21 @@ eretrian_heritage = {
 	}
 	trigger = {
 		tag = EUB
+	}
+}
+
+chalkis_heritage = {
+	modifier = {
+		#good
+		global_ship_recruit_speed = 0.15
+		global_commerce_modifier = 0.1
+
+		#bad
+		global_citizen_happyness = -0.06
+
+	}
+	trigger = {
+		tag = CLK
 	}
 }
 
@@ -1774,11 +1785,11 @@ andros_heritage = {
 	}
 }
 
-nesiotic_heritage = {
+delos_heritage = {
 	modifier = {
 		#good
-		happiness_for_same_religion_modifier = 0.06
-		global_commerce_modifier = 0.15
+		omen_power = 0.1
+		global_commerce_modifier = 0.1
 		#bad
 		monthly_wage_on_character_modifier = 0.1
 	}
@@ -4868,21 +4879,6 @@ amphissa_heritage = {
 	}
 }
 
-elatea_heritage = {
-	modifier = {
-		#good
-		fort_maintenance_cost = -0.1
-		general_loyalty = 7
-	   
-		#bad
-		build_cost = 0.05
-	}
-   
-	trigger = {
-		tag = PHO
-	}
-}
-
 oreos_heritage = {
 	modifier = {
 		#good
@@ -5079,18 +5075,18 @@ lepreon_heritage = {
 	}
 }
 
-megalopolis_heritage = {
+corinthian_heritage = {
 	modifier = {
 		#good
-		global_population_capacity_modifier = 0.15
-		hostile_attrition = 0.5
-	   
+		fort_maintenance_cost = -0.33
+		manpower_recovery_speed = 0.05
+
 		#bad
-		build_time = 0.25
+		diplomatic_relations = -1
 	}
-   
+
 	trigger = {
-		tag = MGL
+		tag = COT
 	}
 }
 

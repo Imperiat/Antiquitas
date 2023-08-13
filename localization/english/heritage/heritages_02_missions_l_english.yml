@@ -4,8 +4,6 @@
  epikrateia_heritage:0 "Epikrateia Heritage"
  epikrateia_heritage_desc:0 "The people of Sicily has long been under the protection of Carthage, as they were faced by the danger of subjugation by the Greek overlords of Syracuse. Finally they have come together to form a proper state, instead of a flimsy defensive alliance protecting several city-states."
  #Vanilla
- corinthian_heritage:0 "Corinthian Heritage"
- corinthian_heritage_desc:0 "Corinth was one of the largest city-states of Greece until recent years, playing an important role as it was at a highly defensive position in-between the rich states of Attica and the Peleponnese. After the conquests of Macedon, it was left as nothing more than a fortified position for the Macedonian troops in the south, bereft of its own independence."
  decapolian_heritage:0 "Decapolian Heritage"
  decapolian_heritage_desc:0 "The ten great cities of the Decapolis have often been allied to one another to defend against the Judean aggressors to the south, and now they have finally been put together in a league."
  religious_enclave_heritage:0 "Religious State"
@@ -35,3 +33,6 @@
  #Judea Flavor Heritage
  hebrew_egypt_heritage:0 "Mitzri Heritage"
  hebrew_egypt_heritage_desc:0 "Mitzrayim is the Hebrew name for Egypt. Since the conquest of Egypt, a new class of Hebrews has emerged. The masters of Egypt, the Mitzrayim rule a fertile land of great wealth. However, it is a divided land. The Hebrews have not been kind to their former oppressors. With the expansion of slavery and the harsh exploitation of the population, the yearning for freedom grows - a yearning that could be dangerous if it is not kept in check."
+ ###Megalopolis
+ megalopolis_heritage:0 "Heritage of Size"
+ megalopolis_heritage_desc:0 "Built up on both banks of the river Elisson, the ‘mega’ in Megalopolis was quite justified. It was the largest urbanized area within the Arcadian region and boasted many great buildings including a theater which could hold 20,000 people. Likewise, the Thersileon with its 67 pillars and a temple stood out among the cityscape as a marvel to behold. The city was actually refounded in 317 BCE overtop a previous town also called Megalopolis, and so there is a deep-seated understanding of great events and people having changed the course of history around here. This is way many believed that Megalopolis and its surrounding lands were at least one major battlefield in the ancient Titanomachy, with the bones of titans littering the fields and the scorch-marks of the lightning bolts which Zeus tossed down dotting the landscape - fires even on occasion rebuilt themselves from the ground, emerging spontaneously from the rocky earth itself. Due to its size and the Arcadian support behind its stability, Megalopolis was set up as a counterbalance to the military might of hegemonic Sparta and became a valuable member of the Arcadian League."
