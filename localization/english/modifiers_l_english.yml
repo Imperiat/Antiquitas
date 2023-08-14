@@ -3579,7 +3579,7 @@
  library_building_cost:0 "Library Infrastructure Building Cost"
  education_building_cost:0 "Education Infrastructure Building Cost"
  commerce_building_cost:0 "Commerce Infrastructure Building Cost"
- military_harbor_building_cost:0 "Military Harbor Building Cost"
+ military_harbor_building_cost:0 "Military Harbor Cost"
  agriculture_building_cost:0 "Agriculture Infrastructure Building Cost"
  depot_building_cost:0 "Depot Infrastructure Building Cost"
  manufacturing_building_cost:0 "Manufacturing Infrastructure Building Cost"

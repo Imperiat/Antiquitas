@@ -494,7 +494,7 @@
  education_building_desc:1 ""
  commerce_building:0 "Commerce Infrastructure"
  commerce_building_desc:1 ""
- military_harbor_building:0 "Military Harbor Infrastructure"
+ military_harbor_building:0 "Military Harbor"
  military_harbor_building_desc:1 ""
  agriculture_building:0 "Agriculture Infrastructure"
  agriculture_building_desc:1 ""
