@@ -144,16 +144,16 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=4
+		amount=2
 	}
 	citizen={
-		amount=7
+		amount=3
 	}
 	freemen={
-		amount=11
+		amount=6
 	}
 	slaves={
-		amount=11
+		amount=6
 	}
 	tribesmen={
 		amount=3
@@ -184,7 +184,7 @@
 	terrain="plains"
 	culture="macedonian"
 	religion="greek_pantheon"
-	trade_goods="precious_metals"
+	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
@@ -192,10 +192,10 @@
 		amount=3
 	}
 	citizen={
-		amount=10
+		amount=5
 	}
 	freemen={
-		amount=10
+		amount=5
 	}
 	slaves={
 		amount=7
