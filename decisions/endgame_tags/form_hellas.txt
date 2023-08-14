@@ -67,7 +67,6 @@
 				change_country_tag = HEL
 				change_country_flag = HELLAS_FLAG
 			}
-			custom_tooltip = hellas_tooltip
 			hidden_effect = {
 				every_country = {
 					limit = {
@@ -92,6 +91,4 @@
 			base = 1
 		}
 	}
-
-} 
-
+}

@@ -127,9 +127,8 @@
  unite_the_dahae_desc:0 "For too long the Dahae tribes have been squabbling between themselves. We have been disunited and weak, open to the whims of the great empires that surround us.\nLet us unite the Dahae tribes into a powerful tribal federation, only then will we be masters of our own faith."
  unite_dahae_claims_tooltip:0 "Dahae will gain Claims on the Province of #Y Parthia#!."
  
- hellas_tooltip:1 "Hellas will be given claims to all city states in Greece and the Province of Thessaly."
- hellas:0 "Hellas"
- hellas_desc:0 "During the days of Argead domination the League of Corinth united all Greek cities in one league. The goal of this organization was always to control them, and to deny them the independence that they are due. But the idea of a Pan-Hellenic League has not died with the oppressive actions of the Argeads and Antipatrids, it could also be the ultimate guarantor of Greek Independence.\nLet us unite one and all and form a League to encompass all the free cities of Greece. Together we will become the dominant force of the Greek world, leaving the kingdoms of would be successors, or usurpers, behind us."
+ hellas:0 "Unite Hellas"
+ hellas_desc:0 "The many squabbling city-states of Hellas have been divided for too long! It is time for the Greeks to forge their own destiny as one unified state."
  formable_not_hellas_exists:0 "Hellas must not exist already."
  formable_not_has_greek_2_mission:0 "The mission '#Y Pan-Hellenic Government#!' is NOT active."
  formable_not_has_greek_2_mission_abort:0 "Has not aborted the mission '#Y Pan-Hellenic Government#!' in the last 20 years."

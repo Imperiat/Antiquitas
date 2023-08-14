@@ -3,7 +3,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="marble"
-	civilization_value=24
+	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -16,6 +16,9 @@
 		amount=4
 	}
 	port_building=1
+	government_building=1
+	transportation_building=1
+	shrine_building=1
 }
 
 277={ #Skyros
@@ -23,7 +26,7 @@
 	culture="attican"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -39,7 +42,7 @@
 	culture="eteocretan"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -58,7 +61,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="glass"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -69,14 +72,14 @@
 	}
 }
 
-355={ #Hierapytna
+355={ #Ierapytna
 	terrain="hills"
 	culture="eteocretan"
 	religion="greek_pantheon"
 	trade_goods="marble"
 	civilization_value=24
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -94,7 +97,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="wood"
-	civilization_value=24
+	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -108,6 +111,8 @@
 	}
 	holy_site=omen_ariadne
 	port_building=1
+	transportation_building=1
+	agriculture_building=1
 }
 
 359={ #Chersonesos Kriti
@@ -115,7 +120,7 @@
 	culture="eteocretan"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -134,9 +139,9 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="base_metals"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -154,7 +159,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=31
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -173,7 +178,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=29
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -192,7 +197,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -209,7 +214,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -228,7 +233,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="silk"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -244,7 +249,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="glass"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -257,7 +262,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=33
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -273,7 +278,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="grain"
-	civilization_value=22
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -289,7 +294,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -298,6 +303,7 @@
 	tribesmen={
 		amount=4
 	}
+	shrine_building=1
 }
 
 403={ #Histiaia
@@ -307,7 +313,7 @@
 	trade_goods="wine"
 	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	freemen={
 		amount=4
 	}
@@ -315,6 +321,8 @@
 		amount=4
 	}
 	port_building=1
+	government_building=1
+	shrine_building=1
 }
 
 406={ #Anthedon
@@ -322,7 +330,7 @@
 	culture="boeotian"
 	religion="greek_pantheon"
 	trade_goods="horses"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 
@@ -332,6 +340,7 @@
 	tribesmen={
 		amount=4
 	}
+	transportation_building=1
 }
 
 407={ #Chalkis
@@ -339,7 +348,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=33
+	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -355,6 +364,10 @@
 		amount=4
 	}
 	port_building=1
+	government_building=1
+	transportation_building=1
+	shrine_building=1
+	production_building=1
 }
 
 409={ #Karystos
@@ -362,7 +375,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="marble"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -382,7 +395,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -398,7 +411,7 @@
 	culture="attican"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=17
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -414,7 +427,7 @@
 	culture="attican"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=53
+	civilization_value=43
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -434,6 +447,13 @@
 	}
 	holy_site=omen_athena
 	port_building=1
+	government_building=1
+	commerce_building=1
+	transportation_building=1
+	shrine_building=1
+	recreation_building=1
+	production_building=1
+	military_harbor_building=1
 }
 
 417={ #Megara
@@ -441,7 +461,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=37
+	civilization_value=34
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -460,6 +480,9 @@
 		amount=3
 	}
 	port_building=1
+	transportation_building=1
+	shrine_building=1
+	production_building=1
 }
 
 418={ #Korinthos
@@ -467,7 +490,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=31
+	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -486,14 +509,20 @@
 		amount=6
 	}
 	port_building=1
+	government_building=1
+	transportation_building=1
+	shrine_building=1
+	recreation_building=1
+	production_building=1
+	military_harbor_building=1
 }
 
-419={ #Toryne
+419={ #Ephyra
 	terrain="hills"
 	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="horses"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -509,7 +538,7 @@
 	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -528,7 +557,7 @@
 	culture="boeotian"
 	religion="greek_pantheon"
 	trade_goods="base_metals"
-	civilization_value=24
+	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -543,6 +572,10 @@
 	tribesmen={
 		amount=4
 	}
+	government_building=1
+	transportation_building=1
+	shrine_building=1
+	agriculture_building=1
 }
 
 424={ #Delphoi
@@ -550,7 +583,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="wood"
-	civilization_value=37
+	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -567,14 +600,17 @@
 	}
 	holy_site=omen_apollo
 	port_building=1
+	commerce_building=1
+	shrine_building=1
+	agriculture_building=1
 }
 
 425={ #Dodona
 	terrain="mountain"
 	culture="epirote"
 	religion="greek_pantheon"
-	trade_goods="precious_metals"
-	civilization_value=22
+	trade_goods="honey"
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -586,6 +622,7 @@
 	tribesmen={
 		amount=6
 	}
+	shrine_building=1
 }
 
 426={ #Thebai
@@ -593,7 +630,7 @@
 	culture="boeotian"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=26
+	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -612,6 +649,12 @@
 		amount=4
 	}
 	holy_site=omen_dionysus
+	government_building=1
+	commerce_building=1
+	transportation_building=1
+	shrine_building=1
+	recreation_building=1
+	production_building=1
 }
 
 427={ #Sparta
@@ -619,7 +662,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=37
+	civilization_value=32
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -637,6 +680,8 @@
 	slaves={
 		amount=4
 	}
+	transportation_building=1
+	shrine_building=1
 }
 
 429={ #Epidauros Limira
@@ -644,7 +689,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -663,7 +708,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="grain"
-	civilization_value=28
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -682,9 +727,9 @@
 	culture="elean"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=35
+	civilization_value=27
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=2
 	}
@@ -702,7 +747,7 @@
 	culture="elean"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -722,7 +767,7 @@
 	culture="elean"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=29
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -741,7 +786,7 @@
 	culture="achaean"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -761,7 +806,7 @@
 	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods="wood"
-	civilization_value=28
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -777,7 +822,7 @@
 	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=28
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -796,7 +841,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -815,7 +860,7 @@
 	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=22
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -831,7 +876,7 @@
 	culture="elean"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -871,6 +916,10 @@
 	}
 	holy_site=omen_hera
 	port_building=1
+	government_building=1
+	transportation_building=1
+	shrine_building=1
+	production_building=1
 }
 
 441={ #Epidauros
@@ -892,6 +941,9 @@
 	}
 	holy_site=omen_asclepius
 	port_building=1
+	transportation_building=1
+	shrine_building=1
+	healthcare_building=2
 }
 
 442={ #Aigina
@@ -899,7 +951,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=26
+	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -922,6 +974,11 @@
 		amount=4
 	}
 	port_building=1
+	government_building=1
+	commerce_building=1
+	transportation_building=1
+	shrine_building=1
+	production_building=1
 }
 
 443={ #Kythnos
@@ -929,7 +986,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -945,7 +1002,7 @@
 	culture="achaean"
 	religion="greek_pantheon"
 	trade_goods="cloth"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -965,7 +1022,7 @@
 	culture="elean"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=33
+	civilization_value=32
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -988,7 +1045,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1004,7 +1061,7 @@
 	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=22
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1020,7 +1077,7 @@
 	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods="cattle"
-	civilization_value=22
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1036,7 +1093,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1056,7 +1113,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1075,7 +1132,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1091,7 +1148,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="silk"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1110,7 +1167,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="marble"
-	civilization_value=27
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1129,9 +1186,9 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=24
+	civilization_value=15
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=2
 	}
@@ -1142,6 +1199,8 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
+	shrine_building=1
 }
 
 458={ #Amphissa
@@ -1149,7 +1208,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="stone"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1161,6 +1220,7 @@
 	tribesmen={
 		amount=4
 	}
+	shrine_building=1
 }
 
 459={ #Leukas
@@ -1168,7 +1228,7 @@
 	culture="kerkyran"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1184,7 +1244,7 @@
 	culture="achaean"
 	religion="greek_pantheon"
 	trade_goods="stone"
-	civilization_value=28
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1200,7 +1260,7 @@
 	culture="achaean"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1219,7 +1279,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="marble"
-	civilization_value=31
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1235,9 +1295,9 @@
 	culture="kerkyran"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=28
+	civilization_value=19
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	freemen={
 		culture="doric"
 		amount=1
@@ -1252,6 +1312,10 @@
 	tribesmen={
 		amount=3
 	}
+	fortress_building=1
+	port_building=1
+	transportation_building=1
+	shrine_building=1
 }
 
 464={ #Aktion
@@ -1259,7 +1323,7 @@
 	culture="kerkyran"
 	religion="greek_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1276,6 +1340,7 @@
 	tribesmen={
 		amount=3
 	}
+	shrine_building=1
 }
 
 465={ #Ambrakia
@@ -1283,7 +1348,7 @@
 	culture="kerkyran"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=35
+	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1299,6 +1364,8 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
+	production_building=1
 }
 
 466={ #Oichalia Aitolia
@@ -1306,7 +1373,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
-	civilization_value=22
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1325,7 +1392,7 @@
 	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1341,7 +1408,7 @@
 	culture="boeotian"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=29
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1361,7 +1428,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=26
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1377,7 +1444,7 @@
 	culture="kerkyran"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=26
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1397,7 +1464,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1413,7 +1480,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1433,7 +1500,7 @@
 	culture="elean"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=22
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1453,7 +1520,7 @@
 	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="wood"
-	civilization_value=22
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1469,7 +1536,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="earthware"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1488,7 +1555,7 @@
 	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="honey"
-	civilization_value=31
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1504,7 +1571,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="base_metals"
-	civilization_value=24
+	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
@@ -1518,6 +1585,10 @@
 	}
 	holy_site=omen_poseidon
 	port_building=1
+	government_building=1
+	transportation_building=1
+	shrine_building=1
+	production_building=1
 }
 
 1903={ #Andros
@@ -1525,7 +1596,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1545,7 +1616,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="base_metals"
-	civilization_value=19
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1564,8 +1635,8 @@
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
-	trade_goods="precious_metals"
-	civilization_value=19
+	trade_goods="gems"
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1585,7 +1656,7 @@
 	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=18
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1601,7 +1672,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1613,6 +1684,7 @@
 	slaves={
 		amount=2
 	}
+	shrine_building=1
 }
 
 7799={ #Thorikos
@@ -1620,7 +1692,7 @@
 	culture="attican"
 	religion="greek_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=21
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1629,6 +1701,7 @@
 	tribesmen={
 		amount=6
 	}
+	transportation_building=1
 }
 
 7802={ #Tanagra
@@ -1636,7 +1709,7 @@
 	culture="boeotian"
 	religion="greek_pantheon"
 	trade_goods="wine"
-	civilization_value=31
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1655,7 +1728,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=28
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1671,7 +1744,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1687,7 +1760,7 @@
 	culture="achaean"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1707,7 +1780,7 @@
 	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1723,7 +1796,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1742,7 +1815,7 @@
 	culture="achaean"
 	religion="greek_pantheon"
 	trade_goods="cloth"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1761,7 +1834,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1780,7 +1853,7 @@
 	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods="stone"
-	civilization_value=22
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1789,6 +1862,7 @@
 	tribesmen={
 		amount=4
 	}
+	shrine_building=1
 }
 
 7897={ #Eleusis
@@ -1796,7 +1870,7 @@
 	culture="attican"
 	religion="greek_pantheon"
 	trade_goods="grain"
-	civilization_value=21
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1809,6 +1883,7 @@
 		amount=5
 	}
 	holy_site=omen_demeter
+	shrine_building=1
 }
 
 7898={ #Rhamnous
@@ -1816,7 +1891,7 @@
 	culture="attican"
 	religion="greek_pantheon"
 	trade_goods="iron"
-	civilization_value=19
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1825,6 +1900,7 @@
 	tribesmen={
 		amount=6
 	}
+	transportation_building=1
 }
 
 7899={ #Kerinthos
@@ -1841,6 +1917,7 @@
 	tribesmen={
 		amount=4
 	}
+	transportation_building=1
 }
 
 7901={ #Eretria
@@ -1848,7 +1925,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="wood"
-	civilization_value=31
+	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1864,6 +1941,7 @@
 		amount=4
 	}
 	port_building=1
+	
 }
 
 7902={ #Salamis
@@ -1871,7 +1949,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1887,7 +1965,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="wood"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1905,7 +1983,7 @@
 	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1920,8 +1998,8 @@
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
-	trade_goods="fish"
-	civilization_value=19
+	trade_goods="precious_metals"
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1939,7 +2017,7 @@
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=2
 	}
@@ -1950,6 +2028,9 @@
 		amount=4
 	}
 	port_building=1
+	government_building=1
+	transportation_building=1
+	shrine_building=1
 }
 
 8016={ #Lappa
@@ -1957,7 +2038,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
-	civilization_value=24
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1973,7 +2054,7 @@
 	culture="doric"
 	religion="greek_pantheon"
 	trade_goods="olive"
-	civilization_value=26
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
