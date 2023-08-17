@@ -445,7 +445,7 @@ NDiplomacy = {
 	INTERVENE_OPINION_THRESHOLD = 100
 
 	
-	DIPLOMATIC_RANGE = 413 #因地图比例而修改
+	DIPLOMATIC_RANGE = 150 #因地图比例而修改 (reminder to keep tweaking this)
 
 	OPINION_MIN = -200
 	OPINION_MAX = 200

@@ -22,12 +22,6 @@
 				add = 150
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -78,12 +72,6 @@
 				add = 150
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -100,12 +88,6 @@
 				add = 150
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -551,12 +533,6 @@
 				add = 150
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 				}
 			}
 		}
@@ -741,12 +717,6 @@ military_inventions = {
 				add = 150
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank >= regional_power
 				}
 			}
@@ -762,12 +732,6 @@ military_inventions = {
 				add = 150
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank >= regional_power
 				}
 			}

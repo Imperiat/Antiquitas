@@ -41,7 +41,7 @@ conquer_wargoal = {
 	}
 	
 	attacker = {
-		conquer_cost = -0.25
+		conquer_cost = 1
 	}
 	defender = {
 	}
