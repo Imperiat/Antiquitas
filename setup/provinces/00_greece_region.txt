@@ -152,6 +152,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 367={ #Kydonia
@@ -388,6 +389,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 410={ #Oichalia Euboike
@@ -560,11 +562,8 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		amount=1
-	}
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
 		amount=6
@@ -622,7 +621,8 @@
 	tribesmen={
 		amount=6
 	}
-	shrine_building=1
+	shrine_building=2
+	commerce_building=1
 }
 
 426={ #Thebai
@@ -740,6 +740,7 @@
 		amount=6
 	}
 	port_building=1
+	transportation_building=1
 }
 
 432={ #Mothone
@@ -799,6 +800,7 @@
 		amount=4
 	}
 	port_building=1
+	shrine_building=1
 }
 
 435={ #Heraia
@@ -844,14 +846,11 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	slaves={
 		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -1015,6 +1014,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 446={ #Elis
@@ -1064,6 +1064,9 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	freemen={
 		amount=2
 	}
@@ -1106,6 +1109,7 @@
 		amount=4
 	}
 	port_building=1
+	shrine_building=1
 }
 
 451={ #Troizen
@@ -1421,6 +1425,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 469={ #Thaumakoi
@@ -1457,6 +1462,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 471={ #Kythera
@@ -1493,6 +1499,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1f
 }
 
 473={ #Leuktra
@@ -1609,6 +1616,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 1915={ #Paros
@@ -1649,6 +1657,7 @@
 		amount=2
 	}
 	port_building=1
+	transportation_building=1
 }
 
 3192={ #Byllis
@@ -1681,8 +1690,8 @@
 	freemen={
 		amount=4
 	}
-	slaves={
-		amount=2
+	tribesmen={
+		amount=4
 	}
 	shrine_building=1
 }
@@ -1773,6 +1782,7 @@
 		amount=4
 	}
 	port_building=1
+	transportation_building=1
 }
 
 7891={ #Thyreai
@@ -1941,7 +1951,7 @@
 		amount=4
 	}
 	port_building=1
-	
+	transportation_building=1
 }
 
 7902={ #Salamis
@@ -1976,6 +1986,7 @@
 	}
 	holy_site=omen_hestia
 	port_building=1
+	transportation_building=1
 }
 
 7904={ #Styra

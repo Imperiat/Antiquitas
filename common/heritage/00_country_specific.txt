@@ -392,7 +392,7 @@ massalian_heritage = {
 #minoan_heritage = {
 #	modifier = {
 #		#good
-#		global_capital_trade_routes = 1
+#		global_state_trade_routes = 1
 #		happiness_for_same_culture_modifier = 0.05
 #
 #		#bad

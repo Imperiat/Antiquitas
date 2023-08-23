@@ -408,6 +408,11 @@ formable_crete_capital_mod = {
 	local_population_growth = 0.15
 }
 
+formable_minos_capital_mod = {
+	local_citizen_output = output_huge_svalue
+	local_population_growth = 0.15
+}
+
 province_diminishment_questionable_maat = {
 	local_population_happiness = -0.1
 }

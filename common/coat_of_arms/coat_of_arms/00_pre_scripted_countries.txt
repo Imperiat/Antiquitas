@@ -1057,6 +1057,17 @@ CRETE_FLAG = {
 	}
 }
 
+MINOS_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "spartan_ocra"
+
+	colored_emblem = {
+		texture = "ce_bull_02.dds"
+		color1 = "ck2_black"
+		instance = { scale = { 0.75 0.75 }  }
+	}
+}
+
 NUMIDIA_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "rust_brown"

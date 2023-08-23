@@ -1268,6 +1268,8 @@
  desc_country_improvement_taxed_druids:0 "Our nation has made sure the druids pay their part in the society."
  formable_crete_capital_mod:0 "Cretan Administration"
  desc_formable_crete_capital_mod:0 "The proud people of Crete have long been admired for their cultural, artistic, and administrative talent. This is the site of a unified Cretan administration, ushering in a new era for this island of prosperity."
+ formable_minos_capital_mod:0 "Eteocretan Administration"
+ desc_formable_minos_capital_mod:0 "The Eteocretans have long been admired for their cultural, artistic, and administrative talent. This is the site of a unified Eteocretan administration, ushering in a new era for this island of prosperity."
  formable_crete_refuse_annexation:0 "Refused Integration"
  province_diminishment_questionable_maat:0 "Questionable Maat"
  desc_province_diminishment_questionable_maat:0 "Our ruler has proven to have questionable morales, and become unpopular among the populace of the city."

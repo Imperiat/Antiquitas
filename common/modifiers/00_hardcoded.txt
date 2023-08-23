@@ -744,6 +744,7 @@ base_values = {
 	
     global_settlement_building_slot = 2
 	agressive_expansion_impact = 0.5
+	war_score_cost = 0.5
 }
 
 

@@ -47,44 +47,11 @@ special_spartan_event.1 = {
 
 		new_family_generation_effect = { FAMILY_CANDIDATE = spartan_co_ruler }
 		
-		trigger_event = {
-			id = special_spartan_event.2
-		}
-	}
-}
-
-###EVENT 2: Spartan Flavour Event to start the game off - triggered after 7 days for sparta player
-
-special_spartan_event.2 = {
-	type = country_event
-	title = "spartan_event.2.t"
-	desc = "spartan_event.2.desc"
-	picture = successors
-	
-	trigger = {
-		this = c:SPA
-	}
-	
-	
-	left_portrait = current_ruler
-	right_portrait = current_co_ruler
-	#right_portrait = scope:goodbye_generated_family
-	
-	immediate = {
-		hidden_effect = {
-			scope:game_is_annoying = {
-				move_country = c:SPA
+		scope:game_is_annoying = {
+			move_country = c:SPA
 				remove_character_modifier = foreign_citizen
-			}
-		}
-		trigger_event = {
-			id = firstborn_traits.1
 		}
 	}
-	option = {
-		name = "spartan_event.2.a"
-	}
-
 }
 
 ### New Rulers Flavour Events
