@@ -9,14 +9,11 @@
 
 country = {
 	countries = {
-		1000={
-			first_name="Dido"
-			family = c:CAR.fam:Barcid
-			birth_date=50.4.7
-			death_date=72.1.2
-			culture="carthaginian"
-			religion="carthaginian_pantheon"
-			female=yes
-		}
+		COT = {
+			ruler_term={ #Kypselos Kypselid
+				character=15
+				start_date=97.1.1
+				government=aristocratic_monarchy
+			}
 	}
 }

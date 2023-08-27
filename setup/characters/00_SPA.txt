@@ -1,3 +1,14 @@
 ﻿"SPA"={
-	
+	country="SPA"
+	14={
+		first_name="Eurykrates"
+		family = c:SPA.fam:Agiad
+		culture="doric"
+		religion="greek_pantheon"
+		add_gold=100
+		add_popularity=50
+		c:SPA={
+			set_as_ruler=char:14
+		}
+	}
 }

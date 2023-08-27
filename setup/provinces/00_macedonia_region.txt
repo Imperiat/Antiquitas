@@ -6,15 +6,20 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	nobles={
+		amount=1
+	}
 	citizen={
 		amount=1
 	}
 	freemen={
-		amount=3
+		amount=6
 	}
-	slaves={
-		amount=2
+	tribesmen={
+		amount=4
 	}
+	transportation_building=1
+	shrine_building=1
 }
 
 363={ #Neapolis Thrake
@@ -25,14 +30,11 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=2
-	}
 	freemen={
 		amount=4
 	}
-	slaves={
-		amount=2
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -137,7 +139,7 @@
 
 373={ #Thessalonike
 	terrain="hills"
-	culture="macedonian"
+	culture="western_ionic"
 	religion="greek_pantheon"
 	trade_goods="glass"
 	civilization_value=36
@@ -503,7 +505,7 @@
 
 393={ #Pelagonia
 	terrain="forest"
-	culture="macedonian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
@@ -661,7 +663,7 @@
 
 405={ #Stymbara
 	terrain="forest"
-	culture="macedonian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
@@ -699,7 +701,7 @@
 
 411={ #Herakleia Lynkestis
 	terrain="forest"
-	culture="macedonian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="grain"
 	civilization_value=24
@@ -721,7 +723,7 @@
 
 412={ #Lychnidos
 	terrain="mountain"
-	culture="taulantian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -839,7 +841,7 @@
 
 455={ #Dimallon
 	terrain="farmland"
-	culture="epirote"
+	culture="taulantian"
 	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=22
@@ -858,7 +860,7 @@
 
 497={ #Herakleia Sintike
 	terrain="hills"
-	culture="paeonian"
+	culture="macedonian"
 	religion="greek_pantheon"
 	trade_goods="iron"
 	civilization_value=24
@@ -913,7 +915,7 @@
 
 1445={ #Chrysondyon
 	terrain="mountain"
-	culture="taulantian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="leather"
 	civilization_value=16
@@ -990,7 +992,7 @@
 
 3125={ #Keletron
 	terrain="mountain"
-	culture="macedonian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -1012,7 +1014,7 @@
 
 3175={ #Eratyra
 	terrain="hills"
-	culture="macedonian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
@@ -1034,7 +1036,7 @@
 
 3356={ #Beue
 	terrain="mountain"
-	culture="taulantian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods="fur"
 	civilization_value=22

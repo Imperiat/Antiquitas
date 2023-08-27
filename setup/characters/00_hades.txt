@@ -95,3 +95,23 @@
 		no_traits=yes
 	}
 }
+
+"Elysium_COT"={
+	country="COT"
+	15={
+		first_name="Kypselos"
+		family = c:COT.fam:Kypselid
+		birth_date=83.1.1
+		death_date=127.1.1
+		culture="doric"
+		religion="greek_pantheon"
+		no_stats=yes
+		add_martial=11
+		add_charisma=8
+		add_finesse=8
+		add_zeal=5
+		no_traits=yes
+		add_trait="founder"
+		add_trait="ambitious"
+	}
+}

@@ -14,7 +14,7 @@ special_spartan_event.1 = {
 	
 	immediate = {
 		create_character = {
-			first_name="Hippocratidas"
+			first_name="Hippokratidas"
 			family_name="Eurypontid"
 			culture="doric"
 			religion="greek_pantheon"

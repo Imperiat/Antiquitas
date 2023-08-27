@@ -2071,17 +2071,24 @@ family={
 		#Sparta
 		5={
 			key = "Agiad"
-			prestige=350
+			prestige=50
 			culture=doric
 			owner=SPA
 			color = 0
 		}
 		6={
 			key = "Euryclid"
-			prestige=300
+			prestige=50
 			culture=doric
 			owner=SPA
 			color = 1
+		}
+		#Corinth
+		7={
+			key = "Kypselid"
+			prestige=100
+			culture=doric
+			owner=COT
 		}
 	}
 }
@@ -9957,7 +9964,8 @@ country = {
 			}
 		}
 		
-		COT = {
+		COT = { #Corinth
+			family = 7
 			government = aristocratic_monarchy
 			primary_culture = doric
 			religion = greek_pantheon
@@ -9971,6 +9979,10 @@ country = {
 		
 			capital = 418
 		
+			historical_regnal_numbers = {
+				Kypselos = 1
+			}
+			
 			own_control_core = 	{
 				418 464
 			}
@@ -10535,20 +10547,24 @@ country = {
 			}
 		
 			historical_regnal_numbers = {
-				Agis = 3
-				Archidamos = 3
-				Kleomenes = 2
-				Kleombrotos = 1
-				Agesipolis = 2
-				Pausanias = 1
-				Pleistarchos = 1
-				Leonidas = 1
+				Herakles = 1
+				Hyllos = 1
+				Kleodaios = 1
+				Aristomachos = 1
+				Aristodemos = 1
+				Eurysthenes = 1
+				Agis = 1
+				Echestratos = 1
+				Labotas = 1
+				Doryssos = 1
+				Agesilaos = 1
+				Archelaos = 1
+				Teleklos = 1
+				Alkamenes = 1
 				Polydoros = 1
 				Menelaos = 1
 				Orestes = 1
 				Dion = 1
-				Aristodemos = 1
-				Demaratos = 1
 			}
 		
 			capital = 427

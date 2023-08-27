@@ -1662,7 +1662,7 @@
 
 3192={ #Byllis
 	terrain="forest"
-	culture="epirote"
+	culture="taulantian"
 	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=8
