@@ -226,29 +226,27 @@ interesting_histories_country_events.8 = {
 
 interesting_histories_country_events.9 = {
 	
-	#Maurya
+	#Corinth
 	type = country_event
-	title = "interesting_histories_country_events.mry.t"
-	desc = "interesting_histories_country_events.mry.desc"
-	picture = interesting_histories_india_city
+	title = "interesting_histories_country_events.cot.t"
+	desc = "interesting_histories_country_events.cot.desc"
+	picture = interesting_histories_greek_debate
 
 	trigger = {
-		is_ai = no
-		tag = MRY
+		tag = COT
 		NOT = {
-			has_variable = interesting_histories_country_events_mry
+			has_variable = interesting_histories_country_events_cot
 		}
 	}
 	
 	immediate = {
 		set_variable = {
-			name = interesting_histories_country_events_mry
+			name = interesting_histories_country_events_cot
 		}
 	}
 	
 	option = {
-		name = interesting_histories_country_events.mry.a
-		custom_tooltip = stupid_ass_tooltip
+		name = interesting_histories_country_events.cot.a
 	}
 
 }

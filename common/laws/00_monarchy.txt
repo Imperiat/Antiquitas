@@ -102,7 +102,8 @@ monarchy_military_reforms = {
 		}
 		modifier = {
 			discipline = 0.05
-			levy_size_multiplier = 0.025
+			levy_size_multiplier = -0.025
+			global_manpower_modifier = -0.05
 		}
 		on_enact = {
 			custom_tooltip = legions_in_capital_region
@@ -116,7 +117,9 @@ monarchy_military_reforms = {
 			rank >= major_power
 		}
 		modifier = {
-			army_maintenance_cost = -0.15
+			army_maintenance_cost = -0.1
+			levy_size_multiplier = -0.05
+			global_manpower_modifier = -0.15
 		}
 		on_enact = {
 			custom_tooltip = legions_in_any_region

@@ -26,7 +26,7 @@
 		first_name="Lyside"
 		female=yes
 		family = c:COT.fam:Kypselid
-		nickname = "Melissa"
+		nickname="Melissa"
 		culture="doric"
 		religion="greek_pantheon"
 		marry_character=char:16
