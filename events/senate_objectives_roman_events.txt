@@ -80,7 +80,7 @@ senate_objective_roman.1 = { # Declare War - Optimates
             limit = {
                 any_subject = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }
@@ -90,7 +90,7 @@ senate_objective_roman.1 = { # Declare War - Optimates
             every_subject = {
                 limit = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }
@@ -967,7 +967,7 @@ senate_objective_roman.8 = { # Declare War - Populares
             limit = {
                 any_subject = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }
@@ -976,7 +976,7 @@ senate_objective_roman.8 = { # Declare War - Populares
             every_subject = {
                 limit = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }

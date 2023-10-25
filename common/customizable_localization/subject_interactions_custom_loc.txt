@@ -68,7 +68,7 @@ show_subject_type_loc = {
 		localization_key = show_subject_type_loc_3
 		trigger = {
 			is_subject = yes
-			is_subject_type = feudatory
+			is_subject_type = vassal_state
 		}
 	}
 	text = {
@@ -108,6 +108,13 @@ show_subject_type_loc = {
 	}
 	text = {
 		localization_key = show_subject_type_loc_9
+		trigger = {
+			is_subject = yes
+			is_subject_type = league_member
+		}		
+	}
+	text = {
+		localization_key = show_subject_type_loc_10
 		trigger = {
 			is_subject = no
 		}

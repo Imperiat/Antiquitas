@@ -1057,11 +1057,6 @@ mameryes_opmod = {
 	yearly_decay = 3
 }
 
-me_syr_2_5_refused_feudatory = {
-	value = -50
-	yearly_decay = 1
-}
-
 me_syr_3_3_refused_rally = {
 	value = -25
 	yearly_decay = 3

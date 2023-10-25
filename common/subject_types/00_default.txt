@@ -159,76 +159,137 @@ tributary = {
 	}
 }
 
-feudatory = { #Latin Allies
-    subject_pays = subject_pays_feudatory
+vassal_state = { #Vassal State
+	subject_pays = subject_pays_vassal_state
 
-    joins_overlord_in_war = yes
-    
-    protected_when_attacked = yes
-    has_overlords_ruler = no
-    can_be_integrated = yes
-    costs_diplomatic_slot = no
-    subject_can_cancel = no
-    
-    has_limited_diplomacy = yes
-    
-    
-    overlord_modifier = {
-        
-    }
-    subject_modifier = {
-        global_citizen_happyness = negative_happiness_small_svalue
-        army_maintenance_cost = -0.1
-    }
-    
-    allow = {
-        num_of_cities <= 10
-        scope:future_overlord = {
-            is_subject = no
-            num_of_cities >= 20
-            is_tribal = no
-            this.culture_group = root.culture_group
-        }
-    }
-    
-     on_enable = { remove_subject_focus_effect = yes }
-     on_disable = {
-     	remove_subject_focus_effect = yes
-         root = {
-             trigger_event = {
-                 id = country_diplomacy.8
-                 days = { 1 2 }
-             }
-         }
-     }
-    # on_monthly = {}
-    
-    diplo_chance = {
-        base = {
-            offset = -100
-        }
-        in_debt = {
-            scale = -1
-        }
-        negative_stability = {
-            scale = 20
-        }
-        current_strength = {
-            scale = 0.5
-        }
-        potential_strength = {
-            scale = 0.5
-        }
-        border_distance = {
-            scale = 3
-        }
-        rank = {
-            scale = -10
-        }
-        junior_to = {
-            scale = -40
-        }
-    }
+	joins_overlord_in_war = yes
+	
+	protected_when_attacked = yes
+	has_overlords_ruler = no
+	can_be_integrated = yes
+	costs_diplomatic_slot = yes
+	subject_can_cancel = no
+	
+	has_limited_diplomacy = yes
+	
+	overlord_modifier = {
+	}
+	subject_modifier = {
+		ruler_popularity_gain = -0.03
+	}
+	
+	allow = {
+		num_of_cities <= 150
+		is_tribal = no
+		scope:future_overlord = {
+			is_subject = no
+			is_tribal = no
+		}
+	}
+	
+	on_enable = { remove_subject_focus_effect = yes }
+	on_disable = {
+		remove_subject_focus_effect = yes
+	 	root = {
+	 		trigger_event = {
+	 			id = country_diplomacy.8
+	 			days = { 1 2 }
+	 		}
+	 	}
+	}
+	# on_monthly = {}
+	
+	diplo_chance = {
+		base = {
+			offset = -120
+		}
+		in_debt = {
+			scale = -1
+		}
+		negative_stability = {
+			scale = -0.05
+		}
+		current_strength = {
+			scale = 0.25
+		}
+		potential_strength = {
+			scale = 0.25
+		}
+		border_distance = {
+			scale = 3
+		}
+		rank = {
+			scale = -10
+		}
+		junior_to = {
+			scale = -40
+		}
+	}
+}
+
+league_member = { #League Member
+	subject_pays = subject_colony_pays
+
+	joins_overlord_in_war = no
+	
+	protected_when_attacked = yes
+	has_overlords_ruler = no
+	can_be_integrated = no
+	costs_diplomatic_slot = no
+	subject_can_cancel = yes
+	
+	has_limited_diplomacy = yes
+	
+	overlord_modifier = {
+	}
+	subject_modifier = {
+	}
+	
+	allow = {
+		is_tribal = no
+		country_culture_group = hellenic
+		scope:future_overlord = {
+			is_subject = no
+			is_tribal = no
+			country_culture_group = hellenic
+		}
+	}
+	
+	on_enable = { 
+		remove_subject_focus_effect = yes 
+	}
+	on_disable = {
+		remove_subject_focus_effect = yes
+	}
+	
+	# on_monthly = {}
+	
+	diplo_chance = {
+		base = {
+			offset = -80
+		}
+		in_debt = {
+			scale = -1
+		}
+		negative_stability = {
+			scale = -0.05
+		}
+		current_strength = {
+			scale = 0.25
+		}
+		potential_strength = {
+			scale = 0.25
+		}
+		border_distance = {
+			scale = 2
+		}
+		rank = {
+			scale = -10
+		}
+		junior_to = {
+			scale = -40
+		}
+	}
 }
 
 satrapy = {
@@ -298,16 +359,16 @@ satrapy = {
 client_state = {
 	subject_pays = subject_client_state_pays
 	
-	joins_overlord_in_war = yes
+	joins_overlord_in_war = no
 	
 	protected_when_attacked = yes
 	has_overlords_ruler = no
 	can_be_integrated = yes
-	costs_diplomatic_slot = yes
+	costs_diplomatic_slot = no
 	subject_can_cancel = no
 	
 	has_limited_diplomacy = yes
-	only_trade_with_overlord=  yes
+	only_trade_with_overlord = yes
 	
 	overlord_modifier = {
 
@@ -318,18 +379,11 @@ client_state = {
 	}
 	
 	allow = {
-		num_of_cities < 150
-		is_tribal = no
-		scope:future_overlord = {
-			is_subject = no
-			is_tribal = no
-		}
+		always = no
 	}
 	
 	on_enable = { remove_subject_focus_effect = yes }
-	on_disable = {
-		remove_subject_focus_effect = yes
-	}
+	on_disable = { remove_subject_focus_effect = yes }
 	#on_monthly = {}
 	
 	diplo_chance = {
@@ -387,9 +441,7 @@ subject_colony = {
 	}
 	
 	on_enable = { remove_subject_focus_effect = yes }
-	on_disable = {
-		remove_subject_focus_effect = yes
-	}
+	on_disable = { remove_subject_focus_effect = yes }
 	# on_monthly = {}
 	
 	diplo_chance = {
@@ -447,9 +499,7 @@ subject_mercenary_city_state = {
 	}
 	
 	on_enable = { remove_subject_focus_effect = yes }
-	on_disable = {
-		remove_subject_focus_effect = yes
-	}
+	on_disable = { remove_subject_focus_effect = yes }
 	# on_monthly = {}
 	
 	diplo_chance = {
@@ -508,12 +558,8 @@ subject_league_city_state = {
 		always = no
 	}
 	
-	on_enable = {
-		remove_subject_focus_effect = yes
-	}
-	on_disable = {
-		remove_subject_focus_effect = yes
-	}
+	on_enable = { remove_subject_focus_effect = yes }
+	on_disable = { remove_subject_focus_effect = yes }
 	# on_monthly = {}
 	
 	diplo_chance = {
@@ -543,6 +589,7 @@ subject_league_city_state = {
 		}
 	}
 }
+
 kushite_client = {
 	subject_pays = subject_pays_satrapy
 	
@@ -555,7 +602,7 @@ kushite_client = {
 	subject_can_cancel = no
 	
 	has_limited_diplomacy = yes
-	only_trade_with_overlord =  yes
+	only_trade_with_overlord = yes
 	
 	overlord_modifier = {
 		subject_loyalty = -10.0
@@ -571,12 +618,8 @@ kushite_client = {
 		always = no
 	}
 	
-	on_enable = {
-		remove_subject_focus_effect = yes
-	}
-	on_disable = {
-		remove_subject_focus_effect = yes
-	}
+	on_enable = { remove_subject_focus_effect = yes }
+	on_disable = { remove_subject_focus_effect = yes }
 	# on_monthly = {}
 	
 	diplo_chance = {
@@ -606,6 +649,7 @@ kushite_client = {
 		}
 	}
 }
+
 indian_client = {
 	subject_pays = subject_pays_satrapy
 	
@@ -618,7 +662,7 @@ indian_client = {
 	subject_can_cancel = no
 	
 	has_limited_diplomacy = yes
-	only_trade_with_overlord =  yes
+	only_trade_with_overlord = yes
 	
 	overlord_modifier = {
 		subject_loyalty = -5.0
@@ -634,12 +678,8 @@ indian_client = {
 		always = no
 	}
 	
-	on_enable = {
-		remove_subject_focus_effect = yes
-	}
-	on_disable = {
-		remove_subject_focus_effect = yes
-	}
+	on_enable = { remove_subject_focus_effect = yes }
+	on_disable = { remove_subject_focus_effect = yes }
 	# on_monthly = {}
 	
 	diplo_chance = {

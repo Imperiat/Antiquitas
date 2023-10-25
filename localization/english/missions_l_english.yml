@@ -104,7 +104,7 @@
  shrine_branch_4_DESC:0 "It is not right that the men who worship god in our name shall also serve temporal masters. We should grant autonomy to the priests of [SCOPE.sP('shrine_territory').GetName] so that they can devote themselves completely to holy matters."
  shrine_branch_5:0 "Great Donation"
  shrine_branch_5_DESC:0 "With the expansion of the [SCOPE.sP('shrine_territory').GetName] temple complex we need to ensure the priestly community has the means for continued support of the services there. A great donation from the state treasury should be enough to keep them afloat over the centuries to come."
- autonomous_shrine_tooltip:0 "The New Country will be a #G Feudatory#! of [THIS.GetCountry.GetName] (@[THIS.GetCountry.GetFlag]!) with a unique heritage."
+ autonomous_shrine_tooltip:0 "The New Country will be a #G Vassal State#! of [THIS.GetCountry.GetName] (@[THIS.GetCountry.GetFlag]!) with a unique heritage."
  ceremony_event.tooltip:0 "The religious establishment will further #G Reward#! [THIS.GetCountry.GetName] (@[THIS.GetCountry.GetFlag]!)."
  temple_subject:0 ""
  generic_infra_mission.1.t:0 "Shrines of [SCOPE.sP('shrine_territory').GetName]"

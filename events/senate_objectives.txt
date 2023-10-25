@@ -477,7 +477,7 @@ senate_objectives.4 = { # Declare War Generic - Oligarchic
             limit = {
                 any_subject = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }
@@ -487,7 +487,7 @@ senate_objectives.4 = { # Declare War Generic - Oligarchic
             every_subject = {
                 limit = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }
@@ -1749,7 +1749,7 @@ senate_objectives.17 = { # Acquire Subject Demand - Oligarchic
 	            limit = {
 	                any_subject = {
 	                    OR = {
-	                        is_subject_type = feudatory
+	                        is_subject_type = vassal_state
 	                        is_subject_type = satrapy
 	                        is_subject_type = client_state
 	                    }
@@ -1759,7 +1759,7 @@ senate_objectives.17 = { # Acquire Subject Demand - Oligarchic
 	            every_subject = {
 	                limit = {
 	                    OR = {
-	                        is_subject_type = feudatory
+	                        is_subject_type = vassal_state
 	                        is_subject_type = satrapy
 	                        is_subject_type = client_state
 	                    }
@@ -1989,7 +1989,7 @@ senate_objectives.20 = { # Enemy Shrine - Traditionalist
             limit = {
                 any_subject = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }
@@ -1999,7 +1999,7 @@ senate_objectives.20 = { # Enemy Shrine - Traditionalist
             every_subject = {
                 limit = {
                     OR = {
-                        is_subject_type = feudatory
+                        is_subject_type = vassal_state
                         is_subject_type = satrapy
                         is_subject_type = client_state
                     }

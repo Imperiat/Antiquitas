@@ -656,22 +656,27 @@ taxation_building = { #Tax Office
 			}
 		}
 		modifier = {
+			num_of_nobles > 0
 			nobles_happiness < 50
 			add = -50
 		}
 		modifier = {
+			num_of_citizen > 0
 			citizen_happiness < 50
 			add = -50
 		}
 		modifier = {
+			num_of_freemen > 0
 			freemen_happiness < 50
 			add = -50
 		}
 		modifier = {
+			num_of_tribesmen > 0
 			tribesmen_happiness < 50
 			add = -50
 		}
 		modifier = {
+			num_of_slaves > 0
 			slaves_happiness < 50
 			add = -50
 		}

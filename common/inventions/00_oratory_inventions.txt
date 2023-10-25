@@ -254,7 +254,6 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
-					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -460,7 +459,6 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
-					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -489,7 +487,6 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
-					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -635,7 +632,6 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
-					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes

@@ -158,7 +158,7 @@
  character_interactions_inv_5.b:0 "That is not necessary"
 
  character_interactions_inv_6_title:0 "Offering Support"
- character_interactions_inv_6_desc_1:0 "[target.GetName] has accepted our proposal to make [target_employer.GetName] a feudatory subject until the end of [target.GetHerHis] reign. Upon the death of [target.GetName] the people of [target.GetEmployer.GetName] will decide their fate moving forward."
+ character_interactions_inv_6_desc_1:0 "[target.GetName] has accepted our proposal to make [target_employer.GetName] a vassal state subject until the end of [target.GetHerHis] reign. Upon the death of [target.GetName] the people of [target.GetEmployer.GetName] will decide their fate moving forward."
  character_interactions_inv_6_desc_2:0 "[target.GetName] has declined our proposal...how foolish"
  character_interactions_inv_6.a:0 "Fantastic"
  character_interactions_inv_6.b:0 "Damn them to Hell!"
@@ -178,7 +178,7 @@
  ##tooltip in invention##
  allow_forced_divorce_of_all:0 "Unlocks the ability to force the divorce of characters outside of the ruling family."
 
- unlock_offer_protection_interaction:0 "Unlocks a character interaction to #Y Offer Protection#! to bordering states that have less than #Y 20#! territories, have more than #Y 50#! opinion of us, and have a ruler that is friends with our ruler. This may result in the country becoming a #Y Feudatory#!. This arrangement may end when the foreign ruler who agreed to it dies."
+ unlock_offer_protection_interaction:0 "Unlocks a character interaction to #Y Offer Protection#! to bordering states that have less than #Y 20#! territories, have more than #Y 50#! opinion of us, and have a ruler that is friends with our ruler. This may result in the country becoming a #Y Vassal State#!. This arrangement may end when the foreign ruler who agreed to it dies."
  #################
 
 #Get divorced interaction

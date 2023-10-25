@@ -1491,7 +1491,7 @@ subject_pays_tributary_cost_modifier = {
     positive = "gfx/interface/icons/modifiers/subject_pays_modifier.dds"
 }
 
-subject_pays_feudatory_cost_modifier = {
+subject_pays_vassal_state_cost_modifier = {
     positive = "gfx/interface/icons/modifiers/subject_pays_modifier.dds"
 }
 

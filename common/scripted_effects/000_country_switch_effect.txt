@@ -171,7 +171,7 @@ switch_player_country_effect = {
 		}
 		every_subject = {
 			limit = {
-				is_subject_type = feudatory
+				is_subject_type = vassal_state
 			}
 			ROOT = {
 				release_subject = PREV
@@ -179,7 +179,7 @@ switch_player_country_effect = {
 			scope:old_country = {
 				make_subject = {
 					target = PREV
-					type = feudatory
+					type = vassal_state
 				}
 			}
 		}
