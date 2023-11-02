@@ -56,19 +56,25 @@
 	
 	ai_will_do = {
 		modifier = {
-			add = 10
+			add = 25
+			trigger = {
+				loyalty <= 40
+				corruption <= 20
+				power_base > 5
+			}
+		}
+		modifier = {
+			add = 25
 			trigger = {
 				employer = {
 					is_tribal = yes
 				}
 				is_clan_chief = yes
-				loyalty <= 50
+				loyalty <= 45
 				corruption <= 40
 			}
 		}
 	}
-	
-	
 }	
 
 tie_hands = {
@@ -109,7 +115,7 @@ tie_hands = {
 	
 	ai_will_do = {
 		modifier = {
-			add = 10
+			add = 50
 			trigger = {
 				OR = {
 					AND = {
@@ -119,7 +125,7 @@ tie_hands = {
 						}
 					}
 					AND = {
-						loyalty >= 70
+						loyalty >= 60
 						NOT = {
 							has_variable = free_hands_cooldown
 						}

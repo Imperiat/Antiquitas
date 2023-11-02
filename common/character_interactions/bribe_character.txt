@@ -215,7 +215,7 @@ orator_bribe_character = {
 	
 	ai_will_do = {
 		modifier = {
-			add = 200
+			add = 100
 			trigger = {
 				loyalty <= 45
 				OR = {

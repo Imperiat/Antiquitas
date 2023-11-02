@@ -5195,6 +5195,7 @@ ip_monarchy.41 = {
 					is_primary_heir = no
 					loyalty <= 60
 					can_get_friends = yes
+					Not = { this = scope:pretender }
 				}
 				weight = {
 					title_importance_modifier = yes
