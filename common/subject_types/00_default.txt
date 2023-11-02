@@ -230,7 +230,7 @@ vassal_state = { #Vassal State
 league_member = { #League Member
 	subject_pays = subject_colony_pays
 
-	joins_overlord_in_war = no
+	joins_overlord_in_war = yes
 	
 	protected_when_attacked = yes
 	has_overlords_ruler = no

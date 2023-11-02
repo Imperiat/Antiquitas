@@ -14,6 +14,8 @@
 		has_civil_war = no
 		NOT = {
 			has_variable = gm_subject_independence
+			is_subject_type = tributary
+			is_subject_type = league_member
 		}
 	}
 
