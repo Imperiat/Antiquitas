@@ -1,3 +1,4 @@
 ﻿macedonian = {
 	285 = PROV285_macedonian # Kymi
+	6399 = PROV6399_macedonian # Pydna
 }

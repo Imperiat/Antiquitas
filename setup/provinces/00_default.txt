@@ -640,7 +640,7 @@
 
 5058={ #
 	terrain="impassable_terrain"
-	culture="doric"
+	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -660,7 +660,7 @@
 
 5060={ #
 	terrain="impassable_terrain"
-	culture="doric"
+	culture="arcadian"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -700,7 +700,7 @@
 
 5064={ #
 	terrain="impassable_terrain"
-	culture="boeotian"
+	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -710,7 +710,7 @@
 
 5065={ #
 	terrain="impassable_terrain"
-	culture="elean"
+	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -790,7 +790,7 @@
 
 5073={ #
 	terrain="impassable_terrain"
-	culture="macedonian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -810,7 +810,7 @@
 
 5075={ #
 	terrain="impassable_terrain"
-	culture="taulantian"
+	culture="epirote"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -7120,7 +7120,7 @@
 
 7801={ #
 	terrain="impassable_terrain"
-	culture="elean"
+	culture="north_western_doric"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -7990,7 +7990,7 @@
 
 8014={ #Idaion Mons
 	terrain="impassable_terrain"
-	culture="eteocretan"
+	culture="doric"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -8000,7 +8000,7 @@
 
 8017={ #Leuka Mons
 	terrain="impassable_terrain"
-	culture="eteocretan"
+	culture="doric"
 	religion="greek_pantheon"
 	trade_goods=""
 	civilization_value=0

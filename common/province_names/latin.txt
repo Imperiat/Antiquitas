@@ -166,7 +166,7 @@
 	4020 = PROV4020_latin # Pola
 	4043 = PROV4043_latin # Clandates
 	4089 = PROV4089_latin # Meteum
-	4153 = PROV4153_latin # Paroecopolis
+	4153 = PROV4153_latin # Potidaea
 	4526 = PROV4526_latin # Niconia
 	4610 = PROV4610_latin # Raunathae
 	4785 = PROV4785_latin # Methone Persica
@@ -632,7 +632,7 @@
 	494 = PROV494_roman # Oraeum
 	495 = PROV495_roman # Tarpodizo
 	496 = PROV496_roman # Diampolis
-	497 = PROV497_roman # Heraclea Sintica
+	497 = PROV497_roman # Sintia
 	498 = PROV498_roman # Scaptopara
 	499 = PROV499_roman # Spinopara
 	500 = PROV500_roman # Memphis
