@@ -57,12 +57,8 @@
 			every_country = { # Ping event for same religion countries
 				limit = {
 					scope:provincial_deity = { deity_religion = PREV.religion }
-					NOR = { 
+					NOT = { 
 						THIS = scope:shrine_location.owner
-						AND = {
-							exists = ROOT.unit_owner
-							THIS = ROOT.unit_owner
-						}
 					}
 				}
 				trigger_event = { id = desecration.3 } #Holy Site of our Faith Sacked

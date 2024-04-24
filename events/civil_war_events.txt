@@ -34,22 +34,7 @@ civil_war.1 = { #Civil war end event notifications for ORIGINAL COUNTRY WINNING
 		scope:target = {
 			save_scope_as = resistance_ruler
 		}
-		if = {
-			limit = {
-				num_of_cities >= 100
-			}
-			every_country = {
-				limit = {
-					num_of_cities >= 100
-				}
-				trigger_event = { #Trigger infomercial
-					id = civil_war.2 
-					days = { 2 10 }
-				}
-			}
-		}
 	}
-
 }
 
 civil_war.2 = {
@@ -129,20 +114,6 @@ civil_war.3 = { #Civil war end event notifications for REBEL COUNTRY WINNING
 		}
 		scope:target = {
 			save_scope_as = resistance_ruler 
-		}
-		if = {
-			limit = {
-				num_of_cities >= 100
-			}
-			every_country = {
-				limit = {
-					num_of_cities >= 100
-				}
-				trigger_event = { #Trigger infomercial for great powers, if civil war target is great.
-					id = civil_war.4
-					days = { 2 10 }
-				}
-			}
 		}
 	}
 }

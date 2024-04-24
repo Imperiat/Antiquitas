@@ -1711,7 +1711,12 @@ happiness_for_same_religion_modifier = {
 local_happiness_for_same_religion_modifier = {
 	positive = "gfx/interface/icons/modifiers/local_happiness_for_same_religion_modifier.dds"
 }
-
+happiness_for_wrong_religion_modifier = {
+	positive = "gfx/interface/icons/modifiers/happiness_for_same_religion_modifier.dds"
+}
+local_happiness_for_wrong_religion_modifier = {
+	positive = "gfx/interface/icons/modifiers/local_happiness_for_same_religion_modifier.dds"
+}
 global_population_happiness = {
 	positive = "gfx/interface/icons/modifiers/global_population_happiness.dds"
 }
@@ -2425,6 +2430,9 @@ cultural_integration_speed_modifier = {
 	positive = "gfx/interface/icons/modifiers/global_cultural_integration_speed_modifier.dds"
 }
 
+cultural_assimilation_speed_modifier = {
+	positive = "gfx/interface/icons/modifiers/global_cultural_integration_speed_modifier.dds"
+}
 culture_happiness_modifier = {
 	positive = "gfx/interface/icons/modifiers/culture_happiness_modifier.dds"
 }
@@ -2481,7 +2489,7 @@ production_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-conscription_building_cost = {
+barracks_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
@@ -2489,7 +2497,7 @@ library_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-education_building_cost = {
+academy_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
@@ -2505,7 +2513,7 @@ agriculture_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-manufacturing_building_cost = {
+foundry_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
@@ -2517,11 +2525,11 @@ healthcare_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-government_building_cost = {
+forum_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-security_building_cost = {
+court_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
@@ -2537,11 +2545,11 @@ recreation_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-transportation_building_cost = {
+road_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-taxation_building_cost = {
+town_hall_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 

@@ -137,6 +137,7 @@
 	slaves={
 		amount=3
 	}
+	holy_site=omen_qetesh
 }
 
 745={ #Gelil
@@ -256,7 +257,7 @@
 }
 
 750={ #Damaskos
-	terrain="plains"
+	terrain="oasis"
 	culture="aramaic"
 	religion="carthaginian_pantheon"
 	trade_goods="cloth"
@@ -293,6 +294,7 @@
 	tribesmen={
 		amount=10
 	}
+	holy_site=omen_ashima
 }
 
 751={ #Leukas Chrysorrhoai
@@ -360,7 +362,7 @@
 }
 
 754={ #Palmyra
-	terrain="hills"
+	terrain="oasis"
 	culture="qedarite"
 	religion="arabian_pantheon"
 	trade_goods="dates"
@@ -421,7 +423,7 @@
 	terrain="hills"
 	culture="qedarite"
 	religion="arabian_pantheon"
-	trade_goods="cattle"
+	trade_goods="opium"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -659,7 +661,7 @@
 	terrain="forest"
 	culture="phoenician"
 	religion="carthaginian_pantheon"
-	trade_goods="earthware"
+	trade_goods="opium"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
@@ -854,7 +856,7 @@
 	terrain="forest"
 	culture="phoenician"
 	religion="carthaginian_pantheon"
-	trade_goods="cloth"
+	trade_goods="pearls"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
@@ -899,7 +901,7 @@
 781={ #Larissa
 	terrain="forest"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
@@ -918,8 +920,8 @@
 
 782={ #Pella Orontou
 	terrain="forest"
-	culture="aramaic"
-	religion="carthaginian_pantheon"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
@@ -927,8 +929,38 @@
 	citizen={
 		amount=1
 	}
+	citizen={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
 	freemen={
 		amount=3
+	}
+	freemen={
+		culture="hebrew"
+		religion="judaism"
+		amount=2
+	}
+	freemen={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="phoenician"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="phoenician"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=2
 	}
 }
 
@@ -944,11 +976,21 @@
 		amount=1
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
 		amount=1
 	}
 	slaves={
 		amount=2
 	}
+	slaves={
+		culture="aramaic"
+		amount=1
+	}
+	holy_site=omen_shahar
 }
 
 785={ #Pelleta
@@ -960,6 +1002,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
 		amount=1
 	}
 	slaves={
@@ -970,7 +1017,7 @@
 786={ #Leuke Akte
 	terrain="forest"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="spices"
 	civilization_value=29
 	barbarian_power=0
@@ -1015,6 +1062,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		culture="phoenician"
+		amount=1
+	}
+	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	citizen={
 		amount=2
 	}
 	freemen={
@@ -1028,7 +1084,7 @@
 788={ #Posideion
 	terrain="forest"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -1059,6 +1115,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		culture="carian"
+		religion="anatolian_religion"
+		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="carian"
+		religion="anatolian_religion"
+		amount=3
+	}
+	freemen={
+		culture="macedonian"
 		amount=2
 	}
 	slaves={
@@ -1069,8 +1139,8 @@
 
 790={ #Antigoneia
 	terrain="hills"
-	culture="aramaic"
-	religion="carthaginian_pantheon"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=39
 	barbarian_power=0
@@ -1079,13 +1149,33 @@
 		amount=5
 	}
 	citizen={
+		culture="hebrew"
+		religion="judaism"
+		amount=3
+	}
+	citizen={
 		amount=8
 	}
 	freemen={
 		amount=9
 	}
+	freemen={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
 	slaves={
 		amount=7
+	}
+	slaves={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="hebrew"
+		religion="judaism"
+		amount=2
 	}
 }
 
@@ -1104,7 +1194,7 @@
 		amount=1
 	}
 	freemen={
-		religion="greek_pantheon"
+		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1115,7 +1205,7 @@
 792={ #Trapezon
 	terrain="forest"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -1135,11 +1225,16 @@
 793={ #Gindaros
 	terrain="hills"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="macedonian"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
 	freemen={
 		amount=2
 	}
@@ -1154,8 +1249,8 @@
 794={ #Omeros
 	terrain="hills"
 	culture="aramaic"
-	religion="greek_pantheon"
-	trade_goods="olive"
+	religion="roman_pantheon"
+	trade_goods="opium"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1174,7 +1269,7 @@
 797={ #Chalkis Belon
 	terrain="plains"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cedar"
 	civilization_value=26
 	barbarian_power=0
@@ -1193,7 +1288,7 @@
 798={ #Chalibon
 	terrain="plains"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="dates"
 	civilization_value=31
 	barbarian_power=0
@@ -1215,7 +1310,7 @@
 799={ #Adrona
 	terrain="plains"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
@@ -1358,7 +1453,7 @@
 		amount=1
 	}
 	slaves={
-		religion="greek_pantheon"
+		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1379,7 +1474,7 @@
 		amount=2
 	}
 	freemen={
-		religion="greek_pantheon"
+		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1396,9 +1491,23 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	citizen={
 		amount=4
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1408,8 +1517,8 @@
 
 810={ #Zuqarra
 	terrain="plains"
-	culture="aramaic"
-	religion="carthaginian_pantheon"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=30
 	barbarian_power=0
@@ -1417,12 +1526,28 @@
 	citizen={
 		amount=2
 	}
+	citizen={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=1
+	}
 	freemen={
 		amount=5
+	}
+	freemen={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=1
 	}
 	slaves={
 		amount=5
 	}
+	slaves={
+		culture="aramaic"
+		religion="carthaginian_pantheon"
+		amount=3
+	}
+	holy_site=omen_hadad
 }
 
 811={ #Doliche
@@ -1437,7 +1562,16 @@
 		amount=3
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
 		amount=4
+	}
+	slaves={
+		religion="roman_pantheon"
+		amount=1
 	}
 	slaves={
 		amount=5
@@ -1450,7 +1584,7 @@
 812={ #Nikopolis Syrias
 	terrain="hills"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
@@ -1472,7 +1606,7 @@
 813={ #Chenneseroi
 	terrain="desert"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=23
 	barbarian_power=0
@@ -1505,6 +1639,7 @@
 	slaves={
 		amount=3
 	}
+	holy_site=omen_amurru
 }
 
 815={ #Seriane
@@ -1608,10 +1743,19 @@
 		amount=1
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
 		amount=1
 	}
 	slaves={
 		amount=3
+	}
+	tribesmen={
+		religion="roman_pantheon"
+		amount=1
 	}
 }
 
@@ -1623,7 +1767,16 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
 	freemen={
+		amount=1
+	}
+	freemen={
+		culture="armenian"
 		amount=1
 	}
 	slaves={
@@ -1637,7 +1790,7 @@
 1871={ #Pagrai
 	terrain="hills"
 	culture="aramaic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -1657,7 +1810,7 @@
 	terrain="plains"
 	culture="aramaic"
 	religion="carthaginian_pantheon"
-	trade_goods="vegetables"
+	trade_goods="citrus"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"

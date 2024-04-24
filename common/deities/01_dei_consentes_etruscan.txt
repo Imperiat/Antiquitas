@@ -20,15 +20,14 @@ deity_laran = {
 	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = war #This Deity uses a War slot.
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		military_apotheosis_capital_freemen_effect = yes
 	}
-	
 }
 
 deity_apulu = {
@@ -52,15 +51,14 @@ deity_apulu = {
 	omen = { global_freemen_happyness = omen_global_freemen_happiness_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = war #This Deity uses a War slot.
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		military_apotheosis_military_experience_effect = yes
 	}
-	
 }
 
 deity_turms = {
@@ -84,15 +82,14 @@ deity_turms = {
 	omen = { civic_tech_investment = omen_civic_tech_investment_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = economy #This Deity uses an Economy Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		economy_income_effect = yes
 	}
-	
 }
 
 deity_aita = {
@@ -116,15 +113,14 @@ deity_aita = {
 	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = economy #This Deity uses an Economy Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		economy_apotheosis_capital_citizens_effect = yes
 	}
-	
 }
 
 deity_tinia = {
@@ -148,15 +144,14 @@ deity_tinia = {
 	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		culture_apotheosis_assimilate_effect = yes
 	}
-	
 }
 
 deity_menrva = {
@@ -184,11 +179,10 @@ deity_menrva = {
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		culture_apotheosis_oratory_tech_effect = yes
 	}
-	
 }
 
 deity_nortia = {
@@ -212,7 +206,7 @@ deity_nortia = {
 	omen = { monthly_tyranny = omen_monthly_tyranny_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
@@ -220,7 +214,6 @@ deity_nortia = {
 	on_activate = {
 		culture_apotheosis_civic_tech_effect = yes
 	}
-	
 }
 
 diety_cels = {
@@ -248,11 +241,10 @@ diety_cels = {
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		fertility_apotheosis_capital_effect = yes
 	}
-	
 }
 
 deity_nethuns = {
@@ -276,7 +268,7 @@ deity_nethuns = {
 	omen = { naval_damage_done = omen_naval_damage_done_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = war #This Deity uses a War slot.
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
@@ -287,7 +279,6 @@ deity_nethuns = {
 			REGION = mediterranean_region
 		}
 	}
-	
 }
 
 deity_hercle = {
@@ -315,11 +306,10 @@ deity_hercle = {
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		military_apotheosis_manpower_effect = yes
 	}
-	
 }
 
 deity_sethlans = {
@@ -343,11 +333,11 @@ deity_sethlans = {
 	omen = { fort_maintenance_cost = omen_fort_maintenance_cost_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = economy #This Deity uses an Economy Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		military_apotheosis_defensive_effect = yes
 	}
@@ -374,15 +364,14 @@ deity_turan = {
 	omen = { monthly_wage_modifier = omen_monthly_wage_modifier_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		fertility_apotheosis_capital_slaves_effect = yes
 	}
-	
 }
 
 deity_uni = {
@@ -406,15 +395,14 @@ deity_uni = {
 	omen = { global_citizen_happyness = omen_global_citizen_happiness_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		economy_apotheosis_province_improvement_effect = yes
 	}
-	
 }
 
 deity_artume = {
@@ -438,15 +426,14 @@ deity_artume = {
 	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = fertility #This Deity uses a Fertility slot.
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		fertility_apotheosis_food_effect = yes
 	}
-	
 }
 
 deity_usil = {
@@ -470,15 +457,14 @@ deity_usil = {
 	omen = { global_nobles_happyness = omen_global_nobles_happiness_svalue } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		economy_apotheosis_capital_noble_effect = yes
 	}
-	
 }
 
 deity_zerene = {
@@ -502,15 +488,14 @@ deity_zerene = {
 	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
 	religion = roman_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
-	
+
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		fertility_apotheosis_capital_effect = yes
 	}
-	
 }
 
 deity_fufluns = {
@@ -538,12 +523,338 @@ deity_fufluns = {
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
-	
+
 	on_activate = {
 		fertility_apotheosis_capital_effect = yes
 	}
-	
 }
 
+deity_artimit = { # WAR
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_artimit = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wisdom
+	passive_modifier = { monthly_military_experience_modifier = deity_monthly_military_experience_modifier_svalue }
+	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = wisdom #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
+
+deity_latun = { # CULTURE
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			common_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_latun = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wisdom
+	passive_modifier = { happiness_for_same_culture_modifier = deity_happiness_for_same_culture_modifier_svalue }
+	omen = { global_citizen_happyness = omen_global_citizen_happiness_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = wisdom #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		culture_apotheosis_characters_effect = yes
+	}
+}
+
+deity_phersipnei = { # ECONOMY
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_phersipnei = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_justice
+	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
+	omen = { war_exhaustion = omen_war_exhaustion } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = justice #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+
+deity_charum = { # ECONOMY
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_charum = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_justice
+	passive_modifier = { build_cost = deity_build_cost_svalue }
+	omen = { military_tech_investment = omen_military_tech_investment } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = justice #This Deity uses an Economy slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		economy_income_effect = yes
+	}
+}
+
+deity_castur = { # WAR
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_castur = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { ship_repair_at_sea = deity_ship_repair_at_sea }
+	omen = { naval_damage_done = omen_naval_damage_done_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		naval_apotheosis_effect = yes
+		storm_of_the_century_effect = {
+			REGION = mediterranean_region
+		}
+	}
+}
+
+deity_pultuce = { # WAR
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_pultuce = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { naval_damage_taken = deity_naval_damage_taken_svalue }
+	omen = { naval_morale_modifier = omen_naval_morale_modifier_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		naval_apotheosis_effect = yes
+		storm_of_the_century_effect = {
+			REGION = mediterranean_region
+		}
+	}
+}
+
+deity_atunis = { # FERTILITY
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_atunis = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_love
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { global_nobles_output = omen_global_nobles_output_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = fertility #This Deity uses a Fertility slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+
+deity_aril = { # CULTURE
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_aril = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wisdom
+	passive_modifier = { stability_cost_modifier = deity_stability_cost_modifier }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = wisdom #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+}
+
+deity_athrpa = { # CULTURE
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_athrpa = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_justice
+	passive_modifier = { global_pop_assimilation_speed_modifier = deity_global_pop_assimilation_speed_modifier_svalue }
+	omen = { war_score_cost = omen_war_score_cost_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = justice #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+
+deity_enie = { # WAR
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_apulu = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_start_experience = deity_global_start_experience_svalue }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = war #This Deity uses a War slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		war_apotheosis_martial_tech_effect = yes
+	}
+}
+
+deity_pemphetru = { # CULTURE
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = roman_pantheon
+			}
+			deity:omen_pemphetru = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_justice
+	passive_modifier = { stability_cost_modifier = deity_stability_cost_modifier }
+	omen = { monthly_corruption = omen_monthly_corruption } #Bonus from Omen
+	religion = roman_pantheon
+	deity_category = justice #This Deity uses a Culture slot.
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+	on_activate = {
+		culture_apotheosis_oratory_tech_effect = yes
+	}
+}
 
 ### Exclusive Deity Checks ###

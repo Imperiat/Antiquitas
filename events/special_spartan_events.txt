@@ -2,16 +2,16 @@
 
 ### Game Start Events
 
-###EVENT 1: Spartan Government Setup to avoid Incompatibility. 
+###EVENT 1: Spartan Government Setup to avoid Incompatibility.
 
 special_spartan_event.1 = {
 	type = country_event
 	hidden = yes
-	
+
 	trigger = {
 		tag = SPA
 	}
-	
+
 	immediate = {
 		create_character = {
 			first_name="Hippokratidas"
@@ -20,15 +20,15 @@ special_spartan_event.1 = {
 			religion="greek_pantheon"
 			save_scope_as = spartan_co_ruler
 		}
-		
+
 		change_spartan_government_scripted_effect = yes
-		
+
 		#set_as_coruler = scope:spartan_co_ruler
-		
+
 		scope:spartan_co_ruler = {
 			add_loyalty = loyalty_sparta_co_ruler
 		}
-		
+
 		random_character = {
 			limit = {
 				NOT = { family = c:SPA.FAM:Euryclid }
@@ -37,7 +37,7 @@ special_spartan_event.1 = {
 			}
 			save_scope_as = goodbye_generated_family
 		}
-		
+
 		every_character = {
 			limit = {
 				has_same_family = scope:goodbye_generated_family
@@ -63,15 +63,15 @@ special_spartan_event.3 = {
 	title = "spartan_event.3.t"
 	desc = "spartan_event.3.desc"
 	picture = hellenic_temple
-	
+
 	trigger = {
 		this = c:SPA
 	}
-	
-	
+
+
 	left_portrait = current_ruler
 	right_portrait = current_co_ruler
-	
+
 	option = {
 		name = "spartan_event.3.a"
 	}
@@ -85,14 +85,14 @@ special_spartan_event.4 = {
 	title = "spartan_event.4.t"
 	desc = "spartan_event.4.desc"
 	picture = hellenic_temple
-	
+
 	trigger = {
 		this = c:SPA
 	}
 
 	left_portrait = current_ruler
 	right_portrait = current_co_ruler
-	
+
 	option = {
 		name = "spartan_event.4.a"
 	}
@@ -106,10 +106,10 @@ special_spartan_event.5 = {
 	title = "spartan_event.5.t"
 	desc = "spartan_event.5.desc"
 	picture = hellenic_temple
-	
+
 	left_portrait = current_ruler
 	right_portrait = current_co_ruler
-	
+
 	option = {
 		name = "spartan_event.5.a"
 	}
@@ -123,14 +123,14 @@ special_spartan_event.5 = {
 
 special_spartan_event.6 = {
 	type = country_event
-	hidden = yes		
-		
+	hidden = yes
+
 	immediate = {
 		random_character = {
 			limit = {
 				is_co_ruler = yes
 			}
-			save_scope_as = new_head_of_family	
+			save_scope_as = new_head_of_family
 		}
 		scope:new_head_of_family = {
 			family = {
@@ -147,12 +147,12 @@ special_spartan_event.6 = {
 	}
 }
 
-###EVENT 7: Demote Family members of Co-ruler so he is automatically made the head of family. 
+###EVENT 7: Demote Family members of Co-ruler so he is automatically made the head of family.
 
 special_spartan_event.7 = {
 	type = country_event
 	hidden = yes
-	
+
 	immediate = {
 		every_character = {
 			limit = {
@@ -172,7 +172,7 @@ special_spartan_event.7 = {
 special_spartan_event.8 = {
 	type = country_event
 	hidden = yes
-		
+
 	immediate = {
 		random_character = {
 			limit = {
@@ -192,7 +192,7 @@ special_spartan_event.8 = {
 		}
 		trigger_event = {
 			id = special_spartan_event.4
-		}		
+		}
 	}
 }
 
@@ -200,14 +200,14 @@ special_spartan_event.8 = {
 
 special_spartan_event.9 = {
 	type = country_event
-	hidden = yes		
-		
+	hidden = yes
+
 	immediate = {
 		random_character = {
 			limit = {
 				is_co_ruler = yes
 			}
-			save_scope_as = new_head_of_family	
+			save_scope_as = new_head_of_family
 		}
 		scope:new_head_of_family = {
 			family = {
@@ -224,12 +224,12 @@ special_spartan_event.9 = {
 	}
 }
 
-###EVENT 10: Demote Family members of Co-ruler so he is automatically made the head of family. 
+###EVENT 10: Demote Family members of Co-ruler so he is automatically made the head of family.
 
 special_spartan_event.10 = {
 	type = country_event
 	hidden = yes
-	
+
 	immediate = {
 		every_character = {
 			limit = {
@@ -249,7 +249,7 @@ special_spartan_event.10 = {
 special_spartan_event.11 = {
 	type = country_event
 	hidden = yes
-		
+
 	immediate = {
 		random_character = {
 			limit = {
@@ -269,6 +269,6 @@ special_spartan_event.11 = {
 		}
 		trigger_event = {
 			id = special_spartan_event.5
-		}		
+		}
 	}
 }

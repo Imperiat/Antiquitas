@@ -46,7 +46,7 @@
 	terrain="farmland"
 	culture="pandyan"
 	religion="hindu"
-	trade_goods="amber"
+	trade_goods="wootz_steel"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
@@ -131,7 +131,7 @@
 	terrain="farmland"
 	culture="pandyan"
 	religion="hindu"
-	trade_goods="cloth"
+	trade_goods="wootz_steel"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
@@ -330,7 +330,7 @@
 	terrain="farmland"
 	culture="pandyan"
 	religion="hindu"
-	trade_goods="salt"
+	trade_goods="citrus"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -398,7 +398,7 @@
 	terrain="farmland"
 	culture="cholan"
 	religion="hindu"
-	trade_goods="fur"
+	trade_goods="wootz_steel"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
@@ -545,7 +545,7 @@
 	terrain="farmland"
 	culture="pandyan"
 	religion="hindu"
-	trade_goods="fish"
+	trade_goods="cowrie_shells"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -631,7 +631,7 @@
 	terrain="farmland"
 	culture="cholan"
 	religion="hindu"
-	trade_goods="honey"
+	trade_goods="wootz_steel"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
@@ -929,7 +929,7 @@
 	terrain="farmland"
 	culture="lankan"
 	religion="hindu"
-	trade_goods="earthware"
+	trade_goods="wootz_steel"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
@@ -1017,7 +1017,7 @@
 	terrain="jungle"
 	culture="lankan"
 	religion="hindu"
-	trade_goods="salt"
+	trade_goods="elephants"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1075,7 +1075,7 @@
 	terrain="plains"
 	culture="tamil"
 	religion="hindu"
-	trade_goods="wild_game"
+	trade_goods="citrus"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
@@ -1318,7 +1318,7 @@
 	terrain="plains"
 	culture="tamil"
 	religion="hindu"
-	trade_goods="elephants"
+	trade_goods="cowrie_shells"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
@@ -1407,7 +1407,7 @@
 	terrain="jungle"
 	culture="tamil"
 	religion="buddhism"
-	trade_goods="fur"
+	trade_goods="tortoise_shell"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -1467,7 +1467,7 @@
 	terrain="jungle"
 	culture="cholan"
 	religion="jainism"
-	trade_goods="elephants"
+	trade_goods="ivory"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -1490,7 +1490,7 @@
 	terrain="jungle"
 	culture="tamil"
 	religion="hindu"
-	trade_goods="fruits"
+	trade_goods="citrus"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -1765,7 +1765,7 @@
 	terrain="plains"
 	culture="tamil"
 	religion="hindu"
-	trade_goods="leather"
+	trade_goods="cowrie_shells"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
@@ -1927,7 +1927,7 @@
 	terrain="jungle"
 	culture="telugu"
 	religion="hindu"
-	trade_goods="fur"
+	trade_goods="exotic_beasts"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -2013,40 +2013,6 @@
 	}
 	tribesmen={
 		religion="jainism"
-		amount=1
-	}
-}
-
-7042={ #Pitoura
-	terrain="hills"
-	culture="andhran"
-	religion="jainism"
-	trade_goods="gems"
-	civilization_value=9
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount=2
-	}
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		amount=3
-	}
-	freemen={
-		religion="hindu"
-		amount=1
-	}
-	slaves={
-		amount=2
-	}
-	tribesmen={
-		amount=4
-	}
-	tribesmen={
-		religion="hindu"
 		amount=1
 	}
 }
@@ -2193,7 +2159,29 @@
 		amount=3
 	}
 	tribesmen={
+		amount=1
+	}
+}
+
+7055={ #Pravarapura
+	terrain="jungle"
+	culture="assaka"
+	religion="jainism"
+	trade_goods="earthware"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
 		amount=3
+	}
+	tribesmen={
+		amount=6
 	}
 }
 
@@ -2277,7 +2265,7 @@
 	terrain="jungle"
 	culture="tamil"
 	religion="hindu"
-	trade_goods="elephants"
+	trade_goods="ivory"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"

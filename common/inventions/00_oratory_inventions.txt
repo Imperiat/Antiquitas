@@ -11,11 +11,6 @@
 				add = 99999
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -42,11 +37,6 @@
 				add = 99999
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -101,11 +91,6 @@
 				add = 99999
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -127,6 +112,23 @@
 					any_country_culture = {
 						is_integrated = yes
 						this.culture.culture_group = culture_group:north_african
+					}
+				}
+				country_culture_group = meroitic_group
+				country_culture_group = aksumite_group
+				custom_tooltip = {
+					#Need a new text
+					text = integrated_any_nubian_culture
+					OR = {
+					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
+					}
+					any_country_culture = {
+						is_integrated = yes
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}
 				}
 			}
@@ -175,22 +177,8 @@
 	}
 
 	subject_loyalty_inv = {
-		modifier = { diplomatic_relations = 1  }
-		
+		modifier = { diplomatic_relations = 1  }	
 		requires = { agressive_expansion_impact_inv_3 }
-		ai_will_do = {
-			modifier = {
-				add = 25
-				OR = {
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
-				}
-			}
-		}
 	}	
 
 	relation_inv_1 = {
@@ -254,11 +242,14 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}
 				}
 			}
@@ -459,6 +450,7 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
@@ -487,11 +479,14 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}
 				}
 			}
@@ -529,12 +524,6 @@
 				add = 99999
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 			}
@@ -632,11 +621,14 @@
 					text = integrated_any_nubian_culture
 					OR = {
 					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
 					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}
 				}
 			}
@@ -654,13 +646,17 @@
         allow = {
 			OR = {
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 			}
@@ -765,18 +761,21 @@
         	monthly_corruption = -0.01
         	global_monthly_civilization = 0.01
         }
-        
         requires = { musnad_script_inv }
         allow = {
 			OR = {
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 			}
@@ -1057,8 +1056,10 @@
     ## Indian Specific - Level 0
     #Vanilla invention modified for Invictus
     indian_wootz_steel_inv = {
-        modifier = { global_tribesmen_output = 0.01
-                     global_population_growth = 0.01 }
+        modifier = { 
+			global_tribesmen_output = 0.01
+			global_population_growth = 0.01 
+		}
         requires = { brahmi_script_invention }
 		allow = {
 			OR = {
@@ -1099,9 +1100,12 @@
     ## Indian Specific - Level 1
     #Vanilla invention modified for Invictus
     indian_toe_stirrup_inv = {
-        modifier = { heavy_cavalry_discipline = 0.05
-        			 light_cavalry_discipline = 0.05
-        			 horse_archers_discipline = 0.05 }
+        modifier = {
+			heavy_cavalry_discipline = 0.05
+			light_cavalry_discipline = 0.05
+        	horse_skirmishers_discipline = 0.05
+			horse_archers_discipline = 0.05 
+		}
         requires = { indian_wootz_steel_inv }
         allow = {
 			OR = {
@@ -1222,8 +1226,11 @@
 
     #Vanilla invention modified for Invictus
     indian_crucible_steel_inv = {
-        modifier = { light_infantry_offensive = 0.05
-					 heavy_infantry_offensive = 0.05 }
+        modifier = {
+			light_infantry_offensive = 0.05
+			heavy_infantry_offensive = 0.05
+			axemen_offensive = 0.05
+		}
 		requires = { indian_cataract_surgery_inv }
         allow = {
 			OR = {
@@ -1740,7 +1747,7 @@ oratory_2 = {
 					root = {
 						change_variable = {
 							name = lcounter
-							subtract = 1
+							subtract = 1.25
 						}
 					}
 				}
@@ -1835,11 +1842,6 @@ oratory_2 = {
 								}
 								random_state_province = {
 									set_as_governor = scope:sbgnq1
-								}
-							}
-							every_state_province = {
-								every_pops_in_province = {
-									set_pop_culture = scope:civil_war_country.culture
 								}
 							}
 						}

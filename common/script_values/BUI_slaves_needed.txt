@@ -100,7 +100,7 @@ slaves_needed = {
   if = {
     limit = {
       has_city_status = yes
-      num_of_manufacturing_building = 1
+      num_of_foundry_building = 1
     }
     add = -4
   }

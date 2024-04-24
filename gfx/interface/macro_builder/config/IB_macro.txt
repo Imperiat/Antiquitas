@@ -7,25 +7,25 @@
 	
 	includes = {
 		production_building
-		conscription_building
+		military_building
 		library_building
-		education_building
+		academy_building
 		commerce_building
 		military_harbor_building
 		agriculture_building
 		depot_building
-		manufacturing_building
+		foundry_building
 		shrine_building
 		healthcare_building
-		government_building
-		security_building
+		forum_building
+		court_building
 		housing_building
 		sanitation_building
 		recreation_building
-		military_building
-		transportation_building
+		barracks_building
+		road_building
 		fortress_building
-		taxation_building
+		town_hall_building
 		temple_building
 		theathre_building
 		port_building

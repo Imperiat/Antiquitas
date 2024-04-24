@@ -99,6 +99,7 @@ olympic.3 = {
 			age >= 17
 			is_ruler = no
 			is_primary_heir = no
+			is_co_ruler = no
 		}
 	}
 	
@@ -119,6 +120,7 @@ olympic.3 = {
 					is_primary_heir = no
 					is_mercenary = no
 					is_head_of_family = no
+					is_co_ruler = no
 				}
 			}
 			random_character = {
@@ -136,6 +138,7 @@ olympic.3 = {
 					is_primary_heir = no
 					is_mercenary = no
 					is_head_of_family = no
+					is_co_ruler = no
 				}
 				weight = {
 					base = 1
@@ -184,6 +187,7 @@ olympic.3 = {
 					is_primary_heir = no
 					is_mercenary = no
 					is_head_of_family = no
+					is_co_ruler = no
 					NOT = {
 						this = scope:olympic_champion
 					}
@@ -205,6 +209,7 @@ olympic.3 = {
 					is_primary_heir = no
 					is_mercenary = no
 					is_head_of_family = no
+					is_co_ruler = no
 					NOT = {
 						this = scope:olympic_champion
 					}

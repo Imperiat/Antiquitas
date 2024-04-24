@@ -1,0 +1,66 @@
+# Invictus/Vanilla familes
+family={
+	families={
+		#Numbers do not have to appear in numerical order but do have to be unique:
+		#Current first free ID is "8".
+
+		0={
+			key="Romulii"
+			owner=ROM
+			culture = roman
+			prestige=300
+			color = 0
+		}
+
+		## Chaldean Empire
+		1={
+			key = "Chaldean"
+			prestige=50
+			culture=babylonian
+			owner=CHD
+		}
+		## Egypt
+		2={
+			key = "Saite"
+			prestige=50
+			culture=middle_egyptian
+			owner=EGY
+		}
+		## Macedon
+		3={
+			key = "Argead"
+			prestige=50
+			culture=macedonian
+			owner=MAC
+		}
+		## Carthage
+		4={
+			key = "Barcid"
+			prestige=50
+			culture=carthaginian
+			owner=CAR
+		}
+		#Sparta
+		5={
+			key = "Agiad"
+			prestige=50
+			culture=doric
+			owner=SPA
+			color = 0
+		}
+		6={
+			key = "Euryclid"
+			prestige=50
+			culture=doric
+			owner=SPA
+			color = 1
+		}
+		#Corinth
+		7={
+			key = "Kypselid"
+			prestige=100
+			culture=doric
+			owner=COT
+		}
+	}
+}

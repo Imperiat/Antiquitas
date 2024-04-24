@@ -242,8 +242,8 @@
  SUCI_ADJ:0 "Sucian"
  THYNI:1 "Thynia"
  THYNI_ADJ:0 "Thynian"
- TYRGETAE:1 "Tyrgetia"
- TYRGETAE_ADJ:0 "Tyrgetan"
+ TYRGETAE:1 "Tyragetia"
+ TYRGETAE_ADJ:0 "Tyragetan"
  #:0 ""
  # ILLYRIAN:0 ""
  #:0 ""
@@ -326,11 +326,20 @@
  URGI_ADJ:0 "Urgian"
  ZYGII:1 "Zygia"
  ZYGII_ADJ:0 "Zygian"
+ #Formable
+ SLAVIA_NAME:1 "Slavia"
+ SLAVIA_ADJECTIVE:0 "Slavic"
+ ALANIA_NAME:1 "Alania"
+ ALANIA_ADJECTIVE:0 "Alan"
+ MASSAGETIA_NAME:1 "Massagetia"
+ MASSAGETIA_ADJECTIVE:0 "Massagetian"
  #:0 ""
  # PERSIAN:0 ""
  #:0 ""
- SEL:2 "Selucids"
- SEL_ADJ:2 "Selucid"
+ GREATER_MEDIA_NAME:0 "Greater Media"
+ GREATER_MEDIA_ADJECTIVE:0 "Median"
+ SEL:2 "Seleukid Empire"
+ SEL_ADJ:2 "Seleukid"
  ARM:0 "Armenia"
  ARM_ADJ:0 "Armenian"
  CAP:0 "Cappadocia"
@@ -347,7 +356,7 @@
  IBR_ADJ:0 "Iberian"
  COL:0 "Colchis"
  COL_ADJ:0 "Colchisian"
- 
+
  AMARDI:1 "Amardia"
  AMARDI_ADJ:0 "Amardian"
  ANARIACAE:1 "Anariacia"
@@ -395,6 +404,9 @@
  RHAMMANITAE_ADJ:0 "Rhammanitaean"
  TAMUDI:1 "Tamudia"
  TAMUDI_ADJ:0 "Tamudian"
+ #Formable
+ ARABIA_NAME:1 "Arabia"
+ ARABIA_ADJECTIVE:0 "Arabian"
  #:0 ""
  # NORTH LEVANTINE:0 ""
  #:0 ""
@@ -438,7 +450,7 @@
  #:0 ""
  AESTRAEI:1 "Aestraeia"
  AESTRAEI_ADJ:0 "Aestrian"
- AGRIANES:1 "Agrianaa"
+ AGRIANES:1 "Agriania"
  AGRIANES_ADJ:0 "Agrianic"
  DERRONES:0 "Derrones"
  DERRONES_ADJ:0 "Derronian"
@@ -798,7 +810,7 @@
  SRD:1 "Sordonia"
  TRB:1 "Tarbellia"
  TRS:1 "Tarusatia"
- TCT:2 "Tectosagia"
+ TCT:2 "Tectosages"
  VOC:1 "Vocontia"
  DCA:1 "Deciatia"
  OXB:1 "Oxybia"
@@ -911,7 +923,7 @@
  SDI_ADJ:0 "Serdican"
  #THIS IS ARABIA
  SHB:0 "Saba"
- SHB_ADJ:0 "Saban"
+ SHB_ADJ:0 "Sabaean"
  MIN:0 "Ma'in"
  MIN_ADJ:0 "Minaean"
  HDM:0 "Hadhramut"
@@ -1170,6 +1182,7 @@
  ABM_ADJ:0 "Ambiani"
  VMD_ADJ:0 "Viromandui"
  SSS_ADJ:0 "Suessioni"
+ 
  #Greece and Thrace
  MAS:0 "Massilia"
  MAS_ADJ:0 "Massiliot"
@@ -1183,8 +1196,8 @@
  EPI_ADJ:0 "Epirote"
  MAC:0 "Macedon"
  MAC_ADJ:0 "Macedonian"
- MGA:0 "Megaris"
- MGA_ADJ:0 "Megarian"
+ MGA:0 "Megara"
+ MGA_ADJ:0 "Megaran"
  TRE:0 "Lysimacheia"
  TRE_ADJ:0 "Lysimacheian"
  BYZ:0 "Byzantion"
@@ -1293,6 +1306,7 @@
  MLO_ADJ:1 "Milesian"
  TAN:0 "Tanagra"
  TAN_ADJ:0 "Tanagran"
+ 
  # CRIMEA and ABKHAZIA
  BPK:0 "Bosporan Kingdom"
  BPK_ADJ:0 "Bosporan"
@@ -1572,8 +1586,8 @@
  ##Extra Germania
  RGG:0 "Rugia"
  RGG_ADJ:0 "Rugian"
- GTH:0 "Gothonia"
- GTH_ADJ:0 "Gothonic"
+ GTH:0 "Guthonia"
+ GTH_ADJ:0 "Guthonic"
  SCI:0 "Sciria"
  SCI_ADJ:0 "Scirian"
  FOS:0 "Fosia"
@@ -1590,10 +1604,10 @@
  AGR_ADJ:0 "Angrivarian"
  BUR:0 "Burgundia"
  BUR_ADJ:0 "Burgundian"
- DAN:0 "Dania"
- DAN_ADJ:0 "Danian"
- LEU:0 "Leuonia"
- LEU_ADJ:0 "Leuonian"
+ DAN:0 "Dancionia"
+ DAN_ADJ:0 "Dancionian"
+ LEU:0 "Levonia"
+ LEU_ADJ:0 "Levonian"
  #nuragic
  IOI:0 "Iliensia"
  IOI_ADJ:0 "Iliensian"
@@ -1687,14 +1701,14 @@
  QUINQUEGENTIANI_ADJ:0 "Quinquegentianian"
  MUSULAMII:0 "Musulamia"
  MUSULAMII_ADJ:0 "Musulamian"
- # North Africa # 
+ # North Africa #
  PSYLLI:0 "Psyllia"
  PSYLLI_ADJ:0 "Psyllian"
  LAGUATANI:0 "Laguatania"
  LAGUATANI_ADJ:0 "Laguatanian"
  MESHWESH:0 "Meshwesh"
  MESHWESH_ADJ:0 "Meshweshian"
- # Baltic # 
+ # Baltic #
  SITONES:0 "Sitonia"
  SITONES_ADJ:0 "Sitonian"
  FENNI:0 "Fennia"
@@ -1722,7 +1736,7 @@
  TERICI_ADJ:0 "Terician"
  TRIXAE:0 "Trixaea"
  TRIXAE_ADJ:0 "Trixaean"
- # Illyrians # 
+ # Illyrians #
  BARIDUSTAE:0 "Baridustaea"
  BARIDUSTAE_ADJ:0 "Baridustaean"
  TARIOTES:0 "Tarotia"
@@ -1759,7 +1773,7 @@
  CHELIDONI_ADJ:0 "Chelidonian"
  BATHIATAE:0 "Bathiatia"
  BATHIATAE_ADJ:0 "Bathiatian"
- # Thracians # 
+ # Thracians #
  MAEDI:0 "Maedia"
  MAEDI_ADJ:0 "Maedian"
  PAETI:0 "Paetia"
@@ -1801,7 +1815,7 @@
  SITTACENI_ADJ:0 "Sittacenian"
  ASPURGIANI:0 "Aspurgiania"
  ASPURGIANI_ADJ:0 "Aspurgianian"
- # Bactrians # 
+ # Bactrians #
  DREPSIANOI:0 "Drepsiania"
  DREPSIANOI_ADJ:0 "Drepsianian"
  CHORASMIOI:0 "Chorasmia"
@@ -1855,6 +1869,11 @@
  OUBERAI_ADJ:0 "Ouberian"
  ABALOI:0 "Abalia"
  ABALOI_ADJ:0 "Abalian"
+ #Formable
+ INDGER_NAME:0 "Indo-Germanic Kingdom"
+ INDGER_ADJECTIVE:0 "Indo-Germanic"
+ NEO_MITANNI_NAME:0 "Neo-Mitanni Kingdom"
+ NEO_MITANNI_ADJECTIVE:0 "Neo-Mitanni"
  # Aksumite #
  KYNEGETAE:0 "Kynegetia"
  KYNEGETAE_ADJ:0 "Kynegetian"
@@ -1892,7 +1911,7 @@
  AGRAIOI_ADJ:0 "Agraian"
  EPIMARANITAE:0 "Epimaranita"
  EPIMARANITAE_ADJ:0 "Epimaranitan"
- # Arabian # 
+ # Arabian #
  THANOUITAE:0 "Thanoutia"
  THANOUITAE_ADJ:0 "Thanoutian"
  KATANITAE:0 "Katanita"
@@ -2004,7 +2023,7 @@
  eastern_roman_dictatorship_name:0 "Eastern Roman Dictatorship"
  western_roman_dictatorship_name:0 "Western Roman Dictatorship"
  roman_kingdom_name:0 "Roman Kingdom"
- 
+
  # Italy Extra
  ELE:0 "Elea"
  ELE_ADJ:0 "Elean"
@@ -2085,7 +2104,7 @@
  POMPEII_ADJECTIVE:0 "P'mpeian"
  ROME_NAME:0 "Rome"
  ROME_ADJECTIVE:1 "Roman"
- 
+
  # Rome Missions
  SARDINIA_NAME:0 "Sardinia"
  SARDINIA_ADJECTIVE:0 "Sardinian"
@@ -2093,7 +2112,7 @@
  CORINTH_ADJECTIVE:0 "Corinthian"
  DECAPOLIS_NAME:0 "Decapolis"
  DECAPOLIS_ADJECTIVE:0 "Decapoli"
- 
+
  # FLAVOR EGY
  CYRENAICAN_OPPOSITION:0 "Cyrenaican Opposition"
  CYRENAICAN_OPPOSITION_ADJ:0 "Cyrenaican"
@@ -2186,14 +2205,14 @@
  MRY_DYN_ADJ:1 "[GetCountry('MRY').Custom('get_mry_adj')]"
  PRY_DYN:0 "[GetCountry('PRY').Custom('get_pry_name')]"
  PRY_DYN_ADJ:0 "[GetCountry('PRY').Custom('get_pry_adj')]"
-  
+
  TUSCIA_NAME:0 "Tuscia"
- 
+
  ITA:0 "Italiote League"
  ITA_ADJ:0 "Italiote"
  PHK:0 "Phocaean League"
  PHK_ADJ:0 "Phocaean"
- 
+
  AMK:0 "Ambracia"
  AMK_ADJ:0 "Ambracian"
 
@@ -2912,7 +2931,6 @@
  IST:0 "Issatis"
  IST_ADJ:0 "Issatisi"
 
-
 # India
  DHI:0 "Dhingyawati"
  DHI_ADJ:0 "Dhingyawatian"
@@ -3338,3 +3356,71 @@
  LND_ADJ:0 "Lindosian"
  KMS:0 "Kameiros"
  KMS_ADJ:0 "Kameirosian"
+ 
+#From "Replace" Folder
+ LYSIMACHID_KINGDOM:0 "Lysimachid Kingdom"
+ LYSIMACHID_EMPIRE:0 "Lysimachid Empire"
+ LYSIMACHID_ADJ:0 "Lysimachid"
+ ANTIPATRID_KINGDOM:0 "Antipatrid Kingdom"
+ ANTIPATRID_EMPIRE:0 "Antipatrid Empire"
+ ANTIPATRID_ADJ:0 "Antipatrid"
+ PTOLEMAIC_EMPIRE:0 "Ptolemaic Empire"
+ SELEUKID_EMPIRE:0 "Seleukid Empire"
+ ANTIGONID_EMPIRE:0 "Antigonid Empire"
+ BOSPORAN_EMPIRE:0 "Bosporan Empire"
+ THRACIAN_EMPIRE:0 "Thracian Empire"
+ EGYPTIAN_EMPIRE:0 "Egyptian Empire"
+ MACEDON_EMPIRE:0 "Macedonian Empire"
+ MACEDONIAN_EMPIRE:0 "Macedonian Empire"
+ PERSIAN_KINGDOM:0 "Persian Kingdom"
+ MESOPOTAMIAN_KINGDOM:0 "Mesopotamian Kingdom"
+ MEDIAN_KINGDOM:0 "Median Kingdom"
+ ARANIAN_KINGDOM:0 "Aranian Kingdom"
+ GEDROSIAN_KINGDOM:0 "Gedrosian Kingdom"
+ CAPPADOCIAN_KINGDOM:0 "Cappadocian Kingdom"
+ ASSYRIAN_KINGDOM:0 "Assyrian Kingdom"
+ SYRIAN_KINGDOM:0 "Syrian Kingdom"
+ PALESTINE_KINGDOM:0 "Palestinian Kingdom"
+ MADHYADESAN_KINGDOM:0 "Madhyadesan Kingdom"
+ GANDARAN_KINGDOM:0 "Gandaran Kingdom"
+ MARU_KINGDOM:0 "Maru Kingdom"
+ AVANTI_KINGDOM:0 "Avanti Kingdom"
+ APARANTAN_KINGDOM:0 "Aparantan Kingdom"
+ KARNATAN_KINGDOM:0 "Karnatan Kingdom"
+ DRAVIDIAN_KINGDOM:0 "Dravidian Kingdom"
+ VINDHYAPRSTHAN_KINGDOM:0 "Vindhyaprsthan Kingdom"
+ PRACYAN_KINGDOM:0 "Pracyan Kingdom"
+ BITHYNIAN_KINGDOM:0 "Bithynian Kingdom"
+ PHRYGIAN_KINGDOM:0 "Phrygian Kingdom"
+ CILICIAN_KINGDOM:0 "Cilician Kingdom"
+ ASIAN_KINGDOM:0 "Asian Kingdom"
+
+ #Form Corsica Decision  
+ form_corsica:0 "Form Corsica"
+ form_corsica_desc:0 "An isle so close to the rich Roman/Etruscan shores in Italia, Corsica has always remained a wild land, divided in half by a rough mountain spine which harbors dangerous and resilient tribal folk. This land could be a bastion of the Corsii if it were consolidated under native rule."
+ formable_not_corsica_exists:0 "#Y Corsica#! does not exist."
+
+ #Form Greater Maeotia Decision 
+ form_greater_maeotia:0 "Form Greater Maeotia"
+ form_greater_maeotia_desc:0 "The Maeotian lake, a great sea north of the Pontus Euxinos, has long been a strange corner of the watery lanes which stretch all the way to the Atlantic beyond the Pillars of Hercules. The Maeotian tribal folk, long-oppressed by both Greeks and steppe peoples, must take command of their coastal heritage in order to assert themselves in this chaotic world."
+ formable_not_greater_maeotia_exists:0 "#Y Greater Maeotia#! does not exist."
+
+ #Form Greater Arachosia Decision 
+ formable_not_greater_arachosia_exists:0 "#Y Greater Arachosia#! must NOT exist"
+ form_greater_arachosia:0 "Form Greater Arachosia"
+ form_greater_arachosia_desc:0 "Once one of the most expansive and treacherous satraps of the Achaemenids, the greater realm of Arachosia pushed the limit of the known and the weird, connecting the world of the Persians and the Mediterranean with the wild and jungle-ridden domain of the Indoi."
+ GAC_FORMABLE_NAME:0 "Greater Arachosia"
+ GAC_FORMABLE_ADJ:0 "Arachosian"
+ GAC:0 "Greater Arachosia"
+ GAC_ADJ:0 "Arachosian"
+
+ #Lesser Scythia DISTRICT FORMABLE
+ form_lesser_scythia:0 "Form Lesser Scythia"
+ form_lesser_scythia_desc:0 "Known also as 'Scythia Minor,' this area was one of the southernmost realms controlled by the Scythians at their Classical Era height under king Ateas. Rich with trading ports and wild hinterlands, it stands as a great yet trifling outpost for steppe lords."
+ formable_not_lesser_scythia_exists:0 "#Y Lesser Scythia#! does not exist."
+
+ #HELLESPONTINE DISTRICT FORMABLE
+ form_hellespontine_district: "Form Hellespontine District"
+ form_hellespontine_district_desc:0 "First created as a result of the Athenian monopoly on violence and trade in the Propontic Sea and the Bosporus Strait, the Hellespontine District represented one of the wealthiest trading hubs in the world, controlling taxation and goods-flow. To recreate this monopoly on the economy would grant us a great control over the world's politics and future."
+ formable_not_hellespontine_district_exists: "#Y Hellespontine District#! does not exist."
+ recreated_hellespontine_district: "Recreated Hellespontine District"

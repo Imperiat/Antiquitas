@@ -99,7 +99,7 @@ NCountry = {
 	CALL_FOR_PEACE_THRESHOLD_MONTHS = 60
 	CALL_FOR_PEACE_WARSCORE_LIMIT = 67
 	MAX_MANPOWER_YEARS = 11
-	TECH_ENTRY_YEARS = 16
+	TECH_ENTRY_YEARS = 20 # raised from 16
 	UNREST_MONTHLY_REDUCTION = -0.1
 	POPS_PER_BUILDING = 10
 	ALERT_HIGH_WAR_EXHAUSTION = 8
@@ -147,7 +147,7 @@ NCountry = {
 
 	POTENTIAL_MISSION_COUNT = 4 # Number of random missions to pick between
 
-	EXPECTED_DEITY_COUNT = 4 # Number of deities each country is expected to have at game start. 
+	EXPECTED_DEITY_COUNT = 6 # Number of deities each country is expected to have at game start. 
 
 	CHANGE_PANTHEON_OMEN_COOLDOWN_MONTHS = 36 # Cooldown period in months after a country changes it's pantheon. No omens can be called on that deity during this cooldown period. 
 	
@@ -190,9 +190,9 @@ NPop = {
 	PRIMARY_CULTURE_HAPPINESS = 0.3
 	WRONG_CULTURE_GROUP_HAPPYNESS = 0.12
 	WRONG_CULTURE_HAPPYNESS = 0.2
-	WRONG_RELIGION_HAPPNESS = 0
+	WRONG_RELIGION_HAPPINESS = 0 #Additional penalty for pop having a different religion from the country's religion 
 	WRONG_GOVERNOR_RELIGION_HAPPYNESS = -0.06
-	DEITY_SAME_RELIGION_HAPPINESS = 0.04
+	DEITY_SAME_RELIGION_HAPPINESS = 0.02 # Nerfed from 4% because +2 deity categories
 	
 	UNREST_GENERATION = 0.5
 	UNREST_SCALE = 20 #Basically UNREST_GENERATION * UNREST_SCALE..
@@ -207,12 +207,12 @@ NPop = {
 	ASSIMILATE_DIFF_RELIGION_PENALTY = -0.33
 	CONVERT_DIFF_CULTURE_PENALTY = -0.20
 
-	CONVERSION_SCALE_PER_MISMATCHED_DEITY = -0.2
+	CONVERSION_SCALE_PER_MISMATCHED_DEITY = -0.1
 }
 
 
 NCombat = {
-	
+
 	GREAT_BATTLE_SIZE_THRESHOLD = 8000
 	MORALE_COLLAPSE_THRESHOLD = 0.25
 	PERSONAL_LOYALTY_BONUS = 0.1
@@ -585,8 +585,7 @@ NCharacter = {
 	SPOUSE_MOURNING_DURATION = 90 #in days
 	
 	INHERIT_RECESSIVE_GENE_CHANCE = 0.25
-	
-	TOO_DISLOYAL_THRESHOLD = 33
+
 	LOYAL_COHORT_INHERITANCE_CHARISMA_CHECK = 8 # A random number modulo this define to check if the primary heir inherits loyal cohorts. Basically if the heir's charisma is equal to this number, it will never fail this check
 	
 	COURT_SIZE_AGE_FILL = { 16 60 } #when filling the initial court, characters get created using this age range
@@ -622,7 +621,30 @@ NCharacter = {
 	CULTURE_HAPPINESS_LOWER_THRESHOLD = 0.3 #Lower threshold for culture happiness. If Culture happiness < CULTURE_HAPPINESS_LOWER_THRESHOLD - CULTURE_HAPPINESS_THRESHOLD , character loyalty will be negatively affected
 	CULTURE_HAPPINESS_FACTOR = 3 #Scale culture happiness to loyalty after exceeding threshold
 	CULTURE_HAPPINESS_LOYALTY_MAX = 12 #Max/min values that culture happiness can have on loyalty
+		
+	CIV_WAR_LEADER_SAME_CULTURE = 1 #If a disloyal character has the same culture as the origin country, add this score
+	CIV_WAR_LEADER_PROMINENCE_DIVIDER = 10 #If a disloyal character has any prominence, divide it by this number and add it to the score
+	CIV_WAR_LEADER_GOVERNOR_JOB = 10 #If a disloyal character is a governor, add this to the score
+	CIV_WAR_LEADER_GENERAL_UNITS_MULT = 1 #Note that civ war leaders also take into account the units they are commanding, so disloyal generals are very likely to become the war leader. NumUnits * this number = impact on score
+		
+	#The following numbers are to calculate a loyalty score (all characters start with their current loyalty)
+	#If the loyalty score is above BONUS_LOYALITY_CIVIL_WAR_CUTOFF, BONUS_LOYALITY_CIVIL_WAR_ADD gets added to the loyalty score
+	#Then a random number between 0 and 100 gets picked, if that number is larger than the loyalty score, the character + it's family (spouse and all children that are not adults) will be a dissenter and join the rebelion
+	#Note that characters that are a governor or a general/admiral that are disloyal will always join
+	CIV_WAR_LOYALTY_FRIEND_TO_REBEL = -50	
+	CIV_WAR_LOYALTY_RIVAL_TO_REBEL = 25
 	
+	CIV_WAR_LOYALTY_SAME_FAMILY_AS_REBEL_BUT_NOT_HEIR = -30
+	CIV_WAR_LOYALTY_SAME_FAMILY_AS_RULER_BUT_NOT_HEIR = 10
+	
+	CIV_WAR_LOYALTY_RIVAL_TO_RULER = -35
+	CIV_WAR_LOYALTY_FRIEND_TO_RULER = 25
+	
+	CIV_WAR_LOYALTY_REBEL_NOT_HEIR_RIVAL_TO_HEIR = -25 #If the rebel leader is not the heir, these numbers get applied
+	CIV_WAR_LOYALTY_REBEL_NOT_HEIR_FRIEND_TO_HEIR = 25 #If the rebel leader is not the heir, these numbers get applied
+	
+		
+	TOO_DISLOYAL_THRESHOLD = 33
 	BONUS_LOYALITY_CIVIL_WAR_CUTOFF = 50 #Characters with loyality above this value will receive additional 'bonus' loyality. Recommend to keep between 40 & 90
 	BONUS_LOYALITY_CIVIL_WAR_ADD = 30 #The bonus loyality added. This is mainly used to defeat the disloyality check. Can be used to balance civil war sizes. Recommend to keep between 0 & 50
 

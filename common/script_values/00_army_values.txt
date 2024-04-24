@@ -288,4 +288,5 @@ migratory_settle_tooltip_svalue = {
 		
 		value = unit_location.total_population
 		min = 1
+	}
 }

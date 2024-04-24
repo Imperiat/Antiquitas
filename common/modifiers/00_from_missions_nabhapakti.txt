@@ -1,0 +1,10 @@
+﻿new_capital_enthusiasm = {
+	global_population_growth = 0.1
+	global_migration_speed_modifier = 0.2
+	stability_monthly_change = -0.02
+}
+vaishali_returned = {
+	local_building_slot = 2
+	local_population_capacity_modifier = 0.25
+	local_monthly_food_modifier = 0.1
+}

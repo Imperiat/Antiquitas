@@ -25,7 +25,6 @@ horde_conquest = {
 	}
 	ticking_war_score = 0.5
 }
-
 #Removed Parthia because they have horde conquest
 imperial_conquest_wargoal = {
 	type = superiority

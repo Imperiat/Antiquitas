@@ -82,7 +82,7 @@
 	centralised_production_inv = {
 		modifier = { global_tax_modifier = 0.01 }
 		requires = { global_start_experience_inv_3 }
-		on_activate = { custom_tooltip = "enables_manufacturing_building_tt" }
+		on_activate = { custom_tooltip = "enables_foundry_building_tt" }
 		ai_will_do = {
 			modifier = {
 				add = 150
@@ -413,7 +413,8 @@
 		allow = {
 			OR = {
 				country_culture_group = scythia
-				country_culture_group = scythian_east
+				country_culture_group = sarmatian_group
+				country_culture_group = saka_g
 				primary_culture = median
 			}
 		}
@@ -562,6 +563,8 @@
 			heavy_cavalry_defensive = 0.05
 			light_cavalry_offensive = 0.05
 			heavy_cavalry_offensive = 0.05
+			horse_skirmishers_offensive = 0.05
+			horse_skirmishers_offensive = 0.05
 		}
         
         requires_or = { global_supply_limit_modifier_inv_4 }
@@ -636,6 +639,7 @@
 	#New Invictus invention
     postal_service_inv = {
     	modifier = {
+    		horse_skirmishers_movement_speed = 0.1
     		light_cavalry_movement_speed = 0.1
     		heavy_cavalry_movement_speed = 0.1
     		camels_movement_speed = 0.1
@@ -799,6 +803,7 @@ military_inventions = {
 		modifier = { 
 			heavy_cavalry_defensive = 0.05
 			light_cavalry_defensive = 0.05
+			horse_skirmishers_defensive = 0.05
 			horse_archers_defensive = 0.05
 		}
 		allow = {
@@ -843,7 +848,10 @@ military_inventions = {
 
 	#Changed for Invictus
 	heavy_infantry_cost_inv = {
-		modifier = { heavy_infantry_cost = -0.1 }
+		modifier = {
+			heavy_infantry_cost = -0.1
+			pikemen_cost = -0.1
+		}
 		requires = { heavy_cavalry_discipline_inv }
 	}
 
@@ -904,6 +912,7 @@ military_inventions = {
     	modifier = { 
     		heavy_cavalry_morale = 0.05
     		light_cavalry_morale = 0.05
+    		horse_skirmishers_morale = 0.05
     		horse_archers_morale = 0.05
     	}
         
@@ -973,8 +982,8 @@ military_inventions = {
 	#New Invictus invention
     bloomeries_inv = { 
         modifier = {
-        	slaves_move_cost_modifier -0.15
-        	global_tax_income = 0.05
+        	slaves_move_cost_modifier = -0.15
+        	global_tax_modifier = 0.05
         }
         
         requires = { heavy_infantry_cost_inv }
@@ -985,11 +994,16 @@ military_inventions = {
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					has_variable = nubian_science
+					OR = {
+						has_variable = nubian_science
+						has_variable = new_egyptian_dynasty
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}
 				}
 			}
@@ -1024,18 +1038,23 @@ military_inventions = {
         }
         
         requires = { bloomeries_inv }
-        allow = {
+		allow = {
 			OR = {
 				country_culture_group = meroitic_group
 				country_culture_group = aksumite_group
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					has_variable = nubian_science
+					OR = {
+						has_variable = nubian_science
+						has_variable = new_egyptian_dynasty
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}
 				}
 			}
@@ -1063,12 +1082,6 @@ military_inventions = {
 	helepolis_inv = { 
 		modifier = { siege_engineers = 1  }
 		requires = { siege_engineers_inv_6 }
-		allow = {
-			OR = {
-				tag = PRY
-				tag = ALX
-			}
-		}
 		keystone = yes
 	}
 
@@ -1122,8 +1135,11 @@ military_inventions = {
     ## Gallic Specific - Level 1
     #Vanilla invention modified for Invictus
     gallic_noric_steel_inv = {
-    	modifier = { light_infantry_offensive = 0.05
-    				 heavy_infantry_offensive = 0.05 }
+    	modifier = { 
+			light_infantry_offensive = 0.05
+			heavy_infantry_offensive = 0.05 
+			axemen_offensive = 0.05 
+		}
         requires = { gallic_oppidum_inv }
         allow = {
 			OR = {
@@ -1174,8 +1190,10 @@ military_inventions = {
     ## Gallic Specific - Level 2
     #Vanilla invention modified for Invictus
     gallic_celtic_plough_inv = {
-    	modifier = { global_tribesmen_output = 0.1 
-    				 global_population_growth = 0.01 }
+    	modifier = { 
+			global_tribesmen_output = 0.1 
+			global_population_growth = 0.01 
+		}
         requires = { gallic_noric_steel_inv }
         allow = {
 			OR = {
@@ -1202,6 +1220,7 @@ military_inventions = {
     gallic_chainmail_inv = {
     	modifier = { 
     		light_infantry_defensive  = 0.05 
+    		axemen_defensive  = 0.05
 			heavy_infantry_defensive = 0.05
     		heavy_cavalry_defensive = 0.05
 		}
@@ -1229,9 +1248,11 @@ military_inventions = {
 
     #Vanilla invention modified for Invictus
     gallic_four_horned_saddle_inv = {
-    	modifier = { light_cavalry_offensive = 0.1 
-    				 heavy_cavalry_offensive = 0.1 
-    				 horse_archers_offensive = 0.1}
+    	modifier = { 
+			light_cavalry_offensive = 0.1 
+			heavy_cavalry_offensive = 0.1 
+			horse_archers_offensive = 0.1
+		}
         requires = { gallic_celtic_calendar_inv }
 		allow = {
 			OR = {
@@ -1257,8 +1278,11 @@ military_inventions = {
     ## Gallic Specific - Level 3
     #Vanilla invention modified for Invictus
     gallic_montefortino_helmet_inv = {
-    	modifier = { light_infantry_discipline = 0.1 
-    				 heavy_infantry_discipline = 0.1 }
+    	modifier = { 
+			light_infantry_discipline = 0.1 
+			heavy_infantry_discipline = 0.1
+			axemen_discipline = 0.1 
+		}
         requires = { gallic_celtic_plough_inv gallic_chainmail_inv }
         allow = {
 			OR = {
@@ -1481,13 +1505,17 @@ naval_tree = {
 					}
 				}
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 				country_culture_group = meroitic_group
@@ -1495,11 +1523,16 @@ naval_tree = {
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					has_variable = nubian_science
+					OR = {
+						has_variable = new_egyptian_dynasty
+						has_variable = nubian_science
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}	
 				}
 				tag = TYO
@@ -1599,13 +1632,17 @@ naval_tree = {
 					}
 				}
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 				country_culture_group = meroitic_group
@@ -1613,11 +1650,16 @@ naval_tree = {
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
-					has_variable = nubian_science
+					OR = {
+						has_variable = new_egyptian_dynasty
+						has_variable = nubian_science
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}	
 				}
 				tag = TYO
@@ -1639,14 +1681,20 @@ naval_tree = {
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
+					OR = {
+						has_variable = new_egyptian_dynasty
+						has_variable = nubian_science
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}	
 				}
 			}
-		} 
+		}
     }
 
         #New Invictus invention
@@ -1660,13 +1708,17 @@ naval_tree = {
         allow = {
 			OR = {
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 			}
@@ -1959,8 +2011,10 @@ naval_tree = {
 
 	# Level 10
 	double_bow_and_stern_inv_2 = {
-		modifier = { octere_defensive = 0.05 
-					 mega_galley_defensive = 0.05 }
+		modifier = {
+			octere_defensive = 0.05 
+			mega_galley_defensive = 0.05 
+		}
 		requires = { global_ship_recruit_speed_inv }					 
 	}
 
@@ -1971,8 +2025,10 @@ naval_tree = {
 
 	# Level 11
 	naval_rostra_inv_4 = {
-		modifier = { octere_discipline = 0.05
-					 mega_galley_discipline = 0.05 }
+		modifier = {
+			octere_discipline = 0.05
+			mega_galley_discipline = 0.05 
+		}
 		requires = { double_bow_and_stern_inv_2 mega_catamaran_inv }		
 	}
 }

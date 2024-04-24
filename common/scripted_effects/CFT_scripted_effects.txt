@@ -713,10 +713,10 @@ ai_civic_take_focus_perk_effect = {
                     free_building_slots > 0
                     has_city_status = yes
                     NOT = {
-                        has_building = government_building
+                        has_building = forum_building
                     }
                 }
-                add_building_level = government_building
+                add_building_level = forum_building
             }
         }
         set_variable = local_forums_var		

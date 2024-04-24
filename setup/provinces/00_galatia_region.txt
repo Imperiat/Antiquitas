@@ -33,7 +33,7 @@
 }
 
 174={ #Kongoustos
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="salt"
@@ -82,7 +82,7 @@
 }
 
 176={ #Ekdaumaua
-	terrain="dry_plains"
+	terrain="steppes"
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods="horses"
@@ -109,7 +109,7 @@
 }
 
 177={ #Kindyria
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="wild_game"
@@ -187,7 +187,7 @@
 }
 
 180={ #Keissia
-	terrain="dry_plains"
+	terrain="steppes"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="leather"
@@ -210,7 +210,7 @@
 }
 
 181={ #Klaneos
-	terrain="dry_plains"
+	terrain="steppes"
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods="vegetables"
@@ -423,7 +423,7 @@
 }
 
 191={ #Ouetissos
-	terrain="dry_plains"
+	terrain="steppes"
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods="horses"
@@ -1035,6 +1035,7 @@
 	tribesmen={
 		amount=2
 	}
+	holy_site=omen_sangarios
 }
 
 314={ #Nakoleia
@@ -1217,7 +1218,7 @@
 }
 
 1777={ #Azareis
-	terrain="dry_plains"
+	terrain="steppes"
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods="grain"
@@ -1367,7 +1368,7 @@
 }
 
 1914={ #Perta
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="wine"
@@ -1397,7 +1398,7 @@
 }
 
 1916={ #Kanna
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="horses"
@@ -1537,7 +1538,7 @@
 }
 
 1924={ #Pappa
-	terrain="dry_plains"
+	terrain="plains"
 	culture="oroandian"
 	religion="anatolian_religion"
 	trade_goods="cloth"
@@ -1655,7 +1656,7 @@
 }
 
 1934={ #Ikonion
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="cloth"
@@ -1938,7 +1939,7 @@
 }
 
 1950={ #Derbe
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="leather"
@@ -2015,7 +2016,7 @@
 }
 
 1971={ #Soatra
-	terrain="dry_plains"
+	terrain="plains"
 	culture="lycaonian"
 	religion="anatolian_religion"
 	trade_goods="salt"

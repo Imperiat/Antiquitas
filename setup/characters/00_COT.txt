@@ -27,6 +27,7 @@
 		female=yes
 		family = c:COT.fam:Kypselid
 		nickname="Melissa"
+		birth_date=118.1.1 #placeholder birth
 		culture="doric"
 		religion="greek_pantheon"
 		marry_character=char:16

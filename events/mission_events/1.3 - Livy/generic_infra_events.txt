@@ -65,7 +65,7 @@ generic_infra_mission.1 = {
 				save_scope_as = religious_spokesman
 			}
 		}
-		else = {
+		else_if = {
 			limit = {
 				any_character = {
 					is_ruler = no
@@ -279,7 +279,7 @@ generic_infra_mission.4 = { #Ending Ceremony
 				save_scope_as = religious_spokesman
 			}
 		}
-		else = {
+		else_if = {
 			limit = {
 				any_character = {
 					is_ruler = no
@@ -1261,11 +1261,9 @@ generic_infra_mission.20 = {
 				add_prestige = -50
 				if = {
 					limit = { exists = scope:holding_to_be_removed }
-					if = {
-						random_family_member = {
-							limit = { has_holding_in = scope:holding_to_be_removed }
-							remove_holding = scope:holding_to_be_removed
-						}
+					random_family_member = {
+						limit = { has_holding_in = scope:holding_to_be_removed }
+						remove_holding = scope:holding_to_be_removed
 					}
 				}
 				else = {
@@ -1277,11 +1275,9 @@ generic_infra_mission.20 = {
 				}
 				if = {
 					limit = { exists = scope:holding_to_be_removed_2 }
-					if = {
-						random_family_member = {
-							limit = { has_holding_in = scope:holding_to_be_removed_2 }
-							remove_holding = scope:holding_to_be_removed_2
-						}
+					random_family_member = {
+						limit = { has_holding_in = scope:holding_to_be_removed_2 }
+						remove_holding = scope:holding_to_be_removed_2
 					}
 				}
 				else = {
@@ -1293,11 +1289,9 @@ generic_infra_mission.20 = {
 				}
 				if = {
 					limit = { exists = scope:holding_to_be_removed_3 }
-					if = {
-						random_family_member = {
-							limit = { has_holding_in = scope:holding_to_be_removed_3 }
-							remove_holding = scope:holding_to_be_removed_3
-						}
+					random_family_member = {
+						limit = { has_holding_in = scope:holding_to_be_removed_3 }
+						remove_holding = scope:holding_to_be_removed_3
 					}
 				}
 				else = {
@@ -1353,7 +1347,7 @@ generic_infra_mission.22 = {
 			any_state_province = {
 				OR = {
 					terrain = hills
-					terrain = mountains
+					terrain = mountain
 				}
 				NOT = { has_variable = found_something_but_did_not_mine }
 				has_unminable_trade_good_trigger = yes
@@ -1367,7 +1361,7 @@ generic_infra_mission.22 = {
 				limit = {
 					OR = {
 						terrain = hills
-						terrain = mountains
+						terrain = mountain
 					}
 					NOT = { has_variable = found_something_but_did_not_mine }
 					has_unminable_trade_good_trigger = yes
@@ -1417,7 +1411,7 @@ generic_infra_mission.23 = {
 			any_state_province = {
 				OR = {
 					terrain = hills
-					terrain = mountains
+					terrain = mountain
 				}
 				NOT = { has_variable = found_something_but_did_not_mine }
 				has_unminable_trade_good_trigger = yes
@@ -1431,7 +1425,7 @@ generic_infra_mission.23 = {
 				limit = {
 					OR = {
 						terrain = hills
-						terrain = mountains
+						terrain = mountain
 					}
 					NOT = { has_variable = found_something_but_did_not_mine }
 					has_unminable_trade_good_trigger = yes
@@ -1481,7 +1475,7 @@ generic_infra_mission.24 = {
 			any_state_province = {
 				OR = {
 					terrain = hills
-					terrain = mountains
+					terrain = mountain
 					terrain = desert
 				}
 				NOT = { has_variable = found_something_but_did_not_mine }
@@ -1496,7 +1490,7 @@ generic_infra_mission.24 = {
 				limit = {
 					OR = {
 						terrain = hills
-						terrain = mountains
+						terrain = mountain
 					}
 					NOT = { has_variable = found_something_but_did_not_mine }
 					has_unminable_trade_good_trigger = yes
@@ -1546,7 +1540,7 @@ generic_infra_mission.25 = {
 			any_state_province = {
 				OR = {
 					terrain = hills
-					terrain = mountains
+					terrain = mountain
 					terrain = desert
 				}
 				NOT = { has_variable = found_something_but_did_not_mine }
@@ -1561,7 +1555,7 @@ generic_infra_mission.25 = {
 				limit = {
 					OR = {
 						terrain = hills
-						terrain = mountains
+						terrain = mountain
 						terrain = desert
 					}
 					NOT = { has_variable = found_something_but_did_not_mine }
@@ -1612,7 +1606,7 @@ generic_infra_mission.26 = {
 			any_state_province = {
 				OR = {
 					terrain = hills
-					terrain = mountains
+					terrain = mountain
 					terrain = desert
 				}
 				NOT = { has_variable = found_something_but_did_not_mine }
@@ -1627,7 +1621,7 @@ generic_infra_mission.26 = {
 				limit = {
 					OR = {
 						terrain = hills
-						terrain = mountains
+						terrain = mountain
 						terrain = desert
 					}
 					NOT = { has_variable = found_something_but_did_not_mine }
@@ -1664,7 +1658,7 @@ generic_infra_mission.27 = {
 			any_state_province = {
 				OR = {
 					terrain = hills
-					terrain = mountains
+					terrain = mountain
 					terrain = desert
 				}
 				NOT = { has_variable = found_something_but_did_not_mine }
@@ -1679,7 +1673,7 @@ generic_infra_mission.27 = {
 				limit = {
 					OR = {
 						terrain = hills
-						terrain = mountains
+						terrain = mountain
 						terrain = desert
 					}
 					NOT = { has_variable = found_something_but_did_not_mine }
@@ -1725,12 +1719,14 @@ generic_infra_mission.28 = {
 			}
 			if = {
 				limit = { exists = scope:characters_from_here }
-				random_state_province = {
-					limit = {
-						is_state_capital = no
-						NOT = { THIS = scope:characters_from_here }
-					}
-					save_scope_as = characters_from_here_too
+				state = {
+					random_state_province = {
+						limit = {
+							is_state_capital = no
+							NOT = { THIS = scope:characters_from_here }
+						}
+						save_scope_as = characters_from_here_too
+					}				 
 				}
 			}
 		}

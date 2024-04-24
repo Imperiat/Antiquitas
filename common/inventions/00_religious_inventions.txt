@@ -11,12 +11,6 @@ religious_1 = {
 				add = 500000
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank >= regional_power
 				}
 			}
@@ -32,12 +26,6 @@ religious_1 = {
 				add = 500000
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank >= regional_power
 				}
 			}
@@ -61,12 +49,6 @@ religious_1 = {
 				add = 500000
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank >= regional_power
 				}
 			}
@@ -117,12 +99,6 @@ religious_1 = {
 				add = 100
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 				is_monarchy = yes
@@ -231,12 +207,6 @@ religious_1 = {
 				add = 100
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 				is_monarchy = yes
@@ -411,13 +381,17 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 			}
@@ -438,12 +412,6 @@ religious_1 = {
 				add = 100
 				OR = {
 					is_antagonist = yes
-					tag = SEL
-					tag = TRE
-					tag = EGY
-					tag = MAC
-					tag = EPI
-					tag = ALX
 					rank > regional_power
 				}
 				is_monarchy = yes
@@ -453,6 +421,16 @@ religious_1 = {
 			if = {
 				limit = { is_monarchy = yes }
 				custom_tooltip = conversion_policy_law_unlock
+				if = {
+					limit = { is_ai = yes }
+					if = {
+						limit = { religious_unity <= 0.5 }
+						change_law = religious_integration_efforts
+					}
+					else = {
+						change_law = monarchy_religious_mandate_military
+					}
+				}
 			}
 			random_character = {
 				limit = {
@@ -819,11 +797,16 @@ religious_1 = {
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
+					OR = {
 					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}	
 				}
 			}
@@ -994,11 +977,16 @@ religious_1 = {
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_nubian_culture
+					OR = {
 					has_variable = nubian_science
+					has_variable = new_egyptian_dynasty
+					}
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:meroitic_group
-						this.culture.culture_group = culture_group:aksumite_group
+						OR = {
+							this.culture.culture_group = culture_group:meroitic_group
+							this.culture.culture_group = culture_group:aksumite_group
+						}
 					}	
 				}
 			}
@@ -1045,6 +1033,7 @@ religious_1 = {
 		allow = {
 			OR = {
 				RELIGION = hindu
+				RELIGION = agama
 				primary_culture = triballoi
 			}			
 		}
@@ -1106,13 +1095,17 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = south_levantine
+				country_culture_group = south_arabian
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_arabian_culture
 					has_variable = arabian_science
 					any_country_culture = {
 						is_integrated = yes
-						this.culture.culture_group = culture_group:south_levantine
+						OR = {
+							this.culture.culture_group = culture_group:south_levantine
+							this.culture.culture_group = culture_group:south_arabian
+						}
 					}
 				}
 			}

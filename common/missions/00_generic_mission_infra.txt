@@ -28,6 +28,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 			}
 		}
+		invictus_mission_block_trigger = yes
 		has_civil_war = no
 	}
 	
@@ -1356,7 +1357,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 						fort_level >= 1
 					}
 					has_city_status = yes
-					num_of_taxation_building >= 2
+					num_of_town_hall_building >= 2
 				}
 			}
 			trigger_else = {
@@ -1386,8 +1387,8 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 				add_treasury = -150
 				scope:governorship_capital = {
-					add_building_level = taxation_building
-					add_building_level = taxation_building
+					add_building_level = town_hall_building
+					add_building_level = town_hall_building
 					add_building_level = fortress_building
 				}
 			}
@@ -1602,7 +1603,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 			trigger_else = {
 				scope:governorship_capital = {
 					has_building = housing_building
-					has_building = security_building
+					has_building = court_building
 					has_building = depot_building
 				}
 			}
@@ -2060,12 +2061,12 @@ generic_mission_home_infrastructure = { #Fix up Region
 		}
 
 		on_bypass = {
-			if = {
-				limit = {
-					scope:food_province = { potential_farms_in_province_svalue < 2 }
-				}
-				trigger_event = generic_infra_mission.37
-			}
+			#if = {
+			#	limit = {
+			#		scope:food_province = { potential_farms_in_province_svalue < 2 }
+			#	}
+			#	trigger_event = generic_infra_mission.37
+			#}
 		}
 	}
 
@@ -2484,7 +2485,7 @@ generic_mission_home_infrastructure = { #Fix up Region
 				}
 			}
 			scope:ship_building_center = {
-				num_of_manufacturing_building >= 1
+				num_of_foundry_building >= 1
 			}
 		}
 		highlight = {
@@ -2881,10 +2882,10 @@ generic_mission_home_infrastructure = { #Fix up Region
 				scope:urbanize_area_city = {
 					while = {
 						limit = {
-							num_of_taxation_building < 2
+							num_of_town_hall_building < 2
 							free_building_slots >= 1
 						}
-						add_building_level = taxation_building
+						add_building_level = town_hall_building
 					}
 				}
 			}

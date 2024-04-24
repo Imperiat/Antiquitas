@@ -91,7 +91,7 @@
 	slaves={
 		amount=3
 	}
-	holy_site=omen_sin
+	holy_site=omen_nusku
 }
 
 820={ #Kommisimbela
@@ -130,11 +130,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -207,7 +202,7 @@
 	terrain="hills"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="wild_game"
+	trade_goods="opium"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -292,17 +287,9 @@
 		amount=2
 	}
 	slaves={
-		religion="mesopotamian_religion"
-		amount=1
-	}
-	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="mesopotamian_religion"
 		amount=1
 	}
 }
@@ -315,10 +302,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		culture="pasargadi"
-		amount=1
-	}
 	citizen={
 		amount=3
 	}
@@ -326,22 +309,8 @@
 		culture="pasargadi"
 		amount=1
 	}
-	citizen={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=2
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
 	}
 	slaves={
 		amount=1
@@ -385,19 +354,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	slaves={
-		culture="aramaic"
-		amount=1
-	}
-	slaves={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -414,31 +370,13 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="cataonian"
-		religion="anatolian_religion"
-		amount=1
-	}
 	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="anatolian_religion"
 		amount=1
 	}
 	slaves={
 		amount=3
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="cataonian"
-		religion="anatolian_religion"
 		amount=1
 	}
 }
@@ -453,15 +391,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=2
-	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	slaves={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=2
@@ -491,6 +420,7 @@
 	tribesmen={
 		amount=3
 	}
+	holy_site=omen_tork_angegh
 }
 
 842={ #Tigranokerta
@@ -519,7 +449,7 @@
 	terrain="hills"
 	culture="armenian"
 	religion="zoroaster"
-	trade_goods="leather"
+	trade_goods="opium"
 	civilization_value=34
 	barbarian_power=0
 	province_rank="city"
@@ -527,34 +457,12 @@
 		amount=5
 	}
 	freemen={
-		religion="armenian_religion"
-		amount=1
-	}
-	freemen={
 		amount=4
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
 	}
 	slaves={
 		amount=4
 	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	tribesmen={
-		culture="assyrian"
-		amount=1
-	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=1
-	}
-	tribesmen={
+	tribesmen={			
 		amount=3
 	}
 }
@@ -747,7 +655,7 @@
 	}
 }
 
-858={ #PROV858_armenian
+858={ #Arshamashat
 	terrain="hills"
 	culture="armenian"
 	religion="anatolian_religion"
@@ -798,7 +706,7 @@
 	}
 }
 
-860={ #PROV860_armenian
+860={ #Kharberd
 	terrain="hills"
 	culture="armenian"
 	religion="zoroaster"
@@ -921,6 +829,7 @@
 	tribesmen={
 		amount=2
 	}
+	holy_site=omen_istaran
 }
 
 865={ #Gaugamela
@@ -1108,6 +1017,7 @@
 	tribesmen={
 		amount=3
 	}
+	holy_site=omen_ishara
 }
 
 873={ #Asson
@@ -1150,6 +1060,7 @@
 	tribesmen={
 		amount=4
 	}
+	holy_site=omen_ninazu
 }
 
 875={ #Zagourai
@@ -1281,13 +1192,14 @@
 	tribesmen={
 		amount=9
 	}
+	holy_site=omen_dumuzid
 }
 
 881={ #Hliz
 	terrain="plains"
 	culture="assyrian"
 	religion="zoroaster"
-	trade_goods="leather"
+	trade_goods="opium"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"

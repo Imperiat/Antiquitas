@@ -58,7 +58,7 @@
 				employer = {
 					NOR = { 
 						has_law = elevate_monarch_monarchy
-						has_law = elevate_prophet_monarch_monarchy
+						#has_law = elevate_prophet_monarch_monarchy
 					}
 				}
 			}
@@ -70,7 +70,7 @@
 					OR = {
 						legitimacy >= 90
 						has_law = elevate_monarch_monarchy
-						has_law = elevate_prophet_monarch_monarchy
+						#has_law = elevate_prophet_monarch_monarchy
 					}
 				}
 			}
@@ -81,14 +81,14 @@
 				employer = {
 					OR = {
 						has_law = elevate_monarch_monarchy
-						has_law = elevate_prophet_monarch_monarchy
+						#has_law = elevate_prophet_monarch_monarchy
 					}
 				}
 			}
 			employer = {
 				OR = {
 					has_law = elevate_monarch_monarchy
-					has_law = elevate_prophet_monarch_monarchy
+					#has_law = elevate_prophet_monarch_monarchy
 				}
 			}
 		}
@@ -171,50 +171,7 @@
 									factor = 2
 									stability > 60
 								}
-								if = {
-									limit = {
-										tag = EGY
-										exists = fam:Lagid
-										scope:nominee = {
-											is_minor_character = no
-											family = employer.fam:Lagid
-										}
-									}
-									trigger_event = { id = heir_events.6 }
-								}
-								else_if = {
-									limit = {
-										tag = SEL
-										exists = fam:Seleukid
-										scope:nominee = {
-											is_minor_character = no
-											family = employer.fam:Seleukid
-										}
-									}
-									trigger_event = { id = heir_events.7 }
-								}
-								else_if = {
-									limit = {
-										exists = fam:Antigonid
-										scope:nominee = {
-											is_minor_character = no
-											family = employer.fam:Antigonid
-										}
-									}
-									trigger_event = { id = heir_events.8 }
-								}
-								else_if = {
-									limit = {
-										OR = {
-											tag = MAC
-											tag = EPI
-										}
-									}
-									trigger_event = { id = heir_events.9 }
-								}
-								else = {
-									trigger_event = { id = heir_events.10 }
-								}
+								trigger_event = { id = heir_events.10 }
 							}
 						}
 					}

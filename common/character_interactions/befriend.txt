@@ -101,6 +101,14 @@
 		}
 	}
 	
+	ai_will_do = {
+		modifier = {
+			add = 1
+			trigger = {				
+				power_base >= 5
+			}
+		}
+	}
 }
 
 defriend = {

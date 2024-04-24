@@ -1,4 +1,7 @@
-﻿carthaginian_mission_magna_graecia_port_city_trigger = {
+﻿invictus_mission_block_trigger = {
+
+}
+carthaginian_mission_magna_graecia_port_city_trigger = {
 	exists = owner
 	owner = {
 		opinion = {
@@ -117,6 +120,7 @@ has_tendency_to_tyranny_trigger = {
 		has_trait = vengeful
 		has_trait = righteous
 		has_trait = arbitrary
+		has_trait = pyromaniac
 		has_variable = me_syr_leadership_betrayal
 		has_variable = deinokrates_refused_flag
 		has_variable = me_syr_leadership_enflamed
@@ -326,28 +330,35 @@ food_trade_good_trigger = {
 		trade_goods = cattle
 		trade_goods = vegetables
 		trade_goods = fruits
-		trade_goods = sugar
+		trade_goods = honey
 		trade_goods = dates
+		trade_goods = rice
+		trade_goods = citrus
     }
 }
 
 valuable_trade_good_trigger = {
     OR = {
-        trade_goods = glass
-        trade_goods = papyrus
-        trade_goods = cloth
-        trade_goods = earthware
-        trade_goods = marble
-        trade_goods = incense
-        trade_goods = gems
-        trade_goods = silk
-        trade_goods = amber
+		trade_goods = amber
+		trade_goods = spices
+		trade_goods = precious_metals
+		trade_goods = gems
+		trade_goods = lapis
+		trade_goods = glass
+		trade_goods = elephants
+		trade_goods = honey
+		trade_goods = papyrus
+		trade_goods = dye
+		trade_goods = marble
+		trade_goods = incense
+		trade_goods = silk
 		trade_goods = sugar
 		trade_goods = myrrh
 		trade_goods = cinnabar
-		trade_goods = lapis
-		trade_goods = jade
 		trade_goods = silphium
+		# ti
+		trade_goods = porcelain
+		trade_goods = pearls
     }
 }
 
@@ -1185,7 +1196,7 @@ ai_mission_back_out_trigger = {
 egy_wedding_trigger = {
 	NOR = {
         p:790 = { is_previous_owner = $COUNTRY$ }
-        war_with = $COUNTRY$`
+        war_with = $COUNTRY$
     }
     exists = $FAMILY$
 }

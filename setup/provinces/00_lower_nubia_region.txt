@@ -66,7 +66,7 @@
 	holy_site=omen_isis
 }
 
-592={ #Talmes
+592={ #Talmis
 	terrain="flood_plain"
 	culture="lower_nubian"
 	religion="egyptian_pantheon"
@@ -83,6 +83,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site="omen_anuket"
 }
 
 593={ #Per-Selk
@@ -159,7 +160,7 @@
 	terrain="flood_plain"
 	culture="lower_nubian"
 	religion="egyptian_pantheon"
-	trade_goods="wild_game"
+	trade_goods="exotic_beasts"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -988,6 +989,7 @@
 		religion="egyptian_pantheon"
 		amount=3
 	}
+	holy_site="omen_sebiumeker"
 }
 
 635={ #Galim

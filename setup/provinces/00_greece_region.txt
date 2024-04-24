@@ -16,8 +16,8 @@
 		amount=4
 	}
 	port_building=1
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -111,7 +111,7 @@
 	}
 	holy_site=omen_ariadne
 	port_building=1
-	transportation_building=1
+	road_building=1
 	agriculture_building=1
 }
 
@@ -152,7 +152,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 367={ #Kydonia
@@ -197,7 +197,7 @@
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
-	trade_goods="olive"
+	trade_goods="pearls"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -322,7 +322,7 @@
 		amount=4
 	}
 	port_building=1
-	government_building=1
+	forum_building=1
 	shrine_building=1
 }
 
@@ -341,7 +341,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 }
 
 407={ #Chalkis
@@ -365,8 +365,8 @@
 		amount=4
 	}
 	port_building=1
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -389,7 +389,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 410={ #Oichalia Euboike
@@ -449,9 +449,9 @@
 	}
 	holy_site=omen_athena
 	port_building=1
-	government_building=1
+	forum_building=1
 	commerce_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	recreation_building=1
 	production_building=1
@@ -482,7 +482,7 @@
 		amount=3
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -511,8 +511,8 @@
 		amount=6
 	}
 	port_building=1
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 	recreation_building=1
 	production_building=1
@@ -571,8 +571,8 @@
 	tribesmen={
 		amount=4
 	}
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 	agriculture_building=1
 }
@@ -649,9 +649,9 @@
 		amount=4
 	}
 	holy_site=omen_dionysus
-	government_building=1
+	forum_building=1
 	commerce_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	recreation_building=1
 	production_building=1
@@ -680,7 +680,7 @@
 	slaves={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -740,7 +740,7 @@
 		amount=6
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 432={ #Mothone
@@ -874,7 +874,7 @@
 	terrain="forest"
 	culture="elean"
 	religion="greek_pantheon"
-	trade_goods="olive"
+	trade_goods="citrus"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -915,8 +915,8 @@
 	}
 	holy_site=omen_hera
 	port_building=1
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -940,7 +940,7 @@
 	}
 	holy_site=omen_asclepius
 	port_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	healthcare_building=2
 }
@@ -973,9 +973,9 @@
 		amount=4
 	}
 	port_building=1
-	government_building=1
+	forum_building=1
 	commerce_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -1014,7 +1014,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 446={ #Elis
@@ -1116,7 +1116,7 @@
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
-	trade_goods="wine"
+	trade_goods="pearls"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -1135,7 +1135,7 @@
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
-	trade_goods="wine"
+	trade_goods="pearls"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -1203,7 +1203,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -1298,7 +1298,7 @@
 	terrain="farmland"
 	culture="kerkyran"
 	religion="greek_pantheon"
-	trade_goods="olive"
+	trade_goods="opium"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="city"
@@ -1318,7 +1318,7 @@
 	}
 	fortress_building=1
 	port_building=1
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -1368,7 +1368,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 	production_building=1
 }
 
@@ -1425,7 +1425,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 469={ #Thaumakoi
@@ -1462,14 +1462,14 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 471={ #Kythera
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
-	trade_goods="wine"
+	trade_goods="pearls"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
@@ -1499,7 +1499,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1f
+	road_building=1f
 }
 
 473={ #Leuktra
@@ -1542,7 +1542,7 @@
 	terrain="hills"
 	culture="north_western_doric"
 	religion="greek_pantheon"
-	trade_goods="earthware"
+	trade_goods="opium"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -1592,8 +1592,8 @@
 	}
 	holy_site=omen_poseidon
 	port_building=1
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -1616,7 +1616,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 1915={ #Paros
@@ -1657,7 +1657,7 @@
 		amount=2
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 3192={ #Byllis
@@ -1710,7 +1710,7 @@
 	tribesmen={
 		amount=6
 	}
-	transportation_building=1
+	road_building=1
 }
 
 7802={ #Tanagra
@@ -1782,7 +1782,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 7891={ #Thyreai
@@ -1910,7 +1910,7 @@
 	tribesmen={
 		amount=6
 	}
-	transportation_building=1
+	road_building=1
 }
 
 7899={ #Kerinthos
@@ -1927,7 +1927,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 }
 
 7901={ #Eretria
@@ -1951,7 +1951,7 @@
 		amount=4
 	}
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 7902={ #Salamis
@@ -1986,7 +1986,7 @@
 	}
 	holy_site=omen_hestia
 	port_building=1
-	transportation_building=1
+	road_building=1
 }
 
 7904={ #Styra
@@ -2039,8 +2039,8 @@
 		amount=4
 	}
 	port_building=1
-	government_building=1
-	transportation_building=1
+	forum_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -2048,7 +2048,7 @@
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
-	trade_goods="vegetables"
+	trade_goods="citrus"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"

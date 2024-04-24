@@ -189,7 +189,7 @@
 	terrain="plains"
 	culture="troan"
 	religion="greek_pantheon"
-	trade_goods="iron"
+	trade_goods="pearls"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
@@ -346,7 +346,7 @@
 	terrain="hills"
 	culture="troan"
 	religion="greek_pantheon"
-	trade_goods="cattle"
+	trade_goods="opium"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
@@ -904,6 +904,7 @@
 	tribesmen={
 		amount=1
 	}
+	holy_site=omen_sipylene
 }
 
 298={ #Aigai
@@ -1377,7 +1378,7 @@
 	terrain="hills"
 	culture="carian"
 	religion="greek_pantheon"
-	trade_goods="olive"
+	trade_goods="opium"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"

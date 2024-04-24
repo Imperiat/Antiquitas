@@ -1275,7 +1275,7 @@
 }
 
 10258={ #Psel
-	terrain="steppe"
+	terrain="steppes"
 	culture="budinian"
 	religion="matrist_religion"
 	trade_goods="grain"
@@ -1291,7 +1291,7 @@
 }
 
 10259={ #Orlik
-	terrain="steppe"
+	terrain="steppes"
 	culture="budinian"
 	religion="matrist_religion"
 	trade_goods="woad"
@@ -1304,7 +1304,7 @@
 }
 
 10260={ #Oskil
-	terrain="steppe"
+	terrain="steppes"
 	culture="melanchlaenian"
 	religion="matrist_religion"
 	trade_goods="leather"

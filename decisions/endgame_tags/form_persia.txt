@@ -124,7 +124,6 @@
 				region:ariana_region = { formable_region_province_effect = yes }
 				region:mesopotamia_region = { formable_region_province_effect = yes }
 				region:bactriana_region = { formable_region_province_effect = yes }
-				region:gedrosia_region = { formable_region_province_effect = yes }
 				region:assyria_region = { formable_region_province_effect = yes }
 			}
 			add_5_free_province_investments = yes

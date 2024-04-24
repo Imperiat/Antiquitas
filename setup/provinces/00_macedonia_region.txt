@@ -18,7 +18,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -132,7 +132,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -172,7 +172,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -180,7 +180,7 @@
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"
-	trade_goods="leather"
+	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -193,7 +193,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -214,7 +214,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	port_building=1
 }
@@ -249,7 +249,7 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -305,7 +305,7 @@
 	terrain="plains"
 	culture="macedonian"
 	religion="greek_pantheon"
-	trade_goods="wood"
+	trade_goods="citrus"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
@@ -389,7 +389,7 @@
 	slaves={
 		amount=2
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 }
 
@@ -532,7 +532,8 @@
 	tribesmen={
 		amount=6
 	}
-	transportation_building=1
+	holy_site=omen_dualos
+	road_building=1
 }
 
 398={ #Halos
@@ -718,7 +719,7 @@
 	terrain="plains"
 	culture="macedonian"
 	religion="greek_pantheon"
-	trade_goods="grain"
+	trade_goods="rice"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
@@ -839,6 +840,7 @@
 	tribesmen={
 		amount=8
 	}
+	holy_site=omen_redon
 }
 
 3125={ #Keletron
@@ -903,6 +905,7 @@
 	tribesmen={
 		amount=8
 	}
+	holy_site=omen_dracondracaena
 }
 
 4097={ #Helice
@@ -1046,10 +1049,10 @@
 	tribesmen={
 		amount=4
 	}
-	transportation_building=1
+	road_building=1
 	shrine_building=1
 	port_building=1
-	government_building=1
+	forum_building=1
 }
 
 8023={ #Tempe Pass

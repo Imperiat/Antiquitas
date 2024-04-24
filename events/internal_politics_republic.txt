@@ -383,9 +383,7 @@ ip_republic.5 = {
 		}
 		if = {
 			limit = { 
-				employer = {
-					character_democratic_party_trigger = yes
-				}
+				character_democratic_party_trigger = yes
 			}
 			employer = {
 				democratic_approval_effect = {
@@ -3150,7 +3148,7 @@ ip_republic.40 = { #law changes corruption
 			}
 			ROOT = { 
 				add_party_approval = {
-					party = PREV.PREV
+					party = PREV
 					value = party_disapproval_small
 				}
 			}
@@ -3260,7 +3258,7 @@ ip_republic.41 = { #law changes corruption
 			}
 			ROOT = { 
 				add_party_approval = {
-					party = PREV.PREV
+					party = PREV
 					value = party_disapproval_small
 				}
 			}
@@ -3329,7 +3327,7 @@ ip_republic.41 = { #law changes corruption
 			}
 			ROOT = {
 				add_party_approval = {
-					party = PREV.PREV
+					party = PREV
 					value = party_disapproval_medium
 				}
 			}
@@ -4168,7 +4166,7 @@ ip_republic.47 = {
 					save_scope_as = iter_army
 				}
 			}
-			else_if = {
+			else = {
 				random_character = {
 					limit = {
 						NOR = {
@@ -6153,7 +6151,11 @@ ip_republic.64 = {
 		name = "ip_republic.64.b"
 		trigger = {
 			current_ruler = {
-				has_trait = crafty
+				OR = {
+					has_trait = crafty
+					has_trait = intimidating
+				}
+				
 			}
 		}
 		custom_tooltip = crafty_tooltip
@@ -6265,6 +6267,7 @@ ip_republic.66 = {							# Oligarch Plot - Start
 				has_trait = arbitrary
 				has_trait = prominent
 				has_trait = victorious
+				has_trait = well_connected
 				power_base >= 10
 				is_rival = root.current_ruler
 			}
@@ -6343,6 +6346,7 @@ ip_republic.66 = {							# Oligarch Plot - Start
 					has_trait = arbitrary
 					has_trait = prominent
 					has_trait = victorious
+					has_trait = well_connected
 					power_base >= 10
 					is_rival = root.current_ruler
 				}
@@ -6406,6 +6410,7 @@ ip_republic.66 = {							# Oligarch Plot - Start
 					has_trait = rash
 					has_trait = reckless
 					has_trait = guileless
+					has_trait = impatient
 				}
 			}
 		}
@@ -6778,11 +6783,13 @@ ip_republic.68 = {							# Oligarch Plot - Supporter Gathered
 				has_trait = arrogant
 				has_trait = jealous
 				has_trait = crafty
+				has_trait = two_faced
 				NOR = {
 					has_trait = honest
 					has_trait = humble
 					has_trait = content
 					has_trait = lazy
+					has_trait = trustworthy
 				}
 				is_friend = scope:ip_rep_66_protagonist_temp
 				is_rival = root.current_ruler
@@ -6865,11 +6872,13 @@ ip_republic.68 = {							# Oligarch Plot - Supporter Gathered
 					has_trait = arrogant
 					has_trait = jealous
 					has_trait = crafty
+					has_trait = two_faced
 					NOR = {
 						has_trait = honest
 						has_trait = humble
 						has_trait = content
 						has_trait = lazy
+						has_trait = trustworthy
 						is_leader_of_party_type = democratic_party
 						is_leader_of_party_type = traditionalist_party
 					}
@@ -7366,16 +7375,16 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 				scope:ip_rep_66_supporting_city.free_building_slots >= 1
 				scope:ip_rep_66_supporting_city = {
 					AND = {
-						NOT = { has_building = government_building }
-						can_build_building = government_building
+						NOT = { has_building = forum_building }
+						can_build_building = forum_building
 					}
 					AND = {
 						can_build_building = library_building 
 						NOT = { has_building = library_building }
 					}
 					AND = {
-						can_build_building = taxation_building
-						NOT = { has_building = taxation_building }
+						can_build_building = town_hall_building
+						NOT = { has_building = town_hall_building }
 					}
 					AND = {
 						can_build_building = library_building
@@ -7457,7 +7466,7 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 					var:ip_rep_66_building_var = 1
 				}
 				scope:ip_rep_66_supporting_city = {
-					add_building_level = government_building
+					add_building_level = forum_building
 				}
 			}
 			else_if = {
@@ -7473,7 +7482,7 @@ ip_republic.72 = {							# Oligarch Plot - City Support
 					var:ip_rep_66_building_var = 3
 				}
 				scope:ip_rep_66_supporting_city = {
-					add_building_level = taxation_building
+					add_building_level = town_hall_building
 				}
 			}
 			else_if = {
@@ -7703,6 +7712,8 @@ ip_republic.73 = {							# Oligarch Plot - Popular Support
 					has_trait = conqueror
 					has_trait = benefactor
 					has_trait = scholar
+					has_trait = resourceful
+					has_trait = obsessive_perfectionist
 					num_loyal_cohorts > 5
 					wealth > 1000
 				}
@@ -9174,7 +9185,7 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 								has_variable = ip_rep_66_foreign_support_flag
 								root.var:ip_rep_66_foreign_support_flag = { has_land = yes }
 							}
-							any_country = { in_diplomatic_range = yes }
+							any_country = { in_diplomatic_range = root }
 						}
 					}
 				}
@@ -9189,7 +9200,7 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 								has_variable = ip_rep_66_foreign_support_flag
 								root.var:ip_rep_66_foreign_support_flag = { has_land = yes }
 							}
-							any_country = { in_diplomatic_range = yes }
+							any_country = { in_diplomatic_range = root }
 						}
 					}
 				}
@@ -9263,10 +9274,10 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 		if = {
 			limit = { 
 				NOT = { exists = scope:ip_rep_66_foreign_backer }
-				any_country = { in_diplomatic_range = yes }
+				any_country = { in_diplomatic_range = root }
 			}
 			random_country = {
-				limit = { in_diplomatic_range = yes }
+				limit = { in_diplomatic_range = root }
 				save_scope_as = ip_rep_66_foreign_backer
 			}
 		}
@@ -9367,7 +9378,7 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 				scope:ip_rep_66_protagonist = { has_variable = ip_rep_66_fled }
 				OR = {
 					exists = scope:ip_rep_66_foreign_backer
-					any_country = { in_diplomatic_range = yes }
+					any_country = { in_diplomatic_range = root }
 				}
 			}
 		}
@@ -9399,7 +9410,7 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 				scope:ip_rep_66_protagonist = { has_variable = ip_rep_66_fled }
 				OR = {
 					exists = scope:ip_rep_66_foreign_backer
-					any_country = { in_diplomatic_range = yes }
+					any_country = { in_diplomatic_range = root }
 				}
 			}
 			exists = scope:ip_rep_66_foreign_backer
@@ -9426,7 +9437,7 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 				scope:ip_rep_66_protagonist = { has_variable = ip_rep_66_fled }
 				OR = {
 					exists = scope:ip_rep_66_foreign_backer
-					any_country = { in_diplomatic_range = yes }
+					any_country = { in_diplomatic_range = root }
 				}
 			}
 		}
@@ -9728,10 +9739,10 @@ ip_republic.83 = {							# Oligarch Plot - Ostracise Attempt
 		else_if = {
 			limit = { 
 				NOT = { exists = scope:ip_rep_66_foreign_backer }
-				any_country = { in_diplomatic_range = yes }
+				any_country = { in_diplomatic_range = root }
 			}
 			random_country = {
-				limit = { in_diplomatic_range = yes }
+				limit = { in_diplomatic_range = root }
 				save_scope_as = ip_rep_66_foreign_backer
 			}
 		}
@@ -9855,7 +9866,7 @@ ip_republic.83 = {							# Oligarch Plot - Ostracise Attempt
 								owner = root
 							}
 						}
-						in_diplomatic_range = yes
+						in_diplomatic_range = root
 					}
 				}
 			}
@@ -9867,7 +9878,7 @@ ip_republic.83 = {							# Oligarch Plot - Ostracise Attempt
 								owner = root
 							}
 						}
-						in_diplomatic_range = yes
+						in_diplomatic_range = root
 					}
 				}
 				save_scope_as = ip_rep_84_banish
@@ -9936,10 +9947,10 @@ ip_republic.83 = {							# Oligarch Plot - Ostracise Attempt
 		if = {
 			limit = { 
 				NOT = { exists = scope:ip_rep_66_foreign_backer }
-				any_country = { in_diplomatic_range = yes }
+				any_country = { in_diplomatic_range = root }
 			}
 			random_country = {
-				limit = { in_diplomatic_range = yes }
+				limit = { in_diplomatic_range = root }
 				save_scope_as = ip_rep_66_foreign_backer
 			}
 		}
@@ -10068,7 +10079,7 @@ ip_republic.84 = {							# Oligarch Plot - Close (oligarchs seize power)
 								owner = root
 							}
 						}
-						in_diplomatic_range = yes
+						in_diplomatic_range = root
 					}
 				}
 			}
@@ -10088,7 +10099,7 @@ ip_republic.84 = {							# Oligarch Plot - Close (oligarchs seize power)
 								owner = root
 							}
 						}
-						in_diplomatic_range = yes
+						in_diplomatic_range = root
 					}
 				}
 				save_scope_as = ip_rep_84_banish
@@ -10190,6 +10201,7 @@ ip_republic.84 = {							# Oligarch Plot - Close (oligarchs seize power)
 					has_trait = merciful
 					has_trait = forgiving
 					has_trait = kindly
+					has_trait = easygoing
 				}
 			}
 		}

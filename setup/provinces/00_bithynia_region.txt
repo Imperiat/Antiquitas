@@ -613,6 +613,7 @@
 		culture="mariandynian"
 		amount=2
 	}
+	holy_site=omen_nana
 }
 
 237={ #Embolos

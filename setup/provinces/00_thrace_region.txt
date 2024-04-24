@@ -1,8 +1,8 @@
 ﻿270={ #Hephaistaia
 	terrain="hills"
 	culture="attican"
-	religion="greek_pantheon"
-	trade_goods="salt"
+	religion="roman_pantheon"
+	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="city"
@@ -15,6 +15,11 @@
 	slaves={
 		amount=1
 	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=3
+	}
 	holy_site=omen_hephaestus
 	port_building=1
 }
@@ -22,7 +27,7 @@
 297={ #Imbros
 	terrain="hills"
 	culture="attican"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=19
 	barbarian_power=0
@@ -36,12 +41,17 @@
 	slaves={
 		amount=1
 	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=2
+	}
 }
 
 341={ #Philia
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -61,7 +71,7 @@
 342={ #Salmydessos
 	terrain="forest"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -75,12 +85,16 @@
 	slaves={
 		amount=3
 	}
+	tribesmen={
+		religion="shamanism"
+		amount=2
+	}
 }
 
 343={ #Aulaiouteichos
 	terrain="farmland"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=28
 	barbarian_power=0
@@ -88,15 +102,23 @@
 	citizen={
 		amount=1
 	}
+	freemen={
+		culture="macedonian"
+		amount=2
+	}
 	slaves={
 		amount=1
+	}
+	tribesmen={
+		religion="shamanism"
+		amount=2
 	}
 }
 
 345={ #Selymbria
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -104,15 +126,28 @@
 	freemen={
 		amount=2
 	}
+	freemen={
+		culture="bithynian"
+		amount=1
+	}
 	slaves={
 		amount=1
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=1
+	}
+	tribesmen={
+		culture="bithynian"
+		amount=2
 	}
 }
 
 346={ #Perinthos
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -128,11 +163,15 @@
 347={ #Bisanthe
 	terrain="hills"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
+	citizen={
+		culture="macedonian"
+		amount=3
+	}
 	citizen={
 		amount=1
 	}
@@ -148,11 +187,15 @@
 348={ #Bergoule
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
+	citizen={
+		culture="macedonian"
+		amount=1
+	}
 	citizen={
 		amount=3
 	}
@@ -162,17 +205,26 @@
 	slaves={
 		amount=3
 	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=5
+	}
 }
 
 349={ #Sestos
 	terrain="farmland"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=1
+	}
+	freemen={
+		culture="attican"
 		amount=1
 	}
 	freemen={
@@ -186,11 +238,19 @@
 350={ #Lysimacheia
 	terrain="plains"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=37
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		culture="macedonian"
+		amount=4
+	}
+	citizen={
+		culture="macedonian"
+		amount=3
+	}
 	citizen={
 		amount=3
 	}
@@ -200,18 +260,27 @@
 	slaves={
 		amount=17
 	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=1
+	}
 	port_building=1
 }
 
 352={ #Aproi
 	terrain="farmland"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	freemen={
+		culture="macedonian"
 		amount=2
 	}
 	freemen={
@@ -225,13 +294,17 @@
 353={ #Kypsela
 	terrain="farmland"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		amount=1
+	}
+	freemen={
+		culture="macedonian"
+		amount=2
 	}
 	freemen={
 		amount=1
@@ -244,7 +317,7 @@
 354={ #Ainos
 	terrain="farmland"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=28
 	barbarian_power=0
@@ -253,9 +326,18 @@
 		amount=1
 	}
 	freemen={
+		culture="macedonian"
+		amount=2
+	}
+	freemen={
 		amount=2
 	}
 	slaves={
+		amount=1
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
 		amount=1
 	}
 }
@@ -263,7 +345,7 @@
 357={ #Doriskos
 	terrain="farmland"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
@@ -272,6 +354,15 @@
 		amount=1
 	}
 	freemen={
+		culture="macedonian"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
 		amount=2
 	}
 }
@@ -279,7 +370,7 @@
 360={ #Porsoula
 	terrain="forest"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -293,16 +384,25 @@
 	slaves={
 		amount=1
 	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=1
+	}
 }
 
 362={ #Abdera
 	terrain="plains"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
+	citizen={
+		culture="macedonian"
+		amount=4
+	}
 	citizen={
 		amount=3
 	}
@@ -311,6 +411,11 @@
 	}
 	slaves={
 		amount=6
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=5
 	}
 	port_building=1
 }
@@ -340,7 +445,7 @@
 479={ #Kabyle
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="honey"
 	civilization_value=18
 	barbarian_power=0
@@ -351,12 +456,22 @@
 	freemen={
 		amount=2
 	}
+	slaves={
+		culture="odrysi"
+		religion="shamanism"
+		amount=1
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=1
+	}
 }
 
 480={ #Mesembria
 	terrain="hills"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=33
 	barbarian_power=0
@@ -364,20 +479,50 @@
 	citizen={
 		amount=3
 	}
+	citizen={
+		culture="macedonian"
+		amount=1
+	}
+	freemen={
+		culture="macedonian"
+		amount=2
+	}
 	freemen={
 		amount=1
+	}
+	freemen={
+		culture="moesi"
+		amount=1
+	}
+	slaves={
+		culture="moesi"
+		amount=2
+	}
+	tribesmen={
+		culture="moesi"
+		religion="shamanism"
+		amount=3
 	}
 }
 
 481={ #Anchialos
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=1
+	}
+	freemen={
+		culture="odrysi"
+		amount=1
+	}
+	tribesmen={
+		culture="moesi"
+		religion="shamanism"
 		amount=1
 	}
 	port_building=1
@@ -386,7 +531,7 @@
 482={ #Apollonia Pontike
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -394,7 +539,33 @@
 	citizen={
 		amount=3
 	}
+	citizen={
+		culture="macedonian"
+		amount=1
+	}
 	freemen={
+		amount=2
+	}
+	freemen={
+		culture="macedonian"
+		amount=1
+	}
+	freemen={
+		culture="odrysi"
+		amount=1
+	}
+	slaves={
+		culture="odrysi"
+		amount=1
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=2
+	}
+	tribesmen={
+		culture="moesi"
+		religion="shamanism"
 		amount=2
 	}
 }
@@ -402,7 +573,7 @@
 484={ #Beroe
 	terrain="forest"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
@@ -413,12 +584,22 @@
 	freemen={
 		amount=4
 	}
+	slaves={
+		culture="odrysi"
+		religion="shamanism"
+		amount=2
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=2
+	}
 }
 
 485={ #Pulpuveda
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -428,6 +609,16 @@
 	}
 	freemen={
 		amount=3
+	}
+	slaves={
+		culture="odrysi"
+		religion="shamanism"
+		amount=1
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
+		amount=2
 	}
 }
 
@@ -491,7 +682,7 @@
 489={ #Uskodama
 	terrain="forest"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -503,6 +694,10 @@
 		amount=1
 	}
 	slaves={
+		amount=1
+	}
+	tribesmen={
+		religion="shamanism"
 		amount=1
 	}
 }
@@ -649,8 +844,8 @@
 1453={ #Byzantion
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
-	trade_goods="earthware"
+	religion="roman_pantheon"
+	trade_goods="pearls"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
@@ -663,8 +858,16 @@
 	freemen={
 		amount=4
 	}
+	freemen={
+		culture="bithynian"
+		amount=1
+	}
 	slaves={
 		amount=5
+	}
+	slaves={
+		culture="bithynian"
+		amount=2
 	}
 	port_building=1
 }
@@ -672,7 +875,7 @@
 1774={ #Samothrake
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -684,6 +887,11 @@
 		amount=1
 	}
 	slaves={
+		amount=1
+	}
+	tribesmen={
+		culture="odrysi"
+		religion="shamanism"
 		amount=1
 	}
 }
@@ -710,7 +918,7 @@
 4154={ #Nike
 	terrain="forest"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -720,6 +928,10 @@
 	}
 	freemen={
 		amount=1
+	}
+	tribesmen={
+		religion="shamanism"
+		amount=2
 	}
 }
 
@@ -814,12 +1026,16 @@
 4314={ #Bizye
 	terrain="forest"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=2
+	}
+	tribesmen={
+		religion="shamanism"
 		amount=2
 	}
 }

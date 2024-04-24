@@ -109,9 +109,9 @@ city.1 = { # City Prospers
 			random_list = {
 				1 = {
 					trigger = {
-						can_build_building = taxation_building 
+						can_build_building = town_hall_building 
 					}
-					add_building_level = taxation_building
+					add_building_level = town_hall_building
 				}
 				1 = {
 					trigger = {
@@ -121,9 +121,9 @@ city.1 = { # City Prospers
 				}
 				1 = {
 					trigger = {
-						can_build_building = government_building 
+						can_build_building = forum_building 
 					}
-					add_building_level = government_building
+					add_building_level = forum_building
 				}
 			}
 		}
@@ -234,10 +234,10 @@ city.2 = { # Autonomy - city funds own building
 		scope:city_2_target = {
 			if = {
 				limit = {
-					can_build_building = military_building
-					NOT = { has_building = military_building }
+					can_build_building = barracks_building
+					NOT = { has_building = barracks_building }
 				}
-				add_building_level = military_building
+				add_building_level = barracks_building
 			}
 			else_if = {
 				limit = {
@@ -245,6 +245,13 @@ city.2 = { # Autonomy - city funds own building
 					NOT = { has_building = library_building }
 				}
 				add_building_level = library_building
+			}
+			else_if = {
+				limit = {
+					can_build_building = military_building
+					NOT = { has_building = military_building }
+				}
+				add_building_level = military_building
 			}
 			else = {
 				owner = { add_manpower = 4 }
@@ -1144,9 +1151,9 @@ city.9 = { #character wants to build a grand temple
 			random_list = {
 				1 = {
 					trigger = {
-						can_build_building = government_building 
+						can_build_building = forum_building 
 					}
-					add_building_level = government_building
+					add_building_level = forum_building
 				}
 				1 = {
 					trigger = {
@@ -1156,9 +1163,9 @@ city.9 = { #character wants to build a grand temple
 				}
 				1 = {
 					trigger = {
-						can_build_building = taxation_building 
+						can_build_building = town_hall_building 
 					}
-					add_building_level = taxation_building
+					add_building_level = town_hall_building
 				}
 			}
 		}
@@ -2490,8 +2497,12 @@ city.20 = {
 			scope:city_20_protagonist = {
 				OR = {
 					AND = {
-						can_build_building = manufacturing_building
-						NOT = { has_building = manufacturing_building }
+						can_build_building = barracks_building
+						NOT = { has_building = barracks_building }
+					}
+					AND = {
+						can_build_building = foundry_building
+						NOT = { has_building = foundry_building }
 					}
 					AND = {
 						can_build_building = military_building
@@ -2509,17 +2520,24 @@ city.20 = {
 		scope:city_20_protagonist = {
 			if = {
 				limit = {
+					can_build_building = barracks_building
+					NOT = { has_building = barracks_building }
+				}
+				add_building_level = barracks_building
+			}
+			else_if = {
+				limit = {
+					can_build_building = foundry_building
+					NOT = { has_building = foundry_building }
+				}
+				add_building_level = foundry_building
+			}
+			else_if = {
+				limit = {
 					can_build_building = military_building
 					NOT = { has_building = military_building }
 				}
 				add_building_level = military_building
-			}
-			else_if = {
-				limit = {
-					can_build_building = manufacturing_building
-					NOT = { has_building = manufacturing_building }
-				}
-				add_building_level = manufacturing_building
 			}
 		}
 		ai_chance = {

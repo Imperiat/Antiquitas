@@ -1,17 +1,6 @@
 ﻿decade_country_pulse = {
 	on_actions = {
-		chinese_ruler_assigment_pulse
-		delay = { days = { 7300 18250 } }
 		ai_place_special_pops_pulse
-	}
-}
-
-chinese_ruler_assigment_pulse = {
-	trigger = {
-		country_culture_group = chinese
-	}
-	events = {
-		chinese_flavor.1
 	}
 }
 

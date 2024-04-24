@@ -1,0 +1,21 @@
+﻿on_game_initialized = {
+
+	on_actions = {
+		COL_on_game_initialized
+	}
+
+	events = {
+		#credits
+		startup_event.1
+	}
+}
+
+
+COL_on_game_initialized = {
+	effect = {
+		set_variable = {
+			name = colonization_count
+			value = 0
+		}
+	}
+}

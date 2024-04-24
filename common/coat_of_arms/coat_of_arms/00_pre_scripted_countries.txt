@@ -1394,7 +1394,7 @@ ILLYRIA_FLAG = {
 ALBION_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "albion_color"
-	color2 = "ck_blue"
+	color2 = "ck2_blue"
 
 	colored_emblem = {
 		texture = "ce_bow_01.dds"
@@ -1772,7 +1772,7 @@ CYR_OPPOSITION = {
 SARDINIA_FLAG = {
 	pattern = "pattern_solid.tga"
 	color1 = "sardinia_color"
-	color2 = "off_white"
+	color2 = "offwhite"
 
 	colored_emblem = {
 		texture = "ce_border_simple_02.tga"
@@ -2784,7 +2784,7 @@ OEO = {
 		color1 = "roman_gold"
 		instance = {
 			scale = { -0.8 0.8 }
-			position = { 0.5340.5 }
+			position = { 0.534 0.5 }
 			rotation = 45
 		}
 	}

@@ -263,9 +263,9 @@ thebes_missions_03_prosperity_task_5_tooltip:0 "At least #Y 20 Academy, Library,
 generic_area_mission_25_academic_buildings_loc_1:0 "(#R [SCOPE.ScriptValue('generic_area_mission_25_academic_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_academic_buildings_total')|0]#!)"
 generic_area_mission_25_academic_buildings_loc_2:0 "(#Y [SCOPE.ScriptValue('generic_area_mission_25_academic_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_academic_buildings_total')|0]#!)"
 
-thebes_missions_03_prosperity_task_6_tooltip:0 "At least #Y 20 Barracks, Mill, or Training Camp#! buildings are built in owned territories in the province of #Y $south_peleponnesos_area$#!. [SCOPE.GetRootScope.GetCountry.Custom('generic_area_mission_25_military_buildings_loc')]"
-generic_area_mission_25_military_buildings_loc_1:0 "(#R [SCOPE.ScriptValue('generic_area_mission_25_military_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_military_buildings_total')|0]#!)"
-generic_area_mission_25_military_buildings_loc_2:0 "(#Y [SCOPE.ScriptValue('generic_area_mission_25_military_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_military_buildings_total')|0]#!)"
+thebes_missions_03_prosperity_task_6_tooltip:0 "At least #Y 20 Barracks, Mill, or Training Camp#! buildings are built in owned territories in the province of #Y $south_peleponnesos_area$#!. [SCOPE.GetRootScope.GetCountry.Custom('generic_area_mission_25_barracks_buildings_loc')]"
+generic_area_mission_25_barracks_buildings_loc_1:0 "(#R [SCOPE.ScriptValue('generic_area_mission_25_barracks_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_barracks_buildings_total')|0]#!)"
+generic_area_mission_25_barracks_buildings_loc_2:0 "(#Y [SCOPE.ScriptValue('generic_area_mission_25_barracks_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_barracks_buildings_total')|0]#!)"
 
 thebes_missions_03_prosperity_task_7_tooltip:0 "At least #Y 20 Marketplace, Tax Office, or Port#! buildings are built in owned territories in the province of #Y $arcadia_area$#!. [SCOPE.GetRootScope.GetCountry.Custom('generic_area_mission_25_economy_buildings_loc')]"
 generic_area_mission_25_economy_buildings_loc_1:0 "(#R [SCOPE.ScriptValue('generic_area_mission_25_economy_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('generic_area_mission_25_economy_buildings_total')|0]#!)"

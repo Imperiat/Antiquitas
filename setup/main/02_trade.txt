@@ -1,0 +1,3 @@
+trade = { #If any are changed also change trade agreements.
+
+}

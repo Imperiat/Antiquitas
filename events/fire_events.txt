@@ -128,8 +128,8 @@ fire_events.3 = {
 					remove_building_level = theathre_building
 				}
 				1 = {
-					trigger = { has_building = government_building }
-					remove_building_level = government_building
+					trigger = { has_building = forum_building }
+					remove_building_level = forum_building
 				}
 				# 1 = {
 					# trigger = { has_building = library_building }
@@ -217,16 +217,16 @@ fire_events.4 = {
 					remove_building_level = theathre_building
 				}
 				1 = {
-					trigger = { has_building = education_building }
-					remove_building_level = education_building
+					trigger = { has_building = academy_building }
+					remove_building_level = academy_building
 				}
 				# 1 = {
 					# trigger = { has_building = depot_building } # granary
 					# remove_building_level = depot_building
 				# }
 				# 1 = {
-					# trigger = { has_building = government_building }
-					# remove_building_level = government_building
+					# trigger = { has_building = forum_building }
+					# remove_building_level = forum_building
 				# }
 				# 1 = {
 					# trigger = { has_building = production_building }

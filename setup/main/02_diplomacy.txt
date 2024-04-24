@@ -1,0 +1,21 @@
+diplomacy = {
+	#Aigina
+	alliance = { first = AGN second = EPD }
+	
+	#Thebai
+	alliance = { first = THE second = ORC }
+	alliance = { first = THE second = TSP }
+	alliance = { first = THE second = TAN }
+	
+	#Corinth
+	dependency = { first = COT second = KRK subject_type = subject_colony }
+	dependency = { first = COT second = KEP subject_type = vassal_state }
+	dependency = { first = COT second = AMK subject_type = subject_colony }
+	
+	#Elis
+	dependency = { first = ELI second =  LPR subject_type = vassal_state }
+	
+	#Polyrrhenia
+	alliance = { first = PYR second = GEL }
+	dependency = { first = PYR second = KYD subject_type = vassal_state }
+}

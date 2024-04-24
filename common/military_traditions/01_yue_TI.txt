@@ -35,6 +35,15 @@
 			}
 			country_culture_group = miao
 		}
+		trigger_else_if = {
+			limit = {
+				country_culture_group = tai
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = tai
+		}
 		trigger_else = {
 			custom_tooltip = {
 				text = "tradition_unlock_requirement_cultural_decision"
@@ -68,6 +77,7 @@
 	yue_legendary_swords_mil_trad = { ###因糧於敵
 		modifier = { 
 			heavy_infantry_morale = 0.05
+			pikemen_morale = 0.05
 		}
 		icon = yue_legendary_swords_mil_trad
 		requires = {}

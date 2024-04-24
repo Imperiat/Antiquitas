@@ -7,6 +7,9 @@ death.1 = {
 	trigger = {
 		is_alive = yes
 		health <= 1
+		NOT = {
+			has_variable = immortal_flag
+		}
 	}
 	
 	immediate = {

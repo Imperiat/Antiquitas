@@ -9,17 +9,19 @@
 	}
 
 	potential = {
-#		is_ai = no	# Caused a problem where it would need 1 day tick to become visible
+		#is_ai = no	# Caused a problem where it would need 1 day tick to become visible
 		is_subject = yes
 		has_civil_war = no
-		NOT = {
+		NOR = {
 			has_variable = gm_subject_independence
+			has_variable = ai_mission_block_var
 			is_subject_type = tributary
 			is_subject_type = league_member
 		}
 	}
 
 	on_start = {
+		start_mission_ai_effect = yes
 		add_country_modifier = {
 			name = gm_subject_stability_cmod
 			duration = 1825	# 5 years
@@ -73,6 +75,10 @@
 	}
 	on_abort = {
 		add_stability = -5
+		if = {
+			limit = { is_ai = yes }
+			set_variable = ai_mission_block_var
+		}
 		hidden_effect = {
 			remove_country_modifier = gm_subject_stability_cmod
 			set_variable = {
@@ -901,11 +907,11 @@
 				OR = {
 					AND = {
 						num_of_commerce_building >= 1
-						num_of_government_building >= 1
+						num_of_forum_building >= 1
 					}
 					AND = {
 						num_of_library_building >= 1
-						num_of_security_building >= 1
+						num_of_court_building >= 1
 					}
 				}
 			}

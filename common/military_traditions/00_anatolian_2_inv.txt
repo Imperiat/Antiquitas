@@ -11,11 +11,25 @@
 			country_culture_group = anatolian
 		}
 		trigger_else_if = {
+			limit = { country_culture_group = caucasian }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = caucasian
+		}
+		trigger_else_if = {
 			limit = { primary_culture = greco_pontic }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
 			primary_culture = greco_pontic
+		}
+		trigger_else_if = {
+			limit = { tag = CAP }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			tag = CAP
 		}
 		trigger_else = {
 			custom_tooltip = {
@@ -78,7 +92,7 @@
 			fort_limit = 1
 			garrison_size = 0.15
 			price_found_city_cost_modifier = -0.1
-			#local_government_building_cost = -0.1
+			#local_forum_building_cost = -0.1
 		} 
 		icon = persian_bactrian_path_2
 		requires = { armenian_path_2 }
@@ -140,7 +154,8 @@
 	armenian_path_11 = { ###
 		modifier = { 
 			land_morale_modifier = 0.05
-			light_infantry_defensive = 0.1
+			light_infantry_defensive = 0.075
+			axemen_offensive = 0.075
 		} 
 		icon = persian_achaemenid_path_5
 		requires = { armenian_path_8 }

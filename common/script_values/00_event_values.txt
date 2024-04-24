@@ -111,8 +111,8 @@ warfare_1_loot_huge_value = {
 }
 
 slave_revolt_svalue = {
-	min = 10
 	value = total_population
+	min = 10
 	subtract = num_of_slaves
 }
 
@@ -172,9 +172,9 @@ three_years_income_svalue = {
 }
 
 pop_friction_size_value = {
-	max = 5
 	value = total_population
 	divide = 4
+	max = 5
 }
 
 province_pop_friction_size_svalue = {

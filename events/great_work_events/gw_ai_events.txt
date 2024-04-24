@@ -59,7 +59,7 @@ gw_ai_build.1 = {
                 5 = {
 					scope:province = {
 						begin_great_work_construction = {
-							great_work = "great_work_template_06"
+							great_work = "great_work_template_05"
 							locator = primary_great_work
 							is_ancient = no							
 						}						

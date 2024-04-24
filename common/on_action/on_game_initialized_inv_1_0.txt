@@ -1,23 +1,15 @@
 ﻿on_game_initialized = {
 
 	on_actions = {
-		delay = { days = { 10 30 } }
-		delay = { days = { 10 30 } }
 		fix_succession_on_action
 	}
 
 	events = {
-		#credits
-		startup_event.1
-
 		###Spartan Diarchy
 		special_spartan_event.1
 
 		###Birth Order Traits
 		firstborn_traits.1
-
-		###Capadocian Flavor delay =  days =  10 30 for later Pulse for this now see above
-		#flavor_cap.1
 
 		###Interesting Treasures
 		interesting_treasures.1
@@ -36,7 +28,7 @@
 		interesting_histories_country_events.11
 		interesting_histories_country_events.12
 		interesting_histories_country_events.13
-		interesting_histories_country_events.14
+		#interesting_histories_country_events.14
 		interesting_histories_country_events.15
 		interesting_histories_country_events.16
 		interesting_histories_country_events.17
@@ -68,17 +60,8 @@
 
 		#the Diadochi CB code
 		province_siege.2
-
-		#Barbarian starts - 1-6 Germania
-		startup_barbaricum.1
-		startup_barbaricum.2
-		startup_barbaricum.3
-		startup_barbaricum.4
-		startup_barbaricum.5
-		startup_barbaricum.6
-
 		
-		chinese_flavor.5
+		
 	}
 
 	effect = {
@@ -89,6 +72,14 @@
 		startup_variables_unique_deities_effect = yes
 		### Cultural Minority Rights ###
 		startup_cultural_decisions_effect = yes
+		### Variable for fixing new monarchies ###
+		if = {
+			limit = {
+				is_monarchy = yes
+			}
+			set_variable = {
+				name = fix_new_countries
+			}
 		### Other ###
 		if = {
 			limit = {
@@ -312,8 +303,23 @@
 				}
 			}
 		}
+		#AI buff by making them choose the good law at gamestart
+		if = {
+			limit = { 
+				is_monarchy = yes
+				has_law = relaxed_recruiting_standards
+			}
+			change_law = recruit_from_nobles
+		}
+		if = {
+			limit = { 
+				tag = ROM
+			}
+			change_law = lex_porcia
+		}
 		if = {
 			limit = {
+				NOT = { has_global_variable = seaonal_food_game_rule }
 				NOT = { has_global_variable = province_init_inv_done }
 			}
 			trigger_event = { id = harvest.1 months = 2 }

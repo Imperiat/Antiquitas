@@ -2,7 +2,7 @@
 architect_1_building_type = {
 	type = country
 	text = {
-		localization_key = conscription_building
+		localization_key = military_building
 		trigger = {
 			var:architect_building_type = 1
 		}

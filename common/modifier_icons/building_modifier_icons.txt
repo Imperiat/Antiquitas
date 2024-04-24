@@ -4,4 +4,3 @@
 shrine_building_cost = {
     positive = "gfx/interface/icons/modifiers/shrine_building_cost.dds"
 }
-

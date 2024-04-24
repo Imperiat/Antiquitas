@@ -2,7 +2,7 @@
 	terrain="hills"
 	culture="cappadocian"
 	religion="anatolian_religion"
-	trade_goods="vegetables"
+	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -233,7 +233,7 @@
 	terrain="marsh"
 	culture="cappadocian"
 	religion="anatolian_religion"
-	trade_goods="vegetables"
+	trade_goods="stone"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
@@ -252,7 +252,7 @@
 	terrain="hills"
 	culture="cappadocian"
 	religion="anatolian_religion"
-	trade_goods="leather"
+	trade_goods="precious_metals"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -369,7 +369,7 @@
 	terrain="hills"
 	culture="cappadocian"
 	religion="anatolian_religion"
-	trade_goods="leather"
+	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -492,20 +492,13 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="lycaonian"
-		amount=1
-	}
+	holy_site=omen_zeus_dacieus
 }
 
 1818={ #Ouenasa
@@ -675,7 +668,7 @@
 	terrain="mountain"
 	culture="cataonian"
 	religion="anatolian_religion"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
@@ -702,7 +695,7 @@
 	terrain="forest"
 	culture="armenian"
 	religion="anatolian_religion"
-	trade_goods="leather"
+	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -826,7 +819,7 @@
 	terrain="hills"
 	culture="armenian"
 	religion="zoroaster"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -847,7 +840,7 @@
 	terrain="mountain"
 	culture="armenian"
 	religion="zoroaster"
-	trade_goods="wood"
+	trade_goods="opium"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
@@ -1471,6 +1464,7 @@
 		culture="cataonian"
 		amount=1
 	}
+	holy_site=omen_cataonian_apollo
 }
 
 1982={ #Ariaramneia
@@ -1547,6 +1541,7 @@
 		culture="cappadocian"
 		amount=1
 	}
+	holy_site=omen_ahura_mazda
 }
 
 1999={ #Maroga

@@ -49,7 +49,6 @@
 				formable_capital_modifier_large_effect = yes
 			}
 			add_4_free_province_investments = yes
-			trigger_event = chinese_flavor.2
 		}
 		ai_will_do = {
 			base = 1

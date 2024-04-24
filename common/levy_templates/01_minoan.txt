@@ -9,8 +9,8 @@ levy_eteocretan = {
 	default = no
 	
 	#Basic:
-	archers = 0.45
+	archers = 0.5
 	#Advanced:
-	heavy_infantry = 0.15
-	spearmen = 0.40
+	spearmen = 0.35
+	light_infantry = 0.15
 }

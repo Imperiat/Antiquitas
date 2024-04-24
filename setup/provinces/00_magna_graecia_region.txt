@@ -316,7 +316,7 @@
 	terrain="farmland"
 	culture="messapian"
 	religion="roman_pantheon"
-	trade_goods="hemp"
+	trade_goods="pearls"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
@@ -597,7 +597,7 @@
 	terrain="farmland"
 	culture="italiotian"
 	religion="greek_pantheon"
-	trade_goods="hemp"
+	trade_goods="pearls"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
@@ -1131,7 +1131,7 @@
 	terrain="farmland"
 	culture="italiotian"
 	religion="greek_pantheon"
-	trade_goods="earthware"
+	trade_goods="pearls"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"

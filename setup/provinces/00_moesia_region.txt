@@ -95,7 +95,11 @@
 		amount=1
 	}
 	slaves={
-		amount=8
+		amount=6
+	}
+	slaves={
+		religion="shamanism"
+		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -117,7 +121,11 @@
 		amount=2
 	}
 	tribesmen={
-		amount=2
+		amount=1
+	}
+	tribesmen={
+		religion="shamanism"
+		amount=1
 	}
 }
 
@@ -136,7 +144,11 @@
 		amount=2
 	}
 	tribesmen={
-		amount=3
+		amount=2
+	}
+	tribesmen={
+		religion="shamanism"
+		amount=1
 	}
 }
 
@@ -730,7 +742,7 @@
 4247={ #Erite
 	terrain="plains"
 	culture="moesi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -751,7 +763,7 @@
 4248={ #Odessos
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -785,7 +797,7 @@
 4249={ #Krounoi
 	terrain="plains"
 	culture="moesi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
@@ -810,7 +822,7 @@
 4250={ #Tirizis
 	terrain="plains"
 	culture="moesi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -825,6 +837,7 @@
 		religion="shamanism"
 		amount=2
 	}
+	holy_site=omen_thrax
 }
 
 4251={ #Parthenopolis
@@ -884,7 +897,7 @@
 4254={ #Kallatis
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
@@ -916,7 +929,7 @@
 4255={ #Tomis
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=31
 	barbarian_power=0
@@ -1030,7 +1043,7 @@
 4513={ #Istros
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -1063,7 +1076,7 @@
 4514={ #Kios Skythike
 	terrain="marsh"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="honey"
 	civilization_value=22
 	barbarian_power=0
@@ -1077,7 +1090,7 @@
 4515={ #Skenopsis
 	terrain="forest"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1094,7 +1107,7 @@
 4516={ #Orgame
 	terrain="forest"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0
@@ -1119,7 +1132,7 @@
 4517={ #Libida
 	terrain="forest"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1139,7 +1152,7 @@
 4518={ #Beroe Skythike
 	terrain="marsh"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -1161,7 +1174,7 @@
 4519={ #Almyris
 	terrain="forest"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1185,7 +1198,7 @@
 4520={ #Troismos
 	terrain="marsh"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0

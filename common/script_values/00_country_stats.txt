@@ -115,8 +115,8 @@ subtract_state_province_loyalty_gargantuan = -40
 
 #Free Heretics in Capital
 majority_of_free_men_in_capital_svalue = {
-	min = 10
 	value = root.capital_scope.total_population
+	min = 10
 	subtract = root.capital_scope.num_of_slaves
 	divide = 2
 }

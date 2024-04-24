@@ -304,20 +304,20 @@ warfare.1 = {
 							}
 						}
 					}
-					10 = {
-						trigger = {
-							scope:target = {
-								city_has_colossus_trigger = yes
-							}
-						}
-						scope:target = {
-							owner = {
-								trigger_event = {
-									id = dhe_colossus_of_rhodes.13
-								}
-							}
-						}
-					}
+					#10 = {
+					#	trigger = {
+					#		scope:target = {
+					#			city_has_colossus_trigger = yes
+					#		}
+					#	}
+					#	scope:target = {
+					#		owner = {
+					#			trigger_event = {
+					#				id = dhe_colossus_of_rhodes.13
+					#			}
+					#		}
+					#	}
+					#}
 				}
 			}
 			if = {
@@ -486,20 +486,20 @@ warfare.1 = {
 							}
 						}
 					}
-					10 = {
-						trigger = {
-							scope:target = {
-								city_has_colossus_trigger = yes
-							}
-						}
-						scope:target = {
-							owner = {
-								trigger_event = {
-									id = dhe_colossus_of_rhodes.13
-								}
-							}
-						}
-					}
+					#10 = {
+					#	trigger = {
+					#		scope:target = {
+					#			city_has_colossus_trigger = yes
+					#		}
+					#	}
+					#	scope:target = {
+					#		owner = {
+					#			trigger_event = {
+					#				id = dhe_colossus_of_rhodes.13
+					#			}
+					#		}
+					#	}
+					#}
 				}
 			}
 			if = {
@@ -700,28 +700,30 @@ warfare.1 = {
 							}
 						}
 					}
-					10 = {
-						trigger = {
-							scope:target = {
-								city_has_colossus_trigger = yes
-							}
-						}
-						scope:target = {
-							owner = {
-								trigger_event = {
-									id = dhe_colossus_of_rhodes.13
-								}
-							}
-						}
-					}
+					#10 = {
+					#	trigger = {
+					#		scope:target = {
+					#			city_has_colossus_trigger = yes
+					#		}
+					#	}
+					#	scope:target = {
+					#		owner = {
+					#			trigger_event = {
+					#				id = dhe_colossus_of_rhodes.13
+					#			}
+					#		}
+					#	}
+					#}
 				}
 			}
 			random_list = {
 				75 = {}
 				25 = {
-					trigger_event = {
-						days = 5
-						id = distinction.22
+					employer = {
+						trigger_event = {
+							days = 5
+							id = distinction.22
+						}
 					}
 				}
 			}
@@ -1084,9 +1086,11 @@ warfare.7 = { #Fallen Commander
 				random_list = {
 					75 = { }
 					25 = {
-						trigger_event = {
-							id = distinction.25
-							days = 10 
+						employer = {
+							trigger_event = {
+								id = distinction.25
+								days = 10 
+							}
 						}
 					}
 				}
