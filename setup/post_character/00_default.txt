@@ -15,5 +15,6 @@ country = {
 				start_date=97.1.1
 				government=aristocratic_monarchy
 			}
+		}
 	}
 }

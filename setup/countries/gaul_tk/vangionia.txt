@@ -1,3 +1,0 @@
-﻿color = rgb { 140 240 199 }
-
-gender_equality = no
