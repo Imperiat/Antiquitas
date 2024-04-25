@@ -39,16 +39,6 @@ trial.1 = {
 	right_portrait = scope:target
 	
 	immediate = {
-		hidden_effect = {
-			if = {
-				limit = {
-					has_variable = athenian_character_trial_boon
-				}
-				scope:target = {
-					add_trial_chance_moderate = yes
-				}
-			}
-		}
 		scope:target = {
 			save_scope_as = civil_war_candidate
 		}

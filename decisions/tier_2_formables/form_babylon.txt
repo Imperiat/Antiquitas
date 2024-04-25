@@ -108,9 +108,6 @@
 				duration = 7600
 			}
 			add_3_free_province_investments = yes
-			hidden_effect = {
-        	    set_variable = formed_babylon_inv
-        	}
 		}
 		
 		ai_will_do = {

@@ -8,7 +8,6 @@
 				country_culture_group = scythia
 				country_culture_group = sarmatian_group
 				country_culture_group = caucasian
-				has_variable = allow_horse_breeding_decision_flag
 			}	
 			NOT = {
 				has_variable = horsing_around #glitterhoof sends kind regards
@@ -76,10 +75,6 @@
 				country_culture_group = scythia
 				country_culture_group = sarmatian_group
 				country_culture_group = caucasian
-				has_variable = allow_horse_breeding_decision_flag
-			}
-			NOT = {
-				has_variable = glitterhoof_was_here #glitterhoof sends kind regards
 			}
 		}
 
@@ -128,10 +123,6 @@
 			add_country_modifier = {
 				name = when_horse_fuck_horse_no_fight_big_horse
 				duration = 3650
-			}
-			set_variable = {
-				name = glitterhoof_was_here
-				days = 7300
 			}
 		}
 	}

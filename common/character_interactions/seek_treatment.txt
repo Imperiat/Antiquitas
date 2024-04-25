@@ -40,10 +40,6 @@ seek_treatment = {
 					has_office = office_apothecary
 				}			
 				has_ambition = scheme_seek_treatment
-				custom_tooltip = {
-					text = untreatable_tt
-					has_variable = untreatable_flag
-				}
 			}
 		}
 		scope:actor = {

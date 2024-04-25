@@ -4,6 +4,7 @@ family={
 		#Numbers do not have to appear in numerical order but do have to be unique:
 		#Current first free ID is "8".
 
+		## Rome
 		0={
 			key="Romulii"
 			owner=ROM
@@ -11,7 +12,6 @@ family={
 			prestige=300
 			color = 0
 		}
-
 		## Chaldean Empire
 		1={
 			key = "Chaldean"
