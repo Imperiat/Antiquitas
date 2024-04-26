@@ -114,7 +114,7 @@
 4316={ #Mong
 	terrain="forest"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="hindu"
 	trade_goods="cedar"
 	civilization_value=39
 	barbarian_power=0
@@ -245,7 +245,7 @@
 4322={ #Manikyal
 	terrain="forest"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="hindu"
 	trade_goods="cedar"
 	civilization_value=39
 	barbarian_power=0
@@ -429,15 +429,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		religion="jainism"
-		amount=3
 	}
 	tribesmen={
 		amount=4
@@ -1732,16 +1723,6 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	nobles={
 		amount=1
 	}
 	citizen={
@@ -2038,25 +2019,8 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		religion="hindu"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
 	}
 	holy_site=omen_sila_parami
 }

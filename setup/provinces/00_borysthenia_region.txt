@@ -1723,4 +1723,291 @@
 		amount=1
 	}
 }
-
+11418={ # Zweris
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11419={ # Kirmis
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11420={ # Derwa
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11421={ # Medja
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="wild_game"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11422={ # Lapas
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="cattle"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11423={ # Karo
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="wood"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11424={ # Swo
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="fur"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11425={ # Ranka
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="woad"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11426={ # Inzu
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11427={ # Ragas
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="leather"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11428={ # Krauja
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="steppe_horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11429={ # Sausas
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="indo_iranian_religion"
+	trade_goods="woad"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11489={ # Sulnis
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11490={ # Meno
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11491={ # Zwaisda
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11492={ # Neba
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+11493={ # Zeme
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+11494={ # Nawas
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+11495={ # Bartei
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+11496={ # Bajatei
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11497={ # Sirdis
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+11498={ # Gintei
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11499={ # Ungnis
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+11500={ # Asras
+	terrain="forest"
+	culture="melanchlaenian"
+	religion="matrist_religion"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}

@@ -13959,6 +13959,7 @@ country = {
 				409
 			}
 		}
+
 		KEP = { # Kephallenia
 			government = oligarchic_republic
 			primary_culture = achaean
@@ -13977,6 +13978,7 @@ country = {
 				459 460 461
 			}
 		}
+
 		ORC = { # Orchomenos
 			government = oligarchic_republic
 			primary_culture = boeotian
@@ -13995,6 +13997,7 @@ country = {
 				423
 			}
 		}
+
 		DOL = { # Dolopia
 			government = tribal_kingdom
 			primary_culture = north_western_doric
@@ -14014,6 +14017,7 @@ country = {
 				466
 			}
 		}
+
 		LCO = { # Locris Opuntian
 			government = tribal_kingdom
 			primary_culture = north_western_doric
@@ -14033,6 +14037,7 @@ country = {
 				402 7896
 			}
 		}
+
 		LCS = { # Lokris Ozolia
 			government = tribal_kingdom
 			primary_culture = north_western_doric
@@ -14052,6 +14057,7 @@ country = {
 				457
 			}
 		}
+
 		AIN = { # Aeniania
 			government = tribal_kingdom
 			primary_culture = north_western_doric
@@ -14090,6 +14096,7 @@ country = {
 				425 476
 			}
 		}
+
 		CH1 = { # Chaonia
 			government = tribal_kingdom
 			primary_culture = epirote
@@ -14109,6 +14116,7 @@ country = {
 				421 474
 			}
 		}
+
 		THP = { # Thesprotia
 			government = tribal_kingdom
 			primary_culture = epirote

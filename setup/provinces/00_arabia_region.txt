@@ -1048,16 +1048,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1499,21 +1489,8 @@
 	civilization_value=32
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="babylonian"
-		amount=1
-	}
 	citizen={
 		amount=7
-	}
-	citizen={
-		culture="babylonian"
-		amount=3
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=5
 	}
 	freemen={
 		amount=7
@@ -2648,34 +2625,14 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -2743,16 +2700,6 @@
 	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3

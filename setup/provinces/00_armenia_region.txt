@@ -2030,20 +2030,7 @@
 	freemen={
 		amount=3
 	}
-	slaves={
-		religion="roman_pantheon"
-		amount=1
-	}
 	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="caucasian_religion"
 		amount=2
 	}
 }
@@ -2058,20 +2045,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		culture="colchian"
-		religion="caucasian_religion"
-		amount=1
 	}
 }
 
