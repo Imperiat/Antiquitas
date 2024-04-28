@@ -169,7 +169,7 @@
 664={ #Apollonia Palaistinas
 	terrain="plains"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="pearls"
 	civilization_value=31
 	barbarian_power=0

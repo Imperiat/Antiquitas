@@ -1118,11 +1118,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="rhaetian"
-		religion="roman_pantheon"
-		amount=2
-	}
 }
 
 3668={ #Teurnia

@@ -69,7 +69,7 @@
 4525={ #Tyras
 	terrain="marsh"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=22
 	barbarian_power=0
@@ -80,17 +80,12 @@
 	freemen={
 		amount=4
 	}
-	tribesmen={
-		culture="getian"
-		religion="shamanism"
-		amount=5
-	}
 }
 
 4526={ #Nikonia
 	terrain="marsh"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="steppe_horses"
 	civilization_value=22
 	barbarian_power=0
@@ -101,23 +96,13 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=2
-	}
 	port_building=1
 }
 
 4527={ #Istrianon
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wild_game"
 	civilization_value=21
 	barbarian_power=0
@@ -125,21 +110,12 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="scythian"
-		amount=1
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=2
-	}
 }
 
 4528={ #Skopouloi
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="steppe_horses"
 	civilization_value=21
 	barbarian_power=0
@@ -147,17 +123,12 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=1
-	}
 }
 
 4529={ #Olbia
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="salt"
 	civilization_value=26
 	barbarian_power=0
@@ -170,11 +141,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=4
 	}
 	port_building=1
 	holy_site=omen_ariantes

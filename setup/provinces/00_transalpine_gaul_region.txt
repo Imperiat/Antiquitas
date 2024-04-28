@@ -946,21 +946,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="salluvian"
-		religion="druidism"
-		amount=2
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount=3
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	port_building=1
 }
 
@@ -1041,16 +1026,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	port_building=1
 }
@@ -1496,11 +1471,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount=3
 	}
 }
 

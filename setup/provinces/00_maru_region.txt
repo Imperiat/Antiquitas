@@ -371,8 +371,8 @@
 
 4371={ #Deogarh
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="incense"
 	civilization_value=41
 	barbarian_power=0
@@ -383,27 +383,9 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		religion="hindu"
-		amount=8
-	}
-	freemen={
-		culture="sindhi"
-		amount=14
-	}
 	slaves={
 		culture="sivi"
 		amount=5
-	}
-	slaves={
-		culture="sindhi"
-		religion="hindu"
-		amount=2
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=3
 	}
 	port_building=1
 }
@@ -527,20 +509,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		religion="roman_pantheon"
-		amount=4
-	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		religion="buddhism"
-		amount=1
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
 	}
 	tribesmen={
 		amount=4
@@ -838,8 +808,8 @@
 
 6815={ #Thatta
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -852,11 +822,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=8
 	}
 	port_building=1
 }
@@ -1000,8 +965,8 @@
 
 6821={ #Debal
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="gems"
 	civilization_value=41
 	barbarian_power=0
@@ -1014,11 +979,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=10
 	}
 	port_building=1
 }
@@ -1092,17 +1052,13 @@
 6825={ #Kanthi
 	terrain="marsh"
 	culture="saurashtran"
-	religion="roman_pantheon"
+	religion="hindu"
 	trade_goods="stone"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
 	}
 }
 

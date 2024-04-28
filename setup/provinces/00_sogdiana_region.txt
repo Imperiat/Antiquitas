@@ -72,17 +72,7 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	slaves={
-		culture="bactra"
-		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -193,44 +183,18 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=3
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=2
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		religion="eastern_animism"
-		amount=2
-	}
 	freemen={
 		amount=5
 	}
 	slaves={
 		amount=4
 	}
-	slaves={
-		religion="eastern_animism"
-		amount=4
-	}
-	tribesmen={
-		religion="eastern_animism"
-		amount=1
-	}
 }
 
 6704={ #Alexandreia Eschate
 	terrain="farmland"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="vaksh_religion"
 	trade_goods="silk"
 	civilization_value=42
 	barbarian_power=0
@@ -241,52 +205,11 @@
 	citizen={
 		amount=9
 	}
-	citizen={
-		culture="macedonian"
-		amount=5
-	}
-	freemen={
-		amount=8
-	}
-	freemen={
-		culture="macedonian"
-		amount=2
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=2
-	}
-	freemen={
-		culture="sogdian"
-		religion="zoroaster"
-		amount=3
-	}
-	slaves={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=4
-	}
-	slaves={
-		culture="sogdian"
-		religion="zoroaster"
-		amount=2
-	}
 	slaves={
 		amount=4
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="sogdian"
-		religion="zoroaster"
-		amount=2
-	}
-	tribesmen={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=4
 	}
 }
 
@@ -622,20 +545,7 @@
 		amount=1
 	}
 	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=2
-	}
-	slaves={
-		religion="eastern_animism"
-		amount=1
-	}
-	tribesmen={
-		religion="eastern_animism"
-		amount=1
 	}
 }
 
@@ -650,24 +560,11 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -685,28 +582,8 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="sogdian"
-		religion="zoroaster"
-		amount=1
-	}
-	slaves={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=1
@@ -727,39 +604,7 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=2
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		culture="sogdian"
-		religion="zoroaster"
-		amount=1
-	}
-	slaves={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	slaves={
-		amount=1
-	}
 	tribesmen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="sogdian"
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -794,7 +639,7 @@
 6734={ #Damna
 	terrain="hills"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="vaksh_religion"
 	trade_goods="salt"
 	civilization_value=17
 	barbarian_power=0
@@ -864,7 +709,7 @@
 6737={ #Throana
 	terrain="hills"
 	culture="ionian"
-	religion="roman_pantheon"
+	religion="vaksh_religion"
 	trade_goods="base_metals"
 	civilization_value=21
 	barbarian_power=0
@@ -876,35 +721,10 @@
 		amount=5
 	}
 	freemen={
-		culture="tayuan"
-		religion="zoroaster"
-		amount=4
-	}
-	freemen={
 		amount=8
 	}
-	freemen={
-		culture="tayuan"
-		religion="zoroaster"
-		amount=4
-	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=5
-	}
-	tribesmen={
-		amount=3
-		culture="tayuan"
-		religion="vaksh_religion"
-	}
-	tribesmen={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=6
 	}
 }
 
@@ -940,30 +760,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
-	citizen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	slaves={
-		amount=3
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=2
 	}
 	tribesmen={
 		amount=1

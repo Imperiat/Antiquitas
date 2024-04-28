@@ -6,27 +6,8 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		religion="roman_pantheon"
-		amount="2"
-	}
 	freemen={
 		amount="1"
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount="2"
-	}
-	slaves={
-		culture="elamite"
-		religion="elamite_pantheon"
-		amount="3"
-	}
-	tribesmen={
-		culture="elamite"
-		religion="elamite_pantheon"
-		amount="3"
 	}
 }
 945={ # Taryana
@@ -1078,7 +1059,7 @@
 4787={ # Bushahr
 	terrain="desert"
 	culture="macedonian"
-	religion="roman_pantheon"
+	religion="zoroaster"
 	trade_goods="salt"
 	civilization_value=28
 	barbarian_power=0
