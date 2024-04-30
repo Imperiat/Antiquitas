@@ -57,6 +57,16 @@
 	tribesmen={
 		amount=3
 	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
+	}
+	freemen={
+		culture="scythian"
+		religion="roman_pantheon"
+		amount=2
+	}
 }
 
 4533={ #Taphros
@@ -77,6 +87,16 @@
 		amount=3
 	}
 	tribesmen={
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	citizen={
+		culture="bosporan"
+		religion="roman_pantheon"
 		amount=1
 	}
 	port_building=1
@@ -122,6 +142,11 @@
 	}
 	tribesmen={
 		amount=3
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
 	}
 }
 
@@ -279,6 +304,16 @@
 	slaves={
 		amount=1
 	}
+	tribesmen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	freemen={
+		culture="scythian"
+		religion="roman_pantheon"
+		amount=1
+	}
 }
 
 4542={ #Neapolis Taurike
@@ -433,6 +468,26 @@
 	tribesmen={
 		amount=3
 	}
+	citizen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="scythian"
+		religion="roman_pantheon"
+		amount=1
+	}
 }
 
 4548={ #Kimmeria
@@ -454,6 +509,11 @@
 	}
 	tribesmen={
 		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
 	}
 }
 
@@ -546,6 +606,11 @@
 	tribesmen={
 		amount=3
 	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
 }
 
 4552={ #Limnaioi
@@ -561,6 +626,26 @@
 	}
 	tribesmen={
 		amount=2
+	}
+	tribesmen={
+		culture="sarmatian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
 	}
 }
 
@@ -580,6 +665,16 @@
 	}
 	tribesmen={
 		amount=3
+	}
+	tribesmen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=3
+	}
+	freemen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=1
 	}
 }
 
@@ -684,6 +779,41 @@
 	slaves={
 		amount=1
 	}
+	tribesmen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	freemen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=3
+	}
+	citizen={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	citizen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=3
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="indo_iranian_religion"
+		amount=2
+	}
 	holy_site=omen_thagimasadas
 	port_building=1
 }
@@ -698,6 +828,16 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=4
+	}
+	tribesmen={
+		culture="sarmatian"
+		religion="indo_iranian_religion"
+		amount=3
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
 	}
 }
 
@@ -718,6 +858,21 @@
 	citizen={
 		amount=1
 	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
+	}
 }
 
 4560={ #Azara
@@ -734,6 +889,21 @@
 	tribesmen={
 		amount=3
 	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="indo_iranian_religion"
+		amount=1
+	}
 }
 
 4561={ #Lebidia
@@ -749,6 +919,21 @@
 	}
 	tribesmen={
 		amount=4
+	}
+	citizen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=3
 	}
 }
 
@@ -794,6 +979,36 @@
 	slaves={
 		amount=4
 	}
+	citizen={
+		culture="maeotian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	freemen={
+		culture="maeotian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	freemen={
+		culture="maeotian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	tribesmen={
+		culture="maeotian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	freemen={
+		culture="sindi"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	freemen={
+		culture="sindi"
+		religion="roman_pantheon"
+		amount=1
+	}
 	port_building=1
 }
 
@@ -806,6 +1021,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=3
+	}
+	tribesmen={
+		culture="sindi"
+		religion="roman_pantheon"
+		amount=1
+	}
+	tribesmen={
+		culture="maeotian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	citizen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
 		amount=3
 	}
 }
@@ -871,6 +1111,16 @@
 	tribesmen={
 		amount=3
 	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="hebrew"
+		religion="judaism"
+		amount=1
+	}
 }
 
 5884={ #Katys
@@ -891,6 +1141,21 @@
 		amount=7
 	}
 	slaves={
+		amount=2
+	}
+	slaves={
+		culture="maeotian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	slaves={
+		culture="scythian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
 		amount=2
 	}
 }
@@ -1288,6 +1553,21 @@
 	tribesmen={
 		amount=2
 	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	slaves={
+		culture="scythian"
+		religion="roman_pantheon"
+		amount=1
+	}
 }
 
 6144={ #Borysthenia
@@ -1312,6 +1592,41 @@
 	}
 	tribesmen={
 		amount=7
+	}
+	tribesmen={
+		culture="sarmatian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	citizen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	freemen={
+		culture="sarmatian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	slaves={
+		culture="sarmatian"
+		religion="indo_iranian_religion"
+		amount=4
 	}
 	
 	holy_site=omen_scythes
@@ -1361,6 +1676,16 @@
 	}
 	tribesmen={
 		amount=3
+	}
+	slaves={
+		culture="scythian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
 	}
 }
 
@@ -1436,6 +1761,21 @@
 	}
 	tribesmen={
 		amount=3
+	}
+	tribesmen={
+		culture="sarmatian"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	slaves={
+		culture="maeotian"
+		religion="indo_iranian_religion"
+		amount=2
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
 	}
 }
 
@@ -1581,6 +1921,16 @@
 	tribesmen={
 		amount=3
 	}
+	tribesmen={
+		culture="sindi"
+		religion="indo_iranian_religion"
+		amount=1
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
+	}
 }
 
 7613={ #Yelsa
@@ -1680,6 +2030,11 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=3
+	}
+	slaves={
+		culture="bosporan"
+		religion="roman_pantheon"
+		amount=1
 	}
 }
 

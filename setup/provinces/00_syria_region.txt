@@ -976,10 +976,19 @@
 		amount=1
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
 		amount=1
 	}
 	slaves={
 		amount=2
+	}
+	slaves={
+		culture="aramaic"
+		amount=1
 	}
 	holy_site=omen_shahar
 }
@@ -992,6 +1001,11 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
 	freemen={
 		amount=1
 	}
@@ -1047,6 +1061,15 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="phoenician"
+		amount=1
+	}
+	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
 	citizen={
 		amount=2
 	}
@@ -1168,6 +1191,10 @@
 		amount=2
 	}
 	freemen={
+		amount=1
+	}
+	freemen={
+		religion="roman_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1426,6 +1453,10 @@
 		amount=1
 	}
 	slaves={
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
 		amount=1
 	}
 	holy_site=omen_atargatis
@@ -1442,6 +1473,10 @@
 	citizen={
 		amount=2
 	}
+	freemen={
+		religion="roman_pantheon"
+		amount=1
+	}
 	slaves={
 		amount=1
 	}
@@ -1456,9 +1491,23 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	citizen={
 		amount=4
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		religion="roman_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1511,6 +1560,18 @@
 	province_rank="city"
 	citizen={
 		amount=3
+	}
+	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		religion="roman_pantheon"
+		amount=1
 	}
 	slaves={
 		amount=5
@@ -1682,10 +1743,20 @@
 		amount=1
 	}
 	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	freemen={
 		amount=1
 	}
 	slaves={
 		amount=3
+	}
+	tribesmen={
+		religion="roman_pantheon"
+		amount=1
+	}
 }
 
 1869={ #Rhabaine
@@ -1696,6 +1767,11 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
 	freemen={
 		amount=1
 	}

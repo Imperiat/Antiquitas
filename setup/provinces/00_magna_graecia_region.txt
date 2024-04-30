@@ -1,4 +1,4 @@
-﻿6={ #Capua
+﻿6={ # Capua
 	terrain="farmland"
 	culture="roman"
 	religion="roman_pantheon"
@@ -7,21 +7,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=10
+		amount="10"
 	}
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
-	holy_site=omen_diana
+	holy_site="omen_diana"
 }
-
-7={ #Neapolis
+7={ # Neapolis
 	terrain="farmland"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -30,24 +29,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-8={ #Saticula
+8={ # Saticula
 	terrain="farmland"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -56,17 +54,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 }
-
-9={ #Pompeii
+9={ # Pompeii
 	terrain="plains"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -75,18 +72,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-10={ #Irna
+10={ # Salerna
 	terrain="plains"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -95,69 +91,66 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-11={ #Paestum
+11={ # Paestum
 	terrain="hills"
 	culture="lucanian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
 		culture="etruscan"
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-12={ #Elea
+12={ # Velia
 	terrain="hills"
 	culture="italiotian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-13={ #Blanda
+13={ # Blanda
 	terrain="hills"
 	culture="lucanian"
 	religion="roman_pantheon"
@@ -166,20 +159,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-31={ #Venafrum
+31={ # Venafrum
 	terrain="hills"
 	culture="umbrian"
 	religion="roman_pantheon"
@@ -188,17 +180,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-32={ #Bovianum
+32={ # Bovianum
 	terrain="plains"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -207,23 +198,22 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=10
+		amount="10"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-33={ #Corneliani
+33={ # Corneliani
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -232,61 +222,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-36={ #Teanum Apulum
+36={ # Teanum Apulum
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-37={ #Luceria
+37={ # Luceria
 	terrain="plains"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-38={ #Sipious
+38={ # Sipontum
 	terrain="plains"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -295,46 +282,44 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-39={ #Canusium
+39={ # Canusium
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="pearls"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=12
+		amount="12"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-40={ #Nola
+40={ # Nola
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -343,17 +328,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-41={ #Beneventum
+41={ # Beneventum
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -362,20 +346,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-42={ #Venusia
+42={ # Venusia
 	terrain="farmland"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -384,17 +367,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-43={ #Compsa
+43={ # Compsa
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -403,20 +385,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-44={ #Tuticum
+44={ # Tuticum
 	terrain="plains"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -425,20 +406,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-45={ #Ausculum
+45={ # Ausculum
 	terrain="plains"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -447,20 +427,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-46={ #Potentia
+46={ # Potentia
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -469,20 +448,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-47={ #Volcei
+47={ # Acerronia
 	terrain="hills"
 	culture="lucanian"
 	religion="roman_pantheon"
@@ -491,42 +469,40 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-50={ #Urium
+50={ # Urium
 	terrain="hills"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-51={ #Laus
+51={ # Laus
 	terrain="hills"
 	culture="bruttian"
 	religion="roman_pantheon"
@@ -535,20 +511,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-52={ #Thourioi
+52={ # Thurii
 	terrain="hills"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -557,21 +532,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=10
+		amount="10"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-53={ #Grumentum
+53={ # Grumentum
 	terrain="hills"
 	culture="lucanian"
 	religion="roman_pantheon"
@@ -580,20 +554,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-54={ #Herakleia
+54={ # Heraclea
 	terrain="farmland"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -602,21 +575,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-55={ #Metapontion
+55={ # Metapontum
 	terrain="forest"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -625,20 +597,19 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-56={ #Taras
+56={ # Tarentum
 	terrain="farmland"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -647,63 +618,60 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-57={ #Brentesion
+57={ # Brundisium
 	terrain="plains"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-58={ #Bardoulos
+58={ # Barduli
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="hemp"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-59={ #Consilinum
+59={ # Consilinum
 	terrain="hills"
 	culture="lucanian"
 	religion="roman_pantheon"
@@ -712,264 +680,252 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-60={ #Bantium
+60={ # Bantia
 	terrain="plains"
 	culture="lucanian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="olive"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-61={ #Siris
+61={ # Siris
 	terrain="plains"
 	culture="lucanian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-62={ #Mandyrion
+62={ # Menturia
 	terrain="forest"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="salt"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=9
+		amount="9"
 	}
 }
-
-63={ #Kallipolis
+63={ # Callipolis
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-64={ #Hydrous
+64={ # Hydruntum
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-65={ #Loupiai
+65={ # Lupiae
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-66={ #Barion
+66={ # Barium
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="olive"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-67={ #Egnatia
+67={ # Gnatia
 	terrain="plains"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 	port_building=1
 }
-
-68={ #Thyron
+68={ # Turum
 	terrain="forest"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-69={ #Netion
+69={ # Natiolum
 	terrain="forest"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-70={ #Silvium
+70={ # Silvium
 	terrain="farmland"
 	culture="messapian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="grain"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-71={ #Stiglianum
+71={ # Hostiliusanus
 	terrain="hills"
 	culture="lucanian"
 	religion="roman_pantheon"
@@ -978,20 +934,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-72={ #Rhegion
+72={ # Rhegium
 	terrain="hills"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -1000,21 +955,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-73={ #Lokroi Epizephyrioi
+73={ # Locri
 	terrain="hills"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -1023,44 +977,42 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_persephone
+	holy_site="omen_persephone"
 	port_building=1
 }
-
-74={ #Stylacium
+74={ # Stylacium
 	terrain="hills"
 	culture="bruttian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="fish"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-75={ #Hipponion
+75={ # Hipponium
 	terrain="hills"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -1069,21 +1021,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 }
-
-76={ #Tempsa
+76={ # Temesa
 	terrain="hills"
 	culture="bruttian"
 	religion="roman_pantheon"
@@ -1092,20 +1043,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-77={ #Consentia
+77={ # Consentia
 	terrain="hills"
 	culture="bruttian"
 	religion="roman_pantheon"
@@ -1114,20 +1064,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-78={ #Kroton
+78={ # Croton
 	terrain="farmland"
 	culture="italiotian"
 	religion="greek_pantheon"
@@ -1136,21 +1085,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	port_building=1
 }
-
-79={ #Petelia
+79={ # Petelia
 	terrain="farmland"
 	culture="bruttian"
 	religion="roman_pantheon"
@@ -1159,20 +1107,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-80={ #Messene
+80={ # Messana
 	terrain="hills"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1181,24 +1128,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 }
-
-81={ #Tauromenion
+81={ # Tauromenium
 	terrain="hills"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1207,17 +1153,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-82={ #Katane
+82={ # Catana
 	terrain="farmland"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1226,21 +1171,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-83={ #Leontinoi
+83={ # Leontini
 	terrain="forest"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1249,20 +1193,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-84={ #Syrakousai
+84={ # Syracusae
 	terrain="plains"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1271,25 +1214,24 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=14
+		amount="14"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_arethousa
+	holy_site="omen_arethousa"
 	port_building=3
 }
-
-85={ #Gela
+85={ # Gela
 	terrain="forest"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1298,47 +1240,45 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-86={ #Akragas
+86={ # Acragas
 	terrain="farmland"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_heracles
+	holy_site="omen_heracles"
 	port_building=1
 }
-
-87={ #Akrai
+87={ # Acrae
 	terrain="mountain"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1347,20 +1287,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-88={ #Morgantion
+88={ # Murgantia
 	terrain="hills"
 	culture="siculian"
 	religion="roman_pantheon"
@@ -1369,17 +1308,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-89={ #Enna
+89={ # Henna
 	terrain="forest"
 	culture="siculian"
 	religion="roman_pantheon"
@@ -1388,67 +1326,64 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-90={ #Hypana
+90={ # Hippana
 	terrain="hills"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-91={ #Herakleia Minoia
+91={ # Heraclea Minoa
 	terrain="farmland"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-92={ #Egesta
+92={ # Egesta
 	terrain="hills"
 	culture="elymian"
 	religion="roman_pantheon"
@@ -1457,17 +1392,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-93={ #Selinous
+93={ # Selinus
 	terrain="forest"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1476,23 +1410,22 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-94={ #Lilibaya
+94={ # Lilybaeum
 	terrain="farmland"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
@@ -1501,79 +1434,75 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-95={ #Eryx
+95={ # Eryx
 	terrain="plains"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-96={ #Tzitz
+96={ # Panorumus
 	terrain="hills"
 	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-97={ #Tirm
+97={ # Thermai
 	terrain="hills"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-98={ #Kephaloidion
+98={ # Cephaloedium
 	terrain="plains"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1582,67 +1511,64 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-99={ #Tyndaris
+99={ # Tyndaris
 	terrain="plains"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-100={ #Kale Akte
+100={ # Calacte
 	terrain="hills"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-101={ #Kamarina
+101={ # Camarina
 	terrain="farmland"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1651,20 +1577,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1471={ #'I Nun
+1471={ # Melita
 	terrain="desert"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
@@ -1673,17 +1598,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1472={ #Meligounis
+1472={ # Liparae
 	terrain="hills"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1692,11 +1616,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1713={ #Nuceria
+1713={ # Nuceria
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -1705,20 +1628,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1716={ #Abellinum
+1716={ # Abellinum
 	terrain="hills"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -1727,20 +1649,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1718={ #Aeclanum
+1718={ # Aeclanum
 	terrain="plains"
 	culture="samnite"
 	religion="roman_pantheon"
@@ -1749,20 +1670,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7837={ #Megara Hyblaia
+7837={ # Megara
 	terrain="plains"
 	culture="syracusan"
 	religion="greek_pantheon"
@@ -1771,17 +1691,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7838={ #Kentoripa
+7838={ # Centuripae
 	terrain="farmland"
 	culture="siculian"
 	religion="roman_pantheon"
@@ -1790,20 +1709,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7839={ #Capitium
+7839={ # Capitium
 	terrain="hills"
 	culture="siculian"
 	religion="roman_pantheon"
@@ -1812,33 +1730,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7840={ #Menai
+7840={ # Menae
 	terrain="hills"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-7841={ #Mitistratum
+7841={ # Myttistraton
 	terrain="hills"
 	culture="sicanian"
 	religion="roman_pantheon"
@@ -1847,17 +1763,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7842={ #Qapara
+7842={ # Soluntum
 	terrain="hills"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
@@ -1866,32 +1781,30 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7843={ #Hadranum
+7843={ # Adranon
 	terrain="hills"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 }
-

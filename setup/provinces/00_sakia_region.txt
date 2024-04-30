@@ -1222,11 +1222,21 @@
 	citizen={
 		amount=2
 	}
+	freemen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=3
+	}
+	tribesmen={
+		culture="kharesmian"
+		religion="indo_iranian_religion"
+		amount=1
 	}
 }
 

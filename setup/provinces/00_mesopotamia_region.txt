@@ -87,7 +87,7 @@
 829={ # Doura
 	terrain="desert"
 	culture="macedonian"
-	religion="arabian_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=23
 	barbarian_power=0
@@ -96,7 +96,22 @@
 		amount="1"
 	}
 	freemen={
+		culture="aramaic"
+		religion="mesopotamian_religion"
+		amount="1"
+	}
+	freemen={
 		amount="2"
+	}
+	freemen={
+		culture="aramaic"
+		religion="arabian_pantheon"
+		amount="3"
+	}
+	tribesmen={
+		culture="aramaic"
+		religion="arabian_pantheon"
+		amount="3"
 	}
 }
 835={ # Hatra
@@ -322,7 +337,7 @@
 896={ # Artemita
 	terrain="plains"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -330,8 +345,18 @@
 	citizen={
 		amount="4"
 	}
+	citizen={
+		culture="babylonian"
+		religion="zoroaster"
+		amount="1"
+	}
 	freemen={
 		amount="1"
+	}
+	slaves={
+		culture="babylonian"
+		religion="zoroaster"
+		amount="2"
 	}
 	slaves={
 		amount="3"
@@ -578,7 +603,7 @@
 911={ # Seleucia Magna
 	terrain="flood_plain"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="papyrus"
 	civilization_value=52
 	barbarian_power=0
@@ -642,7 +667,7 @@
 914={ # Opis
 	terrain="flood_plain"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="elephants"
 	civilization_value=38
 	barbarian_power=0
@@ -905,7 +930,7 @@
 927={ # Skaphe
 	terrain="flood_plain"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=33
 	barbarian_power=0
@@ -1014,7 +1039,7 @@
 933={ # Apamea ad Tigridem
 	terrain="flood_plain"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="dates"
 	civilization_value=40
 	barbarian_power=0
@@ -1028,8 +1053,26 @@
 	freemen={
 		amount="3"
 	}
+	freemen={
+		culture="babylonian"
+		amount="1"
+	}
+	slaves={
+		culture="babylonian"
+		amount="1"
+	}
 	slaves={
 		amount="5"
+	}
+	slaves={
+		culture="babylonian"
+		religion="mesopotamian_religion"
+		amount="1"
+	}
+	tribesmen={
+		culture="babylonian"
+		religion="mesopotamian_religion"
+		amount="2"
 	}
 }
 934={ # Kashkar
@@ -1040,6 +1083,10 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
+	slaves={
+		religion="roman_pantheon"
+		amount="3"
+	}
 	slaves={
 		amount="1"
 	}
@@ -1057,6 +1104,10 @@
 	province_rank="settlement"
 	freemen={
 		amount="2"
+	}
+	slaves={
+		religion="roman_pantheon"
+		amount="1"
 	}
 	slaves={
 		amount="4"
@@ -1125,6 +1176,10 @@
 		amount="1"
 	}
 	slaves={
+		religion="roman_pantheon"
+		amount="1"
+	}
+	slaves={
 		amount="2"
 	}
 }
@@ -1146,7 +1201,7 @@
 940={ # Alexandria Susiana
 	terrain="flood_plain"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=56
 	barbarian_power=0
@@ -1214,7 +1269,7 @@
 942={ # Apologos
 	terrain="marsh"
 	culture="macedonian"
-	religion="mesopotamian_religion"
+	religion="roman_pantheon"
 	trade_goods="dates"
 	civilization_value=27
 	barbarian_power=0
@@ -1370,8 +1425,20 @@
 	freemen={
 		amount="1"
 	}
+	freemen={
+		religion="roman_pantheon"
+		amount="1"
+	}
+	slaves={
+		religion="roman_pantheon"
+		amount="1"
+	}
 	slaves={
 		amount="3"
+	}
+	tribesmen={
+		religion="roman_pantheon"
+		amount="1"
 	}
 }
 962={ # Khay
@@ -1396,7 +1463,7 @@
 963={ # Failaka
 	terrain="plains"
 	culture="macedonian"
-	religion="zoroaster"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=0
 	barbarian_power=0
@@ -1518,6 +1585,10 @@
 		amount="1"
 	}
 	slaves={
+		religion="roman_pantheon"
+		amount="1"
+	}
+	slaves={
 		amount="2"
 	}
 }
@@ -1599,7 +1670,7 @@
 981={ # Kelonai
 	terrain="hills"
 	culture="macedonian"
-	religion="zoroaster"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=34
 	barbarian_power=0
@@ -1607,14 +1678,44 @@
 	citizen={
 		amount="9"
 	}
+	citizen={
+		culture="assyrian"
+		religion="mesopotamian_religion"
+		amount="1"
+	}
+	citizen={
+		culture="babylonian"
+		religion="mesopotamian_religion"
+		amount="1"
+	}
 	freemen={
 		amount="6"
+	}
+	freemen={
+		culture="median"
+		religion="zoroaster"
+		amount="2"
+	}
+	slaves={
+		culture="assyrian"
+		religion="mesopotamian_religion"
+		amount="1"
 	}
 	slaves={
 		amount="5"
 	}
+	slaves={
+		culture="babylonian"
+		religion="mesopotamian_religion"
+		amount="2"
+	}
 	tribesmen={
 		amount="3"
+	}
+	tribesmen={
+		culture="babylonian"
+		religion="mesopotamian_religion"
+		amount="1"
 	}
 }
 982={ # Yazdigird

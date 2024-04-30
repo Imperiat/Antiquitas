@@ -443,8 +443,8 @@
 }
 1594={ # Kangavar
 	terrain="hills"
-	culture="median"
-	religion="mithra_religion"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=29
 	barbarian_power=0
@@ -480,8 +480,8 @@
 }
 1596={ # Deh Bozan
 	terrain="hills"
-	culture="median"
-	religion="mithra_religion"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
@@ -568,8 +568,8 @@
 }
 1601={ # Nikaia Nialia
 	terrain="mountain"
-	culture="cossian"
-	religion="mesopotamian_religion"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=27
 	barbarian_power=0
@@ -1473,8 +1473,8 @@
 }
 4976={ # Paraetecene
 	terrain="hills"
-	culture="median"
-	religion="mithra_religion"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=29
 	barbarian_power=0
@@ -1785,8 +1785,8 @@
 }
 4992={ # Portae
 	terrain="mountain"
-	culture="amardian"
-	religion="mithra_religion"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1794,8 +1794,8 @@
 }
 4993={ # Apameia
 	terrain="hills"
-	culture="amardian"
-	religion="mithra_religion"
+	culture="macedonian"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=36
 	barbarian_power=0
