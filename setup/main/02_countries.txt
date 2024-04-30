@@ -9,6 +9,9 @@ country = {
 			diplomatic_stance=warmongering_stance
 			primary_culture = roman
 			religion = roman_pantheon
+			capital = 1
+			
+			is_antagonist = yes
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -16,17 +19,6 @@ country = {
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
 			}
-			
-			capital = 1
-			pantheon = {
-			
-			{ deity = 1 }
-			{ deity = 2 } 
-			{ deity = 6 } 
-			{ deity = 4 }
-			
-			}
-			is_antagonist = yes
 		
 			treasures = { 201 61 39 }
 		
@@ -764,7 +756,7 @@ country = {
 			primary_culture = lepontic
 			religion = druidism
 			centralization=10
-		
+
 			capital = 3571
 		
 			own_control_core = 	{
@@ -1161,14 +1153,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 			
-			pantheon = { 
-			
-			{ deity = 100 }
-			{ deity = 112 }
-			{ deity = 110 }
-			{ deity = 152 }
-			}
-		
 			own_control_core = 	{
 				73
 			}
@@ -1513,16 +1497,7 @@ country = {
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
 			}
-			
-			pantheon = { 
-			
-			{ deity = 425 }
-			{ deity = 401 }
-			{ deity = 428 }	
-			{ deity = 426}
-			
-			}
-		
+
 			own_control_core = 	{
 				92 94 95 96 	
 				3260 3263 3266 3261 3256 3259 3251 3250 3253 3252
@@ -1924,13 +1899,6 @@ country = {
 			own_control_core = 	{
 				86
 			}
-		
-			pantheon = {
-				{ deity = 102 }
-				{ deity = 104 }
-				{ deity = 113 }
-				{ deity = 116 }
-			}
 			
 			treasures = { 96 }
 		}
@@ -1953,15 +1921,6 @@ country = {
 				Dionysios = 2
 				Dion = 1
 				Timoleon = 1
-			}
-		
-			pantheon = { 
-			
-			{ deity = 168 }
-			{ deity = 169 }
-			{ deity = 170 }
-			{ deity = 171 }
-			
 			}
 			
 			own_control_core = 	{
@@ -4287,15 +4246,6 @@ country = {
 		
 			capital = 2348
 		
-			pantheon = { 
-			
-			{ deity = 200 }
-			{ deity = 201 }
-			{ deity = 253 }
-			{ deity = 203 }
-			
-			}
-		
 			own_control_core = 	{
 				2348 2366 2369 2365 2360
 			}
@@ -6082,13 +6032,6 @@ country = {
 				350 349
 			}
 		
-			pantheon = {
-				{ deity = 110 }
-				{ deity = 102 }
-				{ deity = 651 }
-				{ deity = 117 }
-			}
-		
 			treasures = { 120 }
 		}
 		
@@ -6217,15 +6160,6 @@ country = {
 			}
 			
 			#is_antagonist = yes
-			
-			pantheon = { 
-			
-			{ deity = 102 }
-			{ deity = 112 }
-			{ deity = 110 }
-			{ deity = 108 }
-			
-			}
 		
 			treasures = { 62 90 91 104 }
 		
@@ -6349,15 +6283,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			pantheon = { 
-			
-			{ deity = 164 }
-			{ deity = 165 }
-			{ deity = 105 }
-			{ deity = 167 }
-			
-			}
-		
 			own_control_core = 	{
 				413 416 7799 7897 7898
 			}
@@ -6414,15 +6339,6 @@ country = {
 				civic_tech={ level=2 progress=0 }
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
-			}
-		
-			pantheon = {
-			
-			{ deity = 103 }
-			{ deity = 112 }
-			{ deity = 110 }
-			{ deity = 117 }
-			
 			}
 		
 			own_control_core = 	{
@@ -6597,15 +6513,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 112 }
-			{ deity = 110 }
-			{ deity = 150 }
-			
-			}
-		
 			capital = 468
 			own_control_core = 	{
 				468
@@ -6752,15 +6659,6 @@ country = {
 			}
 			
 			capital = 1835
-		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 104 }
-			{ deity = 113 }
-			{ deity = 117 }
-			
-			}
 		
 			own_control_core = 	{
 				1835 447 452
@@ -7056,15 +6954,6 @@ country = {
 		
 			capital = 440
 		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 112 }
-			{ deity = 113 }
-			{ deity = 116 }
-			
-			}
-		
 			own_control_core = 	{
 				440 471 7892 7894 7903
 			}	
@@ -7090,7 +6979,7 @@ country = {
 			
 		}
 		
-		ELI = { #Independent
+		ELI = {
 			government = oligarchic_republic
 			primary_culture = elean
 			religion = greek_pantheon
@@ -7103,15 +6992,6 @@ country = {
 			}
 		
 			capital = 446 #Elis
-		
-			pantheon = { 
-			
-			{ deity = 102 }
-			{ deity = 104 }
-			{ deity = 110 }
-			{ deity = 116 }
-			
-			}
 		
 			own_control_core = 	{
 				439 446 
@@ -7162,7 +7042,7 @@ country = {
 			
 		}
 		
-		EPD = { #Independent
+		EPD = {
 			government = oligarchic_republic
 			primary_culture = doric
 			religion = greek_pantheon
@@ -7175,15 +7055,6 @@ country = {
 			}
 		
 			capital = 441 #Epidauros
-		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 107 }
-			{ deity = 106 }
-			{ deity = 116 }
-			
-			}
 		
 			own_control_core = 	{
 				441
@@ -7263,15 +7134,6 @@ country = {
 		
 			capital = 417 #Megara
 		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 104 }
-			{ deity = 105 }
-			{ deity = 116 }
-			
-			}
-		
 			own_control_core = 	{
 				417 7902
 			}
@@ -7316,15 +7178,6 @@ country = {
 			}
 		
 			capital = 427
-		
-			pantheon = { 
-			
-			{ deity = 163 }
-			{ deity = 160 }
-			{ deity = 162 }
-			{ deity = 161 }
-			
-			}
 		
 			own_control_core = 	{
 				427 429 430 7889 431 432 473 450
@@ -7522,15 +7375,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 112 }
-			{ deity = 105 }
-			{ deity = 116 }
-			
-			}
-		
 			own_control_core = 	{
 				1973 275
 			}
@@ -7589,13 +7433,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			pantheon = { 			
-				{ deity = 103 }
-				{ deity = 104 }
-				{ deity = 115 }
-				{ deity = 116 }
-			}
-		
 			own_control_core = 	{
 				266
 			}
@@ -7615,13 +7452,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			pantheon = { 			
-				{ deity = 103 }
-				{ deity = 104 }
-				{ deity = 115 }
-				{ deity = 116 }
-			}
-		
 			own_control_core = 	{
 				1830
 			}
@@ -7639,13 +7469,6 @@ country = {
 				civic_tech={ level=2 progress=0 }
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
-			}
-		
-			pantheon = { 			
-				{ deity = 103 }
-				{ deity = 104 }
-				{ deity = 115 }
-				{ deity = 116 }
 			}
 		
 			own_control_core = 	{
@@ -7829,15 +7652,6 @@ country = {
 				religious_tech= { level=2 progress=0  }
 			}
 		
-			pantheon = { 
-			
-			{ deity = 103 }
-			{ deity = 104 }
-			{ deity = 113 }
-			{ deity = 114 }
-			
-			}
-		
 			treasures = { 65 }
 			
 			own_control_core = 	{
@@ -7899,15 +7713,6 @@ country = {
 				civic_tech={ level=2 progress=0 }
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
-			}
-		
-			pantheon = { 
-			
-			{ deity = 102 }
-			{ deity = 104 }
-			{ deity = 105 }
-			{ deity = 108 }
-			
 			}
 		
 			own_control_core = 	{
@@ -8138,13 +7943,6 @@ country = {
 			own_control_core = 	{
 				1881 1889 1882 1880 1877 1875 1878 1873 1874 1879 796 795
 			}
-			
-			pantheon = {
-				{ deity = 110 }
-				{ deity = 353 }
-				{ deity = 102 }
-				{ deity = 104 }
-			}
 		}
 
 		TSS = {
@@ -8188,13 +7986,6 @@ country = {
 			own_control_core = 	{
 				1979 1982 1794 1799 1800 1900 1788 205 1818 1817 1954 1813 7981
 				155 1796 1913 1912 1802 1803 1805 6420
-			}
-			
-			pantheon = {
-				{ deity = 375 } # Ma
-				{ deity = 301 } # Sraosha
-				{ deity = 352 } # Men
-				{ deity = 353 } # Cybele
 			}
 		}
 
@@ -8476,17 +8267,7 @@ country = {
 			government = theocratic_monarchy
 			primary_culture = hebrew
 			religion = judaism
-		
 			capital = 687
-			
-			pantheon = {
-			
-				{ deity = 907 }
-				{ deity = 902 } 
-				{ deity = 905 } 
-				{ deity = 909 }
-			
-			}
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8594,13 +8375,6 @@ country = {
 			own_control_core = 	{
 				747
 			}
-			
-			pantheon = {
-				{ deity = 404 }
-				{ deity = 401 }
-				{ deity = 408 }
-				{ deity = 403 }
-			}
 		}
 
 		AKA = {
@@ -8677,13 +8451,6 @@ country = {
 			own_control_core = 	{
 				766
 			}
-			
-			pantheon = {
-				{ deity = 404 }
-				{ deity = 410 }
-				{ deity = 405 }
-				{ deity = 403 }
-			}
 		}
 		
 		COM = { #Commagene, Satrapy under Antigonids, later Seleukids.
@@ -8710,7 +8477,6 @@ country = {
 			government = theocratic_monarchy
 			primary_culture = aramaic
 			religion = carthaginian_pantheon
-		
 			capital = 810
 			
 			technology={
@@ -8722,13 +8488,6 @@ country = {
 			
 			own_control_core = 	{
 				810 1869
-			}
-			
-			pantheon = {
-				{ deity = 404 } # El
-				{ deity = 401 } # Melqart
-				{ deity = 405 } # Baal
-				{ deity = 409 } # Atargatis
 			}
 		}
 
@@ -8789,13 +8548,6 @@ country = {
 				943 945 946 947 948 949 950 967 972 975
 				969 951 952 966 4779 4780
 			}
-			
-			pantheon = {
-				{ deity = 758 }
-				{ deity = 755 }
-				{ deity = 103 }
-				{ deity = 114 }
-			}
 		
 			treasures = { 102 }
 		}
@@ -8824,13 +8576,6 @@ country = {
 				7229 7231 7240 7241 7242 #New
 				6689 6654 6690 6686 6691 6697 6688 6687 6694 6696 6695 #bactriana
 				6652 6653 6667 6669
-			}
-		
-			pantheon = {
-				{ deity = 102 }
-				{ deity = 111 }
-				{ deity = 116 }
-				{ deity = 107 }
 			}
 		
 			treasures = { 82 }
@@ -9761,13 +9506,6 @@ country = {
 		
 			own_control_core = 	{
 				1649 1630 1631 1632 1638 1654 1648 1652
-			}
-			
-			pantheon = {
-				{ deity = 307 } # Atar
-				{ deity = 301 } # Sraosha 
-				{ deity = 302 } # Zoroaster
-				{ deity = 303 } # Tishtrya
 			}
 		}
 		
@@ -11443,13 +11181,6 @@ country = {
 			own_control_core = {
 				6833 6840 6844 6845 6841 6825 6842 #kaccha_region
 			}
-			
-			pantheon = {
-				{ deity = 1106 }
-				{ deity = 1112 }
-				{ deity = 1101 }
-				{ deity = 1111 }
-			}
 		}
 		
 		SHT = {
@@ -11470,13 +11201,6 @@ country = {
 				6816 6813 6828 6823 6818 6834 6829 6847 6846 6838
 				6839 6832 6819 6817 6814 6824 6831 6820 6836 6837
 				4494 6835 7415
-			}
-			
-			pantheon = {
-				{ deity = 1106 }
-				{ deity = 1112 }
-				{ deity = 1101 }
-				{ deity = 1111 }
 			}
 		}
 		
@@ -11520,13 +11244,6 @@ country = {
 			
 			own_control_core = {
 				4478 7419 7416 7417 4489 7418 4497 4499
-			}
-			
-			pantheon = {
-				{ deity = 1106 }
-				{ deity = 1112 }
-				{ deity = 1101 }
-				{ deity = 1111 }
 			}
 		}
 		
@@ -13393,23 +13110,13 @@ country = {
 			government = oligarchic_republic
 			primary_culture = north_western_doric
 			religion = greek_pantheon
+			capital = 424
 			
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 424
-		
-			pantheon = {
-			
-			{ deity = 103 }
-			{ deity = 104 }
-			{ deity = 105 }
-			{ deity = 116 }
-			
 			}
 		
 			treasures = { 76 99 100 }
@@ -14129,15 +13836,6 @@ country = {
 				civic_tech={ level=2 progress=0 }
 				oratory_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
-			}
-		
-			pantheon = {
-			
-			{ deity = 102 }
-			{ deity = 107 }
-			{ deity = 110 }
-			{ deity = 116 }
-			
 			}
 		
 			treasures = { 75 85 }		
