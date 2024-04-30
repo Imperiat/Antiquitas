@@ -1,26 +1,25 @@
-﻿445={ #Leukaspis
+﻿445={ # Dyme
 	terrain="desert"
 	culture="egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-453={ #Taposiris Megale
+453={ # Taposiris
 	terrain="desert"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -29,20 +28,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=11
+		amount="11"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-500={ #Memphis
+500={ # Memphis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -51,21 +49,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=5
+		amount="5"
 	}
 	citizen={
-		amount=10
+		amount="10"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=25
+		amount="25"
 	}
-	holy_site=omen_ptah
+	holy_site="omen_ptah"
 }
-
-501={ #Heliopolis
+501={ # Heliopolis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -74,21 +71,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=3
+		amount="3"
 	}
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=18
+		amount="18"
 	}
-	holy_site=omen_ra
+	holy_site="omen_ra"
 }
-
-502={ #Heroopolis
+502={ # Heroopolis
 	terrain="desert"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -97,17 +93,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 }
-
-503={ #Boubastis
+503={ # Bubastis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -116,17 +111,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=9
+		amount="9"
 	}
 }
-
-504={ #Leontopolis
+504={ # Leontopolis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -135,18 +129,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=28
+		amount="28"
 	}
-	holy_site=omen_sekhmet
+	holy_site="omen_sekhmet"
 }
-
-505={ #Klysma
+505={ # Klysma
 	terrain="desert"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -155,18 +148,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-506={ #Arsinoe
+506={ # Cleopatris
 	terrain="desert"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -175,15 +167,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_miriam
+	holy_site="omen_miriam"
 }
-
-507={ #Leonton Polis
+507={ # LeontonPolis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -192,18 +183,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-508={ #Tanis
+508={ # Tanis
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -212,17 +202,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-509={ #Pilousion
+509={ # Pelusium
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -231,21 +220,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-510={ #Daphnai Pelousiai
+510={ # Daphnai
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -254,17 +242,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 }
-
-511={ #Phakousai
+511={ # Phakoussai
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -273,21 +260,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_joseph
+	holy_site="omen_joseph"
 }
-
-512={ #Letous Polis
+512={ # Letopolis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -296,17 +282,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=11
+		amount="11"
 	}
 }
-
-513={ #Athribis
+513={ # Athribis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -315,17 +300,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 }
-
-514={ #Nikiou
+514={ # Nikiou
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -334,17 +318,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=15
+		amount="15"
 	}
 }
-
-515={ #Naukratis
+515={ # Naukratis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -353,20 +336,19 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=3
+		amount="3"
 	}
 	citizen={
-		amount=18
+		amount="18"
 	}
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=11
+		amount="11"
 	}
 }
-
-516={ #Alexandreia
+516={ # Alexandria
 	terrain="farmland"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -375,22 +357,21 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=7
+		amount="7"
 	}
 	citizen={
-		amount=16
+		amount="16"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_alexander
+	holy_site="omen_alexander"
 	port_building=3
 }
-
-517={ #Hermopolis Mikra
+517={ # Hermopolis Mikra
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -399,18 +380,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=25
+		amount="25"
 	}
 	port_building=1
 }
-
-518={ #Boutos
+518={ # Buto
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -419,17 +399,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=19
+		amount="19"
 	}
 }
-
-519={ #Sais
+519={ # Sais
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -438,18 +417,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=13
+		amount="13"
 	}
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=19
+		amount="19"
 	}
 	port_building=1
 }
-
-520={ #Xois
+520={ # Xois
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -458,17 +436,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-521={ #Sebennytos
+521={ # Sebennytos
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -477,18 +454,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=24
+		amount="24"
 	}
 	port_building=1
 }
-
-522={ #Diospolis Kato
+522={ # Diospolis Kato
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -497,18 +473,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-523={ #Pachneumounis
+523={ # Pakhnemounis
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -517,17 +492,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=9
+		amount="9"
 	}
 }
-
-524={ #Pharbaithos
+524={ # Pharbaithos
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -536,17 +510,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-525={ #Sile
+525={ # Sile
 	terrain="desert"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -555,17 +528,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-526={ #Onouphis Ano
+526={ # Onouphis Ano
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -574,17 +546,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 }
-
-527={ #Momemphis
+527={ # Atarbechis-Aphroditopolis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -593,17 +564,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 }
-
-528={ #Iseion
+528={ # Isieion
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -612,17 +582,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 }
-
-529={ #Kanopos
+529={ # Kanopos
 	terrain="farmland"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -631,18 +600,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=9
+		amount="9"
 	}
 	port_building=1
 }
-
-530={ #Bolbitine
+530={ # Bolbitine
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -651,17 +619,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-531={ #Psenemphaia
+531={ # Psenemphaia
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -670,17 +637,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 }
-
-532={ #Chaireon
+532={ # Chaireon
 	terrain="farmland"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -689,17 +655,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-533={ #Boutike Limne
+533={ # Chemmis
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -708,17 +673,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-534={ #Mendes
+534={ # Mendes
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -727,17 +691,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=10
+		amount="10"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=16
+		amount="16"
 	}
 }
-
-535={ #Ostrakine
+535={ # Ostrakine
 	terrain="desert"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -746,20 +709,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-536={ #Babylon Aigyptou
+536={ # Babylon
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -768,18 +730,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=13
+		amount="13"
 	}
 	slaves={
-		amount=12
+		amount="12"
 	}
 	port_building=1
 }
-
-537={ #Panarachthis
+537={ # Panarachthis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -788,17 +749,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-538={ #Aphroditopolis
+538={ # Aphroditopolis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -807,20 +767,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=14
+		amount="14"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-539={ #Ptolemais Euergetis
+539={ # Krokodilopolis
 	terrain="oasis"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -829,21 +788,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=22
+		amount="22"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
-	holy_site=omen_sobek
+	holy_site="omen_sobek"
 }
-
-540={ #Dionysias
+540={ # Dionysias
 	terrain="oasis"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -852,14 +810,13 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-541={ #Karanis
+541={ # Karanis
 	terrain="oasis"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -868,14 +825,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-542={ #Ankyronpolis
+542={ # Ankyronpolis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -884,17 +840,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 }
-
-543={ #Neiloupolis
+543={ # Neiloupolis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -903,17 +858,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=10
+		amount="10"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=19
+		amount="19"
 	}
 }
-
-544={ #Irakleiopolis
+544={ # Herakleopolis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -922,17 +876,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 }
-
-545={ #Oxyrrhynchos
+545={ # Oxyrhynchus
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -941,20 +894,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-546={ #Kynopolis
+546={ # Kynopolis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -963,14 +915,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-547={ #Chysis
+547={ # Chysis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -979,17 +930,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 }
-
-548={ #Alabastronpolis
+548={ # Alabastronpolis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -998,17 +948,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-550={ #Peentalis
+550={ # Thynis
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1017,20 +966,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-655={ #Serapieion
+655={ # Serapieion
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1039,20 +987,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-656={ #Rhinokoloura
+656={ # Rinokoloura
 	terrain="desert"
 	culture="philistine"
 	religion="carthaginian_pantheon"
@@ -1061,17 +1008,16 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-701={ #Maghara
+701={ # Maghara
 	terrain="desert"
 	culture="philistine"
 	religion="egyptian_pantheon"
@@ -1080,17 +1026,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1600={ #Medeia
+1600={ # Marah
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1099,14 +1044,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1604={ #Phoinikon
+1604={ # Phoinikon
 	terrain="desert"
 	culture="egyptian"
 	religion="arabian_pantheon"
@@ -1115,14 +1059,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1675={ #Pharan
+1675={ # Pharan
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1131,17 +1074,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1682={ #Rhaithou
+1682={ # Rhaithou
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1150,14 +1092,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-1684={ #Ain Hudera
+1684={ # Ain Hudera
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1166,17 +1107,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1688={ #Nuweiba
+1688={ # Nuweiba
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1185,14 +1125,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1693={ #Oros Choreb
+1693={ # Horeb Mons
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1201,15 +1140,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_moses
+	holy_site="omen_moses"
 }
-
-1708={ #Tell el-Mashraba
+1708={ # Tell el-Mashraba
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1218,11 +1156,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1709={ #Naqb Jedid
+1709={ # Naqb Jedid
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1231,11 +1168,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1710={ #Sinai Boreioi
+1710={ # Sina Meridionalis
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -1244,24 +1180,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5531={ #Oasis Deutera
+5531={ # Parva
 	terrain="desert"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="camel"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5532={ #Kom Namrud
+5532={ # Kom Namrud
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1270,14 +1204,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5533={ #Berku
+5533={ # Berku
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1286,14 +1219,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5534={ #Varam
+5534={ # Varam
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1302,11 +1234,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5535={ #Colira
+5535={ # Colira
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1315,69 +1246,64 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5541={ #Shunne
+5541={ # Shunne
 	terrain="desert"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="cattle"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5542={ #Murta
+5542={ # Murta
 	terrain="desert"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="fur"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5543={ #Magrab
+5543={ # Magrab
 	terrain="desert"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-5544={ #Gheron
+5544={ # Gerum
 	terrain="desert"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5546={ #Pseneros
+5546={ # Pseneros
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1386,11 +1312,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5547={ #Philoteris
+5547={ # Philoteris
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1399,14 +1324,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5548={ #Kerkethoris
+5548={ # Kerkethoris
 	terrain="desert"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1415,11 +1339,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5549={ #Takiris
+5549={ # Takyris
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
@@ -1428,17 +1351,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-7668={ #Bilbeis
+7668={ # Bilbeis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -1447,17 +1369,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 }
-
-7688={ #Thenisos
+7688={ # Thenessos
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -1466,17 +1387,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-7689={ #Ermou Polis
+7689={ # Hermopolis
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -1485,17 +1405,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-7690={ #Tamiathis
+7690={ # Tamiathis
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -1504,17 +1423,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-7691={ #Perseos Skope
+7691={ # Perseos Skope
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
@@ -1523,13 +1441,12 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 }
-

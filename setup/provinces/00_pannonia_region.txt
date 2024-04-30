@@ -1,4 +1,4 @@
-﻿3653={ #Vindobona
+﻿3653={ # Quadriburgium
 	terrain="hills"
 	culture="eravisci"
 	religion="druidism"
@@ -7,20 +7,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-3918={ #Carnuntum
+3918={ # Carnuntum
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -29,14 +28,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4024={ #Emona
+4024={ # Emona
 	terrain="mountain"
 	culture="carnian"
 	religion="druidism"
@@ -45,17 +43,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4025={ #Carnium
+4025={ # Carnium
 	terrain="mountain"
 	culture="carnian"
 	religion="druidism"
@@ -64,39 +61,37 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4026={ #Longaticum
+4026={ # Longaticum
 	terrain="hills"
 	culture="carnian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4027={ #Latobicorum
+4027={ # Latobicorum
 	terrain="mountain"
 	culture="carnian"
 	religion="druidism"
@@ -105,20 +100,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4028={ #Neviodunum
+4028={ # Neviodunum
 	terrain="mountain"
 	culture="carnian"
 	religion="druidism"
@@ -127,17 +121,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4029={ #Celeia
+4029={ # Celeia
 	terrain="mountain"
 	culture="carnian"
 	religion="druidism"
@@ -146,17 +139,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4030={ #Poetovio
+4030={ # Poetovio
 	terrain="hills"
 	culture="carnian"
 	religion="druidism"
@@ -165,20 +157,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4031={ #Flavia Solva
+4031={ # Flavia Solva
 	terrain="forest"
 	culture="carnian"
 	religion="druidism"
@@ -187,20 +178,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4039={ #Romula
+4039={ # Romula
 	terrain="hills"
 	culture="carnian"
 	religion="druidism"
@@ -209,14 +199,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4047={ #Luena
+4047={ # Luena
 	terrain="mountain"
 	culture="noric"
 	religion="druidism"
@@ -225,17 +214,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4048={ #Colatio
+4048={ # Colatio
 	terrain="mountain"
 	culture="carnian"
 	religion="druidism"
@@ -244,17 +232,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4131={ #Poedicum
+4131={ # Poedicum
 	terrain="mountain"
 	culture="noric"
 	religion="druidism"
@@ -263,20 +250,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4132={ #Volgum
+4132={ # Volgum
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -285,17 +271,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4133={ #Salla
+4133={ # Salla
 	terrain="forest"
 	culture="carnian"
 	religion="druidism"
@@ -304,17 +289,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4134={ #Ad Vicessimum
+4134={ # Ad Vicessimum
 	terrain="forest"
 	culture="carnian"
 	religion="druidism"
@@ -323,20 +307,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4135={ #Arraboa
+4135={ # Arraboa
 	terrain="forest"
 	culture="carnian"
 	religion="druidism"
@@ -345,14 +328,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4136={ #Halicanum
+4136={ # Halicanum
 	terrain="farmland"
 	culture="carnian"
 	religion="druidism"
@@ -361,17 +343,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4137={ #Populi
+4137={ # Populi
 	terrain="farmland"
 	culture="carnian"
 	religion="druidism"
@@ -380,17 +361,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4138={ #Mogentiana
+4138={ # Mogentiana
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -399,17 +379,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4139={ #Mestrianis
+4139={ # Mestrianis
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -418,17 +397,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4140={ #Salia
+4140={ # Salia
 	terrain="forest"
 	culture="carnian"
 	religion="druidism"
@@ -437,14 +415,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4141={ #Sabaria
+4141={ # Sabaria
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -453,11 +430,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4142={ #Bassena
+4142={ # Bassena
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -466,17 +442,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4143={ #Confluentia Latobicorum
+4143={ # Confluentia Latobicorum
 	terrain="forest"
 	culture="carnian"
 	religion="druidism"
@@ -485,14 +460,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4144={ #Scarbantia
+4144={ # Scarbantia
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -501,20 +475,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4145={ #Muteno
+4145={ # Muteno
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -523,17 +496,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4146={ #Mursella Prima
+4146={ # MursellaPrima
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -542,14 +514,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4147={ #Quadrata
+4147={ # Quadrata
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -558,14 +529,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4148={ #Pelsodis
+4148={ # Pelsodis
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -574,17 +544,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4149={ #Crispiana
+4149={ # Crispiana
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -593,17 +562,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4150={ #Arrabona
+4150={ # Arrabona
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -612,17 +580,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4151={ #Murselliana
+4151={ # Murselliana
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -631,17 +598,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4155={ #Brigetio
+4155={ # Brigetio
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -650,14 +616,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4156={ #Crumerum
+4156={ # Crumerum
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -666,14 +631,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4157={ #Aquincum
+4157={ # Aquincum
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -682,17 +646,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4158={ #Campona
+4158={ # Campona
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -701,14 +664,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4159={ #Floriana
+4159={ # Floriana
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -717,17 +679,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4160={ #Gorsium
+4160={ # Gorsium
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -736,14 +697,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4161={ #Intercisa
+4161={ # Intercisa
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -752,17 +712,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4162={ #Alta Ripa
+4162={ # Alta Ripa
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -771,17 +730,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4163={ #Tricciana
+4163={ # Tricciana
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -790,14 +748,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4164={ #Alisca
+4164={ # Alisca
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -806,20 +763,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4165={ #Silikenis
+4165={ # Silicenis
 	terrain="forest"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -828,15 +784,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_aecorna
+	holy_site="omen_aecorna"
 }
-
-4166={ #Iovia
+4166={ # Iovia
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -845,17 +800,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4167={ #Limousa
+4167={ # Limusa
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -864,17 +818,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4168={ #Sopianai
+4168={ # Sopianae
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -883,17 +836,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4169={ #Lugio
+4169={ # Lugio
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -902,17 +854,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4170={ #Mursa
+4170={ # Mursa
 	terrain="farmland"
 	culture="eravisci"
 	religion="druidism"
@@ -921,14 +872,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4171={ #Serena
+4171={ # Serena
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -937,20 +887,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4172={ #Kardonon
+4172={ # Cardono
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -959,14 +908,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4173={ #Sonista
+4173={ # Sonista
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -975,17 +923,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4174={ #Peiratis
+4174={ # Piretis
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -994,17 +941,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4175={ #Aquae Iasae
+4175={ # Aquae Iasae
 	terrain="hills"
 	culture="carnian"
 	religion="druidism"
@@ -1013,14 +959,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4176={ #Pyrrhoi
+4176={ # Pyrri
 	terrain="hills"
 	culture="catari"
 	religion="illyrian_pantheon"
@@ -1029,17 +974,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4177={ #Ouarianis
+4177={ # Varianis
 	terrain="plains"
 	culture="catari"
 	religion="illyrian_pantheon"
@@ -1048,14 +992,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4178={ #Iasoreion
+4178={ # Iassorum
 	terrain="plains"
 	culture="catari"
 	religion="illyrian_pantheon"
@@ -1064,17 +1007,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4179={ #Serota
+4179={ # Serota
 	terrain="forest"
 	culture="catari"
 	religion="illyrian_pantheon"
@@ -1083,14 +1025,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4180={ #Lentoulis
+4180={ # Lentulis
 	terrain="forest"
 	culture="catari"
 	religion="illyrian_pantheon"
@@ -1099,17 +1040,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4181={ #Sauia
+4181={ # Savia
 	terrain="plains"
 	culture="catari"
 	religion="illyrian_pantheon"
@@ -1118,17 +1058,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4182={ #Claudia
+4182={ # Claudia
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1137,14 +1076,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4183={ #Inkeron
+4183={ # Incero
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1153,17 +1091,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4184={ #Drauia
+4184={ # Dravia
 	terrain="hills"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1172,17 +1109,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4185={ #Strauianis
+4185={ # Stravianis
 	terrain="hills"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1191,17 +1127,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4186={ #Pikentinon
+4186={ # Picentino
 	terrain="farmland"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1210,14 +1145,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4187={ #Moursella Mikra
+4187={ # Mursella
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1226,11 +1160,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4188={ #Kibalai
+4188={ # Cibalae
 	terrain="farmland"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1239,14 +1172,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4189={ #Sirmium
+4189={ # Sirmium
 	terrain="hills"
 	culture="celtic_pannonian"
 	religion="druidism"
@@ -1255,14 +1187,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4190={ #Bassiana
+4190={ # Bassiana
 	terrain="farmland"
 	culture="celtic_pannonian"
 	religion="druidism"
@@ -1271,14 +1202,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4191={ #Kausilena
+4191={ # Causilena
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1287,20 +1217,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4192={ #Spaneta
+4192={ # Spaneta
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -1309,14 +1238,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4193={ #Altina
+4193={ # Altina
 	terrain="plains"
 	culture="celtic_pannonian"
 	religion="druidism"
@@ -1325,14 +1253,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4842={ #Acumincum
+4842={ # Acumincum
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -1341,11 +1268,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4843={ #Onagrinum
+4843={ # Onagrinum
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -1354,17 +1280,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4844={ #Florentia
+4844={ # Florentia
 	terrain="farmland"
 	culture="eravisci"
 	religion="druidism"
@@ -1373,14 +1298,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4845={ #Agria
+4845={ # Agria
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1389,14 +1313,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4846={ #Tibiscua
+4846={ # Tibiscua
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1405,17 +1328,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4847={ #Partiskon
+4847={ # Partiskon
 	terrain="farmland"
 	culture="eravisci"
 	religion="druidism"
@@ -1424,17 +1346,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4848={ #Triticum
+4848={ # Triticum
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1443,20 +1364,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4849={ #Iazygia
+4849={ # Iazygia
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -1465,17 +1385,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4850={ #Iazygiana
+4850={ # Iazygiana
 	terrain="farmland"
 	culture="eravisci"
 	religion="druidism"
@@ -1484,17 +1403,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4852={ #Burgus Quadorum
+4852={ # Burgus Quadorum
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1503,11 +1421,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4854={ #Anartiana
+4854={ # Anartiana
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1516,17 +1433,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4855={ #Ocara
+4855={ # Ocara
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1535,11 +1451,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4866={ #Laugaricio
+4866={ # Laugaricio
 	terrain="hills"
 	culture="cotinian"
 	religion="druidism"
@@ -1548,11 +1463,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4867={ #Navata
+4867={ # Navata
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1561,17 +1475,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4868={ #Brocasta
+4868={ # Brocasta
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -1580,11 +1493,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4869={ #Marrica
+4869={ # Marrica
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -1593,11 +1505,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4870={ #Maronis
+4870={ # Maronis
 	terrain="hills"
 	culture="cotinian"
 	religion="druidism"
@@ -1606,14 +1517,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4871={ #Bekum
+4871={ # Bekum
 	terrain="hills"
 	culture="cotinian"
 	religion="druidism"
@@ -1622,11 +1532,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 }
-
-4872={ #Amatria
+4872={ # Amatria
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -1635,14 +1544,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4873={ #Collata
+4873={ # Collata
 	terrain="hills"
 	culture="cotinian"
 	religion="druidism"
@@ -1651,14 +1559,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4874={ #Astrum
+4874={ # Astrum
 	terrain="plains"
 	culture="eravisci"
 	religion="druidism"
@@ -1667,10 +1574,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-

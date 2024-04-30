@@ -1,7 +1,7 @@
-1079={ # Ad Vicensi
+﻿1079={ # Ad Vicensi
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="animism"
 	trade_goods="olive"
 	civilization_value=11
 	barbarian_power=0
@@ -50,7 +50,7 @@
 2254={ # Tarusco
 	terrain="plains"
 	culture="volcae"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="olive"
 	civilization_value=11
 	barbarian_power=0
@@ -65,7 +65,7 @@
 2255={ # Carcasso
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="animism"
 	trade_goods="precious_metals"
 	civilization_value=11
 	barbarian_power=0
@@ -80,7 +80,7 @@
 2256={ # Narbo
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=11
 	barbarian_power=0
@@ -106,7 +106,7 @@
 2257={ # Ruscino
 	terrain="plains"
 	culture="indiketian"
-	religion="druidism"
+	religion="animism"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -128,7 +128,7 @@
 2258={ # Usuerva
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=11
 	barbarian_power=0
@@ -146,7 +146,7 @@
 2259={ # Baeterrae
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=11
 	barbarian_power=0
@@ -190,7 +190,7 @@
 2261={ # Luteva
 	terrain="forest"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -241,7 +241,7 @@
 2265={ # Tolosa
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="pre_indo_european_religion"
 	trade_goods="earthware"
 	civilization_value=11
 	barbarian_power=0
@@ -488,7 +488,7 @@
 2303={ # Octavus
 	terrain="plains"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="stone"
 	civilization_value=11
 	barbarian_power=0
@@ -521,7 +521,7 @@
 2305={ # Allobrogia
 	terrain="plains"
 	culture="allobrogian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -643,7 +643,7 @@
 2312={ # Andusia
 	terrain="hills"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -661,7 +661,7 @@
 2313={ # Sextantio
 	terrain="farmland"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=13
 	barbarian_power=0
@@ -683,7 +683,7 @@
 2314={ # Nemausus
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0
@@ -760,7 +760,7 @@
 2318={ # Rhodanousia
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=11
 	barbarian_power=0
@@ -813,7 +813,7 @@
 2321={ # Avennio
 	terrain="farmland"
 	culture="salluvian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=13
 	barbarian_power=0
@@ -829,7 +829,7 @@
 2322={ # Carpentorate
 	terrain="farmland"
 	culture="salluvian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=13
 	barbarian_power=0
@@ -880,7 +880,7 @@
 2325={ # Massalia
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0

@@ -1,4 +1,4 @@
-﻿768={ # Libanus Mons
+768={ # Libanus Mons
 	terrain="impassable_terrain"
 	culture="phoenician"
 	religion="carthaginian_pantheon"
@@ -79,7 +79,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5004={ # Mons Pullinus
+5004={ # MonsPullinus
 	terrain="impassable_terrain"
 	culture="lucanian"
 	religion="roman_pantheon"
@@ -226,7 +226,7 @@
 5021={ # 
 	terrain="impassable_terrain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -244,7 +244,7 @@
 5023={ # Alpes Cottiae
 	terrain="impassable_terrain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -262,7 +262,7 @@
 5025={ # 
 	terrain="impassable_terrain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -442,7 +442,7 @@
 5045={ # 
 	terrain="impassable_terrain"
 	culture="helvetian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -496,7 +496,7 @@
 5051={ # 
 	terrain="impassable_terrain"
 	culture="ilergetian"
-	religion="druidism"
+	religion="animism"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -505,7 +505,7 @@
 5052={ # 
 	terrain="impassable_terrain"
 	culture="vasconian"
-	religion="animism"
+	religion="pre_indo_european_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -523,7 +523,7 @@
 5054={ # 
 	terrain="impassable_terrain"
 	culture="corsian"
-	religion="nuragic_pantheon"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1189,7 +1189,7 @@
 5128={ # 
 	terrain="impassable_terrain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1198,7 +1198,7 @@
 5129={ # 
 	terrain="impassable_terrain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1207,7 +1207,7 @@
 5130={ # 
 	terrain="impassable_terrain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1225,7 +1225,7 @@
 5132={ # 
 	terrain="impassable_terrain"
 	culture="indiketian"
-	religion="druidism"
+	religion="animism"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1234,7 +1234,7 @@
 5133={ # 
 	terrain="impassable_terrain"
 	culture="aquitani"
-	religion="druidism"
+	religion="animism"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2257,7 +2257,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5247={ # Utian Plain
+5247={ # UtianPlain
 	terrain="impassable_terrain"
 	culture="utian"
 	religion="zoroaster"
@@ -2743,7 +2743,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5301={ # Omani Desert
+5301={ # 
 	terrain="impassable_terrain"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2905,7 +2905,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5320={ # Eastern Gaetulia
+5320={ # Salinae Tubunenses
 	terrain="ocean"
 	culture=""
 	religion=""
@@ -3067,7 +3067,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5338={ # Farafra
+5338={ # Farafra Desert
 	terrain="impassable_terrain"
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
@@ -3178,7 +3178,7 @@
 5350={ # 
 	terrain="impassable_terrain"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -3535,7 +3535,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5440={ # Syria Deserta
+5440={ # Syria Desert
 	terrain="desert"
 	culture="assyrian"
 	religion="mesopotamian_religion"
@@ -3958,7 +3958,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5972={ # Ona Mountains
+5972={ # Ural Mountains
 	terrain="impassable_terrain"
 	culture="arimphaei"
 	religion="uralic_pantheon"
@@ -3976,7 +3976,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5974={ # Sudan Impassable
+5974={ # 
 	terrain="impassable_terrain"
 	culture="jiankun"
 	religion="hu_religions"
@@ -3985,7 +3985,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5975={ # Sudan Impassable
+5975={ # 
 	terrain="impassable_terrain"
 	culture="dingling"
 	religion="hu_religions"
@@ -4093,7 +4093,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5987={ # Maurian Plateau
+5987={ # MaurianPlateau
 	terrain="impassable_terrain"
 	culture="socossian"
 	religion="berber_religion"
@@ -4129,7 +4129,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5991={ # Jungle
+5991={ # Zalatan Desert
 	terrain="impassable_terrain"
 	culture="libyan"
 	religion="berber_religion"
@@ -4156,7 +4156,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5994={ # Desert of Philoteris
+5994={ # Desert ofPhiloteris
 	terrain="impassable_terrain"
 	culture="libyan"
 	religion="egyptian_pantheon"
@@ -4165,7 +4165,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-5995={ # Oasis Parva
+5995={ # OasisParva
 	terrain="impassable_terrain"
 	culture="libyan"
 	religion="egyptian_pantheon"
@@ -4660,7 +4660,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-6333={ # Lim
+6333={ # 
 	terrain="ocean"
 	culture=""
 	religion=""
@@ -4849,7 +4849,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-6354={ # Borysthenes
+6354={ # 
 	terrain="impassable_terrain"
 	culture="jiankun"
 	religion="hu_religions"
@@ -5497,7 +5497,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-6438={ # 
+6438={ # Euphrates
 	terrain="ocean"
 	culture=""
 	religion=""
@@ -5824,7 +5824,7 @@
 6499={ # 
 	terrain="impassable_terrain"
 	culture="libyan"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6028,7 +6028,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-7643={ # Fennia
+7643={ # 
 	terrain="impassable_terrain"
 	culture="aestian"
 	religion="matrist_religion"
@@ -7189,7 +7189,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8063={ # Tulih
+8063={ # EMPTY LOC - 8063
 	terrain="impassable_terrain"
 	culture="meroitic"
 	religion="berber_religion"
@@ -7198,7 +7198,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8064={ # Fura
+8064={ # EMPTY LOC - 8064
 	terrain="impassable_terrain"
 	culture="nasamonian"
 	religion="berber_religion"
@@ -7207,7 +7207,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8065={ # Kurmut
+8065={ # EMPTY LOC - 8065
 	terrain="impassable_terrain"
 	culture="macaean"
 	religion="berber_religion"
@@ -7216,7 +7216,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8066={ # Halfa
+8066={ # EMPTY LOC - 8066
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -7225,7 +7225,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8067={ # Kalas
+8067={ # EMPTY LOC - 8067
 	terrain="impassable_terrain"
 	culture="nasamonian"
 	religion="berber_religion"
@@ -7234,7 +7234,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8068={ # Kuweib
+8068={ # EMPTY LOC - 8068
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -7243,7 +7243,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8069={ # Khafur
+8069={ # EMPTY LOC - 8069
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -7252,7 +7252,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8070={ # Barkol
+8070={ # EMPTY LOC - 8070
 	terrain="impassable_terrain"
 	culture="macaean"
 	religion="berber_religion"
@@ -7261,7 +7261,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8071={ # Ileigha
+8071={ # EMPTY LOC - 8071
 	terrain="impassable_terrain"
 	culture="macaean"
 	religion="berber_religion"
@@ -7270,7 +7270,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8072={ # Abraq
+8072={ # EMPTY LOC - 8072
 	terrain="impassable_terrain"
 	culture="macaean"
 	religion="berber_religion"
@@ -7279,7 +7279,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8073={ # Hudi
+8073={ # EMPTY LOC - 8073
 	terrain="impassable_terrain"
 	culture="macaean"
 	religion="berber_religion"
@@ -7288,7 +7288,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8074={ # Shabbabah
+8074={ # EMPTY LOC - 8074
 	terrain="impassable_terrain"
 	culture="phazani"
 	religion="berber_religion"
@@ -7297,7 +7297,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8075={ # Karim
+8075={ # EMPTY LOC - 8075
 	terrain="impassable_terrain"
 	culture="phazani"
 	religion="berber_religion"
@@ -7306,7 +7306,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8076={ # Asele
+8076={ # EMPTY LOC - 8076
 	terrain="impassable_terrain"
 	culture="phazani"
 	religion="berber_religion"
@@ -7315,7 +7315,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8077={ # Ghaloa
+8077={ # EMPTY LOC - 8077
 	terrain="impassable_terrain"
 	culture="phazani"
 	religion="berber_religion"
@@ -7324,7 +7324,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8078={ # Tuyur
+8078={ # EMPTY LOC - 8078
 	terrain="impassable_terrain"
 	culture="phazani"
 	religion="berber_religion"
@@ -7333,7 +7333,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8079={ # Contra Pselchis
+8079={ # EMPTY LOC - 8079
 	terrain="impassable_terrain"
 	culture="blemmyan"
 	religion="egyptian_pantheon"
@@ -7342,7 +7342,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8080={ # Hairiri
+8080={ # EMPTY LOC - 8080
 	terrain="impassable_terrain"
 	culture="blemmyan"
 	religion="egyptian_pantheon"
@@ -7351,7 +7351,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8081={ # Dhahab
+8081={ # EMPTY LOC - 8081
 	terrain="impassable_terrain"
 	culture="blemmyan"
 	religion="egyptian_pantheon"
@@ -7360,7 +7360,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8082={ # Heimur
+8082={ # EMPTY LOC - 8082
 	terrain="impassable_terrain"
 	culture="blemmyan"
 	religion="egyptian_pantheon"
@@ -7369,7 +7369,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8083={ # Garaiyat
+8083={ # EMPTY LOC - 8083
 	terrain="impassable_terrain"
 	culture="blemmyan"
 	religion="egyptian_pantheon"
@@ -7378,7 +7378,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8084={ # Seiga
+8084={ # EMPTY LOC - 8084
 	terrain="impassable_terrain"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -7387,7 +7387,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8085={ # Shoshoba
+8085={ # EMPTY LOC - 8085
 	terrain="impassable_terrain"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -7396,7 +7396,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8086={ # Allaqi
+8086={ # EMPTY LOC - 8086
 	terrain="impassable_terrain"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -7405,7 +7405,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8087={ # Fas
+8087={ # EMPTY LOC - 8087
 	terrain="impassable_terrain"
 	culture="capariensian"
 	religion="berber_religion"
@@ -7414,7 +7414,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8088={ # Eigat
+8088={ # EMPTY LOC - 8088
 	terrain="impassable_terrain"
 	culture="canarian"
 	religion="berber_religion"
@@ -7423,7 +7423,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8089={ # Berenike Pancrysia
+8089={ # EMPTY LOC - 8089
 	terrain="impassable_terrain"
 	culture="perorsian"
 	religion="berber_religion"
@@ -7432,7 +7432,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8090={ # Gidmib
+8090={ # EMPTY LOC - 8090
 	terrain="ocean"
 	culture=""
 	religion=""
@@ -7441,7 +7441,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8091={ # Biyar
+8091={ # EMPTY LOC - 8091
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -7450,7 +7450,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8092={ # Duweb
+8092={ # EMPTY LOC - 8092
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -7459,7 +7459,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8093={ # Hidiglib
+8093={ # EMPTY LOC - 8093
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -7468,7 +7468,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8096={ # Doum
+8096={ # EMPTY LOC - 8096
 	terrain="impassable_terrain"
 	culture="nubian"
 	religion="egyptian_pantheon"
@@ -7477,7 +7477,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8097={ # Gabgaba
+8097={ # EMPTY LOC - 8097
 	terrain="impassable_terrain"
 	culture="nubian"
 	religion="egyptian_pantheon"
@@ -7486,7 +7486,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8098={ # Dayyub
+8098={ # EMPTY LOC - 8098
 	terrain="impassable_terrain"
 	culture="daamoti"
 	religion="arabian_pantheon"
@@ -7495,7 +7495,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8099={ # Meragh
+8099={ # EMPTY LOC - 8099
 	terrain="impassable_terrain"
 	culture="athagaun"
 	religion="arabian_pantheon"
@@ -7504,7 +7504,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8100={ # Hosh
+8100={ # EMPTY LOC - 8100
 	terrain="impassable_terrain"
 	culture="ona"
 	religion="arabian_pantheon"
@@ -7513,7 +7513,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8101={ # Bum
+8101={ # EMPTY LOC - 8101
 	terrain="impassable_terrain"
 	culture="athagaun"
 	religion="arabian_pantheon"
@@ -7522,7 +7522,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8102={ # Baggura
+8102={ # EMPTY LOC - 8102
 	terrain="impassable_terrain"
 	culture="athagaun"
 	religion="arabian_pantheon"
@@ -7531,7 +7531,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8103={ # Samra
+8103={ # EMPTY LOC - 8103
 	terrain="impassable_terrain"
 	culture="adabulian"
 	religion="egyptian_pantheon"
@@ -7540,7 +7540,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8104={ # Fashfash
+8104={ # EMPTY LOC - 8104
 	terrain="impassable_terrain"
 	culture="ona"
 	religion="arabian_pantheon"
@@ -7549,7 +7549,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8105={ # Muqaddam
+8105={ # EMPTY LOC - 8105
 	terrain="impassable_terrain"
 	culture="avalitian"
 	religion="arabian_pantheon"
@@ -7558,7 +7558,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8106={ # Amara
+8106={ # EMPTY LOC - 8106
 	terrain="impassable_terrain"
 	culture="berberian"
 	religion="puntic_religion"
@@ -7567,7 +7567,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8107={ # Sennar
+8107={ # EMPTY LOC - 8107
 	terrain="impassable_terrain"
 	culture="puntic"
 	religion="puntic_religion"
@@ -7576,7 +7576,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8108={ # Jebel Moya
+8108={ # EMPTY LOC - 8108
 	terrain="impassable_terrain"
 	culture="puntic"
 	religion="puntic_religion"
@@ -7585,7 +7585,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8109={ # Rabak
+8109={ # EMPTY LOC - 8109
 	terrain="impassable_terrain"
 	culture="puntic"
 	religion="puntic_religion"
@@ -7594,7 +7594,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8110={ # Kawah
+8110={ # EMPTY LOC - 8110
 	terrain="impassable_terrain"
 	culture="xiongnu"
 	religion="hu_religions"
@@ -7603,7 +7603,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8111={ # Manaqil
+8111={ # EMPTY LOC - 8111
 	terrain="impassable_terrain"
 	culture="ainu"
 	religion="ainu_religion"
@@ -7612,7 +7612,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8112={ # Singa
+8112={ # 
 	terrain="impassable_terrain"
 	culture="ainu"
 	religion="ainu_religion"
@@ -7621,7 +7621,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8113={ # Surayj
+8113={ # 
 	terrain="impassable_terrain"
 	culture="ainu"
 	religion="ainu_religion"
@@ -7630,7 +7630,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8114={ # Sabbalo
+8114={ # 
 	terrain="impassable_terrain"
 	culture="ainu"
 	religion="ainu_religion"
@@ -7639,7 +7639,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8115={ # Northern Bayuda Desert
+8115={ # EMPTY LOC - 8115
 	terrain="impassable_terrain"
 	culture="xiongnu"
 	religion="hu_religions"
@@ -7648,7 +7648,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8116={ # Southern Bayuda Desert
+8116={ # EMPTY LOC - 8116
 	terrain="impassable_terrain"
 	culture="xiongnu"
 	religion="hu_religions"
@@ -7657,7 +7657,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8117={ # Troglodytic Desert
+8117={ # EMPTY LOC - 8117
 	terrain="impassable_terrain"
 	culture="xiongnu"
 	religion="hu_religions"
@@ -7666,7 +7666,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8118={ # Upper Egyptian Desert
+8118={ # EMPTY LOC - 8118
 	terrain="impassable_terrain"
 	culture="mon"
 	religion="burmese_religion"
@@ -7675,7 +7675,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8119={ # Allaqi Desert
+8119={ # EMPTY LOC - 8119
 	terrain="impassable_terrain"
 	culture="baidi"
 	religion="hu_religions"
@@ -7684,7 +7684,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8120={ # Kerman Desert
+8120={ # EMPTY LOC - 8120
 	terrain="impassable_terrain"
 	culture="shanrong"
 	religion="hu_religions"
@@ -7693,7 +7693,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8122={ # Jaghbub
+8122={ # 
 	terrain="impassable_terrain"
 	culture="assaka"
 	religion="hindu"
@@ -7702,7 +7702,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8123={ # Tarfawi
+8123={ # 
 	terrain="impassable_terrain"
 	culture="kuntalan"
 	religion="hindu"
@@ -7711,7 +7711,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8124={ # Qabr
+8124={ # 
 	terrain="impassable_terrain"
 	culture="alupan"
 	religion="hindu"
@@ -7720,7 +7720,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8125={ # Mawahi
+8125={ # 
 	terrain="impassable_terrain"
 	culture="telugu"
 	religion="hindu"
@@ -7729,7 +7729,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8126={ # Gicherra
+8126={ # 
 	terrain="impassable_terrain"
 	culture="telugu"
 	religion="hindu"
@@ -7738,7 +7738,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-8127={ # Gialo
+8127={ # 
 	terrain="impassable_terrain"
 	culture="phnom"
 	religion="funan_religion"
@@ -9448,7 +9448,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-9767={ # North Karakoram
+9767={ # 
 	terrain="impassable_terrain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -10483,7 +10483,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12668={ # EMPTY LOC - 12668
+12668={ # 
 	terrain="impassable_terrain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -10492,7 +10492,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12669={ # EMPTY LOC - 12669
+12669={ # 
 	terrain="impassable_terrain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -10501,7 +10501,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12670={ # EMPTY LOC - 12670
+12670={ # 
 	terrain="impassable_terrain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -10510,7 +10510,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12671={ # EMPTY LOC - 12671
+12671={ # 
 	terrain="impassable_terrain"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -10519,7 +10519,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12672={ # EMPTY LOC - 12672
+12672={ # 
 	terrain="impassable_terrain"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -10528,7 +10528,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12673={ # EMPTY LOC - 12673
+12673={ # 
 	terrain="impassable_terrain"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -10537,7 +10537,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12674={ # EMPTY LOC - 12674
+12674={ # 
 	terrain="impassable_terrain"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -10546,7 +10546,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12675={ # EMPTY LOC - 12675
+12675={ # 
 	terrain="impassable_terrain"
 	culture="adite"
 	religion="arabian_pantheon"
@@ -10555,7 +10555,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12676={ # EMPTY LOC - 12676
+12676={ # 
 	terrain="impassable_terrain"
 	culture="adite"
 	religion="arabian_pantheon"
@@ -10564,7 +10564,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12677={ # EMPTY LOC - 12677
+12677={ # 
 	terrain="impassable_terrain"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -10573,7 +10573,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12881={ # EMPTY LOC - 12881
+12881={ # 
 	terrain="impassable_terrain"
 	culture="wuhuan"
 	religion="hu_religions"
@@ -10582,7 +10582,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-12882={ # EMPTY LOC - 12882
+12882={ # 
 	terrain="impassable_terrain"
 	culture="xiongnu"
 	religion="hu_religions"

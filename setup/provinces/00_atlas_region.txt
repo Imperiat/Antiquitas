@@ -1,4 +1,4 @@
-﻿3081={ #Visum Montis
+3081={ # Visum Montis
 	terrain="mountain"
 	culture="socossian"
 	religion="berber_religion"
@@ -7,12 +7,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_shaheded
+	holy_site="omen_shaheded"
 }
-
-3082={ #Mons Ambulatis
+3082={ # Mons Ambulatis
 	terrain="forest"
 	culture="socossian"
 	religion="berber_religion"
@@ -21,38 +20,36 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10067={ #Gadir
+10067={ # Gadir
 	terrain="hills"
 	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	religion="berber_religion"
 	trade_goods="dye"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
 		culture="perorsian"
 		religion="berber_religion"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
 		culture="perorsian"
 		religion="berber_religion"
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-10068={ #Ouassay
+10068={ # Ouassay
 	terrain="plains"
 	culture="perorsian"
 	religion="berber_religion"
@@ -61,11 +58,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10069={ #Iligh
+10069={ # Iligh
 	terrain="desert_hills"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -76,14 +72,13 @@
 	slaves={
 		culture="carthaginian"
 		religion="carthaginian_pantheon"
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-10070={ #Aglou
+10070={ # Aglou
 	terrain="desert"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -92,11 +87,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10071={ #Baha
+10071={ # Baha
 	terrain="plains"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -105,11 +99,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10072={ #Imighzer
+10072={ # Imighzer
 	terrain="plains"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -118,11 +111,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10073={ #Teima
+10073={ # Teima
 	terrain="hills"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -133,14 +125,13 @@
 	slaves={
 		culture="carthaginian"
 		religion="carthaginian_pantheon"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10074={ #Taroudant
+10074={ # Taroudant
 	terrain="plains"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -149,11 +140,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10075={ #Berhil
+10075={ # Berhil
 	terrain="plains"
 	culture="lixitoi"
 	religion="berber_religion"
@@ -164,44 +154,42 @@
 	slaves={
 		culture="carthaginian"
 		religion="carthaginian_pantheon"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10076={ #Arambys
+10076={ # Arambys
 	terrain="plains"
 	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	religion="berber_religion"
 	trade_goods="dye"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
 		culture="autolalean"
 		religion="berber_religion"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
 		culture="autolalean"
 		religion="berber_religion"
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-10077={ #Aguz
+10077={ # Aguz
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -210,11 +198,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10078={ #Yousouffia
+10078={ # Yousouffia
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -225,14 +212,13 @@
 	slaves={
 		culture="carthaginian"
 		religion="carthaginian_pantheon"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10079={ #Guerir
+10079={ # Guerir
 	terrain="hills"
 	culture="autolalean"
 	religion="berber_religion"
@@ -241,11 +227,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10080={ #Laattaouia
+10080={ # Laattaouia
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -254,11 +239,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10081={ #Iyiche
+10081={ # Iyiche
 	terrain="hills"
 	culture="autolalean"
 	religion="berber_religion"
@@ -269,14 +253,13 @@
 	slaves={
 		culture="carthaginian"
 		religion="carthaginian_pantheon"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10082={ #Marrakech
+10082={ # Marrakech
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -285,19 +268,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	slaves={
 		culture="carthaginian"
 		religion="carthaginian_pantheon"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10083={ #Moktar
+10083={ # Moktar
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -306,14 +288,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10084={ #Mejjat
+10084={ # Mejjat
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -322,11 +303,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10085={ #Aghmat
+10085={ # Aghmat
 	terrain="plains"
 	culture="autolalean"
 	religion="berber_religion"
@@ -335,11 +315,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10086={ #Tamanar
+10086={ # Tamanar
 	terrain="hills"
 	culture="autolalean"
 	religion="berber_religion"
@@ -348,11 +327,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10087={ #Agdz
+10087={ # Agdz
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -361,14 +339,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10088={ #Ouarzazate
+10088={ # Ouarzazate
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -377,14 +354,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10089={ #Bou Azzer
+10089={ # Bou Azzer
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -393,14 +369,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10090={ #Tamezmoute
+10090={ # Tamezmoute
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -409,14 +384,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10091={ #Zagora
+10091={ # Zagora
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -425,14 +399,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10092={ #Zaouia
+10092={ # Zaouia
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -441,14 +414,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10093={ #Isli
+10093={ # Isli
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -457,14 +429,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10094={ #Tazenakht
+10094={ # Tazenakht
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -473,14 +444,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10095={ #Iguernane
+10095={ # Iguernane
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -489,14 +459,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10096={ #Skoura
+10096={ # Skoura
 	terrain="plains"
 	culture="perorsian"
 	religion="berber_religion"
@@ -505,14 +474,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10097={ #Toundoute
+10097={ # Toundoute
 	terrain="plains"
 	culture="perorsian"
 	religion="berber_religion"
@@ -521,14 +489,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10098={ #Aoulouze
+10098={ # Aoulouze
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -537,14 +504,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10099={ #Taliouine
+10099={ # Taliouine
 	terrain="desert_hills"
 	culture="perorsian"
 	religion="berber_religion"
@@ -553,14 +519,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10100={ #Larbaa Magnoun
+10100={ # Larbaa Magnoun
 	terrain="plains"
 	culture="perorsian"
 	religion="berber_religion"
@@ -569,14 +534,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10101={ #Kerrouchen
+10101={ # Kerrouchen
 	terrain="hills"
 	culture="cetianian"
 	religion="berber_religion"
@@ -585,14 +549,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10102={ #Aghbala
+10102={ # Aghbala
 	terrain="hills"
 	culture="cetianian"
 	religion="berber_religion"
@@ -601,14 +564,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10103={ #Zarhour
+10103={ # Zarhour
 	terrain="desert"
 	culture="cetianian"
 	religion="berber_religion"
@@ -617,14 +579,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10104={ #Tounfit
+10104={ # Tounfit
 	terrain="plains"
 	culture="cetianian"
 	religion="berber_religion"
@@ -633,11 +594,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10105={ #Boumia
+10105={ # Boumia
 	terrain="desert"
 	culture="cetianian"
 	religion="berber_religion"
@@ -646,14 +606,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-10106={ #Izdeg
+10106={ # Izdeg
 	terrain="plains"
 	culture="cetianian"
 	religion="berber_religion"
@@ -662,14 +621,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10107={ #Ksabi
+10107={ # Ksabi
 	terrain="desert"
 	culture="cetianian"
 	religion="berber_religion"
@@ -678,14 +636,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10108={ #Missour
+10108={ # Missour
 	terrain="desert"
 	culture="cetianian"
 	religion="berber_religion"
@@ -694,11 +651,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10109={ #Orjane
+10109={ # Orjane
 	terrain="desert"
 	culture="cetianian"
 	religion="berber_religion"
@@ -707,11 +663,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10110={ #Tindite
+10110={ # Tindite
 	terrain="desert"
 	culture="cetianian"
 	religion="berber_religion"
@@ -720,14 +675,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10111={ #Oufriden
+10111={ # Oufriden
 	terrain="desert"
 	culture="socossian"
 	religion="berber_religion"
@@ -736,14 +690,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10112={ #Guercif
+10112={ # Guercif
 	terrain="plains"
 	culture="socossian"
 	religion="berber_religion"
@@ -752,14 +705,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10113={ #Taddart
+10113={ # Taddart
 	terrain="plains"
 	culture="socossian"
 	religion="berber_religion"
@@ -768,14 +720,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10114={ #Maghessel
+10114={ # Maghessel
 	terrain="hills"
 	culture="socossian"
 	religion="berber_religion"
@@ -784,14 +735,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10115={ #Lamrija
+10115={ # Lamrija
 	terrain="plains"
 	culture="socossian"
 	religion="berber_religion"
@@ -800,14 +750,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10116={ #Ouidane
+10116={ # Ouidane
 	terrain="plains"
 	culture="socossian"
 	religion="berber_religion"
@@ -816,14 +765,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10119={ #Ifri
+10119={ # Ifri
 	terrain="desert_hills"
 	culture="canarian"
 	religion="berber_religion"
@@ -832,14 +780,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10120={ #Tinghir
+10120={ # Tinghir
 	terrain="desert_hills"
 	culture="canarian"
 	religion="berber_religion"
@@ -848,11 +795,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10121={ #Goulmima
+10121={ # Goulmima
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -861,11 +807,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10122={ #Errachidia
+10122={ # Errachidia
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -874,14 +819,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10123={ #Jorf
+10123={ # Jorf
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -890,11 +834,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10124={ #Sijilmasa
+10124={ # Sijilmasa
 	terrain="plains"
 	culture="canarian"
 	religion="berber_religion"
@@ -903,14 +846,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-10125={ #Merzouga
+10125={ # Merzouga
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -919,11 +861,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10126={ #Ouzina
+10126={ # Ouzina
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -932,11 +873,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-10127={ #Tisserdmine
+10127={ # Tisserdmine
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -945,14 +885,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10138={ #Boudenib
+10138={ # Boudenib
 	terrain="desert"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -961,14 +900,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10139={ #Guir
+10139={ # Guir
 	terrain="desert"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -977,11 +915,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10140={ #Bechar
+10140={ # Bechar
 	terrain="plains"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -990,14 +927,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10141={ #Lahmar
+10141={ # Lahmar
 	terrain="desert_hills"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1006,14 +942,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10142={ #Figuig
+10142={ # Figuig
 	terrain="oasis"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1022,14 +957,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-10143={ #Abadla
+10143={ # Abadla
 	terrain="plains"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1038,11 +972,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10144={ #Taghit
+10144={ # Taghit
 	terrain="desert"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1051,11 +984,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10145={ #Goumi
+10145={ # Goumi
 	terrain="desert"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1064,11 +996,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10146={ #Fendi
+10146={ # Fendi
 	terrain="desert_hills"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1077,11 +1008,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10147={ #Bourzeg
+10147={ # Bourzeg
 	terrain="desert_hills"
 	culture="daphnitaean"
 	religion="berber_religion"
@@ -1090,14 +1020,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10148={ #Laghouat
+10148={ # Laghouat
 	terrain="oasis"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1106,14 +1035,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-10149={ #Aflou
+10149={ # Aflou
 	terrain="desert_hills"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1122,14 +1050,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10150={ #Bayadh
+10150={ # Bayadh
 	terrain="desert"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1138,11 +1065,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10151={ #Krakda
+10151={ # Krakda
 	terrain="desert_hills"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1151,11 +1077,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10152={ #Arbaouats
+10152={ # Arbaouats
 	terrain="desert_hills"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1164,14 +1089,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10153={ #Boussemghoun
+10153={ # Boussemghoun
 	terrain="desert_hills"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1180,11 +1104,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10154={ #Sefra
+10154={ # Sefra
 	terrain="desert_hills"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1193,11 +1116,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10155={ #Brezina
+10155={ # Brezina
 	terrain="desert"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1206,11 +1128,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10156={ #Messaad
+10156={ # Messaad
 	terrain="oasis"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1219,11 +1140,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-10157={ #Dechret Kamra
+10157={ # Dechret Kamra
 	terrain="desert_hills"
 	culture="capariensian"
 	religion="berber_religion"
@@ -1232,11 +1152,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10158={ #Errich
+10158={ # Errich
 	terrain="desert"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1245,14 +1164,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-10159={ #Khoubana
+10159={ # Khoubana
 	terrain="plains"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1261,20 +1179,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-10160={ #Gahra
+10160={ # Gahra
 	terrain="desert"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1283,11 +1200,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10161={ #Slimane
+10161={ # Slimane
 	terrain="desert_hills"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1296,11 +1212,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10162={ #Mcif
+10162={ # Mcif
 	terrain="plains"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1309,14 +1224,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10163={ #Hamel
+10163={ # Hamel
 	terrain="desert_hills"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1325,11 +1239,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10164={ #Chioukh
+10164={ # Chioukh
 	terrain="desert_hills"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1338,11 +1251,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10165={ #Moudjebara
+10165={ # Moudjebara
 	terrain="desert_hills"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1351,11 +1263,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10166={ #Djelfa
+10166={ # Djelfa
 	terrain="oasis"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1364,14 +1275,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-10167={ #Ibel
+10167={ # Ibel
 	terrain="desert_hills"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1380,11 +1290,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10168={ #Teboucha
+10168={ # Teboucha
 	terrain="plains"
 	culture="abannaean"
 	religion="berber_religion"
@@ -1393,14 +1302,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-10169={ #Atlas Pass
+10169={ # AtlasPass
 	terrain="mountain"
 	culture="canarian"
 	religion="berber_religion"
@@ -1409,8 +1317,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-10170={ #Sfissifa
+10170={ # Sfissifa
 	terrain="desert_hills"
 	culture="canarian"
 	religion="berber_religion"
@@ -1419,11 +1326,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10174={ #Kandar
+10174={ # Kandar
 	terrain="desert"
 	culture="socossian"
 	religion="berber_religion"
@@ -1432,11 +1338,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10175={ #Guigou
+10175={ # Guigou
 	terrain="hills"
 	culture="autolalean"
 	religion="berber_religion"
@@ -1445,14 +1350,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10176={ #Gafait
+10176={ # Gafait
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -1461,8 +1365,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-10177={ #Timlilt
+10177={ # Timlilt
 	terrain="desert"
 	culture="canarian"
 	religion="berber_religion"
@@ -1471,8 +1374,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-10178={ #Atlas Pass
+10178={ # AtlasPass
 	terrain="mountain"
 	culture="perorsian"
 	religion="berber_religion"
@@ -1481,8 +1383,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-10179={ #Atlas Pass
+10179={ # AtlasPass
 	terrain="mountain"
 	culture="canarian"
 	religion="berber_religion"
@@ -1491,8 +1392,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-10180={ #Atlas Pass
+10180={ # AtlasPass
 	terrain="mountain"
 	culture="canarian"
 	religion="berber_religion"
@@ -1501,4 +1401,3 @@
 	barbarian_power=0
 	province_rank=""
 }
-
