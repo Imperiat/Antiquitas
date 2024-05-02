@@ -272,11 +272,6 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="ubian"
-		religion="druidism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -309,11 +304,6 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="ubian"
-		religion="druidism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1256,11 +1246,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="irminonic"
-		religion="germanic_religion"
-		amount=1
-	}
 }
 
 3954={ #Camulia
@@ -1272,11 +1257,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="irminonic"
-		religion="germanic_religion"
 		amount=1
 	}
 }
@@ -1316,11 +1296,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="irminonic"
-		religion="germanic_religion"
-		amount=1
 	}
 }
 

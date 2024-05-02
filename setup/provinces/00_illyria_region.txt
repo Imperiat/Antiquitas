@@ -66,16 +66,8 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		religion="roman_pantheon"
-		amount="1"
-	}
 	tribesmen={
 		amount="2"
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount="1"
 	}
 	holy_site="omen_histria"
 	port_building=1
@@ -179,10 +171,6 @@
 	slaves={
 		amount="5"
 	}
-	slaves={
-		religion="roman_pantheon"
-		amount="2"
-	}
 	tribesmen={
 		amount="3"
 	}
@@ -200,15 +188,6 @@
 	}
 	freemen={
 		amount="2"
-	}
-	tribesmen={
-		culture="histrian"
-		amount="2"
-	}
-	slaves={
-		culture="histrian"
-		religion="illyrian_pantheon"
-		amount="1"
 	}
 }
 4035={ # Ortopla
@@ -497,10 +476,6 @@
 	tribesmen={
 		amount="3"
 	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount="1"
-	}
 	port_building=1
 }
 4055={ # Argyruntum
@@ -606,10 +581,6 @@
 	}
 	tribesmen={
 		amount="2"
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount="1"
 	}
 	port_building=1
 }
@@ -1039,15 +1010,6 @@
 	freemen={
 		amount="3"
 	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount="2"
-	}
-	slaves={
-		culture="greco_illyrian"
-		religion="illyrian_pantheon"
-		amount="2"
-	}
 	port_building=1
 }
 4085={ # Epidauros Illyrikos
@@ -1066,19 +1028,6 @@
 	}
 	slaves={
 		amount="1"
-	}
-	slaves={
-		culture="taulantian"
-		amount="1"
-	}
-	tribesmen={
-		culture="taulantian"
-		amount="1"
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		religion="illyrian_pantheon"
-		amount="2"
 	}
 	port_building=1
 }
@@ -1248,14 +1197,6 @@
 	freemen={
 		amount="3"
 	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount="1"
-	}
-	slaves={
-		culture="greco_illyrian"
-		amount="3"
-	}
 	port_building=1
 }
 8027={ # Korkyra Melaina
@@ -1271,14 +1212,6 @@
 	}
 	freemen={
 		amount="2"
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount="2"
-	}
-	slaves={
-		culture="greco_illyrian"
-		amount="1"
 	}
 	port_building=1
 }

@@ -329,11 +329,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="sanmiao"
-		religion="baiyue_religions"
-		amount=2
-	}
 }
 
 8982={ #Qi
@@ -566,10 +561,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="sanmiao"
-		amount=1
-	}
 }
 
 8997={ #E
@@ -591,10 +582,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="sanmiao"
-		amount=3
 	}
 	port_building=1
 }
@@ -669,11 +656,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="sanmiao"
-		religion="baiyue_religions"
 		amount=1
 	}
 	slaves={
@@ -904,14 +886,6 @@
 	freemen={
 		amount=3
 	}
-	tribesmen={
-		culture="sanmiao"
-		amount=1
-	}
-	slaves={
-		culture="sanmiao"
-		amount=1
-	}
 }
 
 9022={ #Zhaoling
@@ -922,11 +896,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="chu"
-		religion="chinese_religions"
-		amount=1
-	}
 	tribesmen={
 		amount=1
 	}
@@ -971,11 +940,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		culture="sanmiao"
-		religion="baiyue_religions"
-		amount=1
-	}
 }
 
 9025={ #Lingling
@@ -987,11 +951,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="sanmiao"
-		religion="baiyue_religions"
 		amount=1
 	}
 }
@@ -1094,11 +1053,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="sanmiao"
-		religion="baiyue_religions"
-		amount=1
-	}
 }
 
 9037={ #Yizhang
@@ -1147,11 +1101,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		culture="sanmiao"
-		religion="baiyue_religions"
-		amount=1
-	}
 }
 
 9040={ #Yinshan
@@ -1175,10 +1124,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="chu"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}

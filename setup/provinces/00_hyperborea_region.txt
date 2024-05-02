@@ -363,11 +363,6 @@
 	tribesmen={
 		amount="6"
 	}
-	slaves={
-		culture="jurcan"
-		religion="indo_iranian_religion"
-		amount="2"
-	}
 }
 12487={ # EMPTY LOC - 12487
 	terrain="forest"
@@ -1376,14 +1371,6 @@
 	citizen={
 		amount="1"
 	}
-	slaves={
-		culture="volgaic"
-		amount="1"
-	}
-	slaves={
-		culture="fennic"
-		amount="1"
-	}
 }
 12568={ # EMPTY LOC - 12568
 	terrain="marsh"
@@ -1744,10 +1731,6 @@
 	tribesmen={
 		amount="2"
 	}
-	slaves={
-		culture="androphagian"
-		amount="1"
-	}
 }
 12595={ # EMPTY LOC - 12595
 	terrain="forest"
@@ -1759,10 +1742,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount="2"
-	}
-	freemen={
-		culture="androphagian"
-		amount="1"
 	}
 }
 12596={ # EMPTY LOC - 12596
@@ -1800,10 +1779,6 @@
 	tribesmen={
 		amount="3"
 	}
-	slaves={
-		culture="aestian"
-		amount="1"
-	}
 	freemen={
 		amount="1"
 	}
@@ -1826,10 +1801,6 @@
 		amount="2"
 	}
 	freemen={
-		amount="1"
-	}
-	slaves={
-		culture="aestian"
 		amount="1"
 	}
 }
@@ -1893,10 +1864,6 @@
 		amount="3"
 	}
 	freemen={
-		amount="1"
-	}
-	slaves={
-		culture="aestian"
 		amount="1"
 	}
 }
@@ -2061,10 +2028,6 @@
 	tribesmen={
 		amount="2"
 	}
-	slaves={
-		culture="sapmi"
-		amount="1"
-	}
 }
 12616={ # EMPTY LOC - 12616
 	terrain="forest"
@@ -2087,10 +2050,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		culture="sapmi"
 		amount="1"
 	}
 }

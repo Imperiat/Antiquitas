@@ -152,29 +152,13 @@
 	civilization_value=15
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="joseon"
-		amount=2
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="joseon"
-		amount=1
 	}
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="dongwei"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="dongwei"
 		amount=1
 	}
 	port_building=1
@@ -573,10 +557,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		religion="yi_religions"
-		amount=1
-	}
 	holy_site=omen_yi_god_of_river
 }
 
@@ -920,10 +900,6 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="joseon"
-		amount=3
-	}
 	port_building=1
 	holy_site=omen_yi_god_of_wine
 }
@@ -1064,10 +1040,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="joseon"
-		amount=3
 	}
 	holy_site=omen_minakanushi
 }

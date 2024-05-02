@@ -112,10 +112,6 @@
 		amount="2"
 	}
 	freemen={
-		culture="etruscan"
-		amount="1"
-	}
-	freemen={
 		amount="3"
 	}
 	slaves={

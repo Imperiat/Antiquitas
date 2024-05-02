@@ -595,11 +595,6 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		culture="chidi"
-		religion="chinese_religions"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -733,48 +728,14 @@
 	citizen={
 		amount=9
 	}
-	citizen={
-		culture="jin"
-		amount=3
-	}
 	freemen={
 		amount=10
-	}
-	freemen={
-		culture="jin"
-		amount=2
-	}
-	freemen={
-		culture="yan"
-		amount=1
-	}
-	freemen={
-		culture="yaan"
-		amount=1
 	}
 	nobles={
 		amount=2
 	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		culture="jin"
-		amount=2
-	}
-	slaves={
-		culture="baidi"
-		amount=2
-	}
-	slaves={
-		culture="loufan"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="linhu"
-		religion="hu_religions"
-		amount=1
 	}
 }
 
@@ -791,11 +752,6 @@
 	}
 	freemen={
 		amount=3
-	}
-	tribesmen={
-		culture="chidi"
-		religion="chinese_religions"
-		amount=2
 	}
 	slaves={
 		amount=3
@@ -849,25 +805,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="yaan"
 		amount=5
-	}
-	citizen={
-		amount=5
-	}
-	freemen={
-		culture="yaan"
-		amount=4
 	}
 	freemen={
 		amount=5
 	}
 	nobles={
 		amount=2
-	}
-	slaves={
-		culture="yaan"
-		amount=3
 	}
 	slaves={
 		amount=2
@@ -883,24 +827,12 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="yaan"
-		amount=3
-	}
-	citizen={
-		amount=2
-	}
-	freemen={
-		culture="yaan"
 		amount=2
 	}
 	freemen={
 		amount=3
 	}
 	nobles={
-		amount=1
-	}
-	slaves={
-		culture="yaan"
 		amount=1
 	}
 	slaves={
@@ -917,25 +849,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="yaan"
-		amount=3
-	}
-	citizen={
 		amount=1
-	}
-	freemen={
-		culture="yaan"
-		amount=3
 	}
 	freemen={
 		amount=1
 	}
 	nobles={
 		amount=1
-	}
-	slaves={
-		culture="yaan"
-		amount=2
 	}
 	slaves={
 		amount=1
@@ -995,21 +915,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="yaan"
-		amount=2
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
-		culture="yaan"
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	slaves={
-		culture="yaan"
 		amount=2
 	}
 	slaves={
@@ -1230,16 +1138,6 @@
 	slaves={
 		amount=3
 	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 8710={ #Kujing
@@ -1255,16 +1153,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
 	}
 }
 
@@ -1304,11 +1192,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 8713={ #Xinchu
@@ -1324,11 +1207,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
 	}
 }
 
@@ -1346,16 +1224,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="ji"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
 		amount=1
 	}
 }
@@ -1374,11 +1243,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8716={ #Beiping
@@ -1392,21 +1256,6 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		culture="baidi"
-		religion="chinese_religions"
-		amount=1
-	}
-	slaves={
-		culture="baidi"
-		religion="chinese_religions"
-		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8717={ #Tang
@@ -1418,30 +1267,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="ji"
-		amount=1
-	}
-	citizen={
 		amount=1
 	}
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="ji"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		culture="ji"
-		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=4
 	}
 }
 
@@ -1454,10 +1286,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		culture="yan"
 		amount=1
 	}
 	slaves={
