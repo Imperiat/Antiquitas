@@ -163,10 +163,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=1
-	}
 	holy_site=omen_anahit
 }
 
@@ -207,10 +203,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=1
-	}
 }
 
 1771={ #Analibna
@@ -230,10 +222,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=1
-	}
 }
 
 1772={ #Sediska
@@ -252,11 +240,6 @@
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="armenian"
-		religion="armenian_religion"
-		amount=1
 	}
 }
 
@@ -294,10 +277,6 @@
 		amount=1
 	}
 	tribesmen={
-		culture="armenian"
-		amount=1
-	}
-	tribesmen={
 		amount=1
 	}
 }
@@ -319,10 +298,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=1
-	}
 }
 
 1778={ #Chorsabia
@@ -333,10 +308,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="anatolian_religion"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -356,15 +327,7 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="armenian_religion"
-		amount=1
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="armenian_religion"
 		amount=2
 	}
 }
@@ -396,11 +359,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=1
 	}
@@ -464,10 +422,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="armenian"
-		amount=1
-	}
 }
 
 1789={ #Syderos
@@ -481,18 +435,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -525,11 +471,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
 		amount=1
 	}
 	freemen={
@@ -581,11 +522,6 @@
 		amount=2
 	}
 	tribesmen={
-		culture="cappadocian"
-		religion="zoroaster"
-		amount=1
-	}
-	tribesmen={
 		amount=1
 	}
 	port_building=1
@@ -606,11 +542,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -648,11 +579,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -678,10 +604,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
 }
 
 1804={ #Boinasa
@@ -693,11 +615,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
 		amount=1
 	}
 	freemen={
@@ -766,15 +683,7 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="paphlagonian"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="paphlagonian"
 		amount=1
 	}
 }
@@ -790,18 +699,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="cappadocian"
 		amount=1
 	}
 }
@@ -820,15 +721,7 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="paphlagonian"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="paphlagonian"
 		amount=1
 	}
 }
@@ -844,19 +737,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="cappadocian"
-		amount=1
 	}
 }
 
@@ -888,10 +773,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	freemen={
-		religion="zoroaster"
 		amount=1
 	}
 	slaves={
@@ -935,19 +816,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="cappadocian"
-		amount=1
 	}
 }
 
@@ -967,10 +840,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		amount=1
 	}
 }
 
@@ -1039,24 +908,11 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="armenian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -1071,29 +927,11 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	freemen={
-		culture="armenian"
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="armenian"
-		amount=1
 	}
 }
 
@@ -1111,16 +949,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		religion="zoroaster"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -1135,18 +965,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -1168,14 +990,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="cataonian"
-		amount=1
-	}
-	tribesmen={
-		culture="cappadocian"
-		amount=1
-	}
 }
 
 1850={ #Goundousa
@@ -1187,11 +1001,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="cappadocian"
-		religion="zoroaster"
 		amount=1
 	}
 	tribesmen={
@@ -1210,16 +1019,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="cataonian"
-		amount=1
 	}
 }
 
@@ -1289,11 +1090,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1329,20 +1125,6 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}

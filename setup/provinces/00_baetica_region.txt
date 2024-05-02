@@ -1,4 +1,4 @@
-1276={ # Baria
+﻿1276={ # Baria
 	terrain="plains"
 	culture="bastetanian"
 	religion="animism"
@@ -25,22 +25,7 @@
 	freemen={
 		amount="5"
 	}
-	freemen={
-		culture="massaesylian"
-		religion="berber_religion"
-		amount="1"
-	}
 	slaves={
-		amount="2"
-	}
-	tribesmen={
-		culture="bastetanian"
-		religion="animism"
-		amount="8"
-	}
-	tribesmen={
-		culture="turdetanian"
-		religion="animism"
 		amount="2"
 	}
 	port_building=1
@@ -53,11 +38,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	tribesmen={
 		amount="3"
 	}
@@ -72,11 +52,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="1"
-	}
-	tribesmen={
-		culture="bastetanian"
-		religion="animism"
-		amount="3"
 	}
 	port_building=1
 }
@@ -214,28 +189,11 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="carthaginian"
-		amount="2"
-	}
-	freemen={
-		culture="carthaginian"
-		amount="2"
-	}
 	freemen={
 		amount="2"
 	}
 	slaves={
 		amount="2"
-	}
-	tribesmen={
-		culture="couneian"
-		religion="druidism"
-		amount="2"
-	}
-	tribesmen={
-		religion="animism"
-		amount="4"
 	}
 }
 1336={ # Mirobigensia
@@ -280,16 +238,6 @@
 		amount="2"
 	}
 	tribesmen={
-		culture="couneian"
-		religion="druidism"
-		amount="1"
-	}
-	tribesmen={
-		culture="celtician"
-		religion="druidism"
-		amount="1"
-	}
-	tribesmen={
 		amount="3"
 	}
 }
@@ -307,33 +255,7 @@
 	citizen={
 		amount="2"
 	}
-	citizen={
-		culture="carthaginian"
-		amount="1"
-	}
 	freemen={
-		amount="2"
-	}
-	freemen={
-		culture="carthaginian"
-		amount="1"
-	}
-	freemen={
-		culture="couneian"
-		religion="druidism"
-		amount="1"
-	}
-	slaves={
-		religion="animism"
-		amount="2"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
-	}
-	tribesmen={
-		culture="couneian"
-		religion="druidism"
 		amount="2"
 	}
 	port_building=1
@@ -349,10 +271,6 @@
 	freemen={
 		amount="5"
 	}
-	tribesmen={
-		religion="animism"
-		amount="2"
-	}
 }
 1341={ # Tartessos
 	terrain="marsh"
@@ -364,14 +282,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="4"
-	}
-	freemen={
-		religion="animism"
-		amount="1"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 	port_building=1
 }
@@ -389,24 +299,8 @@
 	citizen={
 		amount="3"
 	}
-	citizen={
-		religion="animism"
-		amount="1"
-	}
 	freemen={
 		amount="4"
-	}
-	freemen={
-		religion="animism"
-		amount="1"
-	}
-	slaves={
-		religion="animism"
-		amount="3"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 	tribesmen={
 		amount="2"
@@ -421,23 +315,11 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		religion="animism"
-		amount="1"
-	}
 	freemen={
 		amount="2"
 	}
-	slaves={
-		religion="animism"
-		amount="2"
-	}
 	tribesmen={
 		amount="2"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 }
 1344={ # Gadir
@@ -457,28 +339,6 @@
 	freemen={
 		amount="3"
 	}
-	freemen={
-		culture="turdetanian"
-		amount="3"
-	}
-	freemen={
-		culture="socossian"
-		amount="1"
-	}
-	tribesmen={
-		culture="turdetanian"
-		amount="3"
-	}
-	tribesmen={
-		culture="socossian"
-		religion="berber_religion"
-		amount="2"
-	}
-	slaves={
-		culture="turdetanian"
-		religion="animism"
-		amount="3"
-	}
 	port_building=1
 }
 1345={ # Mergablum
@@ -492,15 +352,6 @@
 	freemen={
 		amount="3"
 	}
-	freemen={
-		culture="turdetanian"
-		amount="2"
-	}
-	tribesmen={
-		culture="turdetanian"
-		religion="animism"
-		amount="1"
-	}
 }
 1346={ # Asido
 	terrain="hills"
@@ -510,23 +361,11 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		religion="animism"
-		amount="2"
-	}
-	freemen={
-		religion="animism"
-		amount="3"
-	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
 		amount="2"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 }
 1347={ # Baelo
@@ -542,16 +381,6 @@
 	}
 	freemen={
 		amount="1"
-	}
-	freemen={
-		culture="socossian"
-		religion="berber_religion"
-		amount="1"
-	}
-	tribesmen={
-		culture="turdetanian"
-		religion="animism"
-		amount="2"
 	}
 	port_building=1
 }
@@ -569,25 +398,6 @@
 	freemen={
 		amount="3"
 	}
-	freemen={
-		culture="turdetanian"
-		amount="2"
-	}
-	freemen={
-		culture="socossian"
-		religion="berber_religion"
-		amount="1"
-	}
-	slaves={
-		culture="turdetanian"
-		religion="animism"
-		amount="2"
-	}
-	tribesmen={
-		culture="turdetanian"
-		religion="animism"
-		amount="6"
-	}
 	port_building=1
 }
 1349={ # Onoba
@@ -598,15 +408,7 @@
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
 	freemen={
-		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
 		amount="2"
 	}
 	tribesmen={
@@ -621,18 +423,6 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	freemen={
 		amount="2"
 	}
@@ -685,10 +475,6 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
 	freemen={
 		amount="1"
 	}
@@ -725,24 +511,8 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="carthaginian"
-		amount="1"
-	}
-	freemen={
-		religion="animism"
-		amount="2"
-	}
-	freemen={
-		culture="carthaginian"
-		amount="1"
-	}
 	slaves={
 		amount="1"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 }
 1356={ # Italica
@@ -753,18 +523,6 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	slaves={
 		amount="2"
 	}
@@ -796,18 +554,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="animism"
-		amount="1"
-	}
-	freemen={
 		amount="2"
 	}
 	tribesmen={
 		amount="1"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 }
 1359={ # Ilpulla
@@ -820,18 +570,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="2"
-	}
-	freemen={
-		religion="animism"
-		amount="2"
-	}
-	slaves={
-		religion="animism"
-		amount="2"
-	}
-	tribesmen={
-		religion="animism"
-		amount="3"
 	}
 }
 1360={ # Lucurgentum
@@ -936,11 +674,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	tribesmen={
 		amount="2"
 	}
@@ -956,18 +689,8 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		culture="massaesylian"
-		religion="berber_religion"
-		amount="1"
-	}
 	slaves={
 		amount="1"
-	}
-	tribesmen={
-		culture="bastetanian"
-		religion="animism"
-		amount="2"
 	}
 }
 1368={ # Irni
@@ -993,15 +716,7 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
 	freemen={
-		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
 		amount="2"
 	}
 	tribesmen={
@@ -1031,18 +746,6 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="3"
-	}
 	freemen={
 		amount="1"
 	}
@@ -1060,10 +763,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="3"
 	}
 	tribesmen={
 		amount="4"
@@ -1092,30 +791,14 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
 	citizen={
 		amount="2"
 	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="4"
-	}
 	freemen={
 		amount="2"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="3"
 	}
 	tribesmen={
 		amount="5"
-	}
-	slaves={
-		religion="carthaginian_pantheon"
-		amount="2"
 	}
 }
 1375={ # Lauro
@@ -1162,18 +845,6 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount="4"
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="3"
-	}
 	freemen={
 		amount="2"
 	}
@@ -1189,10 +860,6 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="3"
-	}
 	tribesmen={
 		amount="5"
 	}
@@ -1655,10 +1322,6 @@
 	freemen={
 		amount="3"
 	}
-	tribesmen={
-		religion="animism"
-		amount="2"
-	}
 	slaves={
 		amount="4"
 	}
@@ -1673,16 +1336,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="3"
-	}
-	tribesmen={
-		culture="celtician"
-		religion="druidism"
-		amount="1"
-	}
-	tribesmen={
-		culture="turdulian"
-		religion="druidism"
-		amount="1"
 	}
 	tribesmen={
 		amount="2"

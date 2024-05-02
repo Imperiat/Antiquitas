@@ -101,11 +101,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="chidi"
-		religion="chinese_religions"
-		amount=1
-	}
 }
 
 8627={ #Yishi
@@ -116,11 +111,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		culture="chidi"
-		religion="chinese_religions"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -159,11 +149,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="chidi"
-		religion="chinese_religions"
-		amount=1
-	}
 }
 
 8630={ #Yuwu
@@ -176,11 +161,6 @@
 	province_rank="settlement"
 	slaves={
 		amount=1
-	}
-	slaves={
-		culture="jin"
-		religion="chinese_religions"
-		amount=2
 	}
 }
 
@@ -195,11 +175,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="jin"
-		religion="chinese_religions"
-		amount=2
-	}
 }
 
 8632={ #Xiangyuan
@@ -211,11 +186,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="jin"
-		religion="chinese_religions"
 		amount=1
 	}
 }
@@ -244,11 +214,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="jin"
-		religion="chinese_religions"
-		amount=1
-	}
 }
 
 8635={ #Zhan
@@ -261,11 +226,6 @@
 	province_rank="settlement"
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="jin"
-		religion="chinese_religions"
-		amount=1
 	}
 }
 
@@ -280,51 +240,14 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="jin"
-		amount=1
-	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		culture="jin"
-		amount=1
-	}
-	freemen={
-		culture="zhongyuan"
-		amount=1
-	}
-	freemen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
 	}
 	nobles={
 		amount=1
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
-	}
-	slaves={
-		culture="chidi"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="linhu"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="loufan"
-		religion="hu_religions"
-		amount=1
 	}
 }
 
@@ -399,11 +322,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8641={ #Yu
@@ -423,11 +341,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 8642={ #Yangqu
@@ -438,15 +351,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="jin"
-		religion="chinese_religions"
-		amount=2
-	}
-	freemen={
-		religion="chinese_religions"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -460,11 +364,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="jin"
-		religion="chinese_religions"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -481,14 +380,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="chinese_religions"
-		amount=2
-	}
-	freemen={
-		religion="chinese_religions"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
@@ -508,11 +399,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8646={ #Dai
@@ -523,11 +409,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="jin"
-		religion="chinese_religions"
-		amount=4
-	}
 	freemen={
 		amount=3
 	}
@@ -544,11 +425,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="jin"
-		religion="chinese_religions"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -600,10 +476,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="yan"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -636,11 +508,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="jin"
-		religion="chinese_religions"
-		amount=4
-	}
 	freemen={
 		amount=3
 	}
@@ -850,18 +717,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=3
-	}
 	nobles={
 		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=4
 	}
 }
 
@@ -879,18 +736,8 @@
 	freemen={
 		amount=4
 	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=4
-	}
 	nobles={
 		amount=2
-	}
-	slaves={
-		culture="baidi"
-		religion="hu_religions"
-		amount=3
 	}
 }
 
@@ -902,15 +749,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		religion="chinese_religions"
-		amount=2
-	}
-	citizen={
-		culture="ji"
-		religion="chinese_religions"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -927,10 +765,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="ji"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -951,10 +785,6 @@
 		amount=2
 	}
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		religion="hu_religions"
 		amount=2
 	}
 }
@@ -992,10 +822,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	tribesmen={
-		religion="hu_religions"
-		amount=2
 	}
 }
 

@@ -911,11 +911,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="irminonic"
-		religion="germanic_religion"
-		amount=1
-	}
 }
 
 4006={ #Marsignia
@@ -946,11 +941,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="irminonic"
-		religion="germanic_religion"
 		amount=1
 	}
 }

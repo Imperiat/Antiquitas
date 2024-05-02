@@ -75,10 +75,6 @@
 	slaves={
 		amount="2"
 	}
-	slaves={
-		amount="2"
-		culture="thyssagetaen"
-	}
 }
 6226={ # Urmonok
 	terrain="steppes"

@@ -6,35 +6,17 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=5
-	}
-	freemen={
-		culture="phrygian"
-		amount=2
 	}
 	slaves={
 		amount=3
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="phrygian"
-		amount=1
 	}
 }
 
@@ -93,10 +75,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="phrygian"
-		amount=1
-	}
 }
 
 203={ #Asklepios
@@ -132,16 +110,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=3
 	}
 }
 
@@ -182,18 +152,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="paphlagonian"
-		amount=1
-	}
-	tribesmen={
-		culture="mariandynian"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		amount=1
-	}
 	port_building=1
 }
 
@@ -214,10 +172,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="mariandynian"
-		amount=3
-	}
 }
 
 210={ #Dadybra
@@ -233,10 +187,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -276,10 +226,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -299,19 +245,11 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="paphlagonian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		amount=1
 	}
 }
 
@@ -332,11 +270,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
-		amount=2
-	}
 }
 
 215={ #Krateia
@@ -354,11 +287,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
 		amount=2
 	}
 }
@@ -421,10 +349,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		culture="bithynian"
-		amount=1
-	}
 }
 
 221={ #Peion
@@ -441,15 +365,7 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="paphlagonian"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="paphlagonian"
 		amount=1
 	}
 }
@@ -544,18 +460,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="bithynian"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="bithynian"
 		amount=1
 	}
 }
@@ -571,22 +479,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="mariandynian"
-		amount=1
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="mariandynian"
 		amount=2
 	}
 	port_building=1
@@ -609,10 +505,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="mariandynian"
-		amount=2
-	}
 	holy_site=omen_nana
 }
 
@@ -627,19 +519,11 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="bithynian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=1
-	}
-	tribesmen={
-		culture="bithynian"
-		amount=2
 	}
 }
 
@@ -651,24 +535,8 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="greco_pontic"
-		amount=1
-	}
-	freemen={
-		culture="greco_pontic"
-		amount=2
-	}
 	freemen={
 		amount=1
-	}
-	tribesmen={
-		culture="bithynian"
-		amount=1
-	}
-	tribesmen={
-		culture="mariandynian"
-		amount=2
 	}
 }
 
@@ -711,16 +579,8 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="bithynian"
-		amount=2
-	}
 	slaves={
 		amount=5
-	}
-	tribesmen={
-		culture="bithynian"
-		amount=2
 	}
 	port_building=1
 }
@@ -739,19 +599,7 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="bithynian"
-		amount=2
-	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="bithynian"
-		amount=1
-	}
-	tribesmen={
-		culture="bithynian"
 		amount=2
 	}
 	port_building=1
@@ -768,23 +616,11 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="thracian"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="thracian"
-		amount=1
-	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="thracian"
-		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -805,27 +641,10 @@
 	citizen={
 		amount=6
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="bithynian"
-		amount=2
-	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="bithynian"
-		amount=3
-	}
-	tribesmen={
-		culture="bithynian"
 		amount=2
 	}
 	port_building=1
@@ -858,11 +677,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	citizen={
 		amount=5
 	}
@@ -870,26 +684,6 @@
 		amount=4
 	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	slaves={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
 		amount=2
 	}
 	port_building=1
@@ -912,21 +706,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="bithynian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
 }
 
 247={ #Pythopolis
@@ -944,21 +723,6 @@
 		amount=3
 	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
 		amount=2
 	}
 }
@@ -979,21 +743,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
 	}
 }
 
@@ -1052,15 +801,7 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="mysian"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
 		amount=1
 	}
 }
@@ -1076,18 +817,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="phrygian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
 		amount=1
 	}
 }
@@ -1103,18 +836,10 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		culture="mysian"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
 		amount=1
 	}
 }
@@ -1152,24 +877,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="phrygian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="bithynian"
 		amount=1
 	}
 }
@@ -1189,10 +900,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="mysian"
 		amount=1
 	}
 }
@@ -1247,11 +954,6 @@
 		amount=1
 	}
 	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
@@ -1259,15 +961,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		amount=1
 	}
 	port_building=1
 }
@@ -1286,20 +979,7 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
 		amount=1
 	}
 }
@@ -1321,16 +1001,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
-		amount=1
-	}
 }
 
 1812={ #Sinope
@@ -1350,33 +1020,8 @@
 	freemen={
 		amount=6
 	}
-	freemen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	slaves={
-		culture="paphlagonian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="cappadocian"
-		religion="anatolian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
-		amount=2
 	}
 	port_building=1
 }
@@ -1395,20 +1040,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
 		amount=1
 	}
 }
@@ -1421,23 +1053,10 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="greco_pontic"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
 		amount=1
 	}
 	port_building=1
@@ -1457,25 +1076,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
-		amount=1
-	}
-	freemen={
-		culture="greco_pontic"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="paphlagonian"
-		religion="anatolian_religion"
 		amount=1
 	}
 }
@@ -1566,10 +1167,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="mysian"
-		amount=1
 	}
 }
 
