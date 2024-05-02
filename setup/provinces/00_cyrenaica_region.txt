@@ -1,4 +1,4 @@
-3301={ # Sabratha
+﻿3301={ # Sabratha
 	terrain="plains"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
@@ -15,17 +15,7 @@
 	slaves={
 		amount="1"
 	}
-	slaves={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
-	}
 	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		culture="garamantic"
-		religion="berber_religion"
 		amount="1"
 	}
 	holy_site="omen_nanna_tala"
@@ -59,25 +49,10 @@
 	freemen={
 		amount="6"
 	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="2"
-	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
-	}
 	slaves={
 		amount="2"
 	}
 	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		culture="garamantic"
-		religion="berber_religion"
 		amount="1"
 	}
 	port_building=1
@@ -94,11 +69,6 @@
 		amount="2"
 	}
 	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		culture="garamantic"
-		religion="berber_religion"
 		amount="1"
 	}
 }
@@ -133,11 +103,6 @@
 	}
 	freemen={
 		amount="2"
-	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
 	}
 	slaves={
 		amount="3"
@@ -186,16 +151,6 @@
 	citizen={
 		amount="2"
 	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
-	}
-	slaves={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
-	}
 }
 3327={ # Thebunte
 	terrain="desert"
@@ -207,11 +162,6 @@
 	province_rank="settlement"
 	citizen={
 		amount="2"
-	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
 	}
 	slaves={
 		amount="1"
@@ -228,11 +178,6 @@
 	citizen={
 		amount="2"
 	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="2"
-	}
 	slaves={
 		amount="1"
 	}
@@ -247,16 +192,6 @@
 	province_rank="settlement"
 	citizen={
 		amount="1"
-	}
-	freemen={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="2"
-	}
-	slaves={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="2"
 	}
 }
 3332={ # Dysopon
@@ -418,17 +353,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
-	freemen={
 		amount="2"
-	}
-	slaves={
-		culture="garamantic"
-		religion="berber_religion"
-		amount="1"
 	}
 }
 3341={ # Astrochonda
@@ -445,10 +370,6 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	slaves={
 		amount="2"
 	}
@@ -463,11 +384,6 @@
 	province_rank="settlement"
 	citizen={
 		amount="2"
-	}
-	freemen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
 	}
 }
 3343={ # Corniclanum
@@ -505,11 +421,6 @@
 	slaves={
 		amount="1"
 	}
-	slaves={
-		culture="libyan"
-		religion="berber_religion"
-		amount="2"
-	}
 	port_building=1
 }
 3345={ # Chorotus
@@ -520,11 +431,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="cyrenaican"
-		religion="greek_pantheon"
-		amount="1"
-	}
 	slaves={
 		amount="2"
 	}
@@ -555,11 +461,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="cyrenaican"
-		religion="greek_pantheon"
-		amount="1"
-	}
 	freemen={
 		amount="1"
 	}
@@ -596,11 +497,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="cyrenaican"
-		religion="greek_pantheon"
-		amount="1"
-	}
 	freemen={
 		amount="1"
 	}
@@ -747,11 +643,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="cyrenaican"
-		religion="greek_pantheon"
-		amount="1"
-	}
 	freemen={
 		amount="1"
 	}
@@ -846,16 +737,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="cyrenaican"
-		religion="greek_pantheon"
-		amount="1"
-	}
-	freemen={
-		culture="cyrenaican"
-		religion="greek_pantheon"
-		amount="1"
-	}
 	freemen={
 		amount="2"
 	}
@@ -929,11 +810,6 @@
 	freemen={
 		amount="1"
 	}
-	tribesmen={
-		culture="libyan"
-		religion="egyptian_pantheon"
-		amount="1"
-	}
 }
 3369={ # Gonia
 	terrain="desert"
@@ -943,10 +819,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="egyptian"
-		amount="2"
-	}
 	freemen={
 		amount="1"
 	}
@@ -959,10 +831,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="egyptian"
-		amount="1"
-	}
 	freemen={
 		amount="2"
 	}
@@ -978,10 +846,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="egyptian"
-		amount="2"
-	}
 	slaves={
 		amount="2"
 	}
@@ -994,10 +858,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="egyptian"
-		amount="1"
-	}
 	slaves={
 		amount="1"
 	}
@@ -1014,10 +874,6 @@
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="egyptian"
-		amount="1"
-	}
 	freemen={
 		amount="2"
 	}
@@ -1382,11 +1238,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="nasamonian"
-		religion="egyptian_pantheon"
-		amount="1"
-	}
 	tribesmen={
 		amount="2"
 	}

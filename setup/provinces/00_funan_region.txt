@@ -326,10 +326,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="linyi"
-		amount=2
-	}
 	holy_site=omen_tuk
 }
 

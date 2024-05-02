@@ -1,4 +1,4 @@
-1023={ # Mantua Carpetania
+﻿1023={ # Mantua Carpetania
 	terrain="plains"
 	culture="carpetanian"
 	religion="druidism"
@@ -241,11 +241,6 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="2"
-	}
 	citizen={
 		amount="2"
 	}
@@ -1248,16 +1243,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
-	freemen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	tribesmen={
 		amount="4"
 	}
@@ -1325,16 +1310,6 @@
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
-	slaves={
-		culture="carthaginian"
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	tribesmen={
 		amount="3"
 	}

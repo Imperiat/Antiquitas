@@ -105,10 +105,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=1
-	}
 }
 
 1679={ #Kavtiskhevi
@@ -363,10 +359,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=1
-	}
 	holy_site=omen_ghmerti
 }
 
@@ -380,10 +372,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
-	}
-	slaves={
-		religion="armenian_religion"
-		amount=1
 	}
 	slaves={
 		amount=1
@@ -456,10 +444,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -661,26 +645,8 @@
 	citizen={
 		amount=8
 	}
-	citizen={
-		culture="colchian"
-		religion="caucasian_religion"
-		amount=1
-	}
-	citizen={
-		culture="colchian"
-		amount=1
-	}
-	freemen={
-		culture="colchian"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="colchian"
-		religion="caucasian_religion"
-		amount=1
 	}
 	slaves={
 		amount=2
@@ -820,10 +786,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=1
-	}
 }
 
 1735={ #Ergeta
@@ -884,11 +846,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		culture="colchian"
-		religion="caucasian_religion"
-		amount=1
-	}
 	port_building=1
 }
 
@@ -946,11 +903,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="colchian"
-		religion="caucasian_religion"
-		amount=1
 	}
 }
 
@@ -1127,10 +1079,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="caucasian_religion"
-		amount=1
-	}
-	tribesmen={
 		amount=1
 	}
 }
@@ -1150,10 +1098,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="caucasian_religion"
-		amount=1
-	}
-	tribesmen={
 		amount=1
 	}
 }
@@ -1170,10 +1114,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -1212,10 +1152,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={

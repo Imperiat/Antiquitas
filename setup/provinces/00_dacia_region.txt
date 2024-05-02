@@ -1506,11 +1506,6 @@
 	tribesmen={
 		amount=2
 	}
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
 }
 
 4837={ #Potulatensia
@@ -1550,11 +1545,6 @@
 	tribesmen={
 		amount=3
 	}
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
 }
 
 4840={ #Zurobara
@@ -1590,11 +1580,6 @@
 	tribesmen={
 		amount=2
 	}
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
 }
 
 4851={ #Crisia
@@ -1610,11 +1595,6 @@
 	}
 	tribesmen={
 		amount=4
-	}
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
 	}
 }
 
@@ -1671,11 +1651,6 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1708,11 +1683,6 @@
 	tribesmen={
 		amount=2
 	}
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
 }
 
 4861={ #Ad Statuam
@@ -1723,16 +1693,6 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
-	citizen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
