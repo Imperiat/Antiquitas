@@ -453,11 +453,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="nabatean"
-		religion="arabian_pantheon"
-		amount=1
-	}
 }
 
 4620={ #Alaura
@@ -531,10 +526,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="judaism"
-		amount=1
 	}
 }
 
@@ -911,10 +902,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="arabian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -938,11 +925,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="nabatean"
-		religion="arabian_pantheon"
 		amount=1
 	}
 }
@@ -1054,10 +1036,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="yamama"
-		amount=2
-	}
 }
 
 5406={ #Urayarah
@@ -1084,23 +1062,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="mesopotamian_religion"
-		amount=2
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="makan"
 		amount=1
 	}
 	holy_site=omen_inzak
@@ -1395,10 +1360,6 @@
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1992,28 +1953,14 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
 	}
 	tribesmen={
 		amount=4
 	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		culture="thamudi"
-		amount=2
 	}
 }
 
@@ -2161,10 +2108,6 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="gerrhan"
-		amount=1
-	}
 }
 
 11209={ #Khadramah
@@ -2232,10 +2175,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="kindite"
-		amount=1
 	}
 }
 
@@ -2321,24 +2260,11 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="sheban"
-		amount=1
-	}
 	tribesmen={
 		amount=6
 	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		culture="minaean"
-		amount=1
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
 	}
 }
 
@@ -2359,14 +2285,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="minaean"
-		amount=1
-	}
-	slaves={
-		culture="yamama"
-		amount=1
-	}
 }
 
 11221={ #Kutnah
@@ -2382,10 +2300,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="minaean"
-		amount=1
 	}
 }
 
@@ -2591,25 +2505,11 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount=2
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="samad"
-		amount=1
 	}
 	port_building=1
 }
@@ -2675,11 +2575,6 @@
 	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=2
 	}
 	tribesmen={
 		amount=4
@@ -2827,14 +2722,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="taif"
-		amount=2
-	}
-	slaves={
-		culture="qedarite"
-		amount=1
 	}
 }
 

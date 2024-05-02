@@ -220,10 +220,6 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		culture="yizhou"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -312,16 +308,8 @@
 	tribesmen={
 		amount=5
 	}
-	tribesmen={
-		culture="yizhou"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="igorot"
-		amount=1
 	}
 	holy_site=omen_pilipit
 }
@@ -460,10 +448,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=6
-	}
-	slaves={
-		culture="tagalog"
-		amount=1
 	}
 	holy_site=omen_laon
 }

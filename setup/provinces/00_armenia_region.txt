@@ -25,21 +25,8 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		religion="mithra_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="qedarite"
-		religion="arabian_pantheon"
-		amount=2
 	}
 }
 
@@ -57,11 +44,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="qedarite"
-		religion="arabian_pantheon"
-		amount=2
-	}
 }
 
 987={ #Zoaranda
@@ -73,10 +55,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		religion="mithra_religion"
 		amount=1
 	}
 	slaves={
@@ -95,10 +73,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -115,10 +89,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -157,10 +127,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -186,10 +152,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
 }
 
 993={ #Khlat
@@ -202,10 +164,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
-	freemen={
-		religion="mithra_religion"
-		amount=2
 	}
 	slaves={
 		amount=2
@@ -226,10 +184,6 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		religion="mithra_religion"
-		amount=2
-	}
 	holy_site=omen_vahagn
 }
 
@@ -241,10 +195,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -283,14 +233,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
-	tribesmen={
-		religion="mithra_religion"
-		amount=1
-	}
 }
 
 998={ #Artamet
@@ -301,10 +243,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -321,10 +259,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -369,10 +303,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
 }
 
 1502={ #Tasuk
@@ -399,14 +329,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="mithra_religion"
-		amount=1
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -423,15 +345,7 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		religion="anahita_religion"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="anahita_religion"
 		amount=1
 	}
 	tribesmen={
@@ -520,10 +434,6 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -537,10 +447,6 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -554,10 +460,6 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -711,15 +613,7 @@
 		amount=1
 	}
 	tribesmen={
-		religion="anahita_religion"
-		amount=1
-	}
-	tribesmen={
 		amount=7
-	}
-	tribesmen={
-		religion="mithra_religion"
-		amount=3
 	}
 }
 
@@ -737,10 +631,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="zoroaster"
-		amount=1
-	}
 }
 
 1535={ #Qiz Chakhlu
@@ -751,14 +641,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -778,14 +660,6 @@
 	slaves={
 		amount=3
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=2
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=1
-	}
 }
 
 1537={ #Nuarsak
@@ -796,14 +670,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
-		amount=2
-	}
 	tribesmen={
 		amount=8
 	}
@@ -821,18 +687,10 @@
 		amount=1
 	}
 	freemen={
-		religion="anahita_religion"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -866,19 +724,11 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -895,10 +745,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -935,18 +781,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="anahita_religion"
-		amount=1
-	}
-	slaves={
-		religion="mithra_religion"
-		amount=1
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -960,20 +794,8 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="anahita_religion"
-		amount=1
-	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -997,10 +819,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
 }
 
 1546={ #Shawarshan
@@ -1011,10 +829,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1031,10 +845,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="zoroaster"
-		amount=2
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1057,10 +867,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
 }
 
 1549={ #Arshakavan
@@ -1072,10 +878,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
 		amount=1
 	}
 	tribesmen={
@@ -1117,10 +919,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="anahita_religion"
-		amount=1
-	}
-	tribesmen={
 		amount=2
 	}
 }
@@ -1134,14 +932,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -1193,10 +983,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1213,10 +999,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1233,10 +1015,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1250,10 +1028,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1267,10 +1041,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="mithra_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1290,10 +1060,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
-	}
 	holy_site=omen_noah
 }
 
@@ -1308,18 +1074,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -1337,30 +1095,6 @@
 	}
 	citizen={
 		amount=5
-	}
-	citizen={
-		religion="zoroaster"
-		amount=5
-	}
-	freemen={
-		religion="armenian_religion"
-		amount=4
-	}
-	freemen={
-		religion="armenian_religion"
-		amount=1
-	}
-	freemen={
-		religion="zoroaster"
-		amount=5
-	}
-	slaves={
-		religion="caucasian_religion"
-		amount=5
-	}
-	slaves={
-		religion="mithra_religion"
-		amount=3
 	}
 	tribesmen={
 		amount=8
@@ -1380,22 +1114,10 @@
 		amount=3
 	}
 	freemen={
-		religion="anahita_religion"
-		amount=1
-	}
-	freemen={
 		amount=8
 	}
 	slaves={
-		religion="anahita_religion"
-		amount=1
-	}
-	slaves={
 		amount=18
-	}
-	tribesmen={
-		religion="anahita_religion"
-		amount=2
 	}
 	tribesmen={
 		amount=8
@@ -1416,10 +1138,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		religion="zoroaster"
-		amount=5
 	}
 	slaves={
 		amount=13
@@ -1453,10 +1171,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="anahita_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1474,22 +1188,10 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	freemen={
-		religion="zoroaster"
-		amount=2
-	}
-	slaves={
-		religion="caucasian_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="anahita_religion"
 		amount=1
 	}
 }
@@ -1505,31 +1207,8 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		religion="anahita_religion"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		religion="zoroaster"
-		amount=4
-	}
-	slaves={
-		religion="caucasian_religion"
-		amount=3
-	}
-	slaves={
-		religion="arabian_pantheon"
-		amount=1
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="arabian_pantheon"
-		amount=1
 	}
 }
 
@@ -1545,10 +1224,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="caucasian_religion"
 		amount=1
 	}
 }
@@ -1599,10 +1274,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		religion="caucasian_religion"
-		amount=1
-	}
 }
 
 1583={ #Dzhrapi
@@ -1619,10 +1290,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="caucasian_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=1
 	}
@@ -1637,10 +1304,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -1697,10 +1360,6 @@
 	citizen={
 		amount=1
 	}
-	slaves={
-		religion="caucasian_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1731,14 +1390,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="caucasian_religion"
-		amount=1
-	}
-	slaves={
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1753,10 +1404,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	slaves={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -1778,11 +1425,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="albanian"
-		religion="caucasian_religion"
-		amount=1
-	}
 }
 
 1613={ #Shalat
@@ -1795,10 +1437,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	slaves={
-		religion="caucasian_religion"
-		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -1814,10 +1452,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	slaves={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -1836,19 +1470,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
-		amount=2
-	}
-	tribesmen={
-		religion="caucasian_religion"
-		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=2
 	}
 }
@@ -1864,15 +1486,7 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -1893,10 +1507,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -1948,10 +1558,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=3
-	}
-	freemen={
-		religion="zoroaster"
-		amount=2
 	}
 	slaves={
 		amount=3
@@ -2008,10 +1614,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	slaves={
-		religion="caucasian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -2077,10 +1679,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="armenian"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -2088,10 +1686,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="anatolian_religion"
-		amount=1
 	}
 }
 
@@ -2138,10 +1732,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="anahita_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -2162,14 +1752,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="arabian_pantheon"
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 }

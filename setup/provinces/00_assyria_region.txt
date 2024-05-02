@@ -124,10 +124,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="assyrian"
-		amount=1
-	}
 	slaves={
 		amount=3
 	}
@@ -143,11 +139,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
-	}
-	tribesmen={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -231,16 +222,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		religion="zoroaster"
-		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -259,18 +242,6 @@
 		amount=1
 	}
 	freemen={
-		religion="mesopotamian_religion"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="mesopotamian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="armenian"
 		amount=1
 	}
 }
@@ -304,10 +275,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=3
-	}
-	citizen={
-		culture="pasargadi"
-		amount=1
 	}
 	freemen={
 		amount=2
@@ -344,10 +311,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	citizen={
 		amount=2
 	}
@@ -476,15 +439,6 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		religion="zoroaster"
-		amount=2
-	}
-	citizen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
-	}
-	citizen={
 		amount=11
 	}
 	freemen={
@@ -587,18 +541,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="zoroaster"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="mesopotamian_religion"
-		amount=1
 	}
 }
 
@@ -613,25 +559,10 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		amount=2
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	slaves={
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="armenian"
 		amount=1
 	}
 }
@@ -664,11 +595,6 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=2
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
@@ -676,11 +602,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -715,10 +636,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="armenian_religion"
-		amount=1
-	}
-	freemen={
 		amount=2
 	}
 	slaves={
@@ -740,10 +657,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		religion="zoroaster"
-		amount=2
-	}
 }
 
 862={ #Ninos
@@ -754,37 +667,14 @@
 	civilization_value=38
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		culture="pasargadi"
-		amount=1
-	}
 	citizen={
 		amount=7
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	freemen={
-		religion="mesopotamian_religion"
-		amount=3
 	}
 	freemen={
 		amount=11
 	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=3
-	}
 	slaves={
 		amount=10
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -805,10 +695,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="mesopotamian_religion"
-		amount=2
 	}
 }
 
@@ -881,10 +767,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -902,10 +784,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	freemen={
-		religion="zoroaster"
 		amount=1
 	}
 	slaves={
@@ -928,14 +806,6 @@
 		amount=2
 	}
 	freemen={
-		religion="mesopotamian_religion"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	freemen={
-		culture="armenian"
 		amount=1
 	}
 	slaves={
@@ -943,10 +813,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="mesopotamian_religion"
-		amount=1
 	}
 }
 
@@ -977,16 +843,7 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="armenian"
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -1002,17 +859,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=4
-	}
-	tribesmen={
-		religion="carthaginian_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -1032,10 +880,6 @@
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 	tribesmen={
@@ -1107,11 +951,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	freemen={
 		amount=3
 	}
 	slaves={
@@ -1168,26 +1007,11 @@
 	citizen={
 		amount=12
 	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
 	freemen={
 		amount=11
 	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
 	slaves={
 		amount=11
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
 	}
 	tribesmen={
 		amount=9
@@ -1205,11 +1029,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="carian"
-		religion="mesopotamian_religion"
-		amount=1
 	}
 	slaves={
 		amount=1
@@ -1231,14 +1050,6 @@
 		amount=2
 	}
 	freemen={
-		religion="mesopotamian_religion"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		religion="mesopotamian_religion"
 		amount=1
 	}
 	slaves={
@@ -1273,10 +1084,6 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -1315,10 +1122,6 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mesopotamian_religion"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -1379,18 +1182,10 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="mesopotamian_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="mesopotamian_religion"
 		amount=1
 	}
 }
@@ -1498,21 +1293,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="armenian"
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -1528,11 +1313,6 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="cataonian"
-		religion="anatolian_religion"
 		amount=1
 	}
 	slaves={
@@ -1552,10 +1332,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	slaves={
-		religion="carthaginian_pantheon"
 		amount=1
 	}
 	slaves={
@@ -1599,38 +1375,14 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=3
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
-	freemen={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=4
 	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=2
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=1
 	}
 }
 
@@ -1662,25 +1414,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=1
 	}
 	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="cappadocian"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	freemen={
-		culture="aramaic"
 		amount=1
 	}
 	slaves={
@@ -1728,10 +1464,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=2
-	}
 }
 
 8009={ #Balisbiga
@@ -1766,10 +1498,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=1
-	}
-	tribesmen={
-		religion="armenian_religion"
-		amount=2
 	}
 }
 

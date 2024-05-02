@@ -140,10 +140,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -245,10 +241,6 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
@@ -1108,10 +1100,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
@@ -1338,10 +1326,6 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -1492,10 +1476,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
@@ -1515,10 +1495,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=3
 	}
@@ -1554,10 +1530,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -1596,10 +1568,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -1641,10 +1609,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -1664,10 +1628,6 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=2
-	}
 	freemen={
 		amount=4
 	}
@@ -1687,10 +1647,6 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="pasargadi"
-		amount=3
-	}
 	freemen={
 		amount=4
 	}
