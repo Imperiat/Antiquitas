@@ -154,10 +154,6 @@
 		amount=2
 	}
 	freemen={
-		religion="judaism"
-		amount=1
-	}
-	freemen={
 		amount=2
 	}
 	slaves={
@@ -176,10 +172,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="qatabanian"
-		amount=2
-	}
 	freemen={
 		amount=3
 	}
@@ -221,10 +213,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	tribesmen={
-		religion="arabian_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -361,10 +349,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		religion="arabian_pantheon"
-		amount=1
-	}
 }
 
 4657={ #Firai
@@ -454,10 +438,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="judaism"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -472,25 +452,13 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		religion="judaism"
 		amount=1
-	}
-	nobles={
-		amount=1
-	}
-	citizen={
-		religion="judaism"
-		amount=2
 	}
 	citizen={
 		amount=7
 	}
 	freemen={
 		amount=5
-	}
-	freemen={
-		religion="judaism"
-		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -578,16 +546,8 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="minaean"
-		amount=1
-	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="aksumite"
-		amount=1
 	}
 	holy_site=omen_almaqah
 }
@@ -766,10 +726,6 @@
 	tribesmen={
 		amount=5
 	}
-	tribesmen={
-		religion="judaism"
-		amount=3
-	}
 }
 
 4677={ #Harai
@@ -808,10 +764,6 @@
 	slaves={
 		amount=7
 	}
-	tribesmen={
-		religion="judaism"
-		amount=3
-	}
 	holy_site=omen_sayin
 }
 
@@ -840,27 +792,15 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="qatabanian"
-		amount=3
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
 		amount=4
 	}
-	freemen={
-		religion="judaism"
-		amount=3
-	}
 	slaves={
 		amount=4
 	}
 	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="judaism"
 		amount=3
 	}
 	holy_site=omen_shams
@@ -886,10 +826,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="judaism"
-		amount=3
-	}
 }
 
 4682={ #Sanaa
@@ -903,23 +839,8 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		religion="judaism"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		religion="judaism"
-		amount=2
-	}
-	slaves={
-		amount=6
-	}
-	tribesmen={
-		religion="judaism"
-		amount=3
 	}
 	tribesmen={
 		amount=1
@@ -938,18 +859,10 @@
 		amount=1
 	}
 	citizen={
-		religion="judaism"
-		amount=3
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
 		amount=7
-	}
-	freemen={
-		religion="judaism"
-		amount=2
 	}
 	slaves={
 		amount=7
@@ -1024,10 +937,6 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		religion="judaism"
-		amount=3
-	}
 	slaves={
 		amount=4
 	}
@@ -1072,10 +981,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="judaism"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -1099,11 +1004,6 @@
 		amount=3
 	}
 	slaves={
-		amount=3
-	}
-	tribesmen={
-		culture="minaean"
-		religion="arabian_pantheon"
 		amount=3
 	}
 	tribesmen={
@@ -1135,17 +1035,8 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		religion="arabian_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=4
@@ -1180,10 +1071,6 @@
 		amount=2
 	}
 	freemen={
-		religion="judaism"
-		amount=2
-	}
-	freemen={
 		amount=4
 	}
 	slaves={
@@ -1191,10 +1078,6 @@
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="judaism"
-		amount=2
 	}
 }
 
@@ -1263,10 +1146,6 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="sheban"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
@@ -1316,18 +1195,6 @@
 	}
 	slaves={
 		amount=6
-	}
-	freemen={
-		religion="judaism"
-		amount=2
-	}
-	slaves={
-		religion="judaism"
-		amount=1
-	}
-	tribesmen={
-		religion="judaism"
-		amount=4
 	}
 }
 
@@ -1678,15 +1545,7 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		culture="samad"
-		amount=1
-	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="hadhrami"
 		amount=2
 	}
 }
