@@ -145,14 +145,6 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		culture="yan"
-		amount=1
-	}
-	slaves={
-		culture="ji"
-		amount=1
-	}
 }
 
 8730={ #Canhu
@@ -359,10 +351,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="ji"
-		amount=1
-	}
 }
 
 8741={ #Anping
@@ -382,10 +370,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="ji"
-		amount=1
-	}
 }
 
 8742={ #Ji
@@ -399,56 +383,14 @@
 	citizen={
 		amount=7
 	}
-	citizen={
-		culture="yaan"
-		amount=1
-	}
 	freemen={
 		amount=11
-	}
-	freemen={
-		culture="joseon"
-		religion="baiyue_religions"
-		amount=1
-	}
-	freemen={
-		culture="zhongyuan"
-		amount=1
 	}
 	nobles={
 		amount=2
 	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		culture="donghu"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="qilu"
-		amount=1
-	}
-	slaves={
-		culture="joseon"
-		religion="baiyue_religions"
-		amount=1
-	}
-	slaves={
-		culture="lingzhi"
-		religion="baiyue_religions"
-		amount=1
-	}
-	slaves={
-		culture="guzhu"
-		religion="baiyue_religions"
-		amount=1
-	}
-	slaves={
-		culture="chanlan"
-		religion="hu_religions"
-		amount=1
 	}
 }
 
@@ -460,11 +402,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="yan"
-		religion="chinese_religions"
-		amount=2
-	}
 	tribesmen={
 		amount=1
 	}
@@ -593,16 +530,6 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		culture="shanrong"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="shanrong"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8753={ #Goucheng
@@ -618,11 +545,6 @@
 	}
 	freemen={
 		amount=3
-	}
-	tribesmen={
-		culture="lingzhi"
-		religion="baiyue_religions"
-		amount=1
 	}
 }
 
@@ -669,11 +591,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="shanrong"
-		religion="hu_religions"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -709,11 +626,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="shanrong"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 8759={ #Huayan
@@ -746,11 +658,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="lingzhi"
-		religion="baiyue_religions"
-		amount=3
-	}
 }
 
 8762={ #Xuwu
@@ -764,16 +671,6 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		culture="lingzhi"
-		religion="baiyue_religions"
-		amount=2
-	}
-	slaves={
-		culture="lingzhi"
-		religion="baiyue_religions"
-		amount=1
-	}
 }
 
 8763={ #Xiyang
@@ -784,16 +681,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="yan"
-		religion="chinese_religions"
-		amount=1
-	}
-	freemen={
-		culture="yan"
-		religion="chinese_religions"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -814,11 +701,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="guzhu"
-		religion="baiyue_religions"
 		amount=1
 	}
 }
@@ -1000,11 +882,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="yan"
-		religion="chinese_religions"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -1024,20 +901,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="chinese_religions"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		culture="yilyu"
-		amount=1
-	}
-	tribesmen={
-		culture="yilyu"
-		amount=2
 	}
 }
 
@@ -1052,17 +917,7 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="joseon"
-		religion="yi_religions"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="yilyu"
-		religion="yi_religions"
 		amount=1
 	}
 }
@@ -1081,27 +936,10 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		religion="chinese_religions"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="chinese_religions"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="chinese_religions"
-		amount=1
-	}
-	tribesmen={
-		culture="yilyu"
-		religion="chinese_religions"
 		amount=1
 	}
 	holy_site=omen_yi_god_of_medicine
@@ -1122,10 +960,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="yilyu"
 		amount=1
 	}
 }
@@ -1190,10 +1024,6 @@
 		amount=2
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="yilyu"
 		amount=1
 	}
 }

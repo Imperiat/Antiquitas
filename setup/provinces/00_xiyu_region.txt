@@ -85,39 +85,11 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="city"
-	nobles={
-		amount=1
-		culture="khotanese"
-		religion="buddhism"
-	}
 	citizen={
 		amount=1
-	}
-	citizen={
-		culture="khotanese"
-		religion="buddhism"
-		amount=5
-	}
-	freemen={
-		amount=2
-	}
-	freemen={
-		culture="khotanese"
-		religion="buddhism"
-		amount=7
 	}
 	slaves={
 		amount=7
-	}
-	tribesmen={
-		culture="khotanese"
-		religion="indo_iranian_religion"
-		amount=5
-	}
-	tribesmen={
-		culture="khotanese"
-		religion="buddhism"
-		amount=2
 	}
 }
 
@@ -173,11 +145,6 @@
 	freemen={
 		amount=11
 	}
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=8
-	}
 	tribesmen={
 		amount=5
 	}
@@ -213,11 +180,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=2
 	}
 	tribesmen={
 		amount=5
@@ -267,16 +229,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="khotanese"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="khotanese"
-		religion="indo_iranian_religion"
-		amount=4
-	}
 }
 
 6749={ #Cherchen
@@ -289,11 +241,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="zhangzhung"
-		religion="bon_religion"
-		amount=1
 	}
 	slaves={
 		amount=1
@@ -725,16 +672,6 @@
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="sogdian"
-		religion="eastern_animism"
-		amount=2
-	}
-	slaves={
-		culture="sogdian"
-		religion="eastern_animism"
-		amount=3
-	}
 	tribesmen={
 		amount=5
 	}
@@ -830,11 +767,6 @@
 	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=6
 	}
 	holy_site=omen_swanco
 }
@@ -948,17 +880,8 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="tocharian"
-		amount=1
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="yuezhi"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 }
 
@@ -976,16 +899,7 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="tocharian"
-		amount=2
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="yuezhi"
-		religion="indo_iranian_religion"
 		amount=2
 	}
 }
@@ -1004,17 +918,8 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="loulan"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="yuezhi"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 }
 
@@ -1035,21 +940,7 @@
 	freemen={
 		amount=5
 	}
-	freemen={
-		culture="loulan"
-		amount=2
-	}
 	slaves={
-		amount=3
-	}
-	tribesmen={
-		culture="yuezhi"
-		religion="indo_iranian_religion"
-		amount=3
-	}
-	tribesmen={
-		culture="wusun"
-		religion="indo_iranian_religion"
 		amount=3
 	}
 	holy_site=omen_kaum
@@ -1069,10 +960,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="tocharian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1087,11 +974,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	slaves={
-		culture="jushi"
-		religion="eastern_animism"
 		amount=2
 	}
 	tribesmen={
@@ -1161,11 +1043,6 @@
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="jushi"
-		religion="eastern_animism"
-		amount=1
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1185,15 +1062,6 @@
 	citizen={
 		amount=2
 	}
-	slaves={
-		culture="jushi"
-		religion="eastern_animism"
-		amount=4
-	}
-	slaves={
-		culture="buku"
-		amount=1
-	}
 	tribesmen={
 		amount=12
 	}
@@ -1207,10 +1075,6 @@
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="yuezhi"
-		amount=2
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1255,16 +1119,7 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="tocharian"
-		amount=3
-	}
 	tribesmen={
-		amount=4
-	}
-	tribesmen={
-		culture="yuezhi"
-		religion="indo_iranian_religion"
 		amount=4
 	}
 	holy_site=omen_kem
@@ -1316,19 +1171,6 @@
 	tribesmen={
 		amount=10
 	}
-	tribesmen={
-		culture="wusun"
-		amount=2
-	}
-	slaves={
-		culture="wusun"
-		amount=2
-	}
-	slaves={
-		culture="xiongnu"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8303={ #Chigu
@@ -1373,11 +1215,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="ruoqiang"
-		religion="bon_religion"
-		amount=1
 	}
 }
 
@@ -1574,10 +1411,6 @@
 	tribesmen={
 		amount=7
 	}
-	slaves={
-		culture="wusun"
-		amount=2
-	}
 }
 
 10584={ #Tougong
@@ -1590,10 +1423,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=7
-	}
-	slaves={
-		culture="wusun"
-		amount=2
 	}
 }
 
@@ -1608,10 +1437,6 @@
 	tribesmen={
 		amount=7
 	}
-	slaves={
-		culture="shanma"
-		amount=2
-	}
 }
 
 10586={ #Naomaohuzhen
@@ -1625,11 +1450,6 @@
 	tribesmen={
 		amount=3
 	}
-	slaves={
-		culture="xiongnu"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 10601={ #Altai Sum
@@ -1640,11 +1460,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1664,22 +1479,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="sogdian"
-		religion="vaksh_religion"
-		amount=2
-	}
-	slaves={
-		culture="sogdian"
-		religion="vaksh_religion"
-		amount=3
-	}
 	tribesmen={
 		amount=10
-	}
-	tribesmen={
-		culture="wusun"
-		amount=2
 	}
 }
 
@@ -1691,11 +1492,6 @@
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="sogdian"
-		religion="vaksh_religion"
-		amount=2
-	}
 	tribesmen={
 		amount=6
 	}
@@ -1709,11 +1505,6 @@
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=2
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1727,11 +1518,6 @@
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=2
-	}
 	tribesmen={
 		amount=5
 	}
@@ -1745,11 +1531,6 @@
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1776,17 +1557,8 @@
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="sogdian"
-		religion="vaksh_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		culture="wusun"
-		amount=1
 	}
 }
 

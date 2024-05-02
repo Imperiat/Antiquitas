@@ -29,11 +29,6 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
-	nobles={
 		amount=2
 	}
 	citizen={
@@ -44,10 +39,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		amount=2
-		culture="amardian"
 	}
 	tribesmen={
 		amount=3
@@ -234,24 +225,9 @@
 		amount=2
 	}
 	freemen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
 		amount=1
 	}
 }
@@ -375,16 +351,6 @@
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -782,21 +748,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="parthian"
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="parthian"
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -881,22 +837,8 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="parthian"
-		religion="zoroaster"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="parthian"
-		religion="zoroaster"
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -1159,16 +1101,6 @@
 		amount=2
 	}
 	freemen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
 		amount=2
 	}
 	tribesmen={
@@ -1272,22 +1204,10 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		religion="zoroaster"
-		amount=1
-	}
-	slaves={
-		religion="zoroaster"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="zoroaster"
 		amount=1
 	}
 }
@@ -1304,10 +1224,6 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		religion="indo_iranian_religion"
 		amount=1
 	}
 	tribesmen={
@@ -1387,17 +1303,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
-	}
-	citizen={
 		amount=3
-	}
-	freemen={
-		culture="bactra"
-		religion="roman_pantheon"
-		amount=1
 	}
 	freemen={
 		amount=3
@@ -1415,18 +1321,8 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=2
-	}
 	slaves={
 		amount=4
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -1463,16 +1359,6 @@
 	slaves={
 		amount=4
 	}
-	slaves={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1490,20 +1376,10 @@
 		amount=2
 	}
 	freemen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	freemen={
 		amount=2
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -1522,20 +1398,10 @@
 		amount=3
 	}
 	freemen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	freemen={
 		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=2
 	}
 }
 
@@ -1551,25 +1417,10 @@
 		amount=3
 	}
 	freemen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	freemen={
 		amount=3
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="derbiccan"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 	tribesmen={
 		amount=1

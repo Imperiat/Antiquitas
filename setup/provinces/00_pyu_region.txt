@@ -138,10 +138,6 @@
 	slaves={
 		amount=4
 	}
-	tribesmen={
-		religion="buddhism"
-		amount=2
-	}
 }
 
 9782={ #Waithali
@@ -154,10 +150,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=4
-	}
-	slaves={
-		religion="burmese_religion"
-		amount=2
 	}
 }
 
@@ -178,15 +170,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="piaoyue"
-		religion="bon_religion"
-		amount=1
-	}
-	slaves={
-		religion="burmese_religion"
-		amount=1
-	}
 	holy_site=omen_shwemhtwehla
 }
 
@@ -200,11 +183,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="savara"
-		religion="hindu"
-		amount=1
 	}
 	tribesmen={
 		amount=4
@@ -228,17 +206,8 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="bangli"
-		religion="hindu"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 	slaves={
 		amount=3
@@ -256,16 +225,7 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		culture="magadhi"
-		religion="buddhism"
-		amount=2
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="bon_religion"
 		amount=1
 	}
 	holy_site=omen_shwemyethna
@@ -302,11 +262,6 @@
 	tribesmen={
 		amount=3
 	}
-	slaves={
-		culture="piaoyue"
-		religion="bon_religion"
-		amount=2
-	}
 }
 
 9790={ #Monyo
@@ -336,21 +291,11 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="magadhi"
-		religion="hindu"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="mon"
-		religion="burmese_religion"
-		amount=2
 	}
 	holy_site=omen_irrawaddy
 }
@@ -366,20 +311,7 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="bangli"
-		religion="hindu"
-		amount=2
-	}
-	tribesmen={
-		religion="burmese_religion"
-		amount=1
-	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		religion="burmese_religion"
 		amount=2
 	}
 }
@@ -398,20 +330,11 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="kalingan"
-		religion="jainism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		religion="burmese_religion"
-		amount=2
 	}
 	holy_site=omen_chuu
 }
@@ -427,17 +350,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="magadhi"
-		religion="buddhism"
-		amount=1
-	}
 	tribesmen={
 		amount=6
-	}
-	slaves={
-		religion="burmese_religion"
-		amount=2
 	}
 	holy_site=omen_mahagiri
 }
@@ -465,11 +379,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	freemen={
-		culture="himalayan"
-		religion="buddhism"
-		amount=2
 	}
 	tribesmen={
 		amount=2
@@ -594,16 +503,8 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="buddhism"
-		amount=2
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		religion="burmese_religion"
-		amount=1
 	}
 }
 
@@ -618,15 +519,7 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="burmese_religion"
 		amount=1
 	}
 }
@@ -700,10 +593,6 @@
 	tribesmen={
 		amount=2
 	}
-	slaves={
-		religion="burmese_religion"
-		amount=1
-	}
 }
 
 11076={ #Mytinge
@@ -716,11 +605,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=4
-	}
-	slaves={
-		culture="piaoyue"
-		religion="bon_religion"
-		amount=2
 	}
 }
 
@@ -748,15 +632,6 @@
 	tribesmen={
 		amount=8
 	}
-	slaves={
-		culture="piaoyue"
-		religion="bon_religion"
-		amount=2
-	}
-	slaves={
-		culture="pubu"
-		amount=1
-	}
 }
 
 11079={ #Lashio
@@ -769,10 +644,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=5
-	}
-	slaves={
-		culture="pubu"
-		amount=2
 	}
 	holy_site=omen_nang
 }
@@ -788,16 +659,8 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		religion="burmese_religion"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		religion="burmese_religion"
-		amount=2
 	}
 }
 
@@ -811,11 +674,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=5
-	}
-	slaves={
-		culture="mon"
-		religion="baiyue_religions"
-		amount=2
 	}
 }
 

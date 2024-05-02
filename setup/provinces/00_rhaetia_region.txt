@@ -1006,11 +1006,6 @@
 	tribesmen={
 		amount="4"
 	}
-	tribesmen={
-		culture="rhaetian"
-		religion="roman_pantheon"
-		amount="2"
-	}
 }
 3665={ # Vipitenum
 	terrain="mountain"
@@ -1057,11 +1052,6 @@
 		amount="7"
 	}
 	slaves={
-		amount="2"
-	}
-	tribesmen={
-		culture="rhaetian"
-		religion="roman_pantheon"
 		amount="2"
 	}
 }

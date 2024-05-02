@@ -88,10 +88,6 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		religion="shamanism"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -147,10 +143,6 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	slaves={
-		religion="shamanism"
 		amount=1
 	}
 	holy_site=omen_andinus
@@ -313,10 +305,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4114={ #Synora Dardanias
@@ -368,10 +356,6 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		religion="shamanism"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -389,10 +373,6 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	slaves={
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -449,19 +429,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="illyrian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
 	}
 }
 
@@ -479,10 +451,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
-	}
 }
 
 4125={ #Domavia
@@ -499,16 +467,8 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="illyrian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
 	}
 }
 
@@ -527,10 +487,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
 		amount=1
 	}
 }
@@ -554,10 +510,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
 	}
 }
 
@@ -613,16 +565,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		religion="illyrian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
 	}
 }
 
@@ -639,10 +583,6 @@
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
 	}
 }
 
@@ -663,14 +603,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4196={ #Siluvia
@@ -687,18 +619,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="illyrian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -717,16 +641,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="shamanism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="illyrian_pantheon"
-		amount=1
 	}
 }
 
@@ -747,10 +663,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4199={ #Margum
@@ -770,10 +682,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4200={ #Viminacium Moesiacum
@@ -788,10 +696,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -809,13 +713,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
 	}
 }
 
@@ -871,10 +768,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4205={ #Aureus Mons
@@ -894,10 +787,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4206={ #Bannea
@@ -913,10 +802,6 @@
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
 	}
 }
 
@@ -937,10 +822,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4212={ #Bao
@@ -959,10 +840,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
 	}
 }
 

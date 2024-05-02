@@ -6,24 +6,10 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="aksumite"
-		religion="egyptian_pantheon"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="aksumite"
-		religion="egyptian_pantheon"
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="arabian_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -42,21 +28,7 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
-		amount=2
-	}
-	freemen={
-		culture="daamoti"
-		amount=2
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
 		amount=2
 	}
 	slaves={
@@ -81,25 +53,6 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="daamoti"
-		amount=3
-	}
-	freemen={
-		religion="egyptian_pantheon"
-		amount=2
-	}
-	freemen={
-		amount=5
-	}
-	freemen={
-		culture="aksumite"
-		amount=5
-	}
-	slaves={
-		religion="egyptian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=6
 	}
@@ -120,10 +73,6 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="daamoti"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -132,10 +81,6 @@
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="athagaun"
-		amount=2
 	}
 }
 
@@ -150,31 +95,8 @@
 	citizen={
 		amount=7
 	}
-	citizen={
-		culture="sheban"
-		amount=3
-	}
-	citizen={
-		culture="aksumite"
-		amount=2
-	}
 	freemen={
 		amount=6
-	}
-	freemen={
-		culture="sheban"
-		amount=2
-	}
-	freemen={
-		culture="aksumite"
-		amount=2
-	}
-	slaves={
-		amount=2
-	}
-	slaves={
-		culture="ona"
-		amount=2
 	}
 	tribesmen={
 		amount=4
@@ -192,45 +114,10 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="meroitic"
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	citizen={
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	citizen={
-		culture="daamoti"
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="meroitic"
-		religion="egyptian_pantheon"
-		amount=2
-	}
-	freemen={
-		amount=8
-	}
-	freemen={
-		culture="daamoti"
-		religion="egyptian_pantheon"
-		amount=2
-	}
 	slaves={
 		amount=4
 	}
 	tribesmen={
-		culture="meroitic"
-		amount=2
-	}
-	tribesmen={
-		amount=5
-	}
-	tribesmen={
-		culture="athagaun"
 		amount=5
 	}
 	holy_site=omen_maher
@@ -244,10 +131,6 @@
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="daamoti"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -267,26 +150,14 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="aksumite"
-		amount=1
-	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		culture="aksumite"
-		amount=2
 	}
 	slaves={
 		amount=4
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="athagaun"
-		amount=2
 	}
 }
 
@@ -345,10 +216,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="daamoti"
-		amount=2
-	}
 }
 
 7512={ #Muchera
@@ -384,22 +251,10 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="daamoti"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="daamoti"
-		amount=2
-	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="athagaun"
 		amount=2
 	}
 }
@@ -435,15 +290,7 @@
 		amount=1
 	}
 	freemen={
-		religion="egyptian_pantheon"
 		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		culture="athagaun"
-		amount=2
 	}
 }
 
@@ -460,11 +307,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=2
@@ -530,34 +372,11 @@
 	citizen={
 		amount=8
 	}
-	citizen={
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	freemen={
-		religion="egyptian_pantheon"
-		amount=2
-	}
-	freemen={
-		amount=11
-	}
-	slaves={
-		culture="aksumite"
-		amount=1
-	}
 	slaves={
 		amount=6
 	}
-	slaves={
-		religion="egyptian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=6
-	}
-	tribesmen={
-		culture="aksumite"
-		amount=2
 	}
 }
 
@@ -573,22 +392,10 @@
 		amount=2
 	}
 	freemen={
-		religion="egyptian_pantheon"
-		amount=2
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	tribesmen={
-		religion="egyptian_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -606,25 +413,6 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	freemen={
-		religion="arabian_pantheon"
-		amount=1
-	}
-	slaves={
-		amount=2
-	}
-	slaves={
-		religion="arabian_pantheon"
-		amount=1
-	}
 	port_building=1
 }
 
@@ -639,20 +427,11 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=5
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="avalitian"
-		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -815,39 +594,6 @@
 	civilization_value=21
 	barbarian_power=0
 	province_rank="city"
-	freemen={
-		culture="phoenician"
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="qatabanian"
-		amount=1
-	}
-	freemen={
-		culture="sheban"
-		amount=2
-	}
-	freemen={
-		culture="saurashtran"
-		religion="jainism"
-		amount=1
-	}
-	freemen={
-		culture="sindhi"
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		culture="meroitic"
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="aksumite"
-		religion="judaism"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -939,10 +685,6 @@
 	}
 	tribesmen={
 		amount=1
-	}
-	tribesmen={
-		religion="arabian_pantheon"
-		amount=2
 	}
 }
 
@@ -1240,14 +982,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="daamoti"
-		amount=2
-	}
-	tribesmen={
-		culture="athagaun"
-		amount=1
-	}
 }
 
 10444={ #Mai Adrasha
@@ -1267,10 +1001,6 @@
 	slaves={
 		amount=3
 	}
-	tribesmen={
-		culture="athagaun"
-		amount=3
-	}
 }
 
 10445={ #Seglamen
@@ -1286,10 +1016,6 @@
 	}
 	freemen={
 		amount=5
-	}
-	slaves={
-		culture="daamoti"
-		amount=3
 	}
 	tribesmen={
 		amount=3
@@ -1316,10 +1042,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="aksumite"
-		amount=2
-	}
 }
 
 10447={ #Tembien
@@ -1335,17 +1057,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="daamoti"
-		amount=2
-	}
-	slaves={
-		amount=5
-	}
-	tribesmen={
-		culture="athagaun"
-		amount=3
 	}
 }
 
@@ -1363,17 +1074,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="daamoti"
-		amount=2
-	}
-	slaves={
-		amount=3
-	}
-	tribesmen={
-		culture="athagaun"
-		amount=4
-	}
 }
 
 10449={ #Mezber
@@ -1388,17 +1088,6 @@
 		amount=5
 	}
 	freemen={
-		amount=3
-	}
-	freemen={
-		culture="daamoti"
-		amount=5
-	}
-	slaves={
-		amount=6
-	}
-	tribesmen={
-		culture="ona"
 		amount=3
 	}
 }
@@ -1420,10 +1109,6 @@
 	slaves={
 		amount=5
 	}
-	tribesmen={
-		culture="athagaun"
-		amount=4
-	}
 }
 
 10451={ #Adi Ugri
@@ -1435,10 +1120,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	slaves={
-		culture="athagaun"
 		amount=3
 	}
 	tribesmen={
@@ -1505,10 +1186,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="athagaun"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1522,10 +1199,6 @@
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		amount=1
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1539,10 +1212,6 @@
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="ona"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1578,11 +1247,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -1602,11 +1266,6 @@
 	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
@@ -1626,11 +1285,6 @@
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -1652,11 +1306,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=1
-	}
-	freemen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=2
 	}
 	slaves={
 		amount=3
@@ -1733,11 +1382,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="sheban"
-		religion="arabian_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1823,11 +1467,6 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="sheban"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=4
 	}
@@ -1850,19 +1489,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=3
-	}
-	slaves={
-		culture="berberian"
-		religion="puntic_religion"
-		amount=2
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="berberian"
-		religion="puntic_religion"
-		amount=2
 	}
 }
 
@@ -2137,18 +1763,8 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="himjar"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=6
-	}
-	freemen={
-		culture="himjar"
-		religion="arabian_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=4

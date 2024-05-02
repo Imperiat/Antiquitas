@@ -57,15 +57,7 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount="1"
-	}
 	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		religion="arabian_pantheon"
 		amount="1"
 	}
 }
@@ -96,22 +88,7 @@
 		amount="1"
 	}
 	freemen={
-		culture="aramaic"
-		religion="mesopotamian_religion"
-		amount="1"
-	}
-	freemen={
 		amount="2"
-	}
-	freemen={
-		culture="aramaic"
-		religion="arabian_pantheon"
-		amount="3"
-	}
-	tribesmen={
-		culture="aramaic"
-		religion="arabian_pantheon"
-		amount="3"
 	}
 }
 835={ # Hatra
@@ -128,18 +105,8 @@
 	freemen={
 		amount="8"
 	}
-	freemen={
-		culture="assyrian"
-		religion="zoroaster"
-		amount="3"
-	}
 	slaves={
 		amount="4"
-	}
-	slaves={
-		culture="assyrian"
-		religion="zoroaster"
-		amount="1"
 	}
 	tribesmen={
 		amount="2"
@@ -154,18 +121,10 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		religion="zoroaster"
-		amount="1"
-	}
-	citizen={
 		amount="6"
 	}
 	freemen={
 		amount="10"
-	}
-	freemen={
-		religion="zoroaster"
-		amount="4"
 	}
 	slaves={
 		amount="7"
@@ -222,10 +181,6 @@
 	tribesmen={
 		amount="2"
 	}
-	tribesmen={
-		religion="mesopotamian_religion"
-		amount="1"
-	}
 }
 890={ # Gubba
 	terrain="plains"
@@ -239,14 +194,6 @@
 		amount="1"
 	}
 	tribesmen={
-		culture="assyrian"
-		amount="1"
-	}
-	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		religion="mesopotamian_religion"
 		amount="1"
 	}
 }
@@ -278,18 +225,6 @@
 	}
 	freemen={
 		amount="3"
-	}
-	freemen={
-		religion="zoroaster"
-		amount="1"
-	}
-	slaves={
-		religion="zoroaster"
-		amount="1"
-	}
-	slaves={
-		culture="babylonian"
-		amount="1"
 	}
 }
 893={ # Samarra
@@ -345,18 +280,8 @@
 	citizen={
 		amount="4"
 	}
-	citizen={
-		culture="babylonian"
-		religion="zoroaster"
-		amount="1"
-	}
 	freemen={
 		amount="1"
-	}
-	slaves={
-		culture="babylonian"
-		religion="zoroaster"
-		amount="2"
 	}
 	slaves={
 		amount="3"
@@ -373,16 +298,8 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		religion="mesopotamian_religion"
-		amount="1"
-	}
 	slaves={
 		amount="1"
-	}
-	slaves={
-		religion="mesopotamian_religion"
-		amount="2"
 	}
 	tribesmen={
 		amount="1"
@@ -491,16 +408,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="3"
-	}
-	freemen={
-		culture="nabatean"
-		religion="mesopotamian_religion"
-		amount="1"
-	}
-	slaves={
-		culture="assyrian"
-		religion="mesopotamian_religion"
-		amount="1"
 	}
 	slaves={
 		amount="3"
@@ -745,20 +652,10 @@
 		amount="5"
 	}
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount="4"
-	}
-	citizen={
 		amount="19"
 	}
 	freemen={
 		amount="11"
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount="4"
 	}
 	slaves={
 		amount="13"
@@ -775,25 +672,10 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount="2"
-	}
-	citizen={
 		amount="8"
 	}
 	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount="2"
-	}
-	freemen={
 		amount="7"
-	}
-	freemen={
-		culture="carian"
-		religion="egyptian_pantheon"
-		amount="1"
 	}
 	slaves={
 		amount="20"
@@ -845,16 +727,7 @@
 		amount="1"
 	}
 	slaves={
-		culture="nabatean"
-		religion="arabian_pantheon"
-		amount="2"
-	}
-	slaves={
 		amount="4"
-	}
-	slaves={
-		religion="arabian_pantheon"
-		amount="1"
 	}
 	holy_site="omen_ezekiel"
 }
@@ -871,10 +744,6 @@
 	}
 	slaves={
 		amount="7"
-	}
-	slaves={
-		religion="arabian_pantheon"
-		amount="3"
 	}
 }
 924={ # Aberta
@@ -897,14 +766,6 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="zoroaster"
-		amount="1"
-	}
-	slaves={
-		religion="zoroaster"
-		amount="2"
-	}
 	slaves={
 		amount="2"
 	}
@@ -966,25 +827,10 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount="2"
-	}
-	citizen={
 		amount="8"
 	}
 	freemen={
 		amount="1"
-	}
-	freemen={
-		culture="carian"
-		religion="egyptian_pantheon"
-		amount="1"
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount="2"
 	}
 	slaves={
 		amount="10"
@@ -1053,26 +899,8 @@
 	freemen={
 		amount="3"
 	}
-	freemen={
-		culture="babylonian"
-		amount="1"
-	}
-	slaves={
-		culture="babylonian"
-		amount="1"
-	}
 	slaves={
 		amount="5"
-	}
-	slaves={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="1"
-	}
-	tribesmen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="2"
 	}
 }
 934={ # Kashkar
@@ -1083,10 +911,6 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		religion="roman_pantheon"
-		amount="3"
-	}
 	slaves={
 		amount="1"
 	}
@@ -1104,10 +928,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="2"
-	}
-	slaves={
-		religion="roman_pantheon"
-		amount="1"
 	}
 	slaves={
 		amount="4"
@@ -1130,10 +950,6 @@
 	slaves={
 		amount="3"
 	}
-	slaves={
-		religion="arabian_pantheon"
-		amount="2"
-	}
 }
 937={ # Uruk
 	terrain="flood_plain"
@@ -1144,20 +960,10 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount="2"
-	}
-	citizen={
 		amount="5"
 	}
 	freemen={
 		amount="3"
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount="2"
 	}
 	slaves={
 		amount="5"
@@ -1173,10 +979,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount="1"
-	}
-	slaves={
-		religion="roman_pantheon"
 		amount="1"
 	}
 	slaves={
@@ -1215,36 +1017,11 @@
 	freemen={
 		amount="7"
 	}
-	freemen={
-		culture="babylonian"
-		religion="zoroaster"
-		amount="1"
-	}
-	freemen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="1"
-	}
-	slaves={
-		culture="babylonian"
-		religion="zoroaster"
-		amount="2"
-	}
 	slaves={
 		amount="9"
 	}
-	slaves={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="2"
-	}
 	tribesmen={
 		amount="1"
-	}
-	tribesmen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="10"
 	}
 	port_building=3
 }
@@ -1317,15 +1094,7 @@
 	freemen={
 		amount="2"
 	}
-	freemen={
-		culture="assyrian"
-		amount="1"
-	}
 	tribesmen={
-		amount="1"
-	}
-	tribesmen={
-		culture="nabatean"
 		amount="1"
 	}
 }
@@ -1341,10 +1110,6 @@
 		amount="1"
 	}
 	freemen={
-		amount="1"
-	}
-	freemen={
-		religion="zoroaster"
 		amount="1"
 	}
 }
@@ -1425,20 +1190,8 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		religion="roman_pantheon"
-		amount="1"
-	}
-	slaves={
-		religion="roman_pantheon"
-		amount="1"
-	}
 	slaves={
 		amount="3"
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount="1"
 	}
 }
 962={ # Khay
@@ -1524,17 +1277,9 @@
 		amount="3"
 	}
 	freemen={
-		religion="arabian_pantheon"
-		amount="1"
-	}
-	freemen={
 		amount="2"
 	}
 	slaves={
-		amount="3"
-	}
-	slaves={
-		religion="arabian_pantheon"
 		amount="3"
 	}
 	holy_site="omen_ea"
@@ -1568,10 +1313,6 @@
 	slaves={
 		amount="2"
 	}
-	tribesmen={
-		religion="zoroaster"
-		amount="1"
-	}
 }
 973={ # Bakusaya
 	terrain="flood_plain"
@@ -1582,10 +1323,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount="1"
-	}
-	slaves={
-		religion="roman_pantheon"
 		amount="1"
 	}
 	slaves={
@@ -1648,20 +1385,8 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		religion="zoroaster"
-		amount="1"
-	}
-	slaves={
-		religion="zoroaster"
-		amount="1"
-	}
 	slaves={
 		amount="3"
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount="1"
 	}
 	tribesmen={
 		amount="1"
@@ -1678,44 +1403,14 @@
 	citizen={
 		amount="9"
 	}
-	citizen={
-		culture="assyrian"
-		religion="mesopotamian_religion"
-		amount="1"
-	}
-	citizen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="1"
-	}
 	freemen={
 		amount="6"
-	}
-	freemen={
-		culture="median"
-		religion="zoroaster"
-		amount="2"
-	}
-	slaves={
-		culture="assyrian"
-		religion="mesopotamian_religion"
-		amount="1"
 	}
 	slaves={
 		amount="5"
 	}
-	slaves={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="2"
-	}
 	tribesmen={
 		amount="3"
-	}
-	tribesmen={
-		culture="babylonian"
-		religion="mesopotamian_religion"
-		amount="1"
 	}
 }
 982={ # Yazdigird
@@ -1759,10 +1454,6 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		culture="assyrian"
-		amount="1"
-	}
 	tribesmen={
 		amount="4"
 	}

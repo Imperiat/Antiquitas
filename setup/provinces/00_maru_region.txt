@@ -18,18 +18,6 @@
 	slaves={
 		amount=8
 	}
-	slaves={
-		religion="ajivika"
-		amount=3
-	}
-	tribesmen={
-		religion="jainism"
-		amount=2
-	}
-	freemen={
-		religion="buddhism"
-		amount=4
-	}
 	holy_site=omen_samba
 }
 
@@ -383,28 +371,6 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		religion="hindu"
-		amount=8
-	}
-	freemen={
-		culture="sindhi"
-		amount=14
-	}
-	slaves={
-		culture="sivi"
-		amount=5
-	}
-	slaves={
-		culture="sindhi"
-		religion="hindu"
-		amount=2
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=3
-	}
 	port_building=1
 }
 
@@ -527,20 +493,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		religion="roman_pantheon"
-		amount=4
-	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		religion="buddhism"
-		amount=1
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
 	}
 	tribesmen={
 		amount=4
@@ -555,10 +509,6 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="hindu"
-		amount=5
-	}
 	slaves={
 		amount=3
 	}
@@ -853,11 +803,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=8
-	}
 	port_building=1
 }
 
@@ -878,16 +823,8 @@
 	slaves={
 		amount=7
 	}
-	slaves={
-		religion="jainism"
-		amount=2
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=1
 	}
 	holy_site=omen_soma
 	port_building=1
@@ -901,10 +838,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="hindu"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -921,23 +854,11 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		religion="jainism"
-		amount=2
-	}
 	freemen={
 		amount=9
 	}
-	freemen={
-		religion="jainism"
-		amount=2
-	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="jainism"
-		amount=4
 	}
 	holy_site=omen_neminatha
 }
@@ -956,14 +877,6 @@
 	freemen={
 		amount=3
 	}
-	tribesmen={
-		religion="charvaka"
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
 }
 
 6820={ #Valabhi
@@ -974,27 +887,11 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="jainism"
-		amount=1
-	}
 	freemen={
 		amount=3
 	}
-	slaves={
-		religion="jainism"
-		amount=2
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="charvaka"
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -1014,11 +911,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		culture="sindhi"
-		religion="hindu"
-		amount=10
 	}
 	port_building=1
 }
@@ -1047,10 +939,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="hindu"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
@@ -1067,24 +955,10 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="hindu"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=2
-	}
-	slaves={
-		culture="maharashtran"
-		religion="buddhism"
-		amount=2
-	}
-	freemen={
-		culture="sivi"
-		religion="buddhism"
 		amount=2
 	}
 }
@@ -1099,10 +973,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
 	}
 }
 
@@ -1290,10 +1160,6 @@
 	freemen={
 		amount=3
 	}
-	slaves={
-		religion="jainism"
-		amount=2
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1331,10 +1197,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	slaves={
-		religion="jainism"
-		amount=2
 	}
 	tribesmen={
 		amount=4
@@ -1396,10 +1258,6 @@
 	slaves={
 		amount=7
 	}
-	tribesmen={
-		religion="charvaka"
-		amount=7
-	}
 	port_building=1
 }
 
@@ -1427,14 +1285,6 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="charvaka"
-		amount=1
-	}
-	freemen={
-		religion="charvaka"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1456,10 +1306,6 @@
 	}
 	slaves={
 		amount=8
-	}
-	tribesmen={
-		religion="charvaka"
-		amount=7
 	}
 }
 
@@ -1527,10 +1373,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		religion="charvaka"
-		amount=3
 	}
 }
 
@@ -1648,10 +1490,6 @@
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=2
-	}
 	tribesmen={
 		amount=6
 	}
@@ -1776,14 +1614,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		religion="charvaka"
-		amount=2
-	}
 	tribesmen={
 		amount=5
 	}
@@ -1860,10 +1690,6 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		religion="hindu"
-		amount=2
-	}
 	slaves={
 		amount=3
 	}
@@ -1880,10 +1706,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
 	freemen={
 		amount=6
 	}

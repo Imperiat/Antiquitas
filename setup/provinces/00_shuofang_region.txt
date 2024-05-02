@@ -201,16 +201,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 8575={ #Pingzhou
@@ -228,16 +218,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
 		amount=1
 	}
 }
@@ -259,16 +239,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 8577={ #Yangzhou
@@ -288,11 +258,6 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
 }
 
 8578={ #Gaonu
@@ -310,11 +275,6 @@
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
 		amount=1
 	}
 }
@@ -336,11 +296,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
 }
 
 8580={ #Qiyuan
@@ -360,11 +315,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
 }
 
 8581={ #Luodu
@@ -382,11 +332,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="yiqu"
-		religion="bon_religion"
 		amount=1
 	}
 }
@@ -464,11 +409,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="baidi"
-		religion="hu_religions"
 		amount=1
 	}
 }
@@ -566,11 +506,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="linhu"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 8592={ #Hongmen
@@ -581,11 +516,6 @@
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="jin"
-		religion="chinese_religions"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -641,10 +571,6 @@
 		amount=1
 	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		culture="jin"
 		amount=2
 	}
 	tribesmen={
@@ -1052,10 +978,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="chanlan"
-		amount=1
 	}
 }
 

@@ -63,63 +63,11 @@
 	citizen={
 		amount=11
 	}
-	citizen={
-		culture="napatan"
-		amount=2
-	}
-	citizen={
-		culture="lower_nubian"
-		amount=1
-	}
-	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	citizen={
-		culture="upper_egyptian"
-		amount=2
-	}
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	freemen={
-		culture="upper_egyptian"
-		amount=2
-	}
 	freemen={
 		amount=10
 	}
-	freemen={
-		culture="napatan"
-		amount=3
-	}
-	freemen={
-		culture="lower_nubian"
-		amount=2
-	}
 	slaves={
 		amount=11
-	}
-	slaves={
-		culture="blemmyan"
-		religion="egyptian_pantheon"
-		amount=2
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		culture="blemmyan"
-		religion="egyptian_pantheon"
-		amount=3
 	}
 	holy_site=omen_mandulis
 }
@@ -181,16 +129,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="blemmyan"
-		religion="egyptian_pantheon"
-		amount=1
-	}
-	slaves={
-		culture="meroitic"
-		religion="egyptian_pantheon"
-		amount=1
 	}
 }
 
@@ -277,11 +215,6 @@
 	}
 	slaves={
 		amount=6
-	}
-	slaves={
-		culture="blemmyan"
-		religion="egyptian_pantheon"
-		amount=1
 	}
 	tribesmen={
 		amount=7
@@ -501,14 +434,6 @@
 	freemen={
 		amount=5
 	}
-	slaves={
-		culture="rhizophagian"
-		amount=1
-	}
-	slaves={
-		culture="meroitic"
-		amount=2
-	}
 	tribesmen={
 		amount=5
 	}
@@ -577,11 +502,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="boran"
-		religion="egyptian_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
@@ -607,11 +527,6 @@
 	tribesmen={
 		amount=2
 	}
-	slaves={
-		culture="syrbotian"
-		religion="egyptian_pantheon"
-		amount=1
-	}
 }
 
 9923={ #Hosh
@@ -626,11 +541,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	slaves={
-		culture="syrbotian"
-		religion="egyptian_pantheon"
 		amount=1
 	}
 }
@@ -755,11 +665,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="meroitic"
-		religion="egyptian_pantheon"
-		amount=1
-	}
 }
 
 9932={ #Sennar
@@ -781,11 +686,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="meroitic"
-		religion="egyptian_pantheon"
-		amount=1
 	}
 	holy_site=omen_wepwawet
 }
@@ -964,34 +864,14 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="upper_egyptian"
-		amount=2
-	}
-	freemen={
-		culture="upper_egyptian"
-		amount=2
-	}
 	freemen={
 		amount=5
 	}
 	slaves={
 		amount=6
 	}
-	slaves={
-		culture="blemmyan"
-		amount=2
-	}
-	slaves={
-		culture="boran"
-		amount=1
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="blemmyan"
-		amount=1
 	}
 	holy_site=omen_arensuphis
 }
@@ -1010,39 +890,14 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="upper_egyptian"
-		amount=1
-	}
-	freemen={
-		culture="upper_egyptian"
-		amount=2
-	}
 	freemen={
 		amount=4
 	}
 	slaves={
 		amount=8
 	}
-	slaves={
-		culture="alutan"
-		amount=2
-	}
-	slaves={
-		culture="boran"
-		amount=1
-	}
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=7
-	}
-	tribesmen={
-		culture="blemmyan"
-		amount=1
 	}
 	holy_site=omen_amesemi
 }
@@ -1064,10 +919,6 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="blemmyan"
-		amount=2
-	}
 }
 
 10376={ #Mahdood
@@ -1083,10 +934,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="boran"
-		amount=2
 	}
 }
 
@@ -1107,10 +954,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="syrbotian"
-		amount=1
-	}
 }
 
 10378={ #Surayriyah
@@ -1130,10 +973,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="boran"
-		amount=1
-	}
 }
 
 10379={ #Sayyidab
@@ -1148,10 +987,6 @@
 		amount=3
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="syrbotian"
 		amount=1
 	}
 }
@@ -1173,10 +1008,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="alutan"
-		amount=1
-	}
 }
 
 10381={ #Hamadab
@@ -1196,10 +1027,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="nubian"
-		amount=2
-	}
 }
 
 10382={ #Bafalil
@@ -1214,10 +1041,6 @@
 		amount=3
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="nubian"
 		amount=1
 	}
 }
@@ -1239,10 +1062,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		culture="nubian"
-		amount=1
-	}
 }
 
 10384={ #Suriba
@@ -1256,10 +1075,6 @@
 	tribesmen={
 		amount=4
 	}
-	slaves={
-		culture="meroitic"
-		amount=2
-	}
 }
 
 10385={ #Adabda
@@ -1272,10 +1087,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=4
-	}
-	slaves={
-		culture="meroitic"
-		amount=2
 	}
 }
 
@@ -1303,10 +1114,6 @@
 	tribesmen={
 		amount=8
 	}
-	slaves={
-		culture="meroitic"
-		amount=2
-	}
 }
 
 10388={ #Harazah
@@ -1333,14 +1140,6 @@
 	freemen={
 		amount=3
 	}
-	tribesmen={
-		culture="boran"
-		amount=2
-	}
-	slaves={
-		culture="boran"
-		amount=2
-	}
 }
 
 10400={ #Hufrah
@@ -1352,10 +1151,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		culture="boran"
 		amount=2
 	}
 }
@@ -1433,10 +1228,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="boran"
-		amount=2
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1463,10 +1254,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="alutan"
-		amount=2
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1493,10 +1280,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="boran"
-		amount=3
-	}
 	tribesmen={
 		amount=7
 	}
@@ -1523,10 +1306,6 @@
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="alutan"
-		amount=3
-	}
 	tribesmen={
 		amount=7
 	}
@@ -1540,10 +1319,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="syrbotian"
-		amount=2
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1687,10 +1462,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="rhizophagian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1782,11 +1553,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	tribesmen={
 		amount=6
 	}
@@ -1800,11 +1566,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1818,11 +1579,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1862,11 +1618,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1893,11 +1644,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	tribesmen={
 		amount=3
 	}
@@ -1911,11 +1657,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=2
-	}
 	tribesmen={
 		amount=7
 	}
@@ -1929,11 +1670,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="aksumite"
-		religion="arabian_pantheon"
-		amount=1
-	}
 	tribesmen={
 		amount=3
 	}

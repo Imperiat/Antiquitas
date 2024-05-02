@@ -80,11 +80,6 @@
 	freemen={
 		amount=4
 	}
-	tribesmen={
-		culture="getian"
-		religion="shamanism"
-		amount=5
-	}
 }
 
 4526={ #Nikonia
@@ -101,16 +96,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=2
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=2
-	}
 	port_building=1
 }
 
@@ -125,15 +110,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="scythian"
-		amount=1
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=2
-	}
 }
 
 4528={ #Skopouloi
@@ -145,11 +121,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
 		amount=1
 	}
 }
@@ -170,11 +141,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="scythian"
-		religion="indo_iranian_religion"
-		amount=4
 	}
 	port_building=1
 	holy_site=omen_ariantes

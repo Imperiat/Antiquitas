@@ -320,26 +320,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="ba"
-		religion="bon_religion"
-		amount=1
-	}
 	nobles={
 		amount=1
 	}
 	slaves={
-		culture="ba"
-		religion="taoism"
 		amount=1
-	}
-	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="ba"
-		religion="taoism"
-		amount=2
 	}
 }
 
@@ -411,11 +396,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="qin"
-		religion="chinese_religions"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -460,11 +440,6 @@
 	tribesmen={
 		amount=1
 	}
-	slaves={
-		culture="chu"
-		religion="chinese_religions"
-		amount=1
-	}
 }
 
 8845={ #Quren
@@ -479,11 +454,6 @@
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	slaves={
-		culture="chu"
-		religion="chinese_religions"
 		amount=1
 	}
 }
@@ -541,11 +511,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		culture="shu"
-		religion="bon_religion"
-		amount=2
-	}
 	slaves={
 		amount=1
 	}
@@ -581,11 +546,6 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="qin"
-		religion="chinese_religions"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -792,24 +752,9 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="qin"
-		religion="chinese_religions"
-		amount=5
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
-		culture="qin"
-		religion="chinese_religions"
-		amount=4
-	}
-	freemen={
-		amount=2
-	}
-	nobles={
-		culture="qin"
-		religion="chinese_religions"
 		amount=2
 	}
 	tribesmen={
@@ -831,29 +776,14 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="shu"
-		religion="taoism"
-		amount=1
-	}
 	freemen={
 		amount=1
-	}
-	freemen={
-		culture="shu"
-		religion="bon_religion"
-		amount=2
 	}
 	nobles={
 		amount=1
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="shu"
-		religion="bon_religion"
-		amount=2
 	}
 }
 
@@ -866,20 +796,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="qin"
-		religion="chinese_religions"
-		amount=1
-	}
-	citizen={
 		amount=1
 	}
 	freemen={
 		amount=2
-	}
-	nobles={
-		culture="qin"
-		religion="chinese_religions"
-		amount=1
 	}
 	tribesmen={
 		amount=1
@@ -902,11 +822,6 @@
 	}
 	freemen={
 		amount=1
-	}
-	freemen={
-		culture="qin"
-		religion="chinese_religions"
-		amount=2
 	}
 	nobles={
 		amount=1
@@ -1070,10 +985,6 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		amount=1
-		religion="bon_religion"
-	}
 	slaves={
 		amount=2
 	}
@@ -1089,10 +1000,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=1
-	}
-	freemen={
-		amount=1
-		religion="bon_religion"
 	}
 	tribesmen={
 		amount=1
@@ -1138,10 +1045,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		amount=1
-		religion="bon_religion"
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1155,10 +1058,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=1
-		religion="taoism"
-	}
 	freemen={
 		amount=2
 	}
@@ -1167,10 +1066,6 @@
 	}
 	tribesmen={
 		amount=1
-	}
-	tribesmen={
-		amount=1
-		religion="bon_religion"
 	}
 }
 

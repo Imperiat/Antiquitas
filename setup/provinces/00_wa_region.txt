@@ -736,11 +736,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="mitinooku"
-		religion="ainu_religion"
-		amount=1
-	}
 }
 
 9709={ #Kazusa
@@ -773,11 +768,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="mitinooku"
-		religion="ainu_religion"
-		amount=1
-	}
 }
 
 9711={ #Hitati
@@ -792,11 +782,6 @@
 		amount=3
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="mitinooku"
-		religion="ainu_religion"
 		amount=1
 	}
 }
@@ -895,11 +880,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="mitinooku"
-		religion="ainu_religion"
-		amount=1
-	}
 }
 
 9719={ #Simotuke
@@ -912,11 +892,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	slaves={
-		culture="mitinooku"
-		religion="ainu_religion"
-		amount=1
 	}
 	holy_site=omen_kimun
 }
@@ -931,11 +906,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	slaves={
-		culture="mitinooku"
-		religion="ainu_religion"
-		amount=1
 	}
 }
 

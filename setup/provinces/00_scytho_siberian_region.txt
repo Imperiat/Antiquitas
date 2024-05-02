@@ -6,10 +6,6 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="wusun"
-		amount=2
-	}
 	tribesmen={
 		amount=5
 	}
@@ -195,11 +191,6 @@
 	tribesmen={
 		amount=7
 	}
-	slaves={
-		culture="hujie"
-		religion="hu_religions"
-		amount=2
-	}
 }
 
 12262={ #Urzhar
@@ -343,10 +334,6 @@
 	tribesmen={
 		amount=8
 	}
-	slaves={
-		culture="wusun"
-		amount=2
-	}
 }
 
 12274={ #Tasaral
@@ -482,14 +469,6 @@
 	}
 	tribesmen={
 		amount=7
-	}
-	slaves={
-		culture="sakan"
-		amount=1
-	}
-	slaves={
-		culture="buku"
-		amount=1
 	}
 }
 
@@ -1615,14 +1594,6 @@
 	tribesmen={
 		amount=5
 	}
-	slaves={
-		culture="sargat"
-		amount=1
-	}
-	slaves={
-		culture="gorokhov"
-		amount=1
-	}
 }
 
 12383={ #Muw
@@ -1634,10 +1605,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="sargat"
 		amount=1
 	}
 }
@@ -1653,10 +1620,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		culture="sargat"
-		amount=1
-	}
 }
 
 12385={ #Vakh
@@ -1669,10 +1632,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=3
-	}
-	slaves={
-		culture="permic"
-		amount=2
 	}
 }
 
@@ -1687,10 +1646,6 @@
 	tribesmen={
 		amount=4
 	}
-	slaves={
-		culture="sargat"
-		amount=1
-	}
 }
 
 12387={ #Pal
@@ -1702,10 +1657,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="sargat"
 		amount=2
 	}
 }
@@ -1721,10 +1672,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		culture="sargat"
-		amount=2
-	}
 }
 
 12389={ #Urunkwe
@@ -1736,10 +1683,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="sargat"
 		amount=2
 	}
 }
@@ -1768,10 +1711,6 @@
 	tribesmen={
 		amount=4
 	}
-	slaves={
-		culture="sargat"
-		amount=2
-	}
 }
 
 12392={ #Jinkwe
@@ -1798,10 +1737,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		culture="sargat"
-		amount=1
-	}
 }
 
 12394={ #Xulem
@@ -1813,10 +1748,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="sargat"
 		amount=1
 	}
 }
@@ -1850,38 +1781,6 @@
 	}
 	tribesmen={
 		amount=7
-	}
-	tribesmen={
-		culture="gorokhov"
-		amount=2
-	}
-	tribesmen={
-		culture="korgantas"
-		religion="hu_religions"
-		amount=1
-	}
-	tribesmen={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=2
-	}
-	slaves={
-		culture="gorokhov"
-		amount=1
-	}
-	slaves={
-		culture="itkul"
-		amount=1
-	}
-	slaves={
-		culture="korgantas"
-		religion="hu_religions"
-		amount=1
-	}
-	slaves={
-		culture="sakan"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 }
 
@@ -1985,10 +1884,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		culture="itkul"
 		amount=1
 	}
 }
@@ -2484,11 +2379,6 @@
 	tribesmen={
 		amount=4
 	}
-	slaves={
-		culture="korgantas"
-		religion="hu_religions"
-		amount=1
-	}
 }
 
 12442={ #Ajma
@@ -2553,11 +2443,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=4
-	}
-	slaves={
-		culture="hujie"
-		religion="hu_religions"
-		amount=2
 	}
 }
 
@@ -2636,10 +2521,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=3
-	}
-	slaves={
-		culture="jiankun"
-		amount=2
 	}
 }
 

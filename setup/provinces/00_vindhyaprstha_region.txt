@@ -29,32 +29,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		religion="jainism"
-		amount=3
-	}
-	citizen={
 		amount=11
-	}
-	freemen={
-		religion="jainism"
-		amount=4
 	}
 	freemen={
 		amount=9
 	}
 	slaves={
 		amount=6
-	}
-	slaves={
-		religion="jainism"
-		amount=3
-	}
-	tribesmen={
-		amount=7
-	}
-	tribesmen={
-		religion="jainism"
-		amount=2
 	}
 	port_building=1
 }
@@ -68,15 +49,7 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		religion="jainism"
-		amount=3
-	}
-	citizen={
 		amount=9
-	}
-	freemen={
-		religion="jainism"
-		amount=4
 	}
 	freemen={
 		amount=7
@@ -86,10 +59,6 @@
 	}
 	tribesmen={
 		amount=8
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -101,27 +70,11 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="jainism"
-		amount=1
-	}
-	freemen={
-		religion="jainism"
-		amount=2
-	}
 	slaves={
 		amount=4
 	}
-	slaves={
-		religion="jainism"
-		amount=1
-	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -136,26 +89,14 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		religion="agama"
-		amount=1
-	}
 	freemen={
 		amount=3
-	}
-	freemen={
-		religion="agama"
-		amount=1
 	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="agama"
-		amount=1
 	}
 }
 
@@ -169,17 +110,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=4
-	}
-	citizen={
-		religion="agama"
-		amount=1
-	}
-	freemen={
-		amount=2
-	}
-	slaves={
-		religion="agama"
-		amount=1
 	}
 	slaves={
 		amount=2
@@ -201,25 +131,13 @@
 		amount=3
 	}
 	freemen={
-		religion="jainism"
-		amount=1
-	}
-	freemen={
 		amount=3
 	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="jainism"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -255,24 +173,12 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="jainism"
-		amount=1
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
-		religion="jainism"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		religion="jainism"
 		amount=2
 	}
 	tribesmen={
@@ -289,15 +195,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="jainism"
-		amount=1
-	}
-	citizen={
 		amount=2
-	}
-	freemen={
-		religion="jainism"
-		amount=1
 	}
 	freemen={
 		amount=3
@@ -307,10 +205,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -323,15 +217,7 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		religion="jainism"
-		amount=1
-	}
-	citizen={
 		amount=5
-	}
-	freemen={
-		religion="jainism"
-		amount=2
 	}
 	freemen={
 		amount=4
@@ -341,10 +227,6 @@
 	}
 	tribesmen={
 		amount=6
-	}
-	tribesmen={
-		religion="jainism"
-		amount=3
 	}
 }
 
@@ -360,10 +242,6 @@
 		amount=1
 	}
 	freemen={
-		religion="jainism"
-		amount=1
-	}
-	freemen={
 		amount=4
 	}
 	slaves={
@@ -371,10 +249,6 @@
 	}
 	tribesmen={
 		amount=10
-	}
-	tribesmen={
-		religion="jainism"
-		amount=2
 	}
 }
 
@@ -395,10 +269,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="agama"
-		amount=1
-	}
 	tribesmen={
 		amount=4
 	}
@@ -412,10 +282,6 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=3
-	}
 	freemen={
 		amount=2
 	}
@@ -441,23 +307,11 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		religion="agama"
-		amount=1
-	}
 	slaves={
-		amount=3
-	}
-	slaves={
-		religion="agama"
 		amount=3
 	}
 	tribesmen={
 		amount=8
-	}
-	tribesmen={
-		religion="agama"
-		amount=3
 	}
 }
 
@@ -478,10 +332,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="agama"
-		amount=5
-	}
 	tribesmen={
 		amount=5
 	}
@@ -495,10 +345,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
 	slaves={
 		amount=3
 	}
@@ -521,18 +367,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
-	slaves={
-		religion="ajivika"
-		amount=2
-	}
-	tribesmen={
-		religion="agama"
-		amount=5
-	}
 }
 
 7080={ #Dantapura
@@ -543,14 +377,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=3
-	}
-	freemen={
-		religion="buddhism"
-		amount=3
-	}
 	slaves={
 		amount=5
 	}
@@ -576,25 +402,6 @@
 	freemen={
 		amount=4
 	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
-	freemen={
-		religion="jainism"
-		amount=5
-	}
-	slaves={
-		amount=3
-	}
-	slaves={
-		religion="ajivika"
-		amount=2
-	}
-	slaves={
-		religion="agama"
-		amount=2
-	}
 	tribesmen={
 		amount=5
 	}
@@ -612,34 +419,14 @@
 	citizen={
 		amount=8
 	}
-	citizen={
-		religion="jainism"
-		amount=2
-	}
-	freemen={
-		religion="jainism"
-		amount=1
-	}
 	freemen={
 		amount=8
 	}
 	slaves={
 		amount=6
 	}
-	slaves={
-		religion="ajivika"
-		amount=2
-	}
-	slaves={
-		religion="jainism"
-		amount=3
-	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		religion="jainism"
-		amount=2
 	}
 }
 
@@ -651,10 +438,6 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=4
-	}
 	citizen={
 		amount=1
 	}
@@ -677,10 +460,6 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="charvaka"
-		amount=2
-	}
 	freemen={
 		amount=4
 	}
@@ -700,35 +479,11 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	citizen={
-		religion="buddhism"
-		amount=4
-	}
 	freemen={
 		amount=7
 	}
-	freemen={
-		religion="hindu"
-		amount=2
-	}
 	slaves={
 		amount=8
-	}
-	slaves={
-		religion="hindu"
-		amount=2
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=4
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
 	}
 }
 
@@ -743,43 +498,11 @@
 	citizen={
 		amount=6
 	}
-	citizen={
-		religion="jainism"
-		amount=2
-	}
-	citizen={
-		religion="hindu"
-		amount=3
-	}
-	freemen={
-		religion="jainism"
-		amount=3
-	}
 	freemen={
 		amount=6
 	}
-	freemen={
-		religion="hindu"
-		amount=4
-	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		religion="ajivika"
-		amount=2
-	}
-	slaves={
-		religion="jainism"
-		amount=2
-	}
-	slaves={
-		religion="hindu"
-		amount=3
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
 	}
 	tribesmen={
 		amount=3
@@ -795,10 +518,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -824,20 +543,8 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
-	slaves={
-		religion="ajivika"
-		amount=2
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="agama"
-		amount=3
 	}
 }
 
@@ -852,22 +559,10 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		religion="charvaka"
-		amount=4
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		religion="agama"
-		amount=1
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="agama"
 		amount=3
 	}
 }
@@ -902,29 +597,10 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=2
-	}
-	freemen={
-		religion="jainism"
-		amount=2
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="jainism"
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="jainism"
 		amount=1
 	}
 }
@@ -939,10 +615,6 @@
 	province_rank="settlement"
 	freemen={
 		amount=2
-	}
-	slaves={
-		religion="hindu"
-		amount=3
 	}
 	tribesmen={
 		amount=3
@@ -960,30 +632,14 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		religion="agama"
-		amount=3
-	}
 	freemen={
 		amount=3
 	}
-	freemen={
-		religion="agama"
-		amount=2
-	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		religion="agama"
-		amount=1
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="agama"
-		amount=3
 	}
 }
 
@@ -995,14 +651,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=2
-	}
-	freemen={
-		religion="charvaka"
-		amount=2
-	}
 	slaves={
 		amount=2
 	}
@@ -1019,16 +667,8 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		religion="hindu"
-		amount=1
 	}
 	tribesmen={
 		amount=2
@@ -1077,10 +717,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		religion="agama"
-		amount=2
-	}
 }
 
 7131={ #Raipur
@@ -1100,16 +736,8 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="agama"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="agama"
-		amount=2
 	}
 }
 
@@ -1121,14 +749,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		religion="hindu"
-		amount=2
-	}
 	slaves={
 		amount=1
 	}
@@ -1151,18 +771,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="agama"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="agama"
 		amount=3
 	}
 }
@@ -1178,25 +790,13 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		religion="agama"
-		amount=1
-	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		religion="agama"
-		amount=1
 	}
 	slaves={
 		amount=4
 	}
 	tribesmen={
-		amount=4
-	}
-	tribesmen={
-		religion="agama"
 		amount=4
 	}
 }
@@ -1218,10 +818,6 @@
 	slaves={
 		amount=4
 	}
-	slaves={
-		religion="agama"
-		amount=5
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1235,18 +831,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		religion="hindu"
-		amount=1
-	}
-	slaves={
-		religion="hindu"
-		amount=2
-	}
 	tribesmen={
 		amount=7
 	}
@@ -1260,20 +844,8 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=2
-	}
 	freemen={
 		amount=3
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=1
 	}
 }
 
@@ -1291,23 +863,11 @@
 	freemen={
 		amount=8
 	}
-	freemen={
-		religion="agama"
-		amount=5
-	}
 	slaves={
-		amount=4
-	}
-	slaves={
-		religion="agama"
 		amount=4
 	}
 	tribesmen={
 		amount=5
-	}
-	tribesmen={
-		religion="agama"
-		amount=3
 	}
 	holy_site=omen_enejjaga
 }
@@ -1351,16 +911,8 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="agama"
-		amount=1
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="agama"
-		amount=2
 	}
 }
 
@@ -1372,10 +924,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=4
-	}
 	freemen={
 		amount=2
 	}
@@ -1398,23 +946,8 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		religion="ajivika"
-		amount=3
-	}
-	slaves={
-		amount=2
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=1
 	}
 }
 
@@ -1428,10 +961,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=2
-	}
-	freemen={
-		religion="ajivika"
-		amount=3
 	}
 	slaves={
 		amount=2
@@ -1461,18 +990,6 @@
 	tribesmen={
 		amount=2
 	}
-	freemen={
-		religion="agama"
-		amount=2
-	}
-	slaves={
-		religion="agama"
-		amount=2
-	}
-	tribesmen={
-		religion="agama"
-		amount=1
-	}
 }
 
 7148={ #Kollipake
@@ -1483,10 +1000,6 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="agama"
-		amount=3
-	}
 	freemen={
 		amount=2
 	}
@@ -1495,21 +1008,6 @@
 	}
 	tribesmen={
 		amount=4
-	}
-	citizen={
-		culture="kaccha"
-		religion="jainism"
-		amount=2
-	}
-	slaves={
-		culture="avanti"
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		culture="mulaka"
-		religion="buddhism"
-		amount=1
 	}
 }
 
@@ -1522,29 +1020,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="charvaka"
-		amount=1
-	}
-	citizen={
-		amount=2
-	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
-	slaves={
-		religion="charvaka"
-		amount=1
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
-	tribesmen={
 		amount=2
 	}
 	tribesmen={
-		religion="jainism"
 		amount=2
 	}
 }
@@ -1557,10 +1035,6 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="agama"
-		amount=2
-	}
 	freemen={
 		amount=3
 	}
@@ -1580,10 +1054,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=1
-	}
 	tribesmen={
 		amount=5
 	}
@@ -1622,10 +1092,6 @@
 	tribesmen={
 		amount=4
 	}
-	tribesmen={
-		religion="agama"
-		amount=3
-	}
 }
 
 7155={ #Kaulas
@@ -1636,10 +1102,6 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="agama"
-		amount=3
-	}
 	freemen={
 		amount=3
 	}
@@ -1662,18 +1124,10 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
 	slaves={
 		amount=3
 	}
 	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="ajivika"
 		amount=3
 	}
 }
@@ -1686,14 +1140,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		religion="hindu"
-		amount=2
-	}
 	slaves={
 		amount=3
 	}
@@ -1716,27 +1162,11 @@
 	freemen={
 		amount=6
 	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
 	slaves={
 		amount=4
 	}
-	slaves={
-		religion="ajivika"
-		amount=3
-	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=1
-	}
-	tribesmen={
-		religion="hindu"
-		amount=10
 	}
 }
 
@@ -1748,34 +1178,14 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="agama"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="agama"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=2
 	}
 }
 
@@ -1787,14 +1197,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		religion="hindu"
-		amount=2
-	}
 	slaves={
 		amount=3
 	}
@@ -1814,24 +1216,8 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		religion="ajivika"
-		amount=1
-	}
-	freemen={
-		religion="agama"
-		amount=1
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="agama"
-		amount=1
 	}
 }
 
@@ -1848,26 +1234,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		religion="buddhism"
-		amount=1
-	}
-	tribesmen={
-		religion="buddhism"
-		amount=2
-	}
-	freemen={
-		religion="hindu"
-		amount=2
-	}
-	slaves={
-		religion="agama"
-		amount=2
-	}
-	tribesmen={
-		religion="agama"
-		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -1894,18 +1260,6 @@
 	tribesmen={
 		amount=3
 	}
-	tribesmen={
-		religion="agama"
-		amount=5
-	}
-	freemen={
-		religion="agama"
-		amount=2
-	}
-	slaves={
-		religion="hindu"
-		amount=3
-	}
 	holy_site=omen_kisa_sankicca
 }
 
@@ -1920,23 +1274,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		religion="agama"
-		amount=1
-	}
-	freemen={
-		amount=6
-	}
-	freemen={
-		religion="agama"
-		amount=2
-	}
 	slaves={
 		amount=1
-	}
-	slaves={
-		religion="agama"
-		amount=4
 	}
 	tribesmen={
 		amount=10
@@ -1951,10 +1290,6 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=3
-	}
 	freemen={
 		amount=4
 	}
@@ -1980,10 +1315,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		religion="agama"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
@@ -2006,16 +1337,8 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="agama"
-		amount=6
-	}
 	tribesmen={
 		amount=11
-	}
-	tribesmen={
-		religion="agama"
-		amount=3
 	}
 }
 
@@ -2030,35 +1353,11 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		religion="hindu"
-		amount=1
-	}
-	freemen={
-		religion="jainism"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -2073,30 +1372,14 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		religion="buddhism"
-		amount=1
-	}
-	freemen={
-		religion="buddhism"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="buddhism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="buddhism"
-		amount=1
 	}
 }
 
@@ -2114,27 +1397,8 @@
 	freemen={
 		amount=3
 	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
 	tribesmen={
 		amount=3
-	}
-	freemen={
-		culture="matsya"
-		religion="buddhism"
-		amount=1
-	}
-	slaves={
-		culture="kuntalan"
-		religion="jainism"
-		amount=1
-	}
-	freemen={
-		culture="vanga"
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -2150,25 +1414,13 @@
 		amount=4
 	}
 	freemen={
-		religion="hindu"
-		amount=2
-	}
-	freemen={
 		amount=7
-	}
-	slaves={
-		religion="hindu"
-		amount=1
 	}
 	slaves={
 		amount=7
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		religion="hindu"
-		amount=2
 	}
 }
 
@@ -2186,22 +1438,6 @@
 	slaves={
 		amount=2
 	}
-	slaves={
-		religion="hindu"
-		amount=1
-	}
-	tribesmen={
-		religion="hindu"
-		amount=1
-	}
-	tribesmen={
-		religion="ajivika"
-		amount=1
-	}
-	tribesmen={
-		religion="charvaka"
-		amount=3
-	}
 }
 
 7175={ #Bandavala
@@ -2218,27 +1454,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="agama"
-		amount=2
-	}
 	tribesmen={
 		amount=4
-	}
-	freemen={
-		culture="vidharban"
-		religion="buddhism"
-		amount=1
-	}
-	freemen={
-		culture="atavi"
-		religion="hindu"
-		amount=1
-	}
-	slaves={
-		culture="maharashtran"
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -2250,19 +1467,11 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=2
-	}
 	freemen={
 		amount=3
 	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		religion="hindu"
-		amount=2
 	}
 }
 
@@ -2300,10 +1509,6 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		religion="buddhism"
-		amount=4
-	}
 	slaves={
 		amount=3
 	}
@@ -2326,23 +1531,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		religion="ajivika"
-		amount=1
-	}
-	slaves={
-		culture="bangli"
-		religion="buddhism"
-		amount=1
-	}
-	slaves={
-		religion="buddhism"
-		amount=1
-	}
-	tribesmen={
-		religion="buddhism"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
@@ -2356,18 +1544,10 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="buddhism"
-		amount=4
-	}
 	freemen={
 		amount=3
 	}
 	slaves={
-		amount=2
-	}
-	tribesmen={
-		religion="ajivika"
 		amount=2
 	}
 }
@@ -2385,10 +1565,6 @@
 	}
 	freemen={
 		amount=4
-	}
-	slaves={
-		religion="ajivika"
-		amount=3
 	}
 	tribesmen={
 		amount=3
@@ -2466,20 +1642,8 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		religion="buddhism"
-		amount=2
-	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		religion="ajivika"
-		amount=2
-	}
-	tribesmen={
-		religion="buddhism"
-		amount=1
 	}
 }
 
@@ -2529,10 +1693,6 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		religion="hindu"
-		amount=2
-	}
 	freemen={
 		amount=2
 	}
@@ -2558,36 +1718,14 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		religion="hindu"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		religion="jainism"
-		amount=1
 	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=3
-	}
-	freemen={
-		culture="matsya"
-		amount=1
-	}
-	slaves={
-		culture="kuntalan"
-		religion="jainism"
-		amount=1
-	}
-	freemen={
-		culture="vanga"
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -2602,24 +1740,10 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		religion="charvaka"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	slaves={
-		culture="vanga"
-		religion="jainism"
-		amount=1
-	}
-	freemen={
-		culture="kuntalan"
-		religion="jainism"
 		amount=1
 	}
 }
@@ -2635,24 +1759,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="jainism"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		culture="vanga"
-		religion="jainism"
-		amount=1
 	}
 }
 
@@ -2673,15 +1784,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		culture="savara"
-		religion="jainism"
-		amount=1
-	}
 }
 
 11513={ #Gopalprasad
@@ -2700,16 +1802,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	slaves={
-		culture="savara"
-		religion="jainism"
-		amount=3
-	}
-	slaves={
-		culture="vanga"
-		religion="hindu"
-		amount=1
 	}
 }
 
@@ -2730,11 +1822,6 @@
 	tribesmen={
 		amount=2
 	}
-	slaves={
-		culture="savara"
-		religion="jainism"
-		amount=2
-	}
 }
 
 11515={ #Lahunipara
@@ -2748,27 +1835,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="jainism"
-		amount=3
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="hindu"
-		amount=1
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		culture="savara"
-		religion="jainism"
 		amount=1
 	}
 }
@@ -2784,28 +1851,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		religion="hindu"
-		amount=1
-	}
-	slaves={
-		religion="jainism"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		culture="magadhi"
-		religion="hindu"
 		amount=1
 	}
 }
@@ -2821,23 +1867,7 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="jainism"
-		amount=2
-	}
-	slaves={
-		religion="jainism"
-		amount=1
-	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		religion="hindu"
 		amount=1
 	}
 }
@@ -2853,27 +1883,10 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="jainism"
-		amount=3
-	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		religion="jainism"
 		amount=1
 	}
 	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="jainism"
-		amount=1
-	}
-	slaves={
-		culture="magadhi"
-		religion="hindu"
 		amount=1
 	}
 }
@@ -2890,10 +1903,6 @@
 		amount=2
 	}
 	slaves={
-		amount=2
-	}
-	slaves={
-		religion="agama"
 		amount=2
 	}
 	tribesmen={

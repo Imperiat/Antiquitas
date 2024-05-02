@@ -53,15 +53,6 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
-	slaves={
-		culture="jin"
-		amount=1
-	}
 }
 
 8310={ #Chencang
@@ -132,46 +123,11 @@
 	citizen={
 		amount=11
 	}
-	citizen={
-		culture="zhongyuan"
-		amount=1
-	}
 	freemen={
 		amount=10
 	}
-	freemen={
-		culture="jin"
-		amount=1
-	}
-	freemen={
-		culture="qilu"
-		amount=1
-	}
-	freemen={
-		culture="zhongyuan"
-		amount=1
-	}
-	freemen={
-		culture="qiang"
-		religion="bon_religion"
-		amount=1
-	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="jin"
-		amount=1
-	}
-	slaves={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
-	slaves={
-		culture="ba"
-		religion="bon_religion"
-		amount=1
 	}
 }
 
@@ -348,28 +304,11 @@
 	freemen={
 		amount=7
 	}
-	freemen={
-		culture="jin"
-		amount=1
-	}
 	nobles={
 		amount=3
 	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="jin"
-		amount=1
-	}
-	slaves={
-		culture="chu"
-		amount=1
-	}
-	slaves={
-		culture="shu"
-		religion="bon_religion"
-		amount=1
 	}
 }
 
@@ -411,11 +350,6 @@
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
 	}
 }
 
@@ -541,21 +475,6 @@
 	slaves={
 		amount=5
 	}
-	slaves={
-		culture="yiqu"
-		religion="bon_religion"
-		amount=1
-	}
-	slaves={
-		culture="ba"
-		religion="bon_religion"
-		amount=1
-	}
-	slaves={
-		culture="di_qiang"
-		religion="bon_religion"
-		amount=1
-	}
 }
 
 8335={ #Lantian
@@ -647,15 +566,6 @@
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="jin"
-		amount=1
-	}
-	slaves={
-		culture="ba"
-		religion="bon_religion"
-		amount=1
 	}
 }
 
@@ -753,10 +663,6 @@
 	nobles={
 		amount=4
 	}
-	slaves={
-		culture="qin"
-		amount=6
-	}
 }
 
 8345={ #Yishi
@@ -775,10 +681,6 @@
 	}
 	nobles={
 		amount=1
-	}
-	slaves={
-		culture="qin"
-		amount=2
 	}
 }
 
@@ -992,20 +894,8 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="qin"
-		amount=1
-	}
-	freemen={
-		culture="qin"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		culture="qin"
-		amount=1
 	}
 	slaves={
 		amount=1
@@ -1118,10 +1008,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="zhongyuan"
-		amount=1
-	}
 }
 
 8363={ #Shang
@@ -1136,10 +1022,6 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="zhongyuan"
 		amount=1
 	}
 	slaves={

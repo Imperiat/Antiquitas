@@ -25,10 +25,6 @@
 	tribesmen={
 		amount=6
 	}
-	slaves={
-		culture="hujie"
-		amount=2
-	}
 }
 
 9433={ #Sarik
@@ -190,10 +186,6 @@
 	}
 	tribesmen={
 		amount=7
-	}
-	slaves={
-		culture="jiankun"
-		amount=2
 	}
 	holy_site=omen_patampasa
 }
@@ -489,10 +481,6 @@
 	}
 	tribesmen={
 		amount=5
-	}
-	slaves={
-		culture="xiongnu"
-		amount=1
 	}
 }
 
@@ -912,10 +900,6 @@
 	tribesmen={
 		amount=9
 	}
-	slaves={
-		culture="dingling"
-		amount=3
-	}
 }
 
 10530={ #Egiin Gol
@@ -1065,10 +1049,6 @@
 	tribesmen={
 		amount=7
 	}
-	slaves={
-		culture="xiongnu"
-		amount=1
-	}
 }
 
 10541={ #Dusdag
@@ -1100,10 +1080,6 @@
 	}
 	tribesmen={
 		amount=7
-	}
-	slaves={
-		culture="xiongnu"
-		amount=1
 	}
 }
 
@@ -1271,11 +1247,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1302,10 +1273,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		amount=1
-	}
 	tribesmen={
 		amount=5
 	}
@@ -1319,10 +1286,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1336,11 +1299,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		religion="eastern_animism"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1367,10 +1325,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1410,10 +1364,6 @@
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		culture="tocharian"
-		amount=1
-	}
 	tribesmen={
 		amount=4
 	}
@@ -1456,10 +1406,6 @@
 	tribesmen={
 		amount=2
 	}
-	slaves={
-		culture="arzhan"
-		amount=1
-	}
 }
 
 10822={ #Kokorya
@@ -1485,10 +1431,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=3
-	}
-	slaves={
-		culture="arzhan"
-		amount=1
 	}
 }
 

@@ -97,10 +97,6 @@
 	slaves={
 		amount=6
 	}
-	slaves={
-		religion="shamanism"
-		amount=2
-	}
 	tribesmen={
 		amount=2
 	}
@@ -123,10 +119,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 }
 
 4214={ #Clevora
@@ -145,10 +137,6 @@
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
 	}
 }
 
@@ -747,16 +735,8 @@
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="bosporan"
-		amount=1
-	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=3
 	}
 }
 
@@ -777,19 +757,6 @@
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="moesi"
-		amount=1
-	}
-	slaves={
-		culture="moesi"
-		amount=1
-	}
-	tribesmen={
-		culture="moesi"
-		religion="shamanism"
-		amount=6
-	}
 	holy_site=omen_derzelas
 	port_building=1
 }
@@ -802,20 +769,8 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="bosporan"
-		amount=2
-	}
-	freemen={
-		culture="bosporan"
-		amount=2
-	}
 	freemen={
 		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=3
 	}
 }
 
@@ -832,10 +787,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=2
 	}
 	holy_site=omen_thrax
 }
@@ -914,15 +865,6 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="getian"
-		amount=2
-	}
-	tribesmen={
-		culture="getian"
-		religion="shamanism"
-		amount=6
-	}
 	port_building=1
 }
 
@@ -939,15 +881,6 @@
 	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		culture="getian"
-		amount=1
-	}
-	tribesmen={
-		culture="getian"
-		religion="shamanism"
-		amount=3
 	}
 }
 
@@ -1057,32 +990,18 @@
 	freemen={
 		amount=3
 	}
-	freemen={
-		culture="getian"
-		amount=1
-	}
-	slaves={
-		culture="getian"
-		amount=2
-	}
-	tribesmen={
-		culture="getian"
-		religion="shamanism"
-		amount=5
-	}
 	port_building=1
 }
 
 4514={ #Kios Skythike
 	terrain="marsh"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="honey"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		religion="shamanism"
 		amount=4
 	}
 }
@@ -1098,10 +1017,6 @@
 	freemen={
 		amount=1
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=3
-	}
 }
 
 4516={ #Orgame
@@ -1112,20 +1027,8 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
-	citizen={
-		culture="bosporan"
-		amount=1
-	}
-	freemen={
-		culture="bosporan"
-		amount=2
-	}
 	freemen={
 		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
-		amount=2
 	}
 }
 
@@ -1141,10 +1044,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -1188,10 +1087,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		religion="shamanism"
-		amount=1
-	}
 	port_building=1
 }
 
@@ -1204,7 +1099,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		religion="shamanism"
 		amount=4
 	}
 }

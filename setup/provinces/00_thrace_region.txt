@@ -367,10 +367,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="moesi"
-		amount=1
-	}
 }
 
 481={ #Anchialos

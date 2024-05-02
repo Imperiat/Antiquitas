@@ -42,10 +42,6 @@
 	tribesmen={
 		amount="3"
 	}
-	slaves={
-		culture="volcae"
-		amount="1"
-	}
 }
 2254={ # Tarusco
 	terrain="plains"
@@ -94,10 +90,6 @@
 	slaves={
 		amount="1"
 	}
-	slaves={
-		culture="indiketian"
-		amount="1"
-	}
 	tribesmen={
 		amount="5"
 	}
@@ -116,10 +108,6 @@
 	}
 	freemen={
 		amount="2"
-	}
-	slaves={
-		culture="volcae"
-		amount="1"
 	}
 	tribesmen={
 		amount="3"
@@ -171,20 +159,6 @@
 	}
 	freemen={
 		amount="4"
-	}
-	slaves={
-		culture="ligurian"
-		amount="1"
-	}
-	tribesmen={
-		culture="volcae"
-		religion="druidism"
-		amount="1"
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount="2"
 	}
 }
 2261={ # Luteva
@@ -303,10 +277,6 @@
 	tribesmen={
 		amount="3"
 	}
-	slaves={
-		culture="volcae"
-		amount="1"
-	}
 }
 2280={ # Marinavas
 	terrain="plains"
@@ -376,10 +346,6 @@
 	tribesmen={
 		amount="2"
 	}
-	slaves={
-		culture="arverni"
-		amount="1"
-	}
 }
 2295={ # Ad Silanum
 	terrain="forest"
@@ -443,10 +409,6 @@
 	tribesmen={
 		amount="3"
 	}
-	slaves={
-		culture="volcae"
-		amount="1"
-	}
 }
 2301={ # Lugdunum
 	terrain="plains"
@@ -476,10 +438,6 @@
 	}
 	slaves={
 		amount="4"
-	}
-	slaves={
-		culture="arverni"
-		amount="1"
 	}
 	tribesmen={
 		amount="3"
@@ -547,10 +505,6 @@
 	tribesmen={
 		amount="3"
 	}
-	slaves={
-		culture="salluvian"
-		amount="1"
-	}
 }
 2307={ # Morginnum
 	terrain="plains"
@@ -583,10 +537,6 @@
 	}
 	tribesmen={
 		amount="3"
-	}
-	slaves={
-		culture="allobrogian"
-		amount="1"
 	}
 }
 2309={ # Batiana
@@ -691,10 +641,6 @@
 	freemen={
 		amount="4"
 	}
-	slaves={
-		culture="salluvian"
-		amount="1"
-	}
 	tribesmen={
 		amount="4"
 	}
@@ -729,10 +675,6 @@
 		amount="2"
 	}
 	slaves={
-		amount="1"
-	}
-	slaves={
-		culture="volcae"
 		amount="1"
 	}
 	tribesmen={
@@ -785,10 +727,6 @@
 	}
 	tribesmen={
 		amount="3"
-	}
-	slaves={
-		culture="volcae"
-		amount="1"
 	}
 	port_building=1
 }
@@ -897,21 +835,6 @@
 	slaves={
 		amount="1"
 	}
-	slaves={
-		culture="salluvian"
-		religion="druidism"
-		amount="2"
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount="3"
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount="1"
-	}
 	port_building=1
 }
 2339={ # Uxellodunum
@@ -987,16 +910,6 @@
 	}
 	slaves={
 		amount="2"
-	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount="2"
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount="1"
 	}
 	port_building=1
 }
@@ -1251,10 +1164,6 @@
 	tribesmen={
 		amount="2"
 	}
-	tribesmen={
-		culture="ligurian"
-		amount="2"
-	}
 }
 3531={ # Cularo
 	terrain="mountain"
@@ -1266,10 +1175,6 @@
 	province_rank="settlement"
 	freemen={
 		amount="2"
-	}
-	slaves={
-		culture="salluvian"
-		amount="1"
 	}
 	tribesmen={
 		amount="5"
@@ -1325,10 +1230,6 @@
 	freemen={
 		amount="1"
 	}
-	slaves={
-		culture="lepontic"
-		amount="1"
-	}
 }
 3536={ # Eburodunum
 	terrain="mountain"
@@ -1342,14 +1243,6 @@
 		amount="2"
 	}
 	freemen={
-		culture="ligurian"
-		amount="1"
-	}
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		culture="ligurian"
 		amount="2"
 	}
 }
@@ -1367,15 +1260,7 @@
 	freemen={
 		amount="1"
 	}
-	freemen={
-		culture="ligurian"
-		amount="1"
-	}
 	tribesmen={
-		amount="2"
-	}
-	tribesmen={
-		culture="ligurian"
 		amount="2"
 	}
 }
@@ -1399,11 +1284,6 @@
 	tribesmen={
 		amount="2"
 	}
-	tribesmen={
-		culture="salluvian"
-		religion="druidism"
-		amount="2"
-	}
 }
 3542={ # Matavo
 	terrain="forest"
@@ -1422,11 +1302,6 @@
 	tribesmen={
 		amount="2"
 	}
-	tribesmen={
-		culture="ligurian"
-		religion="roman_pantheon"
-		amount="3"
-	}
 }
 3543={ # Antipolis
 	terrain="plains"
@@ -1441,15 +1316,6 @@
 	}
 	freemen={
 		amount="4"
-	}
-	slaves={
-		culture="salluvian"
-		amount="1"
-	}
-	tribesmen={
-		culture="ligurian"
-		religion="druidism"
-		amount="3"
 	}
 	port_building=1
 }

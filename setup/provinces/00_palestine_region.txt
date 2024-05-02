@@ -28,10 +28,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		religion="arabian_pantheon"
-		amount=1
-	}
 }
 
 658={ #Rhaphia
@@ -49,10 +45,6 @@
 		amount=1
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		religion="arabian_pantheon"
 		amount=1
 	}
 }
@@ -385,16 +377,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="aramaic"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="aramaic"
-		amount=1
 	}
 	holy_site=omen_elijah
 }
@@ -718,10 +702,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		religion="arabian_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -742,11 +722,6 @@
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		culture="philistine"
-		religion="arabian_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -788,10 +763,6 @@
 		amount=2
 	}
 	tribesmen={
-		religion="arabian_pantheon"
-		amount=1
-	}
-	tribesmen={
 		amount=1
 	}
 }
@@ -804,11 +775,6 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -826,10 +792,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		religion="carthaginian_pantheon"
 		amount=1
 	}
 	slaves={
@@ -884,10 +846,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="judaism"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -907,11 +865,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	tribesmen={
-		culture="egyptian"
-		religion="egyptian_pantheon"
 		amount=1
 	}
 	tribesmen={
@@ -1059,11 +1012,6 @@
 	tribesmen={
 		amount=1
 	}
-	tribesmen={
-		culture="nabatean"
-		religion="arabian_pantheon"
-		amount=1
-	}
 }
 
 711={ #Metzada
@@ -1140,10 +1088,6 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="aramaic"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
@@ -1183,10 +1127,6 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="aramaic"
 		amount=1
 	}
 	slaves={
@@ -1263,10 +1203,6 @@
 		amount=2
 	}
 	slaves={
-		culture="aramaic"
-		amount=1
-	}
-	slaves={
 		amount=2
 	}
 	tribesmen={
@@ -1285,16 +1221,8 @@
 	citizen={
 		amount=1
 	}
-	freemen={
-		culture="hebrew"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="hebrew"
-		amount=1
 	}
 }
 
@@ -1328,17 +1256,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="aramaic"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	slaves={
-		culture="aramaic"
-		religion="carthaginian_pantheon"
-		amount=1
 	}
 	slaves={
 		amount=3
@@ -1450,10 +1369,6 @@
 		amount=3
 	}
 	freemen={
-		culture="hebrew"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -1472,14 +1387,6 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="hebrew"
-		amount=1
-	}
-	freemen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
 	freemen={
 		amount=1
 	}
@@ -1494,24 +1401,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=2
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
 		amount=1
 	}
 }
@@ -1557,31 +1449,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	citizen={
 		amount=5
-	}
-	citizen={
-		culture="hebrew"
-		amount=1
 	}
 	freemen={
 		amount=2
 	}
 	slaves={
 		amount=5
-	}
-	slaves={
-		culture="hebrew"
-		religion="judaism"
-		amount=1
-	}
-	slaves={
-		culture="hebrew"
-		amount=1
 	}
 }
 
@@ -1595,14 +1469,6 @@
 	province_rank="settlement"
 	citizen={
 		amount=2
-	}
-	citizen={
-		religion="carthaginian_pantheon"
-		amount=1
-	}
-	freemen={
-		culture="aramaic"
-		amount=1
 	}
 	slaves={
 		amount=1

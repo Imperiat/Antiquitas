@@ -7,22 +7,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="zhongyuan"
-		amount=1
-	}
-	citizen={
 		amount=2
 	}
 	freemen={
 		amount=1
-	}
-	freemen={
-		culture="zhongyuan"
-		amount=2
-	}
-	slaves={
-		culture="zhongyuan"
-		amount=2
 	}
 	slaves={
 		amount=1
@@ -104,25 +92,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="zhongyuan"
-		amount=3
-	}
-	citizen={
 		amount=3
 	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="zhongyuan"
-		amount=3
-	}
-	nobles={
-		amount=1
-	}
-	slaves={
-		culture="zhongyuan"
-		amount=1
 	}
 	slaves={
 		amount=2
@@ -185,18 +158,10 @@
 		amount=5
 	}
 	freemen={
-		culture="xu"
-		amount=2
-	}
-	freemen={
 		amount=2
 	}
 	nobles={
 		amount=1
-	}
-	slaves={
-		culture="xu"
-		amount=2
 	}
 	slaves={
 		amount=1
@@ -212,14 +177,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
-	}
-	citizen={
-		culture="xu"
-		amount=2
-	}
-	freemen={
-		culture="xu"
 		amount=2
 	}
 	freemen={
@@ -304,15 +261,7 @@
 	citizen={
 		amount=1
 	}
-	citizen={
-		culture="chu"
-		amount=1
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="chu"
 		amount=1
 	}
 	slaves={
@@ -329,21 +278,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		culture="zhongyuan"
-		amount=1
-	}
-	citizen={
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="zhongyuan"
-		amount=1
-	}
-	slaves={
-		culture="zhongyuan"
 		amount=1
 	}
 	slaves={
@@ -491,39 +428,8 @@
 	citizen={
 		amount=5
 	}
-	citizen={
-		culture="wuyue"
-		amount=2
-	}
-	citizen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
 	freemen={
 		amount=4
-	}
-	freemen={
-		culture="wuyue"
-		amount=2
-	}
-	freemen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
-	nobles={
-		culture="wuyue"
-		religion="baiyue_religions"
-		amount=2
-	}
-	slaves={
-		amount=2
-	}
-	slaves={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=1
 	}
 }
 
@@ -538,26 +444,8 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="wuyue"
-		amount=2
-	}
-	citizen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
-	nobles={
-		culture="wuyue"
-		amount=1
 	}
 	slaves={
 		amount=3
@@ -578,19 +466,11 @@
 	freemen={
 		amount=5
 	}
-	freemen={
-		culture="wuyue"
-		amount=3
-	}
 	nobles={
 		amount=1
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="wuyue"
-		amount=3
 	}
 }
 
@@ -668,10 +548,6 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="chu"
-		amount=6
-	}
 	freemen={
 		amount=3
 	}
@@ -691,23 +567,11 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="chu"
-		amount=1
-	}
-	freemen={
-		culture="chu"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="chu"
-		amount=1
 	}
 }
 
@@ -720,14 +584,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	citizen={
-		culture="chu"
-		amount=1
-	}
-	freemen={
-		culture="chu"
 		amount=1
 	}
 	freemen={
@@ -755,11 +611,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=1
-	}
 }
 
 8544={ #Licheng
@@ -779,11 +630,6 @@
 	slaves={
 		amount=1
 	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
 }
 
 8545={ #Siwu
@@ -802,11 +648,6 @@
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
 	}
 }
 
@@ -936,10 +777,6 @@
 		amount=2
 	}
 	freemen={
-		culture="wuyue"
-		amount=1
-	}
-	freemen={
 		amount=1
 	}
 	slaves={
@@ -958,42 +795,14 @@
 	citizen={
 		amount=7
 	}
-	citizen={
-		culture="chu"
-		amount=4
-	}
-	citizen={
-		culture="wuyue"
-		amount=4
-	}
 	freemen={
 		amount=6
 	}
-	freemen={
-		culture="chu"
-		amount=4
-	}
-	freemen={
-		culture="wuyue"
-		amount=3
-	}
 	nobles={
 		amount=2
 	}
-	nobles={
-		culture="chu"
-		amount=1
-	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="chu"
-		amount=2
-	}
-	slaves={
-		culture="wuyue"
-		amount=1
 	}
 }
 
@@ -1006,18 +815,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	citizen={
-		culture="xu"
-		amount=1
-	}
-	freemen={
-		culture="wuyue"
-		amount=2
-	}
-	freemen={
-		culture="xu"
 		amount=1
 	}
 	freemen={
@@ -1039,36 +836,14 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
-	citizen={
-		culture="chu"
-		amount=2
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
-	freemen={
-		culture="chu"
-		amount=1
 	}
 	nobles={
 		amount=1
 	}
 	slaves={
 		amount=3
-	}
-	slaves={
-		culture="chu"
-		amount=1
 	}
 }
 
@@ -1089,16 +864,6 @@
 	nobles={
 		amount=1
 	}
-	slaves={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=3
-	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=4
-	}
 }
 
 8557={ #Yan
@@ -1115,16 +880,6 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=3
-	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=5
-	}
 }
 
 8558={ #Dongyang
@@ -1138,20 +893,8 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="chu"
-		amount=2
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="chu"
-		amount=2
-	}
-	nobles={
-		culture="chu"
-		amount=1
 	}
 	slaves={
 		amount=3
@@ -1169,16 +912,8 @@
 	citizen={
 		amount=3
 	}
-	citizen={
-		culture="chu"
-		amount=1
-	}
 	freemen={
 		amount=2
-	}
-	freemen={
-		culture="chu"
-		amount=1
 	}
 	slaves={
 		amount=3
@@ -1196,27 +931,11 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="chu"
-		amount=1
-	}
-	citizen={
-		culture="wuyue"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
-	freemen={
-		culture="wuyue"
-		amount=1
-	}
 	slaves={
 		amount=2
-	}
-	slaves={
-		culture="wuyue"
-		amount=1
 	}
 }
 
@@ -1235,15 +954,6 @@
 		amount=1
 	}
 	slaves={
-		amount=3
-	}
-	slaves={
-		culture="wuyue"
-		amount=1
-	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
 		amount=3
 	}
 }
@@ -1284,10 +994,6 @@
 	slaves={
 		amount=3
 	}
-	slaves={
-		culture="wuyue"
-		amount=2
-	}
 }
 
 9647={ #Huailing
@@ -1307,10 +1013,6 @@
 	tribesmen={
 		amount=2
 	}
-	slaves={
-		culture="wuyue"
-		amount=3
-	}
 }
 
 9648={ #Fuling
@@ -1321,19 +1023,11 @@
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		culture="wuyue"
-		amount=1
-	}
 	freemen={
 		amount=2
 	}
 	tribesmen={
 		amount=3
-	}
-	freemen={
-		culture="wuyue"
-		amount=1
 	}
 }
 
@@ -1349,16 +1043,6 @@
 		amount=1
 	}
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		culture="huaiyi"
-		religion="baiyue_religions"
-		amount=2
-	}
-	slaves={
-		culture="huaiyi"
-		religion="baiyue_religions"
 		amount=2
 	}
 }

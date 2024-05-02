@@ -69,17 +69,8 @@
 	freemen={
 		amount=1
 	}
-	slaves={
-		culture="margian"
-		religion="zoroaster"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -663,10 +654,6 @@
 	freemen={
 		amount=2
 	}
-	slaves={
-		religion="vaksh_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
 	}
@@ -1222,21 +1209,11 @@
 	citizen={
 		amount=2
 	}
-	freemen={
-		culture="macedonian"
-		religion="roman_pantheon"
-		amount=1
-	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		culture="kharesmian"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 }
 
@@ -1273,19 +1250,11 @@
 	freemen={
 		amount=1
 	}
-	freemen={
-		culture="sogdian"
-		amount=1
-	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
 		amount=4
-	}
-	tribesmen={
-		culture="sogdian"
-		amount=1
 	}
 	holy_site=omen_vish
 }
@@ -1304,18 +1273,8 @@
 	slaves={
 		amount=1
 	}
-	slaves={
-		culture="kharesmian"
-		religion="indo_iranian_religion"
-		amount=1
-	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		culture="kharesmian"
-		religion="indo_iranian_religion"
-		amount=1
 	}
 }
 
@@ -1597,10 +1556,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="zoroaster"
-		amount=1
 	}
 }
 
@@ -2196,10 +2151,6 @@
 	tribesmen={
 		amount=2
 	}
-	tribesmen={
-		amount=1
-		religion="vaksh_religion"
-	}
 }
 
 11502={ #Nar Gyz
@@ -2225,10 +2176,6 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=3
-	}
-	tribesmen={
-		religion="vaksh_religion"
-		amount=1
 	}
 }
 
@@ -2256,10 +2203,6 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		religion="vaksh_religion"
-		amount=2
-	}
 	slaves={
 		amount=2
 	}
@@ -2279,28 +2222,11 @@
 	citizen={
 		amount=2
 	}
-	citizen={
-		culture="pasargadi"
-		religion="zoroaster"
-		amount=1
-	}
 	freemen={
 		amount=4
 	}
-	freemen={
-		culture="sogdian"
-		amount=1
-	}
 	slaves={
 		amount=4
-	}
-	slaves={
-		culture="sakan"
-		amount=1
-	}
-	tribesmen={
-		religion="vaksh_religion"
-		amount=3
 	}
 }
 

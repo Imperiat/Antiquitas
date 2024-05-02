@@ -383,11 +383,6 @@
 	freemen={
 		amount=4
 	}
-	slaves={
-		culture="kunming"
-		religion="bon_religion"
-		amount=2
-	}
 	tribesmen={
 		amount=3
 	}
@@ -612,30 +607,14 @@
 	nobles={
 		amount=1
 	}
-	citizen={
-		amount=1
-		religion="confucian"
-	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		amount=1
-		religion="taoism"
-	}
-	slaves={
 		amount=1
 	}
 	slaves={
 		amount=1
-		religion="bon_religion"
 	}
 	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		amount=1
-		religion="bon_religion"
 	}
 }
 
@@ -666,15 +645,7 @@
 	nobles={
 		amount=3
 	}
-	slaves={
-		culture="bo"
-		amount=3
-	}
 	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		culture="bo"
 		amount=2
 	}
 	freemen={
