@@ -1,4 +1,4 @@
-﻿3301={ # Sabratha
+3301={ # Sabratha
 	terrain="plains"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
@@ -215,7 +215,7 @@
 3333={ # Euphranta
 	terrain="desert"
 	culture="garamantic"
-	religion="berber_religion"
+	religion="carthaginian_pantheon"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -236,7 +236,7 @@
 3334={ # Iscina
 	terrain="desert"
 	culture="garamantic"
-	religion="berber_religion"
+	religion="carthaginian_pantheon"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -474,7 +474,7 @@
 3348={ # Chersis
 	terrain="plains"
 	culture="cyrenaican"
-	religion="greek_pantheon"
+	religion="berber_religion"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -510,7 +510,7 @@
 3350={ # Euesperides
 	terrain="plains"
 	culture="cyrenaican"
-	religion="greek_pantheon"
+	religion="berber_religion"
 	trade_goods="silphium"
 	civilization_value=21
 	barbarian_power=0
@@ -543,7 +543,7 @@
 3352={ # Hadrianopolis
 	terrain="plains"
 	culture="cyrenaican"
-	religion="greek_pantheon"
+	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=26
 	barbarian_power=0
@@ -562,7 +562,7 @@
 3353={ # Taucheira
 	terrain="plains"
 	culture="cyrenaican"
-	religion="greek_pantheon"
+	religion="berber_religion"
 	trade_goods="cloth"
 	civilization_value=26
 	barbarian_power=0
@@ -580,7 +580,7 @@
 3354={ # Ptolemais
 	terrain="plains"
 	culture="cyrenaican"
-	religion="greek_pantheon"
+	religion="berber_religion"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -765,7 +765,7 @@
 3366={ # Paliouros
 	terrain="dry_plains"
 	culture="cyrenaican"
-	religion="berber_religion"
+	religion="greek_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0

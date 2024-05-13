@@ -1,4 +1,4 @@
-﻿1510={ # Shno
+1510={ # Shno
 	terrain="mountain"
 	culture="median"
 	religion="mithra_religion"
@@ -439,8 +439,8 @@
 }
 1594={ # Kangavar
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="mithra_religion"
 	trade_goods="horses"
 	civilization_value=29
 	barbarian_power=0
@@ -476,7 +476,7 @@
 }
 1596={ # Deh Bozan
 	terrain="hills"
-	culture="macedonian"
+	culture="median"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=29
@@ -560,8 +560,8 @@
 }
 1601={ # Nikaia Nialia
 	terrain="mountain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="mithra_religion"
 	trade_goods="leather"
 	civilization_value=27
 	barbarian_power=0
@@ -1413,8 +1413,8 @@
 }
 4976={ # Paraetecene
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="mithra_religion"
 	trade_goods="precious_metals"
 	civilization_value=29
 	barbarian_power=0
@@ -1704,8 +1704,8 @@
 }
 4993={ # Apameia
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="median"
+	religion="mithra_religion"
 	trade_goods="earthware"
 	civilization_value=36
 	barbarian_power=0

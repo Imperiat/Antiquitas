@@ -1,4 +1,4 @@
-﻿263={ #Naxos
+263={ # Naxos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -7,21 +7,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	forum_building=1
 	road_building=1
 	shrine_building=1
 }
-
-277={ #Skyros
+277={ # Skyros
 	terrain="hills"
 	culture="attican"
 	religion="greek_pantheon"
@@ -30,14 +29,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-344={ #Praisos
+344={ # Praesos
 	terrain="hills"
 	culture="eteocretan"
 	religion="greek_pantheon"
@@ -46,17 +44,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-351={ #Rhithymna
+351={ # Rhithymna
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -65,14 +62,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-355={ #Ierapytna
+355={ # Hierapytna
 	terrain="hills"
 	culture="eteocretan"
 	religion="greek_pantheon"
@@ -81,18 +77,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_diktean_zeus
+	holy_site="omen_diktean_zeus"
 }
-
-358={ #Knossos
+358={ # Knossos
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -101,21 +96,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_ariadne
+	holy_site="omen_ariadne"
 	port_building=1
 	road_building=1
 	agriculture_building=1
 }
-
-359={ #Chersonesos Kriti
+359={ # Chersonesos Kriti
 	terrain="hills"
 	culture="eteocretan"
 	religion="greek_pantheon"
@@ -124,17 +118,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-361={ #Gortyna
+361={ # Gortyna
 	terrain="forest"
 	culture="doric"
 	religion="greek_pantheon"
@@ -143,19 +136,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-367={ #Kydonia
+367={ # Kydonia
 	terrain="plains"
 	culture="doric"
 	religion="greek_pantheon"
@@ -164,17 +156,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-368={ #Polyrrhenia
+368={ # Polyrrenia
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -183,17 +174,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-370={ #Tarrha
+370={ # Tarrha
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -202,15 +192,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_karmanor
+	holy_site="omen_karmanor"
 }
-
-372={ #Korion
+372={ # Korion
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -219,17 +208,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-375={ #Arkesine
+375={ # Amorgos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -238,14 +226,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-387={ #Ios
+387={ # Ios
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -254,11 +241,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-399={ #Lamia
+399={ # Lamia
 	terrain="plains"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -267,14 +253,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-401={ #Hypate
+401={ # Hypate
 	terrain="mountain"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -283,14 +268,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-402={ #Opous
+402={ # Opous
 	terrain="hills"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -299,15 +283,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	shrine_building=1
 }
-
-403={ #Histiaia
+403={ # Oreus
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -316,17 +299,16 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	forum_building=1
 	shrine_building=1
 }
-
-406={ #Anthedon
+406={ # Anthedon
 	terrain="hills"
 	culture="boeotian"
 	religion="greek_pantheon"
@@ -334,17 +316,15 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 }
-
-407={ #Chalkis
+407={ # Chalcis
 	terrain="plains"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -353,16 +333,16 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	forum_building=1
@@ -370,8 +350,7 @@
 	shrine_building=1
 	production_building=1
 }
-
-409={ #Karystos
+409={ # Karystos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -380,19 +359,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-410={ #Oichalia Euboike
+410={ # Oichalia Euboias
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -401,14 +379,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-413={ #Oropos
+413={ # Oropos
 	terrain="marsh"
 	culture="attican"
 	religion="greek_pantheon"
@@ -417,14 +394,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-416={ #Athenai
+416={ # Athens
 	terrain="farmland"
 	culture="attican"
 	religion="greek_pantheon"
@@ -433,21 +409,21 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_athena
+	holy_site="omen_athena"
 	port_building=1
 	forum_building=1
 	commerce_building=1
@@ -457,8 +433,7 @@
 	production_building=1
 	military_harbor_building=1
 }
-
-417={ #Megara
+417={ # Megara
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -467,27 +442,26 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 	road_building=1
 	shrine_building=1
 	production_building=1
 }
-
-418={ #Korinthos
+418={ # Korinthos
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -496,19 +470,19 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	port_building=1
 	forum_building=1
@@ -518,8 +492,7 @@
 	production_building=1
 	military_harbor_building=1
 }
-
-419={ #Ephyra
+419={ # Gitana
 	terrain="hills"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -528,14 +501,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-421={ #Phoinike
+421={ # Phoinike
 	terrain="hills"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -544,17 +516,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-423={ #Orchomenos
+423={ # Orchomenos
 	terrain="hills"
 	culture="boeotian"
 	religion="greek_pantheon"
@@ -563,21 +534,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	forum_building=1
 	road_building=1
 	shrine_building=1
 	agriculture_building=1
 }
-
-424={ #Delphoi
+424={ # Delphi
 	terrain="mountain"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -586,25 +556,24 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_apollo
+	holy_site="omen_apollo"
 	port_building=1
 	commerce_building=1
 	shrine_building=1
 	agriculture_building=1
 }
-
-425={ #Dodona
+425={ # Dodona
 	terrain="mountain"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -613,19 +582,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	shrine_building=2
 	commerce_building=1
 }
-
-426={ #Thebai
+426={ # Thebes
 	terrain="farmland"
 	culture="boeotian"
 	religion="greek_pantheon"
@@ -634,21 +602,21 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_dionysus
+	holy_site="omen_dionysus"
 	forum_building=1
 	commerce_building=1
 	road_building=1
@@ -656,8 +624,7 @@
 	recreation_building=1
 	production_building=1
 }
-
-427={ #Sparta
+427={ # Sparta
 	terrain="farmland"
 	culture="doric"
 	religion="greek_pantheon"
@@ -666,25 +633,24 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-429={ #Epidauros Limira
+429={ # Epidauros Limera
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -693,17 +659,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-430={ #Gytheion
+430={ # Gytheion
 	terrain="farmland"
 	culture="doric"
 	religion="greek_pantheon"
@@ -712,17 +677,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-431={ #Messene
+431={ # Messene
 	terrain="farmland"
 	culture="elean"
 	religion="greek_pantheon"
@@ -731,19 +695,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	port_building=1
 	road_building=1
 }
-
-432={ #Mothone
+432={ # Mothone
 	terrain="hills"
 	culture="elean"
 	religion="greek_pantheon"
@@ -753,17 +716,16 @@
 	province_rank="settlement"
 	citizen={
 		culture="doric"
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-433={ #Lepreon
+433={ # Lepreon
 	terrain="hills"
 	culture="elean"
 	religion="greek_pantheon"
@@ -772,17 +734,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-434={ #Patrai
+434={ # Patrai
 	terrain="hills"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -791,19 +752,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	shrine_building=1
 }
-
-435={ #Heraia
+435={ # Heraia
 	terrain="farmland"
 	culture="arcadian"
 	religion="greek_pantheon"
@@ -812,14 +772,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-436={ #Lykosoura
+436={ # Lykosoura
 	terrain="farmland"
 	culture="arcadian"
 	religion="greek_pantheon"
@@ -828,17 +787,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-437={ #Seriphos
+437={ # Seriphos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -847,14 +805,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-438={ #Mantineia
+438={ # Mantinea
 	terrain="mountain"
 	culture="arcadian"
 	religion="greek_pantheon"
@@ -863,14 +820,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-439={ #Olympia
+439={ # Olympia
 	terrain="forest"
 	culture="elean"
 	religion="greek_pantheon"
@@ -879,18 +835,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_zeus
+	holy_site="omen_zeus"
 }
-
-440={ #Argos
+440={ # Argos
 	terrain="plains"
 	culture="doric"
 	religion="greek_pantheon"
@@ -899,29 +854,28 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
-	holy_site=omen_hera
+	holy_site="omen_hera"
 	port_building=1
 	forum_building=1
 	road_building=1
 	shrine_building=1
 	production_building=1
 }
-
-441={ #Epidauros
+441={ # Epidauros
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -930,22 +884,21 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
-	holy_site=omen_asclepius
+	holy_site="omen_asclepius"
 	port_building=1
 	road_building=1
 	shrine_building=1
 	healthcare_building=2
 }
-
-442={ #Aigina
+442={ # Aigina
 	terrain="plains"
 	culture="doric"
 	religion="greek_pantheon"
@@ -954,23 +907,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	slaves={
 		culture="attican"
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	forum_building=1
@@ -979,8 +932,7 @@
 	shrine_building=1
 	production_building=1
 }
-
-443={ #Kythnos
+443={ # Kythnos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -989,14 +941,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-444={ #Aigion
+444={ # Aigion
 	terrain="hills"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -1005,19 +956,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-446={ #Elis
+446={ # Elis
 	terrain="farmland"
 	culture="elean"
 	religion="greek_pantheon"
@@ -1026,21 +976,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 }
-
-447={ #Syros
+447={ # Syros
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1049,14 +998,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-448={ #Stymphalos
+448={ # Stymphalia
 	terrain="mountain"
 	culture="arcadian"
 	religion="greek_pantheon"
@@ -1065,17 +1013,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-449={ #Kleitor
+449={ # Kleitor
 	terrain="mountain"
 	culture="arcadian"
 	religion="greek_pantheon"
@@ -1084,14 +1031,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-450={ #Kyphanta
+450={ # Kyphanta
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1100,19 +1046,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	shrine_building=1
 }
-
-451={ #Troizen
+451={ # Troizen
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1121,17 +1066,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-452={ #Tenos
+452={ # Tenos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1140,14 +1084,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-454={ #Thera
+454={ # Thera
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1156,17 +1099,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-456={ #Thermos
+456={ # Thermon
 	terrain="mountain"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1175,17 +1117,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-457={ #Naupaktos
+457={ # Naupaktos
 	terrain="hills"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1194,20 +1135,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 	shrine_building=1
 }
-
-458={ #Amphissa
+458={ # Chaleion
 	terrain="hills"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1216,18 +1156,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	shrine_building=1
 }
-
-459={ #Leukas
+459={ # Leukas
 	terrain="hills"
 	culture="kerkyran"
 	religion="greek_pantheon"
@@ -1236,14 +1175,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-460={ #Zakynthos
+460={ # Zakynthos
 	terrain="farmland"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -1252,14 +1190,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-461={ #Kranioi
+461={ # Kefalonia
 	terrain="hills"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -1268,17 +1205,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-462={ #Stratos
+462={ # Stratos
 	terrain="plains"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1287,14 +1223,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-463={ #Thyrrheion
+463={ # Thyrrheion
 	terrain="farmland"
 	culture="kerkyran"
 	religion="greek_pantheon"
@@ -1304,25 +1239,24 @@
 	province_rank="city"
 	freemen={
 		culture="doric"
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
 		culture="doric"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	fortress_building=1
 	port_building=1
 	road_building=1
 	shrine_building=1
 }
-
-464={ #Aktion
+464={ # Aktion
 	terrain="hills"
 	culture="kerkyran"
 	religion="greek_pantheon"
@@ -1332,22 +1266,21 @@
 	province_rank="settlement"
 	freemen={
 		culture="doric"
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
 		culture="doric"
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	shrine_building=1
 }
-
-465={ #Ambrakia
+465={ # Ambrakia
 	terrain="farmland"
 	culture="kerkyran"
 	religion="greek_pantheon"
@@ -1356,23 +1289,22 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 	production_building=1
 }
-
-466={ #Oichalia Aitolia
+466={ # Oichalia Aitolias
 	terrain="mountain"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1381,33 +1313,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-467={ #Orikon
+467={ # Orikos
 	terrain="hills"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-468={ #Thespiai
+468={ # Thespiai
 	terrain="hills"
 	culture="boeotian"
 	religion="greek_pantheon"
@@ -1416,19 +1346,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-469={ #Thaumakoi
+469={ # Thaumakoi
 	terrain="plains"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1437,14 +1366,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-470={ #Korkyra
+470={ # Korkyra
 	terrain="plains"
 	culture="kerkyran"
 	religion="greek_pantheon"
@@ -1453,19 +1381,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-471={ #Kythera
+471={ # Kythera
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1474,14 +1401,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-472={ #Karthaia
+472={ # Kea
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1490,19 +1416,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1f
 }
-
-473={ #Leuktra
+473={ # Leuktron
 	terrain="mountain"
 	culture="elean"
 	religion="greek_pantheon"
@@ -1512,17 +1437,16 @@
 	province_rank="settlement"
 	citizen={
 		culture="doric"
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-474={ #Hekatompedon
+474={ # Omphalion
 	terrain="mountain"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -1531,13 +1455,12 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
 475={ # Doris
 	terrain="hills"
 	culture="north_western_doric"
@@ -1547,17 +1470,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-476={ #Passaron
+476={ # Passaron
 	terrain="mountain"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -1566,14 +1488,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-1835={ #Delos
+1835={ # Delos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1582,23 +1503,22 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_poseidon
+	holy_site="omen_poseidon"
 	port_building=1
 	forum_building=1
 	road_building=1
 	shrine_building=1
 	production_building=1
 }
-
-1903={ #Andros
+1903={ # Andros
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1607,19 +1527,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-1915={ #Paros
+1915={ # Paros
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1628,18 +1547,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1964={ #Melos
+1964={ # Milos
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1648,35 +1566,33 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 	road_building=1
 }
-
-3192={ #Byllis
+3192={ # Byllis
 	terrain="forest"
 	culture="taulantian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="olive"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-7798={ #Elateia
+7798={ # Elateia
 	terrain="hills"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1685,18 +1601,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	shrine_building=1
 }
-
-7799={ #Thorikos
+7799={ # Thorikos
 	terrain="plains"
 	culture="attican"
 	religion="greek_pantheon"
@@ -1705,15 +1620,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	road_building=1
 }
-
-7802={ #Tanagra
+7802={ # Tanagra
 	terrain="plains"
 	culture="boeotian"
 	religion="greek_pantheon"
@@ -1722,17 +1636,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7803={ #Oiniadai
+7803={ # Oiniadai
 	terrain="farmland"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1741,14 +1654,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7889={ #Tainaron
+7889={ # Tainaron
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1757,14 +1669,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7890={ #Dyme
+7890={ # Dyme
 	terrain="hills"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -1773,19 +1684,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-7891={ #Thyreai
+7891={ # Tegea
 	terrain="hills"
 	culture="arcadian"
 	religion="greek_pantheon"
@@ -1794,14 +1704,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7892={ #Thyrea
+7892={ # Thyreai
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1810,17 +1719,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-7893={ #Pellene
+7893={ # Pellene
 	terrain="hills"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -1829,17 +1737,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7894={ #Kleonai
+7894={ # Kleonai
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1848,17 +1755,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-7896={ #Nikaia Lokre
+7896={ # Nikaia Lokron
 	terrain="mountain"
 	culture="north_western_doric"
 	religion="greek_pantheon"
@@ -1867,15 +1773,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	shrine_building=1
 }
-
-7897={ #Eleusis
+7897={ # Eleusis
 	terrain="plains"
 	culture="attican"
 	religion="greek_pantheon"
@@ -1884,19 +1789,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_demeter
+	holy_site="omen_demeter"
 	shrine_building=1
 }
-
-7898={ #Rhamnous
+7898={ # Rhamnous
 	terrain="hills"
 	culture="attican"
 	religion="greek_pantheon"
@@ -1905,15 +1809,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	road_building=1
 }
-
-7899={ #Kerinthos
+7899={ # Kerinthos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1922,15 +1825,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 }
-
-7901={ #Eretria
+7901={ # Eretria
 	terrain="plains"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1939,22 +1841,21 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	road_building=1
 }
-
-7902={ #Salamis
+7902={ # Salamis
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1963,14 +1864,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7903={ #Hermione
+7903={ # Hermione
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -1979,17 +1879,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_hestia
+	holy_site="omen_hestia"
 	port_building=1
 	road_building=1
 }
-
-7904={ #Styra
+7904={ # Styra
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1998,14 +1897,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7905={ #Siphnos
+7905={ # Siphnos
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -2014,14 +1912,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-8003={ #Sikyon
+8003={ # Sikyon
 	terrain="plains"
 	culture="doric"
 	religion="greek_pantheon"
@@ -2030,21 +1927,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 	forum_building=1
 	road_building=1
 	shrine_building=1
 }
-
-8016={ #Lappa
+8016={ # Lappa
 	terrain="hills"
 	culture="doric"
 	religion="greek_pantheon"
@@ -2053,14 +1949,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-8018={ #Priansos
+8018={ # Priansos
 	terrain="plains"
 	culture="doric"
 	religion="greek_pantheon"
@@ -2069,12 +1964,12 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }

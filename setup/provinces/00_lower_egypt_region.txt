@@ -1,4 +1,4 @@
-﻿445={ # Dyme
+445={ # Dyme
 	terrain="desert"
 	culture="egyptian"
 	religion="berber_religion"
@@ -87,7 +87,7 @@
 502={ # Heroopolis
 	terrain="desert"
 	culture="egyptian"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="cloth"
 	civilization_value=28
 	barbarian_power=0
@@ -142,7 +142,7 @@
 505={ # Klysma
 	terrain="desert"
 	culture="egyptian"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="cloth"
 	civilization_value=33
 	barbarian_power=0
@@ -161,7 +161,7 @@
 506={ # Cleopatris
 	terrain="desert"
 	culture="egyptian"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=28
 	barbarian_power=0
@@ -703,7 +703,7 @@
 535={ # Ostrakine
 	terrain="desert"
 	culture="egyptian"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=28
 	barbarian_power=0
@@ -981,7 +981,7 @@
 655={ # Serapieion
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="cattle"
 	civilization_value=28
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 656={ # Rinokoloura
 	terrain="desert"
 	culture="philistine"
-	religion="carthaginian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="salt"
 	civilization_value=33
 	barbarian_power=0
@@ -1020,7 +1020,7 @@
 701={ # Maghara
 	terrain="desert"
 	culture="philistine"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=28
 	barbarian_power=0
@@ -1198,7 +1198,7 @@
 5532={ # Kom Namrud
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=28
 	barbarian_power=0
@@ -1213,7 +1213,7 @@
 5533={ # Berku
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="camel"
 	civilization_value=28
 	barbarian_power=0
@@ -1228,7 +1228,7 @@
 5534={ # Varam
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="base_metals"
 	civilization_value=28
 	barbarian_power=0
@@ -1240,7 +1240,7 @@
 5535={ # Colira
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=28
 	barbarian_power=0
@@ -1306,7 +1306,7 @@
 5546={ # Pseneros
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=28
 	barbarian_power=0
@@ -1318,7 +1318,7 @@
 5547={ # Philoteris
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="grain"
 	civilization_value=31
 	barbarian_power=0
@@ -1333,7 +1333,7 @@
 5548={ # Kerkethoris
 	terrain="desert"
 	culture="middle_egyptian"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=28
 	barbarian_power=0
@@ -1363,7 +1363,7 @@
 7668={ # Bilbeis
 	terrain="flood_plain"
 	culture="egyptian"
-	religion="egyptian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0

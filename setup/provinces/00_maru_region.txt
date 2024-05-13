@@ -1,4 +1,4 @@
-﻿4350={ #Mulasthanapura
+4350={ # Mulasthanapura
 	terrain="farmland"
 	culture="sivi"
 	religion="hindu"
@@ -7,21 +7,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=6
+		amount="6"
 	}
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
-	holy_site=omen_samba
+	holy_site="omen_samba"
 }
-
-4352={ #Roruka
+4352={ # Roruka
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -30,21 +29,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	tribesmen={
-		amount=22
+		amount="22"
 	}
 	port_building=1
 }
-
-4353={ #Brahmanaka
+4353={ # Brahmanaka
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -53,23 +51,22 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	tribesmen={
-		amount=21
+		amount="21"
 	}
 }
-
-4354={ #Min
+4354={ # Min
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -78,20 +75,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=9
+		amount="9"
 	}
 }
-
-4355={ #Sindhumana
+4355={ # Sindhumana
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -100,23 +96,22 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=13
+		amount="13"
 	}
 	tribesmen={
-		amount=18
+		amount="18"
 	}
 }
-
-4356={ #Kahu-Jo-Darro
+4356={ # Kahu-Jo-Darro
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -125,17 +120,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4357={ #Umarkot
+4357={ # Umarkot
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -144,14 +138,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4358={ #Singhi
+4358={ # Singhi
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -160,14 +153,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4359={ #Samarabriai
+4359={ # Samarabriai
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -176,17 +168,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-4360={ #Sarophages
+4360={ # Sarophages
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -195,17 +186,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4361={ #Megaroi
+4361={ # Megaroi
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -214,20 +204,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-4362={ #Azaika
+4362={ # Azaika
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -236,17 +225,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4363={ #Sembrakenoi
+4363={ # Sembrakenoi
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -255,20 +243,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4364={ #Oumbrai
+4364={ # Oumbrai
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -277,17 +264,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4365={ #Nereai
+4365={ # Nereai
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -296,17 +282,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4366={ #Kokondai
+4366={ # Kokondai
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -315,17 +300,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-4368={ #Avanta
+4368={ # Avanta
 	terrain="hills"
 	culture="sindhi"
 	religion="hindu"
@@ -334,14 +318,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4369={ #Gandava
+4369={ # Gandava
 	terrain="mountain"
 	culture="sindhi"
 	religion="hindu"
@@ -350,14 +333,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4371={ #Deogarh
+4371={ # Deogarh
 	terrain="plains"
 	culture="macedonian"
 	religion="roman_pantheon"
@@ -366,15 +348,14 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=6
+		amount="6"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-4372={ #Vijnot
+4372={ # Vijnot
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -383,17 +364,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4373={ #Siberai
+4373={ # Siberai
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -402,14 +382,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-4374={ #Mousikanoi
+4374={ # Mousikanoi
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -418,17 +397,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4375={ #Mesai
+4375={ # Mesai
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -437,17 +415,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4376={ #Pardabathra
+4376={ # Pardabathra
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -456,17 +433,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-4377={ #Bisambritai
+4377={ # Bisambritai
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -475,14 +451,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4385={ #Shivai
+4385={ # Shivai
 	terrain="plains"
 	culture="sivi"
 	religion="jainism"
@@ -491,17 +466,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4386={ #Jadamapura
+4386={ # Jadamapura
 	terrain="desert"
 	culture="sivi"
 	religion="ajivika"
@@ -510,14 +484,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4487={ #Nadvala
+4487={ # Nadvala
 	terrain="desert"
 	culture="avanti"
 	religion="hindu"
@@ -526,20 +499,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4488={ #Asangai
+4488={ # Asangai
 	terrain="desert"
 	culture="avanti"
 	religion="hindu"
@@ -548,14 +520,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4489={ #Anandpura
+4489={ # Anandpura
 	terrain="forest"
 	culture="kaccha"
 	religion="hindu"
@@ -564,17 +535,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4491={ #Samlaji
+4491={ # Samlaji
 	terrain="hills"
 	culture="avanti"
 	religion="jainism"
@@ -583,17 +553,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4494={ #Candanaputraka
+4494={ # Candanaputraka
 	terrain="plains"
 	culture="kaccha"
 	religion="hindu"
@@ -602,17 +571,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4495={ #Agathapura
+4495={ # Agathapura
 	terrain="hills"
 	culture="avanti"
 	religion="hindu"
@@ -621,17 +589,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4496={ #Machhindrapur
+4496={ # Machhindrapur
 	terrain="hills"
 	culture="avanti"
 	religion="hindu"
@@ -640,14 +607,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6526={ #Pagala
+6526={ # Pagala
 	terrain="desert"
 	culture="sindhi"
 	religion="zoroaster"
@@ -656,18 +622,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-6527={ #Suacala
+6527={ # Morontobara
 	terrain="desert"
 	culture="sindhi"
 	religion="zoroaster"
@@ -676,17 +641,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6531={ #Cocala
+6531={ # Cocala
 	terrain="hills"
 	culture="sindhi"
 	religion="zoroaster"
@@ -695,17 +659,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6532={ #Arbis
+6532={ # Arbis
 	terrain="hills"
 	culture="sindhi"
 	religion="zoroaster"
@@ -714,17 +677,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6536={ #Arbiti
+6536={ # Arbiti
 	terrain="hills"
 	culture="sindhi"
 	religion="zoroaster"
@@ -733,17 +695,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6813={ #Dvaraka
+6813={ # Dvaraka
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -752,22 +713,21 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_krishna
+	holy_site="omen_krishna"
 	port_building=1
 }
-
-6814={ #Automula
+6814={ # Automula
 	terrain="forest"
 	culture="saurashtran"
 	religion="jainism"
@@ -776,37 +736,37 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6815={ #Thatta
+6815={ # Patala
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
-	port_building=1
+	tribesmen={
+		amount="9"
+	}
 }
-
-6816={ #Prabhasa
+6816={ # Prabhasa
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -815,22 +775,21 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=8
+		amount="8"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_soma
+	holy_site="omen_soma"
 	port_building=1
 }
-
-6817={ #Sana
+6817={ # Sana
 	terrain="plains"
 	culture="saurashtran"
 	religion="jainism"
@@ -839,14 +798,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6818={ #Girinagara
+6818={ # Girinagara
 	terrain="hills"
 	culture="saurashtran"
 	religion="hindu"
@@ -855,15 +813,14 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_neminatha
+	holy_site="omen_neminatha"
 }
-
-6819={ #Ujjayanta
+6819={ # Ujjayanta
 	terrain="hills"
 	culture="saurashtran"
 	religion="hindu"
@@ -872,14 +829,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 }
-
-6820={ #Valabhi
+6820={ # Valabhi
 	terrain="forest"
 	culture="saurashtran"
 	religion="hindu"
@@ -888,34 +844,32 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6821={ #Debal
+6821={ # Alexandrou Limen
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="gems"
 	civilization_value=41
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-6822={ #Makli
+6822={ # Barbarikon
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -924,14 +878,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-6823={ #Monoglosson
+6823={ # Monoglosson
 	terrain="plains"
 	culture="saurashtran"
 	religion="jainism"
@@ -940,14 +893,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6824={ #Satrunavha
+6824={ # Astakapra
 	terrain="plains"
 	culture="saurashtran"
 	religion="jainism"
@@ -956,27 +908,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6825={ #Kanthi
+6825={ # Kanthi
 	terrain="marsh"
 	culture="saurashtran"
-	religion="roman_pantheon"
+	religion="hindu"
 	trade_goods="stone"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6826={ #Andhau
+6826={ # Andhau
 	terrain="marsh"
 	culture="kaccha"
 	religion="hindu"
@@ -985,17 +935,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6827={ #Khadro
+6827={ # Khadro
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -1004,17 +953,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6828={ #Kukurra
+6828={ # Kukurra
 	terrain="forest"
 	culture="saurashtran"
 	religion="hindu"
@@ -1023,20 +971,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6829={ #Anartta
+6829={ # Anartta
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1045,17 +992,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6830={ #Svabhra
+6830={ # Svabhra
 	terrain="farmland"
 	culture="saurashtran"
 	religion="charvaka"
@@ -1064,17 +1010,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6831={ #Hastakavapra
+6831={ # Satrunavha
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1083,19 +1028,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_rishabhanatha
+	holy_site="omen_rishabhanatha"
 	port_building=1
 }
-
-6832={ #Khambalida
+6832={ # Khambalida
 	terrain="forest"
 	culture="saurashtran"
 	religion="hindu"
@@ -1104,17 +1048,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6833={ #Baraca
+6833={ # Baraca
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1123,14 +1066,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6834={ #Kalavad
+6834={ # Kalavad
 	terrain="forest"
 	culture="saurashtran"
 	religion="hindu"
@@ -1139,17 +1081,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6835={ #Malia
+6835={ # Malia
 	terrain="marsh"
 	culture="kaccha"
 	religion="hindu"
@@ -1158,14 +1099,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6836={ #Dhanduka
+6836={ # Dhanduka
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1174,17 +1114,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6837={ #Vardhamane
+6837={ # Vardhamane
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1193,17 +1132,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6838={ #Jhala
+6838={ # Jhala
 	terrain="forest"
 	culture="saurashtran"
 	religion="hindu"
@@ -1212,17 +1150,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6839={ #Kuvada
+6839={ # Kuvada
 	terrain="forest"
 	culture="saurashtran"
 	religion="hindu"
@@ -1231,17 +1168,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6840={ #Maltecoria
+6840={ # Maltecoria
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1250,18 +1186,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=12
+		amount="12"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-6841={ #Bacchav
+6841={ # Bacchav
 	terrain="marsh"
 	culture="saurashtran"
 	religion="hindu"
@@ -1270,14 +1205,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6842={ #Kaccha
+6842={ # Kaccha
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1286,11 +1220,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6843={ #Abuyya
+6843={ # Abuyya
 	terrain="hills"
 	culture="avanti"
 	religion="hindu"
@@ -1299,17 +1232,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 }
-
-6844={ #Darangia
+6844={ # Darangia
 	terrain="desert"
 	culture="saurashtran"
 	religion="hindu"
@@ -1318,14 +1250,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6845={ #Bissai
+6845={ # Bissai
 	terrain="marsh"
 	culture="saurashtran"
 	religion="hindu"
@@ -1334,14 +1265,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6846={ #Horrai
+6846={ # Horrai
 	terrain="forest"
 	culture="saurashtran"
 	religion="charvaka"
@@ -1350,17 +1280,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6847={ #Rusia
+6847={ # Rusia
 	terrain="plains"
 	culture="saurashtran"
 	religion="hindu"
@@ -1369,14 +1298,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6848={ #Sangama
+6848={ # Sangama
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -1385,14 +1313,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-6849={ #Bibakta
+6849={ # Bibakta
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -1401,18 +1328,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=9
+		amount="9"
 	}
 	port_building=1
 }
-
-6850={ #Sura
+6850={ # Sura
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -1421,14 +1347,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6851={ #Daria
+6851={ # Daria
 	terrain="marsh"
 	culture="sindhi"
 	religion="hindu"
@@ -1437,14 +1362,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-6852={ #Samarabriva
+6852={ # Samarabriva
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -1453,17 +1377,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6853={ #Gallita
+6853={ # Gallita
 	terrain="marsh"
 	culture="kaccha"
 	religion="hindu"
@@ -1472,17 +1395,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6856={ #Vallai
+6856={ # Vallai
 	terrain="marsh"
 	culture="kaccha"
 	religion="jainism"
@@ -1491,11 +1413,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-6857={ #Detta
+6857={ # Detta
 	terrain="desert"
 	culture="kaccha"
 	religion="hindu"
@@ -1504,20 +1425,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-7220={ #Saraswata
+7220={ # Saraswata
 	terrain="desert"
 	culture="sindhi"
 	religion="hindu"
@@ -1526,14 +1446,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7310={ #Mandapura
+7310={ # Mandapura
 	terrain="desert"
 	culture="avanti"
 	religion="hindu"
@@ -1542,17 +1461,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7390={ #Suvarngiri
+7390={ # Suvarngiri
 	terrain="desert"
 	culture="avanti"
 	religion="hindu"
@@ -1561,17 +1479,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7412={ #Satyapura
+7412={ # Satyapura
 	terrain="desert"
 	culture="kaccha"
 	religion="hindu"
@@ -1580,14 +1497,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-7413={ #Bhinmal
+7413={ # Bhinmal
 	terrain="desert"
 	culture="kaccha"
 	religion="hindu"
@@ -1596,17 +1512,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7414={ #Patan
+7414={ # Patan
 	terrain="forest"
 	culture="kaccha"
 	religion="hindu"
@@ -1615,11 +1530,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7415={ #Mehsana
+7415={ # Mehsana
 	terrain="plains"
 	culture="kaccha"
 	religion="hindu"
@@ -1628,17 +1542,16 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=14
+		amount="14"
 	}
 }
-
-7416={ #Mohadavasaka
+7416={ # Mohadavasaka
 	terrain="hills"
 	culture="avanti"
 	religion="hindu"
@@ -1647,17 +1560,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-7417={ #Jagadamba
+7417={ # Jagadamba
 	terrain="hills"
 	culture="avanti"
 	religion="hindu"
@@ -1666,20 +1578,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7432={ #Rajsamand
+7432={ # Rajsamand
 	terrain="plains"
 	culture="avanti"
 	religion="hindu"
@@ -1688,17 +1599,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7658={ #Srimalla
+7658={ # Srimalla
 	terrain="hills"
 	culture="kaccha"
 	religion="jainism"
@@ -1707,17 +1617,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7660={ #Abad Sauvira
+7660={ # Abad Sauvira
 	terrain="plains"
 	culture="sindhi"
 	religion="hindu"
@@ -1726,16 +1635,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=9
+		amount="9"
 	}
 }
-

@@ -1,4 +1,4 @@
-﻿477={ #Serdica
+477={ # Serdica
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -7,20 +7,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4112={ #Navissos
+4112={ # Navissos
 	terrain="farmland"
 	culture="triballoi"
 	religion="shamanism"
@@ -29,17 +28,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4115={ #Remesiana
+4115={ # Remesiana
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -48,20 +46,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4116={ #Ballanstra
+4116={ # Ballanstra
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -70,77 +67,73 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4208={ #Taliata
+4208={ # Taliata
 	terrain="plains"
 	culture="celtic_pannonian"
-	religion="druidism"
+	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4209={ #Egeta
+4209={ # Egeta
 	terrain="plains"
 	culture="celtic_pannonian"
-	religion="druidism"
+	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4214={ #Clevora
+4214={ # Clevora
 	terrain="plains"
 	culture="celtic_pannonian"
-	religion="druidism"
+	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4215={ #Dortium
+4215={ # Dortium
 	terrain="farmland"
 	culture="triballoi"
 	religion="shamanism"
@@ -149,17 +142,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4216={ #Dunonia
+4216={ # Bononia Moesiaca
 	terrain="farmland"
 	culture="triballoi"
 	religion="shamanism"
@@ -168,17 +160,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4217={ #Ratiaria
+4217={ # Ratiaria
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -187,33 +178,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4218={ #Castra Martis
+4218={ # Castra Martis
 	terrain="plains"
 	culture="triballoi"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4219={ #Timacum
+4219={ # Timacum
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -222,17 +211,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4220={ #Combustica
+4220={ # Combustica
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -241,17 +229,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4221={ #Montana
+4221={ # Montana
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -260,14 +247,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4222={ #Turres
+4222={ # Turres
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -276,17 +262,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4223={ #Almus
+4223={ # Almus
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -295,20 +280,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4224={ #Cebrus
+4224={ # Cebrus
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -317,14 +301,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4225={ #Tautiomosis
+4225={ # Tautiomosis
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -333,17 +316,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4226={ #Vicus Siamus
+4226={ # Vicus Siamus
 	terrain="forest"
 	culture="triballoi"
 	religion="shamanism"
@@ -352,17 +334,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4227={ #Oescus
+4227={ # Oescus
 	terrain="forest"
 	culture="triballoi"
 	religion="shamanism"
@@ -371,17 +352,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4228={ #Trullensium
+4228={ # Trullensium
 	terrain="forest"
 	culture="triballoi"
 	religion="shamanism"
@@ -390,14 +370,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4229={ #Longinopara
+4229={ # Longinopara
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -406,17 +385,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4230={ #Scretisca
+4230={ # Scretisca
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -425,17 +403,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4231={ #Asamus
+4231={ # Asamus
 	terrain="forest"
 	culture="triballoi"
 	religion="shamanism"
@@ -444,14 +421,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4232={ #Ad Putea
+4232={ # AdPutea
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -460,11 +436,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4233={ #Storgosia
+4233={ # Storgosia
 	terrain="forest"
 	culture="triballoi"
 	religion="shamanism"
@@ -473,14 +448,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4234={ #Melta
+4234={ # Melta
 	terrain="plains"
 	culture="triballoi"
 	religion="shamanism"
@@ -489,20 +463,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4235={ #Sostra
+4235={ # Sostra
 	terrain="hills"
 	culture="odrysi"
 	religion="shamanism"
@@ -511,20 +484,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4236={ #Emporium Discoduraterae
+4236={ # Emporium Discoduraterae
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -533,11 +505,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4237={ #Nikopolis
+4237={ # Nikopolis
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -546,14 +517,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4238={ #Novae
+4238={ # Novae
 	terrain="forest"
 	culture="triballoi"
 	religion="shamanism"
@@ -562,17 +532,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4239={ #Trimammium
+4239={ # Trimammium
 	terrain="plains"
 	culture="moesi"
 	religion="shamanism"
@@ -581,17 +550,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4240={ #Prista
+4240={ # Prista
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -600,20 +568,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4241={ #Appiara
+4241={ # Appiara
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -622,20 +589,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4242={ #Transmarisca
+4242={ # Transmarisca
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -644,17 +610,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4243={ #Abritus
+4243={ # Abritus
 	terrain="plains"
 	culture="moesi"
 	religion="shamanism"
@@ -663,17 +628,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4244={ #Tylis
+4244={ # Tylis
 	terrain="plains"
 	culture="moesi"
 	religion="shamanism"
@@ -682,14 +646,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4245={ #Haemiana
+4245={ # Haemiana
 	terrain="hills"
 	culture="moesi"
 	religion="shamanism"
@@ -698,20 +661,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4246={ #Silistra
+4246={ # Silistra
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -720,78 +682,73 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4247={ #Erite
+4247={ # Erite
 	terrain="plains"
 	culture="moesi"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4248={ #Odessos
+4248={ # Odessus
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_derzelas
+	holy_site="omen_derzelas"
 	port_building=1
 }
-
-4249={ #Krounoi
+4249={ # Krounoi
 	terrain="plains"
 	culture="moesi"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-4250={ #Tirizis
+4250={ # Tirizis
 	terrain="plains"
 	culture="moesi"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_thrax
+	holy_site="omen_thrax"
 }
-
-4251={ #Parthenopolis
+4251={ # Parthenopolis
 	terrain="plains"
 	culture="moesi"
 	religion="shamanism"
@@ -800,17 +757,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4252={ #Helis
+4252={ # Helis
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -819,14 +775,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4253={ #Palmatis
+4253={ # Palmatis
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -835,56 +790,53 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4254={ #Kallatis
+4254={ # Callatis
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-4255={ #Tomis
+4255={ # Tomis
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="salt"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-4256={ #Tropaeum
+4256={ # Tropaeum
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -893,17 +845,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4257={ #Sacidava
+4257={ # Sacidava
 	terrain="forest"
 	culture="moesi"
 	religion="shamanism"
@@ -912,17 +863,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4258={ #Panisus
+4258={ # Panisus
 	terrain="hills"
 	culture="moesi"
 	religion="shamanism"
@@ -931,14 +881,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4259={ #Zikideba
+4259={ # Zikideba
 	terrain="plains"
 	culture="moesi"
 	religion="shamanism"
@@ -947,20 +896,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4512={ #Axiopolis
+4512={ # Axiopolis
 	terrain="forest"
 	culture="getian"
 	religion="shamanism"
@@ -969,31 +917,29 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4513={ #Istros
+4513={ # Histria
 	terrain="plains"
 	culture="bosporan"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-4514={ #Kios Skythike
+4514={ # Kios Skythike
 	terrain="marsh"
 	culture="getian"
 	religion="shamanism"
@@ -1002,104 +948,97 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-4515={ #Skenopsis
+4515={ # Skenopsis
 	terrain="forest"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-4516={ #Orgame
+4516={ # Argamum
 	terrain="forest"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="greek_pantheon"
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-4517={ #Libida
+4517={ # Libida
 	terrain="forest"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4518={ #Beroe Skythike
+4518={ # Beroe Skythike
 	terrain="marsh"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4519={ #Almyris
+4519={ # Halmyris
 	terrain="forest"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-4520={ #Troismos
+4520={ # Troesmis
 	terrain="marsh"
 	culture="getian"
-	religion="roman_pantheon"
+	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-

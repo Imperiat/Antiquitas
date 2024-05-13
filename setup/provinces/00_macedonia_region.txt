@@ -1,4 +1,4 @@
-﻿356={ #Thasos
+356={ # Thasos
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -7,64 +7,60 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-363={ #Neapolis Thrake
+363={ # Neapolis Thrake
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-364={ #Krenides
+364={ # Krenides
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="iron"
 	civilization_value=40
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-365={ #Amphipolis
+365={ # Amphipolis
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="precious_metals"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-366={ #Stageira
+366={ # Stageira
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -73,46 +69,43 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-369={ #Serrhai
+369={ # Sirra
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="wine"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-371={ #Berge
+371={ # Euporia
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="glass"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-373={ #Thermae
+373={ # Thermae
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -121,41 +114,39 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-374={ #Kalindoia
+374={ # Kalindoia
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-376={ #Poteidaia
+376={ # Poteidaia
 	terrain="plains"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -164,19 +155,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-377={ #Akanthos
+377={ # Akanthos
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -185,19 +175,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-378={ #Olynthos
+378={ # Olynthos
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -206,20 +195,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 	port_building=1
 }
-
-379={ #Pella
+379={ # Pella
 	terrain="farmland"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -228,14 +216,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-380={ #Dion
+380={ # Dion
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -244,16 +231,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-381={ #Beroia
+381={ # Beroia
 	terrain="plains"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -262,14 +248,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-382={ #Edessa
+382={ # Edessa
 	terrain="farmland"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -278,78 +263,73 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-383={ #Europos Almopias
+383={ # Europos
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="olive"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-384={ #Gortynia
+384={ # Gortynia
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="citrus"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-385={ #Tauriana
+385={ # Tauriana
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-386={ #Asseros
+386={ # Asseros
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-388={ #Gonnoi
+388={ # Gonnoi
 	terrain="hills"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -358,15 +338,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	fortress_building=1
 }
-
-389={ #Larisa
+389={ # Larissa
 	terrain="farmland"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -375,25 +354,24 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	road_building=1
 	shrine_building=1
 }
-
-390={ #Pherai
+390={ # Pherai
 	terrain="farmland"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -402,15 +380,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	fortress_building=1
 }
-
-391={ #Pagasai
+391={ # Pagasai
 	terrain="hills"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -419,20 +396,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-392={ #Meliboia
+392={ # Kasthaneia
 	terrain="hills"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -441,14 +417,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-393={ #Pelagonia
+393={ # Pelagonia
 	terrain="forest"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -457,14 +432,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-394={ #Pharsalos
+394={ # Pharsalos
 	terrain="farmland"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -473,17 +447,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-395={ #Trikke
+395={ # Pialeia
 	terrain="farmland"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -492,14 +465,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-396={ #Oichalia
+396={ # Pelinna
 	terrain="plains"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -508,35 +480,33 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-397={ #Stoboi
+397={ # Stobi
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
-	holy_site=omen_dualos
+	holy_site="omen_dualos"
 	road_building=1
 }
-
-398={ #Halos
+398={ # Nea Halos
 	terrain="marsh"
 	culture="achaean"
 	religion="greek_pantheon"
@@ -545,17 +515,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-400={ #Elimeia
+400={ # Elimia
 	terrain="farmland"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -564,14 +533,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-404={ #Oloosson
+404={ # Olooson
 	terrain="plains"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -580,17 +548,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-405={ #Stymbara
+405={ # Stuberra
 	terrain="forest"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -599,30 +566,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-408={ #Arnisa
+408={ # Arnisa
 	terrain="forest"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-411={ #Herakleia Lynkestis
+411={ # Herakleia Lynkestis
 	terrain="forest"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -631,62 +596,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-412={ #Lychnidos
+412={ # Lychidnos
 	terrain="mountain"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-414={ #Keirpara
+414={ # Keirpara
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-415={ #Epidamnos
+415={ # Epidamnos
 	terrain="farmland"
 	culture="italiotian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="salt"
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-420={ #Peparethos
+420={ # Peparethos
 	terrain="hills"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -695,27 +656,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-422={ #Apollonia Epidamnon
+422={ # Apollonia
 	terrain="farmland"
 	culture="italiotian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-428={ #Aigeai
+428={ # Aigeai
 	terrain="plains"
 	culture="macedonian"
 	religion="greek_pantheon"
@@ -724,56 +683,52 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-455={ #Dimallon
+455={ # Dimalion
 	terrain="farmland"
 	culture="taulantian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="olive"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-497={ #Sintia
+497={ # Sintia
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-498={ #Skaptopara
+498={ # Scaptopara
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-499={ #Spinopara
+499={ # Spinopara
 	terrain="farmland"
 	culture="triballoi"
 	religion="shamanism"
@@ -782,68 +737,63 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
-	holy_site=omen_zibelthiurdos
+	holy_site="omen_zibelthiurdos"
 }
-
-1445={ #Chrysondyon
+1445={ # Kodrion
 	terrain="mountain"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-2213={ #Albanopolis
+2213={ # Albanopolis
 	terrain="hills"
 	culture="taulantian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-2264={ #Parthos
+2264={ # Parthos
 	terrain="mountain"
 	culture="taulantian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-2336={ #Lissos
+2336={ # Lissos
 	terrain="farmland"
 	culture="taulantian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
-	holy_site=omen_redon
+	holy_site="omen_redon"
 }
-
-3125={ #Keletron
+3125={ # Keletron
 	terrain="mountain"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -852,14 +802,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-3175={ #Eratyra
+3175={ # Eratyra
 	terrain="hills"
 	culture="epirote"
 	religion="greek_pantheon"
@@ -868,47 +817,44 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-3356={ #Beue
+3356={ # Beoue
 	terrain="mountain"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4096={ #Skoupoi
+4096={ # Scupi
 	terrain="farmland"
 	culture="dardanian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
-	holy_site=omen_dracondracaena
+	holy_site="omen_dracondracaena"
 }
-
-4097={ #Helice
+4097={ # Helice
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -917,122 +863,113 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	fortress_building=1
 }
-
-4117={ #Pautalia
+4117={ # Pautalia
 	terrain="hills"
 	culture="dardanian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="base_metals"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-4152={ #Tranoupara
+4152={ # Tranupara
 	terrain="farmland"
 	culture="dardanian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="woad"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4153={ #Zapara
+4153={ # Zapara
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-4302={ #Doberos
+4302={ # Doberos
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=12
+		amount="12"
 	}
 }
-
-4303={ #Astraia
+4303={ # Astraia
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4304={ #Astibos
+4304={ # Astibos
 	terrain="farmland"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4305={ #Bylazora
+4305={ # Bylazora
 	terrain="hills"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-4306={ #Kiropolis
+4306={ # Keirpara
 	terrain="mountain"
 	culture="paeonian"
-	religion="greek_pantheon"
+	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-6399={ #Methone
+6399={ # Methone
 	terrain="plains"
 	culture="western_ionic"
 	religion="greek_pantheon"
@@ -1041,21 +978,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	road_building=1
 	shrine_building=1
 	port_building=1
 	forum_building=1
 }
-
-8023={ #Tempe Pass
+8023={ # TempePass
 	terrain="mountain"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -1064,8 +1000,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-8024={ #Boloustana Pass
+8024={ # BoloustanaPass
 	terrain="mountain"
 	culture="thessalian"
 	religion="greek_pantheon"
@@ -1074,8 +1009,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-8025={ #Petra Pass
+8025={ # PetraPass
 	terrain="mountain"
 	culture="thessalian"
 	religion="greek_pantheon"

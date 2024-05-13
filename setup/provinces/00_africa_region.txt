@@ -1,4 +1,4 @@
-﻿1470={ # Cossyra
+1470={ # Cossyra
 	terrain="plains"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
@@ -1013,7 +1013,7 @@
 3270={ # Bisica Lucana
 	terrain="forest"
 	culture="massylian"
-	religion="carthaginian_pantheon"
+	religion="berber_religion"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0

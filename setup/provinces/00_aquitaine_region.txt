@@ -1,4 +1,4 @@
-﻿1721={ # Fines
+1721={ # Fines
 	terrain="forest"
 	culture="arverni"
 	religion="druidism"
@@ -500,7 +500,7 @@
 2269={ # Divona
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0
@@ -518,7 +518,7 @@
 2270={ # Aginnum
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0
@@ -822,7 +822,7 @@
 2292={ # Pompegiaco
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -837,7 +837,7 @@
 2293={ # Excisum
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="wine"
 	civilization_value=11
 	barbarian_power=0
@@ -867,7 +867,7 @@
 2326={ # Decaniacum
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="wine"
 	civilization_value=11
 	barbarian_power=0
@@ -882,7 +882,7 @@
 2327={ # Acuciago
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="cloth"
 	civilization_value=11
 	barbarian_power=0
@@ -1008,7 +1008,7 @@
 2335={ # Marcelliago
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0
@@ -1038,7 +1038,7 @@
 2338={ # Eustriacum
 	terrain="plains"
 	culture="santonian"
-	religion="pre_indo_european_religion"
+	religion="animism"
 	trade_goods="wine"
 	civilization_value=11
 	barbarian_power=0

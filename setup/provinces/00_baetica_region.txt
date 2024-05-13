@@ -1,4 +1,4 @@
-﻿1276={ # Baria
+1276={ # Baria
 	terrain="plains"
 	culture="bastetanian"
 	religion="animism"
@@ -506,7 +506,7 @@
 1355={ # Hispalis
 	terrain="plains"
 	culture="turdetanian"
-	religion="carthaginian_pantheon"
+	religion="animism"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -548,7 +548,7 @@
 1358={ # Olontigi
 	terrain="farmland"
 	culture="turdetanian"
-	religion="carthaginian_pantheon"
+	religion="animism"
 	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0

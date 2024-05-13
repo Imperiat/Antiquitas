@@ -1,4 +1,4 @@
-﻿1079={ # Ad Vicensi
+1079={ # Ad Vicensi
 	terrain="plains"
 	culture="volcae"
 	religion="animism"
@@ -182,7 +182,7 @@
 2262={ # Segodunum
 	terrain="forest"
 	culture="volcae"
-	religion="druidism"
+	religion="animism"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -200,7 +200,7 @@
 2263={ # Albiga
 	terrain="forest"
 	culture="volcae"
-	religion="druidism"
+	religion="animism"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -251,7 +251,7 @@
 2267={ # Elusio
 	terrain="hills"
 	culture="volcae"
-	religion="druidism"
+	religion="animism"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -266,7 +266,7 @@
 2268={ # Carantomagus
 	terrain="forest"
 	culture="santonian"
-	religion="druidism"
+	religion="animism"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
@@ -281,7 +281,7 @@
 2280={ # Marinavas
 	terrain="plains"
 	culture="santonian"
-	religion="druidism"
+	religion="animism"
 	trade_goods="fur"
 	civilization_value=11
 	barbarian_power=0
@@ -383,7 +383,7 @@
 2297={ # Cebennia
 	terrain="forest"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -542,7 +542,7 @@
 2309={ # Batiana
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="fur"
 	civilization_value=11
 	barbarian_power=0
@@ -557,7 +557,7 @@
 2310={ # Cerebelliaca
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="fur"
 	civilization_value=11
 	barbarian_power=0
@@ -648,7 +648,7 @@
 2315={ # Briginnum
 	terrain="plains"
 	culture="volcae"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -663,7 +663,7 @@
 2316={ # Staturnae
 	terrain="hills"
 	culture="salluvian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -684,7 +684,7 @@
 2317={ # Ucetia
 	terrain="plains"
 	culture="salluvian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=11
 	barbarian_power=0
@@ -733,7 +733,7 @@
 2320={ # Arausio
 	terrain="farmland"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=13
 	barbarian_power=0
@@ -751,7 +751,7 @@
 2321={ # Avennio
 	terrain="farmland"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="cloth"
 	civilization_value=13
 	barbarian_power=0
@@ -767,7 +767,7 @@
 2322={ # Carpentorate
 	terrain="farmland"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=13
 	barbarian_power=0
@@ -800,7 +800,7 @@
 2324={ # Apta Iulia
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -937,7 +937,7 @@
 3519={ # Vasio
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="horses"
 	civilization_value=11
 	barbarian_power=0
@@ -1087,7 +1087,7 @@
 3527={ # Vologatae
 	terrain="farmland"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="hemp"
 	civilization_value=18
 	barbarian_power=0
@@ -1108,7 +1108,7 @@
 3528={ # Mons Seleucus
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="horses"
 	civilization_value=11
 	barbarian_power=0

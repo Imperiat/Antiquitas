@@ -1,7 +1,7 @@
-﻿3908={ # Viritium
+3908={ # Viritium
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="earthware"
 	civilization_value=3
 	barbarian_power=0
@@ -16,7 +16,7 @@
 4750={ # Rugia
 	terrain="forest"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="amber"
 	civilization_value=3
 	barbarian_power=0
@@ -29,7 +29,7 @@
 4751={ # Rhugium
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="vegetables"
 	civilization_value=5
 	barbarian_power=0
@@ -41,7 +41,7 @@
 4752={ # Viadrus
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="fish"
 	civilization_value=5
 	barbarian_power=0
@@ -54,7 +54,7 @@
 4753={ # Rhuticlia Helveconia
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="amber"
 	civilization_value=5
 	barbarian_power=0
@@ -69,7 +69,7 @@
 4754={ # Turcilingia
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
@@ -84,7 +84,7 @@
 4755={ # Sciria Rugia
 	terrain="forest"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="cattle"
 	civilization_value=3
 	barbarian_power=0
@@ -96,7 +96,7 @@
 4756={ # Eughum
 	terrain="forest"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="amber"
 	civilization_value=3
 	barbarian_power=0
@@ -108,7 +108,7 @@
 4757={ # Lemoviana
 	terrain="forest"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="hemp"
 	civilization_value=3
 	barbarian_power=0
@@ -120,7 +120,7 @@
 4758={ # Seurgium
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -132,7 +132,7 @@
 4759={ # Iadua
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="fur"
 	civilization_value=3
 	barbarian_power=0
@@ -144,7 +144,7 @@
 4760={ # Campia
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
@@ -156,7 +156,7 @@
 4761={ # Ascaucalis
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -168,7 +168,7 @@
 4762={ # Buguntia
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="horses"
 	civilization_value=3
 	barbarian_power=0
@@ -183,7 +183,7 @@
 4763={ # Helveconia
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="vegetables"
 	civilization_value=3
 	barbarian_power=0
@@ -195,7 +195,7 @@
 4764={ # Helveconiana
 	terrain="forest"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -210,7 +210,7 @@
 4765={ # Carinia
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
@@ -225,7 +225,7 @@
 4766={ # Cariniana
 	terrain="plains"
 	culture="gothonic"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="grain"
 	civilization_value=5
 	barbarian_power=0
@@ -237,7 +237,7 @@
 4767={ # Buguntiana
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="grain"
 	civilization_value=3
 	barbarian_power=0
@@ -249,7 +249,7 @@
 4768={ # Erbia
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -262,7 +262,7 @@
 4769={ # Manimia
 	terrain="plains"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
@@ -280,7 +280,7 @@
 4770={ # Vindua
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="cattle"
 	civilization_value=3
 	barbarian_power=0
@@ -295,7 +295,7 @@
 4773={ # Elysia
 	terrain="plains"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
@@ -307,7 +307,7 @@
 4774={ # Elysiana
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="fur"
 	civilization_value=3
 	barbarian_power=0
@@ -319,7 +319,7 @@
 4775={ # Setideva
 	terrain="plains"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
@@ -331,7 +331,7 @@
 4776={ # Naharvalorum
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -403,7 +403,7 @@
 6277={ # Duretica
 	terrain="forest"
 	culture="bastarnae"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -415,7 +415,7 @@
 6278={ # Mornal
 	terrain="plains"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -430,7 +430,7 @@
 6279={ # Vadina
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -442,7 +442,7 @@
 6280={ # Brigare
 	terrain="forest"
 	culture="vandal"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -568,7 +568,7 @@
 6289={ # Toll
 	terrain="plains"
 	culture="bastarnae"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -790,7 +790,7 @@
 7820={ # Ossioia
 	terrain="forest"
 	culture="bastarnae"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -802,7 +802,7 @@
 7821={ # Ossioia Orientalis
 	terrain="forest"
 	culture="bastarnae"
-	religion="germanic_religion"
+	religion="matrist_religion"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0

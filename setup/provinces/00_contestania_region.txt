@@ -1,4 +1,4 @@
-﻿1023={ # Mantua Carpetania
+1023={ # Mantua Carpetania
 	terrain="plains"
 	culture="carpetanian"
 	religion="druidism"
@@ -112,7 +112,7 @@
 1029={ # Saguntum
 	terrain="plains"
 	culture="edetanian"
-	religion="greek_pantheon"
+	religion="animism"
 	trade_goods="salt"
 	civilization_value=15
 	barbarian_power=0
@@ -168,7 +168,7 @@
 1032={ # Portus Sucronis
 	terrain="plains"
 	culture="massalian"
-	religion="greek_pantheon"
+	religion="animism"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -601,7 +601,7 @@
 1237={ # Edetania Centralis
 	terrain="plains"
 	culture="edetanian"
-	religion="animism"
+	religion="druidism"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0

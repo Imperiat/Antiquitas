@@ -1,4 +1,4 @@
-﻿1144={ # Skodra
+1144={ # Skodra
 	terrain="forest"
 	culture="taulantian"
 	religion="illyrian_pantheon"
@@ -999,7 +999,7 @@
 4084={ # Pharos
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 4085={ # Epidauros Illyrikos
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
@@ -1186,7 +1186,7 @@
 8026={ # Issa
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
@@ -1202,7 +1202,7 @@
 8027={ # Korkyra Melaina
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0

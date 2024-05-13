@@ -1,4 +1,4 @@
-﻿3653={ # Quadriburgium
+3653={ # Quadriburgium
 	terrain="hills"
 	culture="eravisci"
 	religion="druidism"
@@ -37,7 +37,7 @@
 4024={ # Emona
 	terrain="mountain"
 	culture="carnian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
@@ -94,7 +94,7 @@
 4027={ # Latobicorum
 	terrain="mountain"
 	culture="carnian"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=6
 	barbarian_power=0
@@ -115,7 +115,7 @@
 4028={ # Neviodunum
 	terrain="mountain"
 	culture="carnian"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
@@ -133,7 +133,7 @@
 4029={ # Celeia
 	terrain="mountain"
 	culture="carnian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=6
 	barbarian_power=0
@@ -151,7 +151,7 @@
 4030={ # Poetovio
 	terrain="hills"
 	culture="carnian"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -505,7 +505,7 @@
 		amount="3"
 	}
 }
-4146={ # MursellaPrima
+4146={ # Mursella Prima
 	terrain="forest"
 	culture="eravisci"
 	religion="druidism"
@@ -706,7 +706,7 @@
 4161={ # Intercisa
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -724,7 +724,7 @@
 4162={ # Alta Ripa
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
@@ -742,7 +742,7 @@
 4163={ # Tricciana
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
@@ -757,7 +757,7 @@
 4164={ # Alisca
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
@@ -794,7 +794,7 @@
 4166={ # Iovia
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
@@ -848,7 +848,7 @@
 4169={ # Lugio
 	terrain="plains"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=11
 	barbarian_power=0
@@ -866,7 +866,7 @@
 4170={ # Mursa
 	terrain="farmland"
 	culture="eravisci"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=13
 	barbarian_power=0
@@ -1181,7 +1181,7 @@
 4189={ # Sirmium
 	terrain="hills"
 	culture="celtic_pannonian"
-	religion="druidism"
+	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -1196,7 +1196,7 @@
 4190={ # Bassiana
 	terrain="farmland"
 	culture="celtic_pannonian"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=13
 	barbarian_power=0
@@ -1247,7 +1247,7 @@
 4193={ # Altina
 	terrain="plains"
 	culture="celtic_pannonian"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=11
 	barbarian_power=0
@@ -1262,7 +1262,7 @@
 4842={ # Acumincum
 	terrain="plains"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1274,7 +1274,7 @@
 4843={ # Onagrinum
 	terrain="plains"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1292,7 +1292,7 @@
 4844={ # Florentia
 	terrain="farmland"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1307,7 +1307,7 @@
 4845={ # Agria
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1322,7 +1322,7 @@
 4846={ # Tibiscua
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1340,7 +1340,7 @@
 4847={ # Partiskon
 	terrain="farmland"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=0
 	barbarian_power=0
@@ -1358,7 +1358,7 @@
 4848={ # Triticum
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -1379,7 +1379,7 @@
 4849={ # Iazygia
 	terrain="plains"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1397,7 +1397,7 @@
 4850={ # Iazygiana
 	terrain="farmland"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
@@ -1415,7 +1415,7 @@
 4852={ # Burgus Quadorum
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1427,7 +1427,7 @@
 4854={ # Anartiana
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0
@@ -1445,7 +1445,7 @@
 4855={ # Ocara
 	terrain="forest"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=0
 	barbarian_power=0
@@ -1568,7 +1568,7 @@
 4874={ # Astrum
 	terrain="plains"
 	culture="eravisci"
-	religion="druidism"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=0
 	barbarian_power=0

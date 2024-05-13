@@ -1,4 +1,4 @@
-﻿6={ # Capua
+6={ # Capua
 	terrain="farmland"
 	culture="roman"
 	religion="roman_pantheon"
@@ -272,7 +272,7 @@
 38={ # Sipontum
 	terrain="plains"
 	culture="italiotian"
-	religion="greek_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -1567,7 +1567,7 @@
 101={ # Camarina
 	terrain="farmland"
 	culture="syracusan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0

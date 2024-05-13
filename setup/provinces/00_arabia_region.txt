@@ -1,4 +1,4 @@
-﻿724={ #Haqla
+724={ # Ankale
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -7,14 +7,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-725={ #Maqna
+725={ # Makna
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -23,15 +22,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-726={ #Madiama
+726={ # Madiama
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -40,17 +38,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-944={ #Akkaz
+944={ # Akkaz
 	terrain="desert"
 	culture="gerrhan"
 	religion="zoroaster"
@@ -59,17 +56,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-3479={ #Abha
+3479={ # Abha
 	terrain="hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -78,17 +74,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-3480={ #Migayah
+3480={ # Migayah
 	terrain="hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -97,17 +92,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4600={ #Ostama
+4600={ # Ostama
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -116,14 +110,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4601={ #Baclanaza
+4601={ # Baclanaza
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -132,17 +125,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4602={ #Leuke Kome
+4602={ # Leuke Kome
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -151,17 +143,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4603={ #Modiana
+4603={ # Modiana
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -170,11 +161,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4604={ #Laba
+4604={ # Laba
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -183,20 +173,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4605={ #Soaka
+4605={ # Soaka
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -205,14 +194,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4606={ #Hippou Kome
+4606={ # Hippou Kome
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -221,14 +209,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4607={ #Badais
+4607={ # Badais
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -237,18 +224,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_orotalt
+	holy_site="omen_orotalt"
 }
-
-4608={ #Phoinikon Kome
+4608={ # Phoinikon Kome
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -257,17 +243,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4609={ #Egra
+4609={ # Egra
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -276,14 +261,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4610={ #Raunathou Kome
+4610={ # Raunathou Kome
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -292,18 +276,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-4611={ #Madiama Felix
+4611={ # Madiama Felix
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -312,17 +295,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4612={ #Relicta
+4612={ # Relicta
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -331,14 +313,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4613={ #Aybara
+4613={ # Aybara
 	terrain="desert_hills"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -347,14 +328,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4615={ #Dedan
+4615={ # Dedan
 	terrain="desert_hills"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -363,20 +343,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4616={ #Ausara
+4616={ # Ausara
 	terrain="desert_hills"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -385,77 +364,73 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4617={ #Mochoura
+4617={ # Mochoura
 	terrain="desert"
 	culture="hebrew"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="incense"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4618={ #Thumna
+4618={ # Thumna
 	terrain="desert"
 	culture="hebrew"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="fur"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4619={ #Apudia Vallis
+4619={ # Apudia Vallis
 	terrain="desert_hills"
 	culture="hebrew"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="camel"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-4620={ #Alaura
+4620={ # Alaura
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -464,17 +439,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4621={ #Harenae
+4621={ # Harenae
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -483,27 +457,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4622={ #Iuthra
+4622={ # Iuthra
 	terrain="desert_hills"
 	culture="hebrew"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4623={ #Iathrippa
+4623={ # Iathrippa
 	terrain="plains"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -512,11 +484,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4624={ #Aloure
+4624={ # Aloure
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -525,11 +496,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4625={ #Yanbu
+4625={ # Charamithas
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -538,14 +508,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4626={ #Arga
+4626={ # Arga
 	terrain="desert"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -554,12 +523,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-4627={ #Rayyis
+4627={ # Rayyis
 	terrain="desert"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -568,27 +536,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4628={ #Harbia
+4628={ # Harbia
 	terrain="desert_hills"
 	culture="thamudi"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4629={ #Rabigh
+4629={ # Rabigh
 	terrain="plains"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -597,21 +563,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_manat
+	holy_site="omen_manat"
 }
-
-4630={ #Baruka
+4630={ # Baruka
 	terrain="plains"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -620,14 +585,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4631={ #Thebai Arabikai
+4631={ # Thebai Arabikai
 	terrain="plains"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -636,15 +600,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-4632={ #Zaibram
+4632={ # Zaibram
 	terrain="desert"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -653,14 +616,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4633={ #Litha
+4633={ # Litha
 	terrain="desert"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -669,15 +631,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-4634={ #Ambe
+4634={ # Ambe
 	terrain="desert"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -686,14 +647,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4635={ #Raqeta
+4635={ # Raqeta
 	terrain="desert"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -702,18 +662,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-4636={ #Cama
+4636={ # Cama
 	terrain="dry_plains"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -722,20 +681,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4638={ #Marma
+4638={ # Marma
 	terrain="dry_plains"
 	culture="minaean"
 	religion="arabian_pantheon"
@@ -744,36 +702,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4653={ #Vaduma
+4653={ # Vaduma
 	terrain="desert_hills"
 	culture="thamudi"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="fur"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4669={ #Marna Vallis
+4669={ # Marna Vallis
 	terrain="hills"
 	culture="minaean"
 	religion="arabian_pantheon"
@@ -782,11 +738,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4713={ #Achroua
+4713={ # Achroua
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -795,14 +750,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4714={ #Hegra
+4714={ # Hegra
 	terrain="plains"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -811,20 +765,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4715={ #Demne
+4715={ # Demne
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -833,11 +786,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4716={ #Tiamat
+4716={ # Tiamat
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -846,20 +798,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4717={ #Gaiopolis
+4717={ # Gaiapolis
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -868,14 +819,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4718={ #Thapaua
+4718={ # Thapaua
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -884,52 +834,49 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4719={ #Coloera
+4719={ # Coloera
 	terrain="desert"
 	culture="hebrew"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="leather"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4720={ #Eroe
+4720={ # Eroe
 	terrain="desert"
 	culture="hebrew"
-	religion="judaism"
+	religion="arabian_pantheon"
 	trade_goods="camel"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-4721={ #Durnatha
+4721={ # Durnatha
 	terrain="oasis"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -938,20 +885,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5400={ #Mahzul
+5400={ # Mahzul
 	terrain="desert"
 	culture="babylonian"
 	religion="mesopotamian_religion"
@@ -960,11 +906,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5401={ #Hamatiyat
+5401={ # Hamatiyat
 	terrain="desert"
 	culture="babylonian"
 	religion="mesopotamian_religion"
@@ -973,11 +918,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5402={ #Kabrit
+5402={ # Kabrit
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -986,11 +930,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5403={ #Niqirah
+5403={ # Niqirah
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -999,11 +942,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5404={ #Mulayjah
+5404={ # Mulayjah
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1012,11 +954,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-5405={ #Thaj
+5405={ # Thaj
 	terrain="oasis"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1025,20 +966,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-5406={ #Urayarah
+5406={ # Urayarah
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1047,11 +987,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5407={ #Agarum
+5407={ # Agarum
 	terrain="oasis"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1060,18 +999,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_inzak
+	holy_site="omen_inzak"
 }
-
-5408={ #Efa
+5408={ # Efa
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1080,14 +1018,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5409={ #Largis
+5409={ # Largis
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1096,14 +1033,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5410={ #Utea
+5410={ # Utea
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1112,14 +1048,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5411={ #Ghirban
+5411={ # Ghirban
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1128,11 +1063,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5412={ #Suwaytiyah
+5412={ # Suwaytiyah
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1141,11 +1075,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5413={ #Liwa
+5413={ # Liwa
 	terrain="oasis"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1154,14 +1087,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-5414={ #Murkhan
+5414={ # Murkhan
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1170,11 +1102,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5415={ #Saruq
+5415={ # Saruq
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1183,17 +1114,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5416={ #Ecrune
+5416={ # Ecrune
 	terrain="hills"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1202,17 +1132,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5417={ #Ialla
+5417={ # Ialla
 	terrain="hills"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1221,14 +1150,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5418={ #Vatum
+5418={ # Vatum
 	terrain="hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1237,17 +1165,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5419={ #Mazir
+5419={ # Samad
 	terrain="plains"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1256,17 +1183,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-5420={ #Zirne
+5420={ # Zirne
 	terrain="plains"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1275,17 +1201,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5421={ #Acte
+5421={ # Acte
 	terrain="desert"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1294,11 +1219,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5429={ #Iepana
+5429={ # Iepana
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1307,17 +1231,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5430={ #Trazel
+5430={ # Trazel
 	terrain="plains"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1326,17 +1249,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7196={ #Adros
+7196={ # Adros
 	terrain="desert"
 	culture="gerrhan"
 	religion="elamite_pantheon"
@@ -1345,14 +1267,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7197={ #Itamos
+7197={ # Itamos
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1361,14 +1282,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7198={ #Istana
+7198={ # Istana
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1377,17 +1297,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-7199={ #Gerrha
+7199={ # Gerrha
 	terrain="oasis"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1396,21 +1315,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=12
+		amount="12"
 	}
 	freemen={
-		amount=9
+		amount="9"
 	}
 	slaves={
-		amount=9
+		amount="9"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-7200={ #Theppra
+7200={ # Theppra
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1419,11 +1337,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 }
-
-7201={ #Atta
+7201={ # Atta
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1432,17 +1349,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7202={ #Tylos
+7202={ # Tylos
 	terrain="plains"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1451,21 +1367,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-7203={ #Gylus
+7203={ # Gylus
 	terrain="plains"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1474,14 +1389,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-7204={ #Sarkoi
+7204={ # Sarkoi
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -1490,14 +1404,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7205={ #Labrys Omana
+7205={ # Labrys Omana
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1506,11 +1419,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7206={ #Attiaca
+7206={ # Attiaca
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1519,15 +1431,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-7207={ #Kanepsa
+7207={ # Kanepsa
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1536,14 +1447,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7208={ #Regna
+7208={ # Regna
 	terrain="hills"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1552,17 +1462,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7209={ #Omana
+7209={ # Omana
 	terrain="plains"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1571,21 +1480,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	port_building=1
 }
-
-7210={ #Heliou Limen
+7210={ # Heliou Limen
 	terrain="hills"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1594,17 +1502,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7211={ #Kalas
+7211={ # Kalas
 	terrain="desert"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -1613,18 +1520,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-7212={ #Kryptos Limen
+7212={ # Kryptos Limen
 	terrain="hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1633,15 +1539,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-7213={ #Dirma Omana
+7213={ # Dirma Omana
 	terrain="hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1650,17 +1555,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-7214={ #Artemidos
+7214={ # Artemidos
 	terrain="desert"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1669,17 +1573,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7215={ #Metas
+7215={ # Metas
 	terrain="hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1688,17 +1591,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7217={ #Ganta
+7217={ # Ganta
 	terrain="desert"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -1707,17 +1609,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7556={ #Arabia Deserta
+7556={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1726,8 +1627,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7557={ #Arabia Deserta
+7557={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1736,8 +1636,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7558={ #Arabia Deserta
+7558={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1746,8 +1645,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7559={ #Godala
+7559={ # Godala
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1756,14 +1654,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7560={ #Afarun
+7560={ # Afarun
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1772,17 +1669,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7561={ #Sakaka
+7561={ # Sakaka
 	terrain="oasis"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1791,14 +1687,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-7562={ #Arabia Deserta
+7562={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1807,8 +1702,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7563={ #Arabia Deserta
+7563={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1817,8 +1711,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7564={ #Arabia Deserta
+7564={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1827,8 +1720,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7565={ #Arabia Deserta
+7565={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1837,8 +1729,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7574={ #Kariya
+7574={ # Kariya
 	terrain="hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -1847,14 +1738,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7575={ #Makarabah
+7575={ # Makarabah
 	terrain="hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -1863,21 +1753,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_ailiah
+	holy_site="omen_ailiah"
 }
-
-7576={ #Ta'if
+7576={ # Ta'if
 	terrain="desert_hills"
 	culture="taif"
 	religion="arabian_pantheon"
@@ -1886,21 +1775,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_al_uzza
+	holy_site="omen_al_uzza"
 }
-
-7577={ #Attaba
+7577={ # Attaba
 	terrain="hills"
 	culture="taif"
 	religion="arabian_pantheon"
@@ -1909,14 +1797,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7578={ #Nemerah
+7578={ # Nemerah
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -1925,11 +1812,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7601={ #Barek
+7601={ # Barek
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -1938,11 +1824,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11197={ #Jubbah
+11197={ # Jubbah
 	terrain="oasis"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1951,20 +1836,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-11198={ #Baqaa
+11198={ # Baqaa
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1973,11 +1857,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11199={ #Shari
+11199={ # Shari
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1986,11 +1869,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11200={ #Asyah
+11200={ # Asyah
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -1999,11 +1881,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11201={ #Buraydah
+11201={ # Buraydah
 	terrain="oasis"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -2012,11 +1893,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11202={ #Hadri
+11202={ # Hadri
 	terrain="desert"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -2025,11 +1905,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11203={ #Zulfi
+11203={ # Zulfi
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2038,8 +1917,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-11204={ #Jalajil
+11204={ # Jalajil
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2048,8 +1926,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-11205={ #Huraymila
+11205={ # Huraymila
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2058,11 +1935,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11206={ #Hajir
+11206={ # Hajir
 	terrain="oasis"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2071,17 +1947,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-11207={ #Rufaya
+11207={ # Rufaya
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2090,11 +1965,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-11208={ #Dila
+11208={ # Dila
 	terrain="oasis"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2103,14 +1977,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-11209={ #Khadramah
+11209={ # Khadramah
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2119,11 +1992,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11210={ #Khafs Daghra
+11210={ # Khafs Daghra
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2132,11 +2004,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11211={ #Hulwah
+11211={ # Hulwah
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2145,11 +2016,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11212={ #Wusayilah
+11212={ # Wusayilah
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2158,11 +2028,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11213={ #Layla
+11213={ # Layla
 	terrain="oasis"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2171,14 +2040,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11214={ #Aflaj
+11214={ # Aflaj
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2187,11 +2055,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11215={ #Janobi
+11215={ # Janobi
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2200,11 +2067,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11216={ #Ijliya
+11216={ # Ijliya
 	terrain="desert"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2213,11 +2079,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11217={ #Sulayyil
+11217={ # Sulayyil
 	terrain="desert"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2226,11 +2091,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-11218={ #Dawasir
+11218={ # Dawasir
 	terrain="oasis"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2239,14 +2103,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-11219={ #Kahl
+11219={ # Kahl
 	terrain="oasis"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2255,20 +2118,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-11220={ #Jurash
+11220={ # Jurash
 	terrain="desert_hills"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2277,17 +2139,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11221={ #Kutnah
+11221={ # Kutnah
 	terrain="desert_hills"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2296,14 +2157,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11222={ #Qirah
+11222={ # Qirah
 	terrain="desert_hills"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2312,11 +2172,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11223={ #Hubuna
+11223={ # Hubuna
 	terrain="desert"
 	culture="minaean"
 	religion="arabian_pantheon"
@@ -2325,11 +2184,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11224={ #Tathleeth
+11224={ # Tathleeth
 	terrain="desert"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2338,11 +2196,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11225={ #Subaykhah
+11225={ # Subaykhah
 	terrain="desert_hills"
 	culture="kindite"
 	religion="arabian_pantheon"
@@ -2351,11 +2208,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11226={ #Qamra
+11226={ # Qamra
 	terrain="desert_hills"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -2364,14 +2220,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11227={ #Dharghat
+11227={ # Dharghat
 	terrain="desert_hills"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -2380,11 +2235,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11228={ #Mawqaq
+11228={ # Mawqaq
 	terrain="desert_hills"
 	culture="qedarite"
 	religion="arabian_pantheon"
@@ -2393,11 +2247,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11229={ #Tawdihiyah
+11229={ # Tawdihiyah
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2406,11 +2259,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11230={ #Haradh
+11230={ # Haradh
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2419,11 +2271,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11231={ #Hawiyah
+11231={ # Hawiyah
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2432,11 +2283,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11232={ #Yabrin
+11232={ # Yabrin
 	terrain="oasis"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2445,14 +2295,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11233={ #Sharqiyah
+11233={ # Sharqiyah
 	terrain="desert_hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -2461,11 +2310,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11247={ #Adam
+11247={ # Adam
 	terrain="desert_hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -2474,11 +2322,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11248={ #Bahla
+11248={ # Bahla
 	terrain="desert_hills"
 	culture="samad"
 	religion="arabian_pantheon"
@@ -2487,11 +2334,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11249={ #Dur
+11249={ # Dur
 	terrain="oasis"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -2500,21 +2346,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-11250={ #Rumailah
+11250={ # Rumailah
 	terrain="oasis"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -2523,20 +2368,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11251={ #Dhank
+11251={ # Dhank
 	terrain="desert_hills"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -2545,11 +2389,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11252={ #Ibri
+11252={ # Ibri
 	terrain="desert_hills"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -2558,11 +2401,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11253={ #Suwayq
+11253={ # Suwayq
 	terrain="plains"
 	culture="makan"
 	religion="arabian_pantheon"
@@ -2571,18 +2413,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	port_building=1
 }
-
-11254={ #Khor
+11254={ # Khor
 	terrain="plains"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2591,21 +2432,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-11255={ #Bishah
+11255={ # Bishah
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -2614,11 +2454,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11256={ #Gaabah
+11256={ # Gaabah
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -2627,11 +2466,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11257={ #Muzahmiya
+11257={ # Muzahmiya
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2640,14 +2478,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11258={ #Tibrak
+11258={ # Tibrak
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2656,8 +2493,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-11259={ #Labkhah
+11259={ # Labkhah
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2666,8 +2502,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-11260={ #Nakhlah
+11260={ # Nakhlah
 	terrain="desert"
 	culture="yamama"
 	religion="arabian_pantheon"
@@ -2676,11 +2511,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11262={ #Shayyit
+11262={ # Shayyit
 	terrain="desert"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2689,11 +2523,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11263={ #Ulya
+11263={ # Ulya
 	terrain="oasis"
 	culture="gerrhan"
 	religion="arabian_pantheon"
@@ -2702,14 +2535,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11264={ #Mahd al Thahab
+11264={ # Mahd al Thahab
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -2718,14 +2550,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-11265={ #Hegrieah
+11265={ # Hegrieah
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -2734,14 +2565,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11266={ #Badhan
+11266={ # Badhan
 	terrain="desert_hills"
 	culture="thamudi"
 	religion="arabian_pantheon"
@@ -2750,6 +2580,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }

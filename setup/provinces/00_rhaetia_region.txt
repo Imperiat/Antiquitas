@@ -1,4 +1,4 @@
-﻿3537={ # Maurienna
+3537={ # Maurienna
 	terrain="mountain"
 	culture="allobrogian"
 	religion="roman_pantheon"
@@ -230,7 +230,7 @@
 3618={ # Summus Lacus
 	terrain="mountain"
 	culture="lepontic"
-	religion="druidism"
+	religion="roman_pantheon"
 	trade_goods="fur"
 	civilization_value=7
 	barbarian_power=0
@@ -563,7 +563,7 @@
 3637={ # Vernania
 	terrain="hills"
 	culture="vindelician"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -581,7 +581,7 @@
 3638={ # Cambodunum
 	terrain="forest"
 	culture="vindelician"
-	religion="roman_pantheon"
+	religion="druidism"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0

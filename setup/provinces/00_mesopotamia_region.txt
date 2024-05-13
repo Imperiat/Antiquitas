@@ -1,4 +1,4 @@
-﻿824={ # Qatnu
+824={ # Qatnu
 	terrain="desert"
 	culture="assyrian"
 	religion="mesopotamian_religion"
@@ -271,8 +271,8 @@
 }
 896={ # Artemita
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="babylonian"
+	religion="mesopotamian_religion"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -509,8 +509,8 @@
 }
 911={ # Seleucia Magna
 	terrain="flood_plain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="babylonian"
+	religion="mesopotamian_religion"
 	trade_goods="papyrus"
 	civilization_value=52
 	barbarian_power=0
@@ -573,8 +573,8 @@
 }
 914={ # Opis
 	terrain="flood_plain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="babylonian"
+	religion="mesopotamian_religion"
 	trade_goods="elephants"
 	civilization_value=38
 	barbarian_power=0
@@ -790,8 +790,8 @@
 }
 927={ # Skaphe
 	terrain="flood_plain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="babylonian"
+	religion="mesopotamian_religion"
 	trade_goods="grain"
 	civilization_value=33
 	barbarian_power=0
@@ -884,8 +884,8 @@
 }
 933={ # Apamea ad Tigridem
 	terrain="flood_plain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="babylonian"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value=40
 	barbarian_power=0
@@ -1045,8 +1045,8 @@
 }
 942={ # Apologos
 	terrain="marsh"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="babylonian"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value=27
 	barbarian_power=0
@@ -1205,7 +1205,6 @@
 	freemen={
 		amount="1"
 	}
-
 	slaves={
 		amount="2"
 	}
@@ -1394,8 +1393,8 @@
 }
 981={ # Kelonai
 	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="assyrian"
+	religion="mesopotamian_religion"
 	trade_goods="leather"
 	civilization_value=34
 	barbarian_power=0
@@ -1446,7 +1445,7 @@
 		amount="3"
 	}
 }
-1603={ # Zagrou Pylai
+1603={ # ZagrouPylai
 	terrain="mountain"
 	culture="cossian"
 	religion="mesopotamian_religion"

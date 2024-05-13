@@ -1,4 +1,4 @@
-﻿9944={ # Tarfawi
+9944={ # Tarfawi
 	terrain="desert"
 	culture="nasamonian"
 	religion="berber_religion"
@@ -217,7 +217,7 @@
 9960={ # Jufrah
 	terrain="desert"
 	culture="macaean"
-	religion="egyptian_pantheon"
+	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0

@@ -1,24 +1,23 @@
-﻿156={ #Myra
+156={ # Myra
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-159={ #Choma
+159={ # Choma
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -27,14 +26,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-160={ #Arykanda
+160={ # Arykanda
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -43,58 +41,55 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-161={ #Limyra
+161={ # Limyra
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="dye"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-162={ #Olympos
+162={ # Olympos
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-164={ #Phaselis
+164={ # Phaselis
 	terrain="hills"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -103,15 +98,14 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-165={ #Olbia Pamphylias
+165={ # OlbiaPamphylias
 	terrain="plains"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -120,14 +114,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 }
-
-166={ #Perge
+166={ # Perge
 	terrain="plains"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -136,36 +129,34 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-167={ #Pednelissos
+167={ # Pednelissos
 	terrain="hills"
 	culture="pisidian"
-	religion="anatolian_religion"
+	religion="greek_pantheon"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-168={ #Aspendos
+168={ # Aspendos
 	terrain="plains"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -174,14 +165,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 }
-
-170={ #Termessos
+170={ # Termessos
 	terrain="mountain"
 	culture="pisidian"
 	religion="anatolian_religion"
@@ -190,20 +180,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-171={ #Isinda
+171={ # Isinda
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -212,20 +201,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-330={ #Karpaseia
+330={ # Karpasia
 	terrain="hills"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -234,17 +222,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-331={ #Salamis Kyprias
+331={ # Salamis Kyprias
 	terrain="plains"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -253,38 +240,36 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=9
+		amount="9"
 	}
 	port_building=1
 }
-
-332={ #Kition
+332={ # Kition
 	terrain="forest"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="cedar"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-333={ #Soloi Kypriai
+333={ # Soloi
 	terrain="hills"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -293,14 +278,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-334={ #Paphos
+334={ # Paphos
 	terrain="hills"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -309,19 +293,18 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
-	holy_site=omen_aphrodite
+	holy_site="omen_aphrodite"
 	port_building=1
 }
-
-335={ #Keryneia
+335={ # Kyrenia
 	terrain="hills"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -330,18 +313,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-336={ #Tamassos
+336={ # Tamassos
 	terrain="hills"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -350,72 +332,68 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-338={ #Amathous
+338={ # Amathous
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-795={ #Alexandreia Issos
+795={ # Myriandros
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="wood"
 	civilization_value=36
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-796={ #Issos
+796={ # Issus
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-1870={ #Amanian Gates
+1870={ # Amanian Gates
 	terrain="mountain"
 	culture="kennataian"
 	religion="anatolian_religion"
@@ -424,8 +402,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-1872={ #Pylai Kilikiai
+1872={ # Cilician Gates
 	terrain="mountain"
 	culture="kennataian"
 	religion="anatolian_religion"
@@ -434,14 +411,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1873={ #Erana
+1873={ # Erana
 	terrain="hills"
 	culture="kennataian"
 	religion="anatolian_religion"
@@ -450,74 +426,70 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1874={ #Oiniandos
+1874={ # Oiniandos
 	terrain="farmland"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-1875={ #Hierapolis Kastabala
+1875={ # Kastabala
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="honey"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-1877={ #Anazarbos
+1877={ # Anazarbos
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1878={ #Sipha
+1878={ # Sipha
 	terrain="hills"
 	culture="kennataian"
 	religion="anatolian_religion"
@@ -526,20 +498,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-1879={ #Aigaiai
+1879={ # Aigaiai
 	terrain="plains"
 	culture="cilician"
 	religion="greek_pantheon"
@@ -548,156 +519,148 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1880={ #Mopsou Hestia
+1880={ # Mopsouestia
 	terrain="farmland"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="wine"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1881={ #Mallos
+1881={ # Mallos
 	terrain="farmland"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="base_metals"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-1882={ #Adana
+1882={ # Adana
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="olive"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 }
-
-1883={ #Tarsos
+1883={ # Tarsus
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="base_metals"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1885={ #Selge
+1885={ # Selge
 	terrain="hills"
 	culture="pisidian"
-	religion="anatolian_religion"
+	religion="greek_pantheon"
 	trade_goods="incense"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1887={ #Soloi
+1887={ # Soloi
 	terrain="hills"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-1889={ #Magarsa
+1889={ # Magarsa
 	terrain="marsh"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="fish"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-1890={ #Holmoi
+1890={ # Holmoi
 	terrain="plains"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -706,14 +669,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-1892={ #Elaioussa
+1892={ # Elaioussa
 	terrain="hills"
 	culture="cilician"
 	religion="anatolian_religion"
@@ -722,18 +684,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1894={ #Olbe
+1894={ # Olbe
 	terrain="hills"
 	culture="cilician"
 	religion="anatolian_religion"
@@ -742,14 +703,13 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1896={ #Ninika
+1896={ # Ninika
 	terrain="hills"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -758,20 +718,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1897={ #Kelenderis
+1897={ # Kelenderis
 	terrain="hills"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -780,17 +739,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1901={ #Anemourion
+1901={ # Anemourion
 	terrain="hills"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -799,17 +757,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1904={ #Selinous Kilikias
+1904={ # Selinous Kilikias
 	terrain="hills"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -818,18 +775,17 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-1905={ #Korakesion
+1905={ # Korakesion
 	terrain="hills"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -838,49 +794,46 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-1906={ #Laertes
+1906={ # Lairtes
 	terrain="hills"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-1908={ #Kolybrassos
+1908={ # Kolybrassos
 	terrain="hills"
 	culture="pisidian"
-	religion="anatolian_religion"
+	religion="greek_pantheon"
 	trade_goods="honey"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1910={ #Side
+1910={ # Side
 	terrain="plains"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -889,21 +842,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1911={ #Sillyon
+1911={ # Sillyon
 	terrain="plains"
 	culture="pamphylian"
 	religion="greek_pantheon"
@@ -912,17 +864,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1917={ #Lakaine
+1917={ # Lakaine
 	terrain="mountain"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -931,36 +882,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1921={ #Amblada
+1921={ # Amblada
 	terrain="hills"
 	culture="oroandian"
-	religion="anatolian_religion"
+	religion="greek_pantheon"
 	trade_goods="cattle"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1927={ #Tityassos
+1927={ # Tityassos
 	terrain="hills"
 	culture="pisidian"
 	religion="anatolian_religion"
@@ -969,17 +918,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1931={ #Adada
+1931={ # Adada
 	terrain="hills"
 	culture="pisidian"
 	religion="anatolian_religion"
@@ -988,17 +936,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1933={ #Konane
+1933={ # Konane
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1007,17 +954,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1935={ #Baris
+1935={ # Baris
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1026,17 +972,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1949={ #Sagalassos
+1949={ # Sagalassos
 	terrain="hills"
 	culture="pisidian"
 	religion="anatolian_religion"
@@ -1045,20 +990,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1958={ #Kibyra
+1958={ # Kibyra
 	terrain="hills"
 	culture="cabalian"
 	religion="anatolian_religion"
@@ -1067,20 +1011,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1959={ #Takina
+1959={ # Takina
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1089,17 +1032,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1960={ #Lagbe
+1960={ # Lagbe
 	terrain="hills"
 	culture="cabalian"
 	religion="anatolian_religion"
@@ -1108,17 +1050,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1961={ #Olbasa
+1961={ # Olbasa
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1127,20 +1068,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1986={ #Kretopolis
+1986={ # Pogla
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1149,20 +1089,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1988={ #Kremna
+1988={ # Kremna
 	terrain="hills"
 	culture="pisidian"
 	religion="anatolian_religion"
@@ -1171,17 +1110,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1990={ #Oinoanda
+1990={ # Oinoanda
 	terrain="hills"
 	culture="cabalian"
 	religion="anatolian_religion"
@@ -1190,20 +1128,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1991={ #Podalia
+1991={ # Podalia
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1212,79 +1149,75 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1992={ #Telmessos
+1992={ # Telmessos
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_kakasbos
+	holy_site="omen_kakasbos"
 	port_building=1
 }
-
-1993={ #Tlos
+1993={ # Tlos
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="cedar"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1995={ #Xanthos
+1995={ # Xanthos
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="marble"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-1997={ #Boubon
+1997={ # Boubon
 	terrain="hills"
 	culture="cabalian"
 	religion="anatolian_religion"
@@ -1293,40 +1226,38 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1998={ #Patara
+1998={ # Patara
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-6431={ #Marion
+6431={ # Marion
 	terrain="hills"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -1335,18 +1266,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-6433={ #Chythroi
+6433={ # Chythroi
 	terrain="plains"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -1355,17 +1285,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-7760={ #Prostanna
+7760={ # Prostanna
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1374,36 +1303,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7942={ #Daidala
+7942={ # Daidala
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="hemp"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7947={ #Balboura
+7947={ # Balboura
 	terrain="hills"
 	culture="cabalian"
 	religion="anatolian_religion"
@@ -1412,58 +1339,55 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7948={ #Kadyanda
+7948={ # Kadyanda
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7949={ #Kandyba
+7949={ # Kandyba
 	terrain="hills"
 	culture="lycian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7951={ #Kitanaura
+7951={ # Kitanaura
 	terrain="hills"
 	culture="pamphylian"
 	religion="anatolian_religion"
@@ -1472,11 +1396,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7954={ #Kormasa
+7954={ # Kormasa
 	terrain="hills"
 	culture="milyadian"
 	religion="anatolian_religion"
@@ -1485,14 +1408,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7956={ #Ariassos
+7956={ # Ariassos
 	terrain="hills"
 	culture="pisidian"
 	religion="anatolian_religion"
@@ -1501,39 +1423,37 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7958={ #Kotenna
+7958={ # Kotenna
 	terrain="hills"
 	culture="pisidian"
-	religion="anatolian_religion"
+	religion="greek_pantheon"
 	trade_goods="cedar"
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7962={ #Ano Kotradis
+7962={ # Ano Kotradis
 	terrain="hills"
 	culture="lalasian"
 	religion="anatolian_religion"
@@ -1542,14 +1462,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7968={ #Kyinda
+7968={ # Kyinda
 	terrain="mountain"
 	culture="cilician"
 	religion="anatolian_religion"
@@ -1558,20 +1477,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7971={ #Eriza Karias
+7971={ # Eriza Karias
 	terrain="hills"
 	culture="cabalian"
 	religion="anatolian_religion"
@@ -1580,17 +1498,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7986={ #Commagenian Gates
+7986={ # Commagenian Gates
 	terrain="mountain"
 	culture="kennataian"
 	religion="anatolian_religion"
@@ -1599,8 +1516,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-7990={ #Kourion
+7990={ # Kourion
 	terrain="forest"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -1609,14 +1525,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7991={ #Idalion
+7991={ # Idalion
 	terrain="plains"
 	culture="cypriot"
 	religion="greek_pantheon"
@@ -1625,17 +1540,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8021={ #Syrian Gates
+8021={ # Syrian Gates
+	terrain="mountain"
+	culture="kennataian"
+	religion="carthaginian_pantheon"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8022={ # Cilician Gates
 	terrain="mountain"
 	culture="kennataian"
 	religion="anatolian_religion"
@@ -1644,14 +1567,3 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-8022={ #Cilician Gates
-	terrain="mountain"
-	culture="kennataian"
-	religion="anatolian_religion"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
