@@ -1,4 +1,4 @@
-8121={ # Goto
+﻿8121={ # Goto
 	terrain="hills"
 	culture="kumaso"
 	religion="wa_religions"
@@ -1077,7 +1077,7 @@
 9740={ # Osumi
 	terrain="hills"
 	culture="duuchuu"
-	religion="ainu_religion"
+	religion="wa_religions"
 	trade_goods="fish"
 	civilization_value=7
 	barbarian_power=0

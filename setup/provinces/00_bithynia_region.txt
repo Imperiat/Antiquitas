@@ -1,4 +1,4 @@
-198={ # Gangra
+﻿198={ # Gangra
 	terrain="plains"
 	culture="paphlagonian"
 	religion="anatolian_religion"
@@ -825,7 +825,7 @@
 326={ # Modra
 	terrain="hills"
 	culture="mariandynian"
-	religion="greek_pantheon"
+	religion="anatolian_religion"
 	trade_goods="vegetables"
 	civilization_value=3
 	barbarian_power=0
@@ -843,7 +843,7 @@
 327={ # Oka
 	terrain="hills"
 	culture="phrygian"
-	religion="shamanism"
+	religion="anatolian_religion"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -879,7 +879,7 @@
 1806={ # Themiskyra
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="hemp"
 	civilization_value=9
 	barbarian_power=0
@@ -1083,7 +1083,7 @@
 		amount="3"
 	}
 }
-7763={ # SophonPass
+7763={ # Sophon Pass
 	terrain="mountain"
 	culture="mariandynian"
 	religion="shamanism"
@@ -1095,7 +1095,7 @@
 7765={ # Tattaios
 	terrain="hills"
 	culture="phrygian"
-	religion="shamanism"
+	religion="anatolian_religion"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1110,7 +1110,7 @@
 		amount="2"
 	}
 }
-7914={ # ModraPass
+7914={ # Modra Pass
 	terrain="mountain"
 	culture="mariandynian"
 	religion="anatolian_religion"

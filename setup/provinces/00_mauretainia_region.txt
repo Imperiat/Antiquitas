@@ -1,4 +1,4 @@
-3061={ # Tingis
+﻿3061={ # Tingis
 	terrain="forest"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"

@@ -1,4 +1,4 @@
-477={ # Serdica
+﻿477={ # Serdica
 	terrain="hills"
 	culture="triballoi"
 	religion="shamanism"
@@ -22,7 +22,7 @@
 4112={ # Navissos
 	terrain="farmland"
 	culture="triballoi"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
@@ -205,7 +205,7 @@
 4219={ # Timacum
 	terrain="plains"
 	culture="triballoi"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -223,7 +223,7 @@
 4220={ # Combustica
 	terrain="plains"
 	culture="triballoi"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

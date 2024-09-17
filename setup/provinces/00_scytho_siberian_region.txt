@@ -1,4 +1,4 @@
-﻿12247={ #Ily
+﻿12247={ # Ily
 	terrain="plains"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -7,11 +7,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-12248={ #Bakbakty
+12248={ # Bakbakty
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -20,11 +19,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12249={ #Akzhar
+12249={ # Akzhar
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -33,11 +31,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12250={ #Topar
+12250={ # Topar
 	terrain="marsh"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -46,11 +43,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12251={ #Kokozek
+12251={ # Kokozek
 	terrain="marsh"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -59,11 +55,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12252={ #Oktyabr
+12252={ # Oktyabr
 	terrain="marsh"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -72,11 +67,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12253={ #Uzynaral
+12253={ # Uzynaral
 	terrain="marsh"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -85,11 +79,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12254={ #Taylyak
+12254={ # Taylyak
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -98,11 +91,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12255={ #Taldykorgan
+12255={ # Taldykorgan
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -111,11 +103,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12256={ #Ul'gi
+12256={ # Ul'gi
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -124,11 +115,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12257={ #Maylybay
+12257={ # Maylybay
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -137,11 +127,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12258={ #Uzyak
+12258={ # Uzyak
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -150,11 +139,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12259={ #Kulbay
+12259={ # Kulbay
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -163,11 +151,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12260={ #Dzhuz
+12260={ # Dzhuz
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -176,11 +163,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12261={ #Alakol
+12261={ # Alakol
 	terrain="forest"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -189,11 +175,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-12262={ #Urzhar
+12262={ # Urzhar
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -202,11 +187,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12263={ #Emin
+12263={ # Emin
 	terrain="steppes"
 	culture="hujie"
 	religion="indo_iranian_religion"
@@ -215,11 +199,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12265={ #Koldar
+12265={ # Koldar
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -228,11 +211,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12266={ #Ushtobe
+12266={ # Ushtobe
 	terrain="steppes"
 	culture="hujie"
 	religion="indo_iranian_religion"
@@ -241,11 +223,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12267={ #Ayagoz
+12267={ # Ayagoz
 	terrain="steppes"
 	culture="hujie"
 	religion="indo_iranian_religion"
@@ -254,11 +235,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12268={ #Zaysan
+12268={ # Zaysan
 	terrain="steppes"
 	culture="hujie"
 	religion="indo_iranian_religion"
@@ -267,11 +247,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12269={ #Nuraly
+12269={ # Nuraly
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -280,11 +259,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12270={ #Karaul
+12270={ # Karaul
 	terrain="steppes"
 	culture="korgantas"
 	religion="indo_iranian_religion"
@@ -293,11 +271,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12271={ #Ayulyk
+12271={ # Ayulyk
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -306,11 +283,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12272={ #Baygabyl
+12272={ # Baygabyl
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -319,11 +295,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12273={ #Balkhash
+12273={ # Balkhash
 	terrain="plains"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -332,11 +307,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-12274={ #Tasaral
+12274={ # Tasaral
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -345,11 +319,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12275={ #Kashkanteniz
+12275={ # Kashkanteniz
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -358,11 +331,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12276={ #Mynaral
+12276={ # Mynaral
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -371,11 +343,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12277={ #Turlybay
+12277={ # Turlybay
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -384,11 +355,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12278={ #Sokutash
+12278={ # Sokutash
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -397,11 +367,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12279={ #Kyzyltu
+12279={ # Kyzyltu
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -410,11 +379,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12280={ #Ajyrtas
+12280={ # Ajyrtas
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -423,11 +391,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12281={ #Shabanbai
+12281={ # Shabanbai
 	terrain="steppes"
 	culture="buku"
 	religion="indo_iranian_religion"
@@ -436,173 +403,160 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12282={ #Bidaik
+12282={ # Bidaik
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12283={ #Taldy
+12283={ # Taldy
 	terrain="plains"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="vegetables"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-12284={ #Karaobah
+12284={ # Karaobah
 	terrain="plains"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-12285={ #Birlik
+12285={ # Birlik
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12286={ #Utebay
+12286={ # Utebay
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12287={ #Zhamantuz
+12287={ # Zhamantuz
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12288={ #Zhanaaul
+12288={ # Zhanaaul
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="leather"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12289={ #Kandykol
+12289={ # Kandykol
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="wild_game"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12290={ #Tomar
+12290={ # Tomar
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12291={ #Kiikkashkan
+12291={ # Kiikkashkan
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12292={ #Akbulak
+12292={ # Akbulak
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12293={ #Taylan
+12293={ # Taylan
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12294={ #Hawyam
+12294={ # Hawyam
 	terrain="desert_hills"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -611,11 +565,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12295={ #Parnam
+12295={ # Parnam
 	terrain="desert_hills"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -624,11 +577,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12296={ #Jambhas
+12296={ # Jambhas
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -637,11 +589,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12297={ #Jhrdayam
+12297={ # Jhrdayam
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -650,11 +601,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12298={ #Hatsti
+12298={ # Hatsti
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -663,11 +613,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12299={ #Cwaytas
+12299={ # Cwaytas
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -676,11 +625,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12300={ #Tigmas
+12300={ # Tigmas
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -689,11 +637,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12301={ #Hsuskas
+12301={ # Hsuskas
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -702,11 +649,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12302={ #Dhuhmas
+12302={ # Dhuhmas
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -715,11 +661,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12303={ #Haps
+12303={ # Haps
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -728,11 +673,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12304={ #Hsta
+12304={ # Hsta
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -741,11 +685,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12305={ #Scinatsti
+12305={ # Scinatsti
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -754,11 +697,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12306={ #Mriyatay
+12306={ # Mriyatay
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -767,11 +709,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12307={ #Castay
+12307={ # Castay
 	terrain="steppes"
 	culture="korgantas"
 	religion="indo_iranian_religion"
@@ -780,11 +721,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12308={ #Janu
+12308={ # Janu
 	terrain="steppes"
 	culture="korgantas"
 	religion="indo_iranian_religion"
@@ -793,11 +733,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12309={ #Udaras
+12309={ # Udaras
 	terrain="steppes"
 	culture="korgantas"
 	religion="indo_iranian_religion"
@@ -806,11 +745,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12310={ #Nahsah
+12310={ # Nahsah
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -819,11 +757,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12311={ #Hrawma
+12311={ # Hrawma
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -832,11 +769,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12312={ #Puscas
+12312={ # Puscas
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -845,11 +781,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12313={ #Trnam
+12313={ # Trnam
 	terrain="steppes"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -858,11 +793,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12314={ #Bihjam
+12314={ # Bihjam
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -871,11 +805,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12315={ #Pacu
+12315={ # Pacu
 	terrain="steppes"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -884,11 +817,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12316={ #Jahtas
+12316={ # Jahtas
 	terrain="steppes"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -897,11 +829,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12317={ #Nagas
+12317={ # Nagas
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -910,11 +841,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12318={ #Daru
+12318={ # Daru
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -923,11 +853,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12319={ #Caksus
+12319={ # Caksus
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -936,11 +865,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12320={ #Prsthas
+12320={ # Prsthas
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -949,11 +877,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12321={ #Hyakr
+12321={ # Hyakr
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -962,11 +889,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12322={ #Pibati
+12322={ # Pibati
 	terrain="steppes"
 	culture="massagetaean"
 	religion="indo_iranian_religion"
@@ -975,11 +901,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12323={ #Wamhati
+12323={ # Wamhati
 	terrain="steppes"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -988,11 +913,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12324={ #Smayatay
+12324={ # Smayatay
 	terrain="steppes"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -1001,102 +925,94 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12325={ #Crnawti
+12325={ # Crnawti
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12326={ #Bhinatsti
+12326={ # Bhinatsti
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12327={ #Sizdati
+12327={ # Sizdati
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12328={ #Dadahti
+12328={ # Dadahti
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12329={ #Dharati
+12329={ # Dharati
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12330={ #Abhras
+12330={ # Abhras
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12331={ #Alom
+12331={ # Alom
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12332={ #Fazik
+12332={ # Fazik
 	terrain="steppes"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -1105,11 +1021,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12333={ #Oldal
+12333={ # Oldal
 	terrain="marsh"
 	culture="issedonian"
 	religion="indo_iranian_religion"
@@ -1118,50 +1033,46 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12334={ #Hizik
+12334={ # Hizik
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12335={ #Csira
+12335={ # Csira
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12336={ #Agyek
+12336={ # Agyek
 	terrain="plains"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-12337={ #Zug
+12337={ # Zug
 	terrain="steppes"
 	culture="issedonian"
 	religion="uralic_pantheon"
@@ -1170,11 +1081,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12338={ #Falu
+12338={ # Falu
 	terrain="steppes"
 	culture="issedonian"
 	religion="uralic_pantheon"
@@ -1183,11 +1093,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12339={ #Gyalu
+12339={ # Gyalu
 	terrain="steppes"
 	culture="issedonian"
 	religion="uralic_pantheon"
@@ -1196,37 +1105,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12340={ #Sotet
+12340={ # Sotet
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12341={ #Kuzd
+12341={ # Kuzd
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12342={ #Marok
+12342={ # Marok
 	terrain="forest"
 	culture="issedonian"
 	religion="uralic_pantheon"
@@ -1235,167 +1141,154 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12343={ #Chelkar
+12343={ # Chelkar
 	terrain="forest"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12344={ #Hupaya
+12344={ # Hupaya
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="grain"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12345={ #Palaka
+12345={ # Palaka
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="salt"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12346={ #Prtatavah
+12346={ # Prtatavah
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="leather"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12347={ #Siraka
+12347={ # Siraka
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12348={ #Varika
+12348={ # Varika
 	terrain="forest"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12349={ #Abruxsaya
+12349={ # Abruxsaya
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12350={ #Lipoxsaya
+12350={ # Lipoxsaya
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12351={ #Targitavah
+12351={ # Targitavah
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12352={ #Danu
+12352={ # Danu
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12353={ #Paralata
+12353={ # Paralata
 	terrain="steppes"
 	culture="alani"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="steppe_horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12354={ #Hazarausa
+12354={ # Hazarausa
 	terrain="steppes"
 	culture="issedonian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12368={ #Sim
+12368={ # Sim
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1404,11 +1297,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12369={ #Crva
+12369={ # Crva
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1417,11 +1309,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12370={ #Jhasra
+12370={ # Jhasra
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1430,11 +1321,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12371={ #Cata
+12371={ # Cata
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1443,11 +1333,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12372={ #Suw
+12372={ # Suw
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1456,11 +1345,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12373={ #Kus
+12373={ # Kus
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1469,11 +1357,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12374={ #Puknii
+12374={ # Puknii
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1482,11 +1369,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12375={ #Sulii
+12375={ # Sulii
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1495,11 +1381,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12376={ #Tawt
+12376={ # Tawt
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1508,11 +1393,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12377={ #Kunkees
+12377={ # Kunkees
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1521,11 +1405,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12378={ #Jukaar
+12378={ # Jukaar
 	terrain="hills"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1534,11 +1417,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12379={ #Tuks
+12379={ # Tuks
 	terrain="taiga"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1547,11 +1429,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12380={ #Tun
+12380={ # Tun
 	terrain="mountain"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1560,11 +1441,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12381={ #Saajem
+12381={ # Saajem
 	terrain="taiga"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1573,11 +1453,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12382={ #Itkul
+12382={ # Itkul
 	terrain="mountain"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -1586,17 +1465,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-12383={ #Muw
+12383={ # Muw
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1605,11 +1483,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12384={ #Xutem
+12384={ # Xutem
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1618,11 +1495,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12385={ #Vakh
+12385={ # Vakh
 	terrain="mountain"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -1631,11 +1507,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12386={ #Xul
+12386={ # Xul
 	terrain="hills"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -1644,11 +1519,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12387={ #Pal
+12387={ # Pal
 	terrain="forest"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1657,11 +1531,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12388={ #Polunkwe
+12388={ # Polunkwe
 	terrain="forest"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1670,11 +1543,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12389={ #Urunkwe
+12389={ # Urunkwe
 	terrain="forest"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1683,11 +1555,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12390={ #Kwalunkwe
+12390={ # Kwalunkwe
 	terrain="taiga"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -1696,11 +1567,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12391={ #Maltip
+12391={ # Maltip
 	terrain="hills"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -1709,11 +1579,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12392={ #Jinkwe
+12392={ # Jinkwe
 	terrain="taiga"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -1722,11 +1591,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12393={ #Oster
+12393={ # Oster
 	terrain="forest"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1735,11 +1603,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12394={ #Xulem
+12394={ # Xulem
 	terrain="steppes"
 	culture="gorokhov"
 	religion="uralic_pantheon"
@@ -1748,11 +1615,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12395={ #Tipunkwe
+12395={ # Tipunkwe
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1761,11 +1627,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12396={ #Ingala
+12396={ # Ingala
 	terrain="plains"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1774,17 +1639,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-12397={ #Pawel
+12397={ # Pawel
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1793,11 +1657,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12398={ #Elmi
+12398={ # Elmi
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1806,11 +1669,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12399={ #Minan
+12399={ # Minan
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1819,11 +1681,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12400={ #Sat
+12400={ # Sat
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1832,11 +1693,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12401={ #Tur
+12401={ # Tur
 	terrain="taiga"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1845,11 +1705,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12402={ #Jomas
+12402={ # Jomas
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1858,11 +1717,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12403={ #Pum
+12403={ # Pum
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1871,11 +1729,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12404={ #Sov
+12404={ # Sov
 	terrain="taiga"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1884,11 +1741,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12405={ #Kedv
+12405={ # Kedv
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1897,11 +1753,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12406={ #Esik
+12406={ # Esik
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1910,11 +1765,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12407={ #Faraszt
+12407={ # Faraszt
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1923,11 +1777,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12408={ #Tolvaj
+12408={ # Tolvaj
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1936,11 +1789,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12409={ #Level
+12409={ # Level
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1949,11 +1801,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12410={ #Mely
+12410={ # Mely
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1962,11 +1813,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12411={ #Folyik
+12411={ # Folyik
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1975,11 +1825,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12412={ #Akar
+12412={ # Akar
 	terrain="forest"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -1988,24 +1837,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12413={ #Altal
+12413={ # Altal
 	terrain="steppes"
 	culture="sargat"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12414={ #Enyv
+12414={ # Enyv
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2014,11 +1861,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12415={ #Ragad
+12415={ # Ragad
 	terrain="plains"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2027,11 +1873,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-12416={ #Tegez
+12416={ # Tegez
 	terrain="forest"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2040,11 +1885,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12417={ #Konnyu
+12417={ # Konnyu
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2053,82 +1897,88 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12418={ #Anda
+12418={ # Anda
 	terrain="steppes"
 	culture="hujie"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12419={ #Yuz
+12419={ # Yuz
 	terrain="steppes"
 	culture="korgantas"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12420={ #Boz
+12420={ # Boz
 	terrain="steppes"
 	culture="hujie"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="salt"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12421={ #Tuhta
+12421={ # Tuhta
 	terrain="steppes"
 	culture="hujie"
-	religion="hu_religions"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12422={ #Ata
+12422={ # Ata
 	terrain="hills"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="gems"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-12423={ #Tonaz
+12423={ # Tonaz
+	terrain="forest"
+	culture="bolsherechye"
+	religion="indo_iranian_religion"
+	trade_goods="horses"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount="2"
+	}
+}
+12424={ # Domuz
 	terrain="forest"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2137,63 +1987,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12424={ #Domuz
-	terrain="forest"
-	culture="bolsherechye"
-	religion="uralic_pantheon"
-	trade_goods="horses"
-	civilization_value=5
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=2
-	}
-}
-
-12425={ #Minik
+12425={ # Minik
 	terrain="steppes"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12426={ #Ordu
+12426={ # Ordu
 	terrain="steppes"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12427={ #Kir
+12427={ # Kir
 	terrain="forest"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12428={ #Adak
+12428={ # Adak
+	terrain="steppes"
+	culture="bolsherechye"
+	religion="indo_iranian_religion"
+	trade_goods="leather"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount="2"
+	}
+}
+12429={ # Tabilgan
 	terrain="steppes"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2202,63 +2047,46 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12429={ #Tabilgan
-	terrain="steppes"
-	culture="bolsherechye"
-	religion="uralic_pantheon"
-	trade_goods="leather"
-	civilization_value=5
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=2
-	}
-}
-
-12430={ #Ogul
+12430={ # Ogul
 	terrain="steppes"
 	culture="sargat"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12431={ #Kudegu
+12431={ # Kudegu
 	terrain="steppes"
 	culture="sargat"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12432={ #Otag
+12432={ # Otag
 	terrain="steppes"
 	culture="sargat"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12433={ #Toprak
+12433={ # Toprak
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2267,11 +2095,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12434={ #Bolur
+12434={ # Bolur
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2280,11 +2107,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12435={ #Yagmur
+12435={ # Yagmur
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2293,11 +2119,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12436={ #Bodun
+12436={ # Bodun
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2306,11 +2131,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12437={ #Tag
+12437={ # Tag
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2319,11 +2143,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12438={ #Yel
+12438={ # Yel
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2332,11 +2155,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12439={ #Tepu
+12439={ # Tepu
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2345,11 +2167,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12440={ #Orman
+12440={ # Orman
 	terrain="steppes"
 	culture="sargat"
 	religion="uralic_pantheon"
@@ -2358,11 +2179,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12441={ #Kol
+12441={ # Kol
 	terrain="forest"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2371,30 +2191,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12442={ #Ajma
+12442={ # Ajma
 	terrain="hills"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="stone"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12443={ #Kalaa
+12443={ # Kalaa
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2403,11 +2221,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12444={ #Mona
+12444={ # Mona
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2416,11 +2233,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12445={ #Epto
+12445={ # Epto
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2429,24 +2245,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12446={ #Weti
+12446={ # Weti
 	terrain="forest"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="iron"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12447={ #Tawoi
+12447={ # Tawoi
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2455,37 +2269,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12448={ #Moski
+12448={ # Moski
 	terrain="taiga"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12449={ #Tuto
+12449={ # Tuto
 	terrain="taiga"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-12450={ #Kaoj
+12450={ # Kaoj
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2494,11 +2305,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12451={ #Nakur
+12451={ # Nakur
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2507,24 +2317,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12452={ #Sempelanke
+12452={ # Sempelanke
 	terrain="hills"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="precious_metals"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-12453={ #Tatte
+12453={ # Tatte
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2533,11 +2341,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12454={ #Neoj
+12454={ # Neoj
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2546,37 +2353,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12455={ #Mektut
+12455={ # Mektut
 	terrain="mountain"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="precious_metals"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12456={ #Maso
+12456={ # Maso
 	terrain="mountain"
 	culture="bolsherechye"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="base_metals"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12457={ #Suksi
+12457={ # Suksi
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2585,11 +2389,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12458={ #Jika
+12458={ # Jika
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2598,11 +2401,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-12459={ #Hejkir
+12459={ # Hejkir
 	terrain="taiga"
 	culture="bolsherechye"
 	religion="uralic_pantheon"
@@ -2611,6 +2413,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }

@@ -1,4 +1,4 @@
-651={ # Sumita
+﻿651={ # Sumita
 	terrain="hills"
 	culture="athagaun"
 	religion="puntic_religion"

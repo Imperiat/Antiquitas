@@ -1,4 +1,4 @@
-﻿8793={ #Gaogouli
+﻿8793={ # Gaogouli
 	terrain="forest"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -7,20 +7,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-8794={ #Shangyintai
+8794={ # Shangyintai
 	terrain="mountain"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -29,14 +28,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8795={ #Geshenggu
+8795={ # Geshenggu
 	terrain="mountain"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -45,14 +43,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8796={ #Xigaima
+8796={ # Xigaima
 	terrain="mountain"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -61,17 +58,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8797={ #Chengxian
+8797={ # Chengxian
 	terrain="hills"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -80,14 +76,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8798={ #Wandu
+8798={ # Wandu
 	terrain="hills"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -96,23 +91,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-8799={ #Beipeishui
+8799={ # Beipeishui
 	terrain="hills"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -121,14 +115,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8800={ #Liaoshan
+8800={ # Liaoshan
 	terrain="mountain"
 	culture="goguryeo"
 	religion="yi_religions"
@@ -137,14 +130,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8801={ #Wanggeom
+8801={ # Wanggeom
 	terrain="plains"
 	culture="lelang"
 	religion="yi_religions"
@@ -153,19 +145,18 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
+	holy_site="omen_dalnim"
 	port_building=1
-	holy_site=omen_dalnim
 }
-
-8802={ #Jeungji
+8802={ # Jeungji
 	terrain="hills"
 	culture="lelang"
 	religion="yi_religions"
@@ -174,14 +165,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8803={ #Ganggam
+8803={ # Ganggam
 	terrain="forest"
 	culture="lelang"
 	religion="yi_religions"
@@ -190,17 +180,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8804={ #Jeomseon
+8804={ # Jeomseon
 	terrain="plains"
 	culture="lelang"
 	religion="yi_religions"
@@ -209,17 +198,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8805={ #Yeolgu
+8805={ # Yeolgu
 	terrain="plains"
 	culture="lelang"
 	religion="yi_religions"
@@ -228,17 +216,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8806={ #Daebang
+8806={ # Daebang
 	terrain="forest"
 	culture="lelang"
 	religion="yi_religions"
@@ -247,20 +234,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8807={ #Jamdae
+8807={ # Jamdae
 	terrain="hills"
 	culture="dongwei"
 	religion="yi_religions"
@@ -269,20 +255,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8808={ #Dongi
+8808={ # Dongi
 	terrain="mountain"
 	culture="dongwei"
 	religion="yi_religions"
@@ -291,17 +276,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8809={ #Jehae
+8809={ # Jehae
 	terrain="forest"
 	culture="lelang"
 	religion="yi_religions"
@@ -310,17 +294,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8810={ #Paesu
+8810={ # Paesu
 	terrain="mountain"
 	culture="woju"
 	religion="yi_religions"
@@ -329,14 +312,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8811={ #Tallyeol
+8811={ # Tallyeol
 	terrain="mountain"
 	culture="woju"
 	religion="yi_religions"
@@ -345,14 +327,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8812={ #Bujo
+8812={ # Bujo
 	terrain="hills"
 	culture="woju"
 	religion="yi_religions"
@@ -361,20 +342,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8813={ #Hwaryeo
+8813={ # Hwaryeo
 	terrain="mountain"
 	culture="woju"
 	religion="yi_religions"
@@ -383,14 +363,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8814={ #Bullae
+8814={ # Bullae
 	terrain="mountain"
 	culture="dongwei"
 	religion="yi_religions"
@@ -399,11 +378,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8815={ #Sadumal
+8815={ # Sadumal
 	terrain="hills"
 	culture="dongwei"
 	religion="yi_religions"
@@ -412,11 +390,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9278={ #Gobiri
+9278={ # Gobiri
 	terrain="plains"
 	culture="mahan"
 	religion="wa_religions"
@@ -425,30 +402,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9279={ #Gopo
+9279={ # Gopo
 	terrain="forest"
 	culture="mahan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9280={ #Gusaodan
+9280={ # Gusaodan
 	terrain="forest"
 	culture="mahan"
 	religion="wa_religions"
@@ -457,36 +432,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9281={ #Guro
+9281={ # Guro
 	terrain="forest"
 	culture="mahan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9282={ #Morobiri
+9282={ # Morobiri
 	terrain="forest"
 	culture="mahan"
 	religion="wa_religions"
@@ -495,14 +468,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9283={ #Mosu
+9283={ # Mosu
 	terrain="marsh"
 	culture="mahan"
 	religion="yi_religions"
@@ -511,36 +483,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9284={ #Jichim
+9284={ # Jichim
 	terrain="hills"
 	culture="mahan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9285={ #Tamna
+9285={ # Tamna
 	terrain="hills"
 	culture="mahan"
 	religion="wa_religions"
@@ -549,18 +519,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_yi_god_of_river
+	holy_site="omen_yi_god_of_river"
 }
-
-9286={ #Mirimidong
+9286={ # Mirimidong
 	terrain="hills"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -569,21 +538,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_wa_god_tsuchi
+	holy_site="omen_wa_god_tsuchi"
 }
-
-9287={ #Gojamidong
+9287={ # Gojamidong
 	terrain="forest"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -592,20 +560,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9288={ #Ballo
+9288={ # Ballo
 	terrain="hills"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -614,20 +581,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9289={ #Nangno
+9289={ # Nangno
 	terrain="mountain"
 	culture="mahan"
 	religion="wa_religions"
@@ -636,30 +602,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9290={ #Gamno
+9290={ # Gamno
 	terrain="hills"
 	culture="mahan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9291={ #Guya
+9291={ # Guya
 	terrain="plains"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -668,20 +632,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-9292={ #Dongno
+9292={ # Dongno
 	terrain="forest"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -690,20 +653,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9293={ #Saro
+9293={ # Saro
 	terrain="forest"
 	culture="jinhan"
 	religion="wa_religions"
@@ -712,20 +674,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9294={ #Gijeo
+9294={ # Gijeo
 	terrain="mountain"
 	culture="jinhan"
 	religion="yi_religions"
@@ -734,14 +695,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9295={ #Bulsa
+9295={ # Bulsa
 	terrain="hills"
 	culture="jinhan"
 	religion="wa_religions"
@@ -750,20 +710,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9296={ #Geun gi
+9296={ # Geun gi
 	terrain="forest"
 	culture="jinhan"
 	religion="wa_religions"
@@ -772,36 +731,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9297={ #Horo
+9297={ # Horo
 	terrain="forest"
 	culture="jinhan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="wild_game"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9298={ #U yu
+9298={ # U yu
 	terrain="mountain"
 	culture="jinhan"
 	religion="yi_religions"
@@ -810,20 +767,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9299={ #Siljig
+9299={ # Siljig
 	terrain="hills"
 	culture="jinhan"
 	religion="yi_religions"
@@ -832,36 +788,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9590={ #Geunma
+9590={ # Geunma
 	terrain="plains"
 	culture="mahan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="rice"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9591={ #Gorap
+9591={ # Gorap
 	terrain="hills"
 	culture="mahan"
 	religion="wa_religions"
@@ -870,41 +824,39 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9592={ #Arim
+9592={ # Arim
 	terrain="farmland"
 	culture="mahan"
-	religion="yi_religions"
+	religion="wa_religions"
 	trade_goods="wine"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=3
+		amount="3"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
+	holy_site="omen_yi_god_of_wine"
 	port_building=1
-	holy_site=omen_yi_god_of_wine
 }
-
-9593={ #Ilnan
+9593={ # Ilnan
 	terrain="hills"
 	culture="mahan"
 	religion="wa_religions"
@@ -913,17 +865,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9594={ #Burun
+9594={ # Burun
 	terrain="hills"
 	culture="mahan"
 	religion="wa_religions"
@@ -932,14 +883,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9595={ #Mokji
+9595={ # Mokji
 	terrain="forest"
 	culture="mahan"
 	religion="yi_religions"
@@ -948,20 +898,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-9596={ #Gori
+9596={ # Gori
 	terrain="hills"
 	culture="mahan"
 	religion="yi_religions"
@@ -970,20 +919,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-9597={ #Soknobulsa
+9597={ # Soknobulsa
 	terrain="hills"
 	culture="mahan"
 	religion="yi_religions"
@@ -992,20 +940,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9598={ #Wonji
+9598={ # Wonji
 	terrain="hills"
 	culture="mahan"
 	religion="wa_religions"
@@ -1014,14 +961,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9599={ #Gunmi
+9599={ # Gunmi
 	terrain="forest"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -1030,21 +976,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_minakanushi
+	holy_site="omen_minakanushi"
 }
-
-9600={ #Anya
+9600={ # Anya
 	terrain="hills"
 	culture="byeonhan"
 	religion="wa_religions"
@@ -1053,20 +998,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-9601={ #Gulbal
+9601={ # Gulbal
 	terrain="hills"
 	culture="jinhan"
 	religion="wa_religions"
@@ -1075,20 +1019,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9602={ #Yeomhae
+9602={ # Yeomhae
 	terrain="hills"
 	culture="jinhan"
 	religion="wa_religions"
@@ -1097,20 +1040,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9604={ #Somun
+9604={ # Somun
 	terrain="mountain"
 	culture="jinhan"
 	religion="yi_religions"
@@ -1119,20 +1061,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-9608={ #Baekje
+9608={ # Baekje
 	terrain="farmland"
 	culture="mahan"
 	religion="yi_religions"
@@ -1141,20 +1082,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-9668={ #Samang
+9668={ # Samang
 	terrain="hills"
 	culture="lelang"
 	religion="yi_religions"
@@ -1163,14 +1103,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9669={ #Nubang
+9669={ # Nubang
 	terrain="mountain"
 	culture="lelang"
 	religion="yi_religions"
@@ -1179,11 +1118,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9670={ #Dunyu
+9670={ # Dunyu
 	terrain="hills"
 	culture="lelang"
 	religion="yi_religions"
@@ -1192,14 +1130,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9671={ #Hamja
+9671={ # Hamja
 	terrain="hills"
 	culture="lelang"
 	religion="yi_religions"
@@ -1208,10 +1145,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-

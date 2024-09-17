@@ -1,4 +1,4 @@
-3908={ # Viritium
+﻿3908={ # Viritium
 	terrain="forest"
 	culture="vandal"
 	religion="matrist_religion"
@@ -877,7 +877,7 @@
 7827={ # Orentia
 	terrain="forest"
 	culture="sporic"
-	religion="matrist_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -889,7 +889,7 @@
 7828={ # Manoia
 	terrain="forest"
 	culture="sporic"
-	religion="matrist_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -904,7 +904,7 @@
 7829={ # Heritia
 	terrain="forest"
 	culture="sporic"
-	religion="matrist_religion"
+	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=0
 	barbarian_power=0
@@ -1031,7 +1031,7 @@
 10264={ # Lukow
 	terrain="forest"
 	culture="sporic"
-	religion="matrist_religion"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0

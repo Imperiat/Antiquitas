@@ -1,4 +1,4 @@
-263={ # Naxos
+﻿263={ # Naxos
 	terrain="hills"
 	culture="western_ionic"
 	religion="greek_pantheon"

@@ -1,4 +1,4 @@
-6={ # Capua
+﻿6={ # Capua
 	terrain="farmland"
 	culture="roman"
 	religion="roman_pantheon"

@@ -1,4 +1,4 @@
-4637={ # Devada
+﻿4637={ # Devada
 	terrain="dry_plains"
 	culture="minaean"
 	religion="arabian_pantheon"

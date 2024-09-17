@@ -1,4 +1,4 @@
-1144={ # Skodra
+﻿1144={ # Skodra
 	terrain="forest"
 	culture="taulantian"
 	religion="illyrian_pantheon"

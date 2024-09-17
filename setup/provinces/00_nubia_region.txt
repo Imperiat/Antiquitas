@@ -1,4 +1,4 @@
-633={ # Druka
+﻿633={ # Druka
 	terrain="forest"
 	culture="boran"
 	religion="puntic_religion"

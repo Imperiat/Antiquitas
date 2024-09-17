@@ -1,4 +1,4 @@
-738={ # Maked
+﻿738={ # Maked
 	terrain="plains"
 	culture="aramaic"
 	religion="carthaginian_pantheon"
@@ -19,7 +19,7 @@
 740={ # Dan
 	terrain="hills"
 	culture="hebrew"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="honey"
 	civilization_value=29
 	barbarian_power=0
@@ -37,7 +37,7 @@
 741={ # Abila
 	terrain="hills"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="cedar"
 	civilization_value=24
 	barbarian_power=0
@@ -52,7 +52,7 @@
 742={ # Kadasa
 	terrain="forest"
 	culture="hebrew"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
@@ -110,7 +110,7 @@
 745={ # Gelil
 	terrain="forest"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -242,7 +242,7 @@
 752={ # Gerra
 	terrain="hills"
 	culture="aramaic"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="cedar"
 	civilization_value=24
 	barbarian_power=0
@@ -276,7 +276,7 @@
 754={ # Palmyra
 	terrain="oasis"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="dates"
 	civilization_value=29
 	barbarian_power=0
@@ -301,7 +301,7 @@
 755={ # Veriaraca
 	terrain="hills"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
@@ -316,7 +316,7 @@
 756={ # Cunna
 	terrain="hills"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -331,7 +331,7 @@
 757={ # Oneuatha
 	terrain="hills"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="opium"
 	civilization_value=24
 	barbarian_power=0
@@ -346,7 +346,7 @@
 758={ # Vallis Alba
 	terrain="desert"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="cattle"
 	civilization_value=23
 	barbarian_power=0
@@ -743,7 +743,7 @@
 }
 782={ # Pharnake
 	terrain="forest"
-	culture="macedonian"
+	culture="aramaic"
 	religion="carthaginian_pantheon"
 	trade_goods="glass"
 	civilization_value=29
@@ -792,7 +792,7 @@
 }
 786={ # Leuke Akte
 	terrain="forest"
-	culture="ionian"
+	culture="phoenician"
 	religion="carthaginian_pantheon"
 	trade_goods="spices"
 	civilization_value=29
@@ -830,7 +830,7 @@
 }
 788={ # Posideion
 	terrain="forest"
-	culture="ionian"
+	culture="phoenician"
 	religion="carthaginian_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
@@ -861,7 +861,7 @@
 }
 790={ # Antigoneia
 	terrain="hills"
-	culture="macedonian"
+	culture="aramaic"
 	religion="carthaginian_pantheon"
 	trade_goods="glass"
 	civilization_value=39
@@ -1003,7 +1003,7 @@
 800={ # Gennaes
 	terrain="desert"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=23
 	barbarian_power=0
@@ -1018,7 +1018,7 @@
 801={ # Helela
 	terrain="desert"
 	culture="qedarite"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="spices"
 	civilization_value=23
 	barbarian_power=0
@@ -1162,7 +1162,7 @@
 }
 810={ # Zeugma
 	terrain="plains"
-	culture="macedonian"
+	culture="aramaic"
 	religion="carthaginian_pantheon"
 	trade_goods="earthware"
 	civilization_value=30

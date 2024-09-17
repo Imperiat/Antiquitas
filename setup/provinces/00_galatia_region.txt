@@ -1,4 +1,4 @@
-169={ # Laranda
+﻿169={ # Laranda
 	terrain="plains"
 	culture="isaurian"
 	religion="anatolian_religion"
@@ -22,7 +22,7 @@
 174={ # Kongoustos
 	terrain="plains"
 	culture="lycaonian"
-	religion="anatolian_religion"
+	religion="shamanism"
 	trade_goods="salt"
 	civilization_value=26
 	barbarian_power=0
@@ -61,7 +61,7 @@
 176={ # Ekdaoumaoua
 	terrain="steppes"
 	culture="phrygian"
-	religion="anatolian_religion"
+	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=26
 	barbarian_power=0
@@ -329,7 +329,7 @@
 190={ # Kinna
 	terrain="hills"
 	culture="phrygian"
-	religion="anatolian_religion"
+	religion="shamanism"
 	trade_goods="salt"
 	civilization_value=24
 	barbarian_power=0

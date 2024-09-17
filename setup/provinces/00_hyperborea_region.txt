@@ -1,4 +1,4 @@
-﻿12460={ # EMPTY LOC - 12460
+﻿12460={ # Addzyny
 	terrain="taiga"
 	culture="permic"
 	religion="uralic_pantheon"
@@ -10,7 +10,7 @@
 		amount="2"
 	}
 }
-12461={ # EMPTY LOC - 12461
+12461={ # Dzudzyd
 	terrain="taiga"
 	culture="permic"
 	religion="uralic_pantheon"
@@ -22,7 +22,7 @@
 		amount="2"
 	}
 }
-12462={ # EMPTY LOC - 12462
+12462={ # Malamus
 	terrain="mountain"
 	culture="permic"
 	religion="uralic_pantheon"
@@ -46,7 +46,7 @@
 		amount="1"
 	}
 }
-12463={ # EMPTY LOC - 12463
+12463={ # Kor
 	terrain="taiga"
 	culture="permic"
 	religion="uralic_pantheon"
@@ -61,7 +61,7 @@
 		amount="1"
 	}
 }
-12464={ # EMPTY LOC - 12464
+12464={ # Bostny
 	terrain="taiga"
 	culture="permic"
 	religion="uralic_pantheon"
@@ -73,7 +73,7 @@
 		amount="2"
 	}
 }
-12465={ # EMPTY LOC - 12465
+12465={ # Mukod
 	terrain="taiga"
 	culture="permic"
 	religion="uralic_pantheon"
@@ -85,7 +85,7 @@
 		amount="2"
 	}
 }
-12466={ # EMPTY LOC - 12466
+12466={ # Kunse
 	terrain="taiga"
 	culture="arimphaei"
 	religion="uralic_pantheon"
@@ -97,7 +97,7 @@
 		amount="2"
 	}
 }
-12467={ # EMPTY LOC - 12467
+12467={ # Vidza
 	terrain="mountain"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -109,7 +109,7 @@
 		amount="2"
 	}
 }
-12468={ # EMPTY LOC - 12468
+12468={ # Olan
 	terrain="mountain"
 	culture="itkul"
 	religion="uralic_pantheon"
@@ -121,7 +121,7 @@
 		amount="2"
 	}
 }
-12469={ # EMPTY LOC - 12469
+12469={ # Gad
 	terrain="taiga"
 	culture="arimphaei"
 	religion="uralic_pantheon"
@@ -325,7 +325,7 @@
 		amount="2"
 	}
 }
-12485={ # EMPTY LOC - 12485
+12485={ # Kuamyn
 	terrain="hills"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -346,7 +346,7 @@
 		amount="1"
 	}
 }
-12486={ # EMPTY LOC - 12486
+12486={ # Ustem
 	terrain="hills"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -364,7 +364,7 @@
 		amount="6"
 	}
 }
-12487={ # EMPTY LOC - 12487
+12487={ # Kozin
 	terrain="forest"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -376,7 +376,7 @@
 		amount="2"
 	}
 }
-12488={ # EMPTY LOC - 12488
+12488={ # Nelja
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -388,7 +388,7 @@
 		amount="2"
 	}
 }
-12489={ # EMPTY LOC - 12489
+12489={ # Kerkwo
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -400,7 +400,7 @@
 		amount="2"
 	}
 }
-12490={ # EMPTY LOC - 12490
+12490={ # Nijne
 	terrain="forest"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -412,7 +412,7 @@
 		amount="2"
 	}
 }
-12491={ # EMPTY LOC - 12491
+12491={ # Wole
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -424,7 +424,7 @@
 		amount="2"
 	}
 }
-12492={ # EMPTY LOC - 12492
+12492={ # Dzazeg
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -436,7 +436,7 @@
 		amount="2"
 	}
 }
-12493={ # EMPTY LOC - 12493
+12493={ # Murt
 	terrain="forest"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -448,7 +448,7 @@
 		amount="2"
 	}
 }
-12494={ # EMPTY LOC - 12494
+12494={ # Das
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -460,7 +460,7 @@
 		amount="2"
 	}
 }
-12495={ # EMPTY LOC - 12495
+12495={ # Erga
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -472,10 +472,10 @@
 		amount="2"
 	}
 }
-12496={ # EMPTY LOC - 12496
+12496={ # Bord
 	terrain="steppes"
 	culture="argippaei"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
@@ -484,10 +484,10 @@
 		amount="2"
 	}
 }
-12497={ # EMPTY LOC - 12497
+12497={ # Bobuv
 	terrain="steppes"
 	culture="argippaei"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=5
 	barbarian_power=0
@@ -496,10 +496,10 @@
 		amount="2"
 	}
 }
-12498={ # EMPTY LOC - 12498
+12498={ # Ostny
 	terrain="steppes"
 	culture="argippaei"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=5
 	barbarian_power=0
@@ -508,7 +508,7 @@
 		amount="2"
 	}
 }
-12499={ # EMPTY LOC - 12499
+12499={ # Kulni
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -520,10 +520,10 @@
 		amount="2"
 	}
 }
-12500={ # EMPTY LOC - 12500
+12500={ # Vorkan
 	terrain="steppes"
 	culture="argippaei"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
@@ -532,10 +532,10 @@
 		amount="2"
 	}
 }
-12501={ # EMPTY LOC - 12501
+12501={ # Gozom
 	terrain="steppes"
 	culture="argippaei"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=5
 	barbarian_power=0
@@ -544,10 +544,10 @@
 		amount="2"
 	}
 }
-12502={ # EMPTY LOC - 12502
+12502={ # Kodzuv
 	terrain="steppes"
 	culture="argippaei"
-	religion="uralic_pantheon"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=5
 	barbarian_power=0
@@ -556,7 +556,7 @@
 		amount="2"
 	}
 }
-12503={ # EMPTY LOC - 12503
+12503={ # Volos
 	terrain="forest"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -568,7 +568,7 @@
 		amount="2"
 	}
 }
-12504={ # EMPTY LOC - 12504
+12504={ # Nyv
 	terrain="forest"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -580,7 +580,7 @@
 		amount="2"
 	}
 }
-12505={ # EMPTY LOC - 12505
+12505={ # Lewle
 	terrain="plains"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -592,7 +592,7 @@
 		amount="5"
 	}
 }
-12506={ # EMPTY LOC - 12506
+12506={ # Asnym
 	terrain="steppes"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -604,7 +604,7 @@
 		amount="2"
 	}
 }
-12507={ # EMPTY LOC - 12507
+12507={ # Lebny
 	terrain="forest"
 	culture="argippaei"
 	religion="uralic_pantheon"
@@ -616,7 +616,7 @@
 		amount="2"
 	}
 }
-12508={ # EMPTY LOC - 12508
+12508={ # Zer
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -628,10 +628,10 @@
 		amount="2"
 	}
 }
-12509={ # EMPTY LOC - 12509
+12509={ # Niz
 	terrain="steppes"
 	culture="sarmatian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
@@ -640,7 +640,7 @@
 		amount="3"
 	}
 }
-12510={ # EMPTY LOC - 12510
+12510={ # Dzek
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -652,10 +652,10 @@
 		amount="2"
 	}
 }
-12511={ # EMPTY LOC - 12511
+12511={ # Kutny
 	terrain="steppes"
 	culture="sarmatian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=5
 	barbarian_power=0
@@ -664,10 +664,10 @@
 		amount="2"
 	}
 }
-12512={ # EMPTY LOC - 12512
+12512={ # Polo
 	terrain="steppes"
 	culture="sarmatian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
@@ -676,7 +676,7 @@
 		amount="2"
 	}
 }
-12513={ # EMPTY LOC - 12513
+12513={ # Pors
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -688,7 +688,7 @@
 		amount="2"
 	}
 }
-12514={ # EMPTY LOC - 12514
+12514={ # Kymos
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -700,7 +700,7 @@
 		amount="2"
 	}
 }
-12515={ # EMPTY LOC - 12515
+12515={ # Kovny
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -712,7 +712,7 @@
 		amount="2"
 	}
 }
-12516={ # EMPTY LOC - 12516
+12516={ # Jyv
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -724,7 +724,7 @@
 		amount="3"
 	}
 }
-12517={ # EMPTY LOC - 12517
+12517={ # Gyrys
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -736,7 +736,7 @@
 		amount="2"
 	}
 }
-12518={ # EMPTY LOC - 12518
+12518={ # Gola
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -748,7 +748,7 @@
 		amount="2"
 	}
 }
-12519={ # EMPTY LOC - 12519
+12519={ # Asnyd
 	terrain="steppes"
 	culture="sarmatian"
 	religion="indo_iranian_religion"
@@ -760,7 +760,7 @@
 		amount="2"
 	}
 }
-12520={ # EMPTY LOC - 12520
+12520={ # Deme
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -772,7 +772,7 @@
 		amount="2"
 	}
 }
-12521={ # EMPTY LOC - 12521
+12521={ # Asil
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -784,7 +784,7 @@
 		amount="2"
 	}
 }
-12522={ # EMPTY LOC - 12522
+12522={ # Gord
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -805,7 +805,7 @@
 		amount="1"
 	}
 }
-12523={ # EMPTY LOC - 12523
+12523={ # Med
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -817,7 +817,7 @@
 		amount="2"
 	}
 }
-12524={ # EMPTY LOC - 12524
+12524={ # Vony
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -829,7 +829,7 @@
 		amount="2"
 	}
 }
-12525={ # EMPTY LOC - 12525
+12525={ # Kyny
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -841,7 +841,7 @@
 		amount="2"
 	}
 }
-12526={ # EMPTY LOC - 12526
+12526={ # Kvajt
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -853,7 +853,7 @@
 		amount="2"
 	}
 }
-12527={ # EMPTY LOC - 12527
+12527={ # Vevt
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -865,7 +865,7 @@
 		amount="2"
 	}
 }
-12528={ # EMPTY LOC - 12528
+12528={ # Asnys
 	terrain="taiga"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -877,7 +877,7 @@
 		amount="4"
 	}
 }
-12529={ # EMPTY LOC - 12529
+12529={ # Dod
 	terrain="forest"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -889,7 +889,7 @@
 		amount="2"
 	}
 }
-12530={ # EMPTY LOC - 12530
+12530={ # Boza
 	terrain="forest"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -907,7 +907,7 @@
 		amount="1"
 	}
 }
-12531={ # EMPTY LOC - 12531
+12531={ # Kycan
 	terrain="forest"
 	culture="mari"
 	religion="uralic_pantheon"
@@ -919,7 +919,7 @@
 		amount="2"
 	}
 }
-12532={ # EMPTY LOC - 12532
+12532={ # Lavtomo
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -934,7 +934,7 @@
 		amount="1"
 	}
 }
-12533={ # EMPTY LOC - 12533
+12533={ # Menel
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -946,7 +946,7 @@
 		amount="3"
 	}
 }
-12534={ # EMPTY LOC - 12534
+12534={ # Inzej
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -958,7 +958,7 @@
 		amount="2"
 	}
 }
-12535={ # EMPTY LOC - 12535
+12535={ # Teste
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -970,7 +970,7 @@
 		amount="3"
 	}
 }
-12536={ # EMPTY LOC - 12536
+12536={ # Kjelj
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -982,7 +982,7 @@
 		amount="3"
 	}
 }
-12537={ # EMPTY LOC - 12537
+12537={ # Makso
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -994,7 +994,7 @@
 		amount="2"
 	}
 }
-12538={ # EMPTY LOC - 12538
+12538={ # Kelme
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1012,7 +1012,7 @@
 		amount="2"
 	}
 }
-12539={ # EMPTY LOC - 12539
+12539={ # Pizeme
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1024,7 +1024,7 @@
 		amount="2"
 	}
 }
-12540={ # EMPTY LOC - 12540
+12540={ # Lovaza
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1039,7 +1039,7 @@
 		amount="1"
 	}
 }
-12541={ # EMPTY LOC - 12541
+12541={ # Tol
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1051,7 +1051,7 @@
 		amount="2"
 	}
 }
-12542={ # EMPTY LOC - 12542
+12542={ # Kumaza
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1063,7 +1063,7 @@
 		amount="2"
 	}
 }
-12543={ # EMPTY LOC - 12543
+12543={ # Selme
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1075,7 +1075,7 @@
 		amount="3"
 	}
 }
-12544={ # EMPTY LOC - 12544
+12544={ # Turva
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1087,7 +1087,7 @@
 		amount="2"
 	}
 }
-12545={ # EMPTY LOC - 12545
+12545={ # Moncen
 	terrain="marsh"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1099,7 +1099,7 @@
 		amount="2"
 	}
 }
-12546={ # EMPTY LOC - 12546
+12546={ # Kinere
 	terrain="marsh"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1111,7 +1111,7 @@
 		amount="2"
 	}
 }
-12547={ # EMPTY LOC - 12547
+12547={ # Udoma
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1123,7 +1123,7 @@
 		amount="3"
 	}
 }
-12548={ # EMPTY LOC - 12548
+12548={ # Suv
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1135,7 +1135,7 @@
 		amount="2"
 	}
 }
-12549={ # EMPTY LOC - 12549
+12549={ # Rungo
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1147,7 +1147,7 @@
 		amount="2"
 	}
 }
-12550={ # EMPTY LOC - 12550
+12550={ # Pilge
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1159,7 +1159,7 @@
 		amount="3"
 	}
 }
-12551={ # EMPTY LOC - 12551
+12551={ # Ine
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1171,7 +1171,7 @@
 		amount="2"
 	}
 }
-12552={ # EMPTY LOC - 12552
+12552={ # Vergiz
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1183,7 +1183,7 @@
 		amount="2"
 	}
 }
-12553={ # EMPTY LOC - 12553
+12553={ # Purgine
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1195,7 +1195,7 @@
 		amount="2"
 	}
 }
-12554={ # EMPTY LOC - 12554
+12554={ # Tuvo
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1207,7 +1207,7 @@
 		amount="2"
 	}
 }
-12555={ # EMPTY LOC - 12555
+12555={ # Sedej
 	terrain="marsh"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1219,7 +1219,7 @@
 		amount="2"
 	}
 }
-12556={ # EMPTY LOC - 12556
+12556={ # Kirga
 	terrain="forest"
 	culture="mordvin"
 	religion="uralic_pantheon"
@@ -1231,7 +1231,7 @@
 		amount="3"
 	}
 }
-12557={ # EMPTY LOC - 12557
+12557={ # Juuri
 	terrain="taiga"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1243,7 +1243,7 @@
 		amount="2"
 	}
 }
-12558={ # EMPTY LOC - 12558
+12558={ # Karkeda
 	terrain="forest"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1255,7 +1255,7 @@
 		amount="2"
 	}
 }
-12559={ # EMPTY LOC - 12559
+12559={ # Orja
 	terrain="taiga"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1267,7 +1267,7 @@
 		amount="2"
 	}
 }
-12560={ # EMPTY LOC - 12560
+12560={ # Kacku
 	terrain="forest"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1279,7 +1279,7 @@
 		amount="2"
 	}
 }
-12561={ # EMPTY LOC - 12561
+12561={ # Ampudak
 	terrain="taiga"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1291,7 +1291,7 @@
 		amount="2"
 	}
 }
-12562={ # EMPTY LOC - 12562
+12562={ # Ahtera
 	terrain="marsh"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1306,7 +1306,7 @@
 		amount="2"
 	}
 }
-12563={ # EMPTY LOC - 12563
+12563={ # Majagax
 	terrain="forest"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1318,7 +1318,7 @@
 		amount="2"
 	}
 }
-12564={ # EMPTY LOC - 12564
+12564={ # Louna
 	terrain="marsh"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1330,7 +1330,7 @@
 		amount="2"
 	}
 }
-12565={ # EMPTY LOC - 12565
+12565={ # Nerkka
 	terrain="forest"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1342,7 +1342,7 @@
 		amount="2"
 	}
 }
-12566={ # EMPTY LOC - 12566
+12566={ # Oraca
 	terrain="forest"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1354,7 +1354,7 @@
 		amount="2"
 	}
 }
-12567={ # EMPTY LOC - 12567
+12567={ # Mustajoki
 	terrain="marsh"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1372,7 +1372,7 @@
 		amount="1"
 	}
 }
-12568={ # EMPTY LOC - 12568
+12568={ # Nitodak
 	terrain="marsh"
 	culture="volgaic"
 	religion="uralic_pantheon"
@@ -1384,7 +1384,7 @@
 		amount="2"
 	}
 }
-12569={ # EMPTY LOC - 12569
+12569={ # Lupsadak
 	terrain="marsh"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1396,7 +1396,7 @@
 		amount="2"
 	}
 }
-12570={ # EMPTY LOC - 12570
+12570={ # Kursa
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1408,7 +1408,7 @@
 		amount="3"
 	}
 }
-12571={ # EMPTY LOC - 12571
+12571={ # Kanci
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1420,7 +1420,7 @@
 		amount="3"
 	}
 }
-12572={ # EMPTY LOC - 12572
+12572={ # Istudak
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1438,7 +1438,7 @@
 		amount="1"
 	}
 }
-12573={ # EMPTY LOC - 12573
+12573={ # Hanha
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1450,7 +1450,7 @@
 		amount="2"
 	}
 }
-12574={ # EMPTY LOC - 12574
+12574={ # Tammi
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1462,7 +1462,7 @@
 		amount="2"
 	}
 }
-12575={ # EMPTY LOC - 12575
+12575={ # Suurima
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1474,7 +1474,7 @@
 		amount="3"
 	}
 }
-12576={ # EMPTY LOC - 12576
+12576={ # Udar
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1486,7 +1486,7 @@
 		amount="2"
 	}
 }
-12577={ # EMPTY LOC - 12577
+12577={ # Rappana
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1501,7 +1501,7 @@
 		amount="2"
 	}
 }
-12578={ # EMPTY LOC - 12578
+12578={ # Kuntadak
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1513,7 +1513,7 @@
 		amount="2"
 	}
 }
-12579={ # EMPTY LOC - 12579
+12579={ # Pihti
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1531,7 +1531,7 @@
 		amount="1"
 	}
 }
-12580={ # EMPTY LOC - 12580
+12580={ # Orko
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1555,7 +1555,7 @@
 		amount="1"
 	}
 }
-12581={ # EMPTY LOC - 12581
+12581={ # Jasen
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1567,7 +1567,7 @@
 		amount="4"
 	}
 }
-12582={ # EMPTY LOC - 12582
+12582={ # Marehtidak
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1588,7 +1588,7 @@
 		amount="1"
 	}
 }
-12583={ # EMPTY LOC - 12583
+12583={ # Maito
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1600,7 +1600,7 @@
 		amount="3"
 	}
 }
-12584={ # EMPTY LOC - 12584
+12584={ # Tallatak
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1612,7 +1612,7 @@
 		amount="2"
 	}
 }
-12585={ # EMPTY LOC - 12585
+12585={ # Valadak
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1624,7 +1624,7 @@
 		amount="3"
 	}
 }
-12586={ # EMPTY LOC - 12586
+12586={ # Alu
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1636,7 +1636,7 @@
 		amount="2"
 	}
 }
-12587={ # EMPTY LOC - 12587
+12587={ # Ukteksa
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1648,7 +1648,7 @@
 		amount="2"
 	}
 }
-12588={ # EMPTY LOC - 12588
+12588={ # Katketak
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1660,7 +1660,7 @@
 		amount="3"
 	}
 }
-12589={ # EMPTY LOC - 12589
+12589={ # Kutodak
 	terrain="marsh"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1672,7 +1672,7 @@
 		amount="2"
 	}
 }
-12590={ # EMPTY LOC - 12590
+12590={ # Jarvi
 	terrain="marsh"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1684,7 +1684,7 @@
 		amount="2"
 	}
 }
-12591={ # EMPTY LOC - 12591
+12591={ # Tuhma
 	terrain="marsh"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1696,7 +1696,7 @@
 		amount="2"
 	}
 }
-12592={ # EMPTY LOC - 12592
+12592={ # Mukka
 	terrain="marsh"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1708,7 +1708,7 @@
 		amount="3"
 	}
 }
-12593={ # EMPTY LOC - 12593
+12593={ # Oikeda
 	terrain="forest"
 	culture="androphagian"
 	religion="uralic_pantheon"
@@ -1720,7 +1720,7 @@
 		amount="2"
 	}
 }
-12594={ # EMPTY LOC - 12594
+12594={ # Kadus
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1732,7 +1732,7 @@
 		amount="2"
 	}
 }
-12595={ # EMPTY LOC - 12595
+12595={ # Kickedak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1744,7 +1744,7 @@
 		amount="2"
 	}
 }
-12596={ # EMPTY LOC - 12596
+12596={ # Inhiminen
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1756,7 +1756,7 @@
 		amount="3"
 	}
 }
-12597={ # EMPTY LOC - 12597
+12597={ # Coppi
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1768,7 +1768,7 @@
 		amount="3"
 	}
 }
-12598={ # EMPTY LOC - 12598
+12598={ # Nalja
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1789,7 +1789,7 @@
 		amount="1"
 	}
 }
-12599={ # EMPTY LOC - 12599
+12599={ # Niini
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1804,7 +1804,7 @@
 		amount="1"
 	}
 }
-12600={ # EMPTY LOC - 12600
+12600={ # Jauhadak
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1816,7 +1816,7 @@
 		amount="3"
 	}
 }
-12601={ # EMPTY LOC - 12601
+12601={ # Mendak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1828,7 +1828,7 @@
 		amount="3"
 	}
 }
-12602={ # EMPTY LOC - 12602
+12602={ # Kantadak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1840,7 +1840,7 @@
 		amount="3"
 	}
 }
-12603={ # EMPTY LOC - 12603
+12603={ # Keerdak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1852,7 +1852,7 @@
 		amount="3"
 	}
 }
-12604={ # EMPTY LOC - 12604
+12604={ # Cina
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1867,7 +1867,7 @@
 		amount="1"
 	}
 }
-12605={ # EMPTY LOC - 12605
+12605={ # Saicen
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1879,7 +1879,7 @@
 		amount="2"
 	}
 }
-12606={ # EMPTY LOC - 12606
+12606={ # Soodak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1903,7 +1903,7 @@
 		amount="1"
 	}
 }
-12607={ # EMPTY LOC - 12607
+12607={ # Parna
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1918,7 +1918,7 @@
 		amount="1"
 	}
 }
-12608={ # EMPTY LOC - 12608
+12608={ # Loodak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1933,7 +1933,7 @@
 		amount="1"
 	}
 }
-12609={ # EMPTY LOC - 12609
+12609={ # Hiiri
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1948,7 +1948,7 @@
 		amount="2"
 	}
 }
-12610={ # EMPTY LOC - 12610
+12610={ # Anoppi
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1963,7 +1963,7 @@
 		amount="1"
 	}
 }
-12611={ # EMPTY LOC - 12611
+12611={ # Leemi
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1975,7 +1975,7 @@
 		amount="2"
 	}
 }
-12612={ # EMPTY LOC - 12612
+12612={ # Koski
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -1990,7 +1990,7 @@
 		amount="1"
 	}
 }
-12613={ # EMPTY LOC - 12613
+12613={ # Nooli
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2005,7 +2005,7 @@
 		amount="1"
 	}
 }
-12614={ # EMPTY LOC - 12614
+12614={ # Nato
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2017,7 +2017,7 @@
 		amount="2"
 	}
 }
-12615={ # EMPTY LOC - 12615
+12615={ # Ohut
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2029,7 +2029,7 @@
 		amount="2"
 	}
 }
-12616={ # EMPTY LOC - 12616
+12616={ # Minija
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2041,7 +2041,7 @@
 		amount="2"
 	}
 }
-12617={ # EMPTY LOC - 12617
+12617={ # Sisalikko
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2053,7 +2053,7 @@
 		amount="1"
 	}
 }
-12618={ # EMPTY LOC - 12618
+12618={ # Purdak
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2065,7 +2065,7 @@
 		amount="2"
 	}
 }
-12619={ # EMPTY LOC - 12619
+12619={ # Keuci
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2077,7 +2077,7 @@
 		amount="2"
 	}
 }
-12620={ # EMPTY LOC - 12620
+12620={ # Jalka
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2089,7 +2089,7 @@
 		amount="3"
 	}
 }
-12621={ # EMPTY LOC - 12621
+12621={ # Imedak
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2101,7 +2101,7 @@
 		amount="3"
 	}
 }
-12622={ # EMPTY LOC - 12622
+12622={ # Leulu
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2113,7 +2113,7 @@
 		amount="3"
 	}
 }
-12623={ # EMPTY LOC - 12623
+12623={ # Lampi
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2125,7 +2125,7 @@
 		amount="4"
 	}
 }
-12624={ # EMPTY LOC - 12624
+12624={ # Neiti
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2137,7 +2137,7 @@
 		amount="2"
 	}
 }
-12625={ # EMPTY LOC - 12625
+12625={ # Seeni
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2149,7 +2149,7 @@
 		amount="2"
 	}
 }
-12626={ # EMPTY LOC - 12626
+12626={ # Koira
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2161,7 +2161,7 @@
 		amount="3"
 	}
 }
-12627={ # EMPTY LOC - 12627
+12627={ # Murtadak
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2185,7 +2185,7 @@
 		amount="1"
 	}
 }
-12628={ # EMPTY LOC - 12628
+12628={ # Ema
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2203,7 +2203,7 @@
 		amount="2"
 	}
 }
-12629={ # EMPTY LOC - 12629
+12629={ # Hapci
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2218,7 +2218,7 @@
 		amount="1"
 	}
 }
-12630={ # EMPTY LOC - 12630
+12630={ # Pilvi
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2230,7 +2230,7 @@
 		amount="2"
 	}
 }
-12631={ # EMPTY LOC - 12631
+12631={ # Painadak
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2242,7 +2242,7 @@
 		amount="2"
 	}
 }
-12632={ # EMPTY LOC - 12632
+12632={ # Hiici
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2254,7 +2254,7 @@
 		amount="2"
 	}
 }
-12633={ # EMPTY LOC - 12633
+12633={ # Ica
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2266,7 +2266,7 @@
 		amount="2"
 	}
 }
-12634={ # EMPTY LOC - 12634
+12634={ # Alkadak
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2278,7 +2278,7 @@
 		amount="2"
 	}
 }
-12635={ # EMPTY LOC - 12635
+12635={ # Joostak
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2290,7 +2290,7 @@
 		amount="2"
 	}
 }
-12636={ # EMPTY LOC - 12636
+12636={ # Peeli
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2302,7 +2302,7 @@
 		amount="2"
 	}
 }
-12637={ # EMPTY LOC - 12637
+12637={ # Kuunel
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2314,7 +2314,7 @@
 		amount="2"
 	}
 }
-12638={ # EMPTY LOC - 12638
+12638={ # Lintu
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2326,7 +2326,7 @@
 		amount="2"
 	}
 }
-12639={ # EMPTY LOC - 12639
+12639={ # Matas
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2338,7 +2338,7 @@
 		amount="2"
 	}
 }
-12640={ # EMPTY LOC - 12640
+12640={ # Nuci
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2350,7 +2350,7 @@
 		amount="2"
 	}
 }
-12641={ # EMPTY LOC - 12641
+12641={ # Korpi
 	terrain="taiga"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2362,7 +2362,7 @@
 		amount="2"
 	}
 }
-12642={ # EMPTY LOC - 12642
+12642={ # Ceketek
 	terrain="forest"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2377,7 +2377,7 @@
 		amount="1"
 	}
 }
-12643={ # EMPTY LOC - 12643
+12643={ # Elpes
 	terrain="marsh"
 	culture="fennic"
 	religion="uralic_pantheon"
@@ -2389,7 +2389,7 @@
 		amount="3"
 	}
 }
-12644={ # EMPTY LOC - 12644
+12644={ # Kavso
 	terrain="taiga"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2401,7 +2401,7 @@
 		amount="2"
 	}
 }
-12645={ # EMPTY LOC - 12645
+12645={ # Koles
 	terrain="taiga"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2413,7 +2413,7 @@
 		amount="2"
 	}
 }
-12646={ # EMPTY LOC - 12646
+12646={ # Havte
 	terrain="taiga"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2425,7 +2425,7 @@
 		amount="2"
 	}
 }
-12647={ # EMPTY LOC - 12647
+12647={ # Cierrekke
 	terrain="marsh"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2437,7 +2437,7 @@
 		amount="3"
 	}
 }
-12648={ # EMPTY LOC - 12648
+12648={ # Loaoko
 	terrain="taiga"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2449,7 +2449,7 @@
 		amount="2"
 	}
 }
-12649={ # EMPTY LOC - 12649
+12649={ # Muore
 	terrain="marsh"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2470,7 +2470,7 @@
 		amount="1"
 	}
 }
-12650={ # EMPTY LOC - 12650
+12650={ # Kuovcore
 	terrain="marsh"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2485,7 +2485,7 @@
 		amount="1"
 	}
 }
-12651={ # EMPTY LOC - 12651
+12651={ # Juomo
 	terrain="taiga"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2497,7 +2497,7 @@
 		amount="2"
 	}
 }
-12652={ # EMPTY LOC - 12652
+12652={ # Nuorjo
 	terrain="taiga"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2509,7 +2509,7 @@
 		amount="2"
 	}
 }
-12653={ # EMPTY LOC - 12653
+12653={ # Tivotek
 	terrain="forest"
 	culture="sapmi"
 	religion="uralic_pantheon"
@@ -2524,7 +2524,7 @@
 		amount="1"
 	}
 }
-12654={ # EMPTY LOC - 12654
+12654={ # Veapse
 	terrain="marsh"
 	culture="sapmi"
 	religion="uralic_pantheon"

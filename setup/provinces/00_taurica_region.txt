@@ -1,4 +1,4 @@
-4530={ # Hippolaou Akra
+﻿4530={ # Hippolaou Akra
 	terrain="forest"
 	culture="bosporan"
 	religion="indo_iranian_religion"
@@ -1127,7 +1127,7 @@
 7606={ # Heniat
 	terrain="mountain"
 	culture="siraci"
-	religion="indo_iranian_religion"
+	religion="caucasian_religion"
 	trade_goods="cattle"
 	civilization_value=1
 	barbarian_power=0
@@ -1365,7 +1365,7 @@
 7622={ # Skarin
 	terrain="mountain"
 	culture="siraci"
-	religion="indo_iranian_religion"
+	religion="caucasian_religion"
 	trade_goods="leather"
 	civilization_value=1
 	barbarian_power=0
@@ -1380,7 +1380,7 @@
 7629={ # Gorat
 	terrain="mountain"
 	culture="legian"
-	religion="indo_iranian_religion"
+	religion="caucasian_religion"
 	trade_goods="wood"
 	civilization_value=1
 	barbarian_power=0
@@ -1407,7 +1407,7 @@
 7631={ # Irkat
 	terrain="forest"
 	culture="siraci"
-	religion="indo_iranian_religion"
+	religion="caucasian_religion"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0

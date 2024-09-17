@@ -1,4 +1,4 @@
-648={ # Gennesar
+﻿648={ # Gennesar
 	terrain="forest"
 	culture="hebrew"
 	religion="judaism"
@@ -114,7 +114,7 @@
 662={ # Iamneia
 	terrain="plains"
 	culture="philistine"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -132,7 +132,7 @@
 663={ # Ioppe
 	terrain="plains"
 	culture="philistine"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -153,7 +153,7 @@
 664={ # ApolloniaPalaistinias
 	terrain="plains"
 	culture="philistine"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="pearls"
 	civilization_value=31
 	barbarian_power=0
@@ -175,7 +175,7 @@
 665={ # StratonosPyrgos
 	terrain="plains"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="vegetables"
 	civilization_value=26
 	barbarian_power=0
@@ -208,7 +208,7 @@
 667={ # Dora
 	terrain="plains"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -226,7 +226,7 @@
 668={ # Boukolonpolis
 	terrain="plains"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="vegetables"
 	civilization_value=26
 	barbarian_power=0
@@ -241,7 +241,7 @@
 669={ # Jellemeh
 	terrain="plains"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
@@ -381,7 +381,7 @@
 677={ # Asochis
 	terrain="hills"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -396,7 +396,7 @@
 678={ # Narbata
 	terrain="plains"
 	culture="phoenician"
-	religion="carthaginian_pantheon"
+	religion="judaism"
 	trade_goods="vegetables"
 	civilization_value=25
 	barbarian_power=0
@@ -451,7 +451,7 @@
 681={ # Characmoba
 	terrain="hills"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=23
 	barbarian_power=0
@@ -694,7 +694,7 @@
 694={ # Maon
 	terrain="plains"
 	culture="philistine"
-	religion="carthaginian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -760,7 +760,7 @@
 698={ # Sobata
 	terrain="plains"
 	culture="hebrew"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -778,7 +778,7 @@
 699={ # Eboda
 	terrain="plains"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0
@@ -796,7 +796,7 @@
 700={ # Mampsis
 	terrain="hills"
 	culture="hebrew"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -829,7 +829,7 @@
 703={ # Gypsaria
 	terrain="desert"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="cloth"
 	civilization_value=17
 	barbarian_power=0
@@ -841,7 +841,7 @@
 704={ # Aelana
 	terrain="desert_hills"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="salt"
 	civilization_value=20
 	barbarian_power=0
@@ -858,7 +858,7 @@
 705={ # Sabkah
 	terrain="desert_hills"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="stone"
 	civilization_value=20
 	barbarian_power=0
@@ -873,7 +873,7 @@
 706={ # Bossia
 	terrain="desert_hills"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=20
 	barbarian_power=0
@@ -891,7 +891,7 @@
 707={ # Arieldela
 	terrain="desert_hills"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -909,7 +909,7 @@
 708={ # Kalgouia
 	terrain="plains"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="cloth"
 	civilization_value=20
 	barbarian_power=0
@@ -924,7 +924,7 @@
 709={ # Toloha
 	terrain="plains"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -945,7 +945,7 @@
 710={ # Zoara
 	terrain="plains"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="cattle"
 	civilization_value=25
 	barbarian_power=0
@@ -981,7 +981,7 @@
 712={ # Aroes
 	terrain="dry_hills"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="cloth"
 	civilization_value=25
 	barbarian_power=0
@@ -1059,7 +1059,7 @@
 716={ # Esbous
 	terrain="dry_hills"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="cloth"
 	civilization_value=25
 	barbarian_power=0
@@ -1080,7 +1080,7 @@
 717={ # Madaba
 	terrain="dry_hills"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
@@ -1098,7 +1098,7 @@
 718={ # Rabbat Ammon
 	terrain="plains"
 	culture="aramaic"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
@@ -1149,7 +1149,7 @@
 721={ # Gerasa
 	terrain="plains"
 	culture="aramaic"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=26
 	barbarian_power=0
@@ -1215,7 +1215,7 @@
 728={ # Auara
 	terrain="desert_hills"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -1233,7 +1233,7 @@
 729={ # Petra
 	terrain="hills"
 	culture="nabatean"
-	religion="arabian_pantheon"
+	religion="carthaginian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=23
 	barbarian_power=0
@@ -1273,7 +1273,7 @@
 731={ # Mhai
 	terrain="desert"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1306,7 +1306,7 @@
 733={ # Abila Dekapoleos
 	terrain="plains"
 	culture="aramaic"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=26
 	barbarian_power=0
@@ -1321,7 +1321,7 @@
 734={ # Bostra
 	terrain="plains"
 	culture="aramaic"
-	religion="carthaginian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
@@ -1336,7 +1336,7 @@
 735={ # Canatha
 	terrain="plains"
 	culture="aramaic"
-	religion="carthaginian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="earthware"
 	civilization_value=26
 	barbarian_power=0
@@ -1351,7 +1351,7 @@
 736={ # Mothana
 	terrain="plains"
 	culture="aramaic"
-	religion="carthaginian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=26
 	barbarian_power=0
@@ -1384,7 +1384,7 @@
 739={ # Karnaia
 	terrain="plains"
 	culture="hebrew"
-	religion="judaism"
+	religion="carthaginian_pantheon"
 	trade_goods="citrus"
 	civilization_value=26
 	barbarian_power=0
@@ -1399,7 +1399,7 @@
 7554={ # Arabia Deserta
 	terrain="desert"
 	culture="qedarite"
-	religion="carthaginian_pantheon"
+	religion="arabian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

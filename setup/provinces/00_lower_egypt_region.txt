@@ -1,4 +1,4 @@
-445={ # Dyme
+﻿445={ # Dyme
 	terrain="desert"
 	culture="egyptian"
 	religion="berber_religion"

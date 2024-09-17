@@ -1,4 +1,4 @@
-137={ # Luna
+﻿137={ # Luna
 	terrain="plains"
 	culture="etruscan"
 	religion="roman_pantheon"

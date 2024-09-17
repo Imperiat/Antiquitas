@@ -1,4 +1,4 @@
-9944={ # Tarfawi
+﻿9944={ # Tarfawi
 	terrain="desert"
 	culture="nasamonian"
 	religion="berber_religion"

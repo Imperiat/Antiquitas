@@ -1,28 +1,27 @@
-﻿4440={ #Pataliputra
+﻿4440={ # Pataliputra
 	terrain="farmland"
 	culture="magadhi"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="silk"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city_metropolis"
 	nobles={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=14
+		amount="14"
 	}
 	slaves={
-		amount=19
+		amount="19"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_indra
+	holy_site="omen_indra"
 	port_building=1
 }
-
-4441={ #Asthagora
+4441={ # Asthagora
 	terrain="farmland"
 	culture="vrji"
 	religion="hindu"
@@ -31,58 +30,55 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-4442={ #Nalanda
+4442={ # Nalanda
 	terrain="plains"
 	culture="magadhi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="papyrus"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 }
-
-4443={ #Nadikagama
+4443={ # Nadikagama
 	terrain="farmland"
 	culture="magadhi"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="silk"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-4444={ #Gaya
+4444={ # Gaya
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -91,21 +87,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_bodh
+	holy_site="omen_bodh"
 }
-
-4445={ #Rajagagriha
+4445={ # Rajagagriha
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -114,61 +109,58 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=9
+		amount="9"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4446={ #Campa
+4446={ # Campa
 	terrain="jungle"
 	culture="magadhi"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="precious_metals"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_mallarama
+	holy_site="omen_mallarama"
 }
-
-4447={ #Kajangala
+4447={ # Kajangala
 	terrain="jungle"
 	culture="magadhi"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="precious_metals"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=10
+		amount="10"
 	}
+	holy_site="omen_payasi"
 	port_building=1
-	holy_site=omen_payasi
 }
-
-4448={ #Vaishali
+4448={ # Vaishali
 	terrain="farmland"
 	culture="magadhi"
 	religion="hindu"
@@ -177,21 +169,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=14
+		amount="14"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
-	holy_site=omen_ajjuna
+	holy_site="omen_ajjuna"
 }
-
-4449={ #Kusinagara
+4449={ # Kusinagara
 	terrain="plains"
 	culture="vrji"
 	religion="hindu"
@@ -200,88 +191,83 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	freemen={
-		amount=13
+		amount="13"
 	}
 	slaves={
-		amount=11
+		amount="11"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_kusinagara
+	holy_site="omen_kusinagara"
 }
-
-4450={ #Kapilavastu
+4450={ # Kapilavastu
 	terrain="jungle"
 	culture="himalayan"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="wild_game"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4457={ #Lumbini
+4457={ # Lumbini
 	terrain="jungle"
 	culture="himalayan"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4458={ #Ramagrama
+4458={ # Ramagrama
 	terrain="jungle"
 	culture="himalayan"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="dye"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-4459={ #Selanpura
+4459={ # Selanpura
 	terrain="mountain"
 	culture="himalayan"
-	religion="jainism"
+	religion="bon_religion"
 	trade_goods="earthware"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 }
-
-4460={ #Sugauna
+4460={ # Sugauna
 	terrain="jungle"
 	culture="himalayan"
 	religion="hindu"
@@ -290,11 +276,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-4461={ #Dwarbanga
+4461={ # Dwarbanga
 	terrain="plains"
 	culture="magadhi"
 	religion="hindu"
@@ -303,33 +288,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4462={ #Modgagiri
+4462={ # Modgagiri
 	terrain="farmland"
 	culture="magadhi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="base_metals"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=13
+		amount="13"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 }
-
-4463={ #Malini
+4463={ # Malini
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -338,34 +321,32 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_mahavir_jayanti
+	holy_site="omen_mahavir_jayanti"
 }
-
-4464={ #Devaprastha
+4464={ # Devaprastha
 	terrain="jungle"
 	culture="himalayan"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="elephants"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-5584={ #Tshongdu
+5584={ # Tshongdu
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -374,11 +355,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5628={ #Paro Kerchu
+5628={ # Paro Kerchu
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -387,11 +367,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7322={ #Purnia
+7322={ # Purnia
 	terrain="farmland"
 	culture="magadhi"
 	religion="hindu"
@@ -400,62 +379,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-7323={ #Kirrhadia
+7323={ # Kirrhadia
 	terrain="jungle"
 	culture="kamarupi"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7324={ #Balipura
+7324={ # Balipura
 	terrain="plains"
 	culture="kamarupi"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="silk"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 }
-
-7325={ #Pundra
+7325={ # Pundra
 	terrain="farmland"
 	culture="pandra"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=5
+		amount="5"
 	}
 }
-
-7326={ #Kotivarsa
+7326={ # Kotivarsa
 	terrain="farmland"
 	culture="pandra"
 	religion="hindu"
@@ -464,17 +439,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7327={ #Karnasuvarna
+7327={ # Karnasuvarna
 	terrain="flood_plain"
 	culture="pandra"
 	religion="hindu"
@@ -483,91 +457,86 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=14
+		amount="14"
 	}
 	freemen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=17
+		amount="17"
 	}
 }
-
-7328={ #Vardhamana
+7328={ # Vardhamana
 	terrain="flood_plain"
 	culture="pandra"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 }
-
-7329={ #Chandraketugarh
+7329={ # Chandraketugarh
 	terrain="flood_plain"
 	culture="pandra"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="sugar"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7330={ #Bargysi
+7330={ # Bargysi
 	terrain="flood_plain"
 	culture="bangli"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="cowrie_shells"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-7331={ #Chittagong
+7331={ # Chittagong
 	terrain="marsh"
 	culture="bangli"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="cowrie_shells"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-7332={ #Salariga
+7332={ # Salariga
 	terrain="jungle"
 	culture="bangli"
 	religion="hindu"
@@ -576,11 +545,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7333={ #Srihatta
+7333={ # Srihatta
 	terrain="jungle"
 	culture="jaintia"
 	religion="hindu"
@@ -589,14 +557,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-7334={ #Bikrampur
+7334={ # Bikrampur
 	terrain="flood_plain"
 	culture="bangli"
 	religion="hindu"
@@ -605,14 +572,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-7335={ #Souannagoura
+7335={ # Souannagoura
 	terrain="plains"
 	culture="kamarupi"
 	religion="hindu"
@@ -621,14 +587,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7336={ #Selampoura
+7336={ # Selampoura
 	terrain="flood_plain"
 	culture="pandra"
 	religion="hindu"
@@ -637,17 +602,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7337={ #Aganagara
+7337={ # Aganagara
 	terrain="flood_plain"
 	culture="pandra"
 	religion="hindu"
@@ -656,36 +620,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-7338={ #Deoghar
+7338={ # Deoghar
 	terrain="jungle"
 	culture="magadhi"
-	religion="jainism"
+	religion="agama"
 	trade_goods="iron"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7339={ #Pragjyotishpura
+7339={ # Pragjyotishpura
 	terrain="hills"
 	culture="jaintia"
 	religion="hindu"
@@ -694,33 +656,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-7340={ #Suhma
+7340={ # Suhma
 	terrain="flood_plain"
 	culture="jaintia"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="silk"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7341={ #Sonitapur
+7341={ # Sonitapur
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -729,20 +689,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7342={ #Hajo
+7342={ # Hajo
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -751,17 +710,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7343={ #Dhuburi
+7343={ # Dhuburi
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -770,33 +728,31 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7344={ #Goalpara
+7344={ # Goalpara
 	terrain="jungle"
 	culture="jaintia"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="silk"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7345={ #Nabadwipa
+7345={ # Nabadwipa
 	terrain="jungle"
 	culture="pandra"
 	religion="hindu"
@@ -805,17 +761,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=11
+		amount="11"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=13
+		amount="13"
 	}
 }
-
-7346={ #Bhargava
+7346={ # Bhargava
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -824,49 +779,46 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-7347={ #Bhallaka
+7347={ # Bhallaka
 	terrain="hills"
 	culture="kamarupi"
-	religion="jainism"
+	religion="bon_religion"
 	trade_goods="incense"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7348={ #Davaka
+7348={ # Davaka
 	terrain="hills"
 	culture="jaintia"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="incense"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7349={ #Gramera
+7349={ # Gramera
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -875,49 +827,46 @@
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=11
+		amount="11"
 	}
 }
-
-7350={ #Gosira
+7350={ # Gosira
 	terrain="jungle"
 	culture="kamarupi"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7351={ #Japa
+7351={ # Japa
 	terrain="jungle"
 	culture="kamarupi"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-7352={ #Turupa
+7352={ # Turupa
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -926,17 +875,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7353={ #Bengmara
+7353={ # Bengmara
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -945,17 +893,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7354={ #Sadiya
+7354={ # Sadiya
 	terrain="hills"
 	culture="kamarupi"
 	religion="hindu"
@@ -964,30 +911,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-7355={ #Donga
+7355={ # Donga
 	terrain="mountain"
 	culture="kamarupi"
-	religion="charvaka"
+	religion="hindu"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-7356={ #Karmanta
+7356={ # Karmanta
 	terrain="flood_plain"
 	culture="bangli"
 	religion="hindu"
@@ -996,18 +941,17 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-7357={ #Kotta
+7357={ # Kotta
 	terrain="marsh"
 	culture="bangli"
 	religion="hindu"
@@ -1016,11 +960,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7358={ #Khulna
+7358={ # Khulna
 	terrain="flood_plain"
 	culture="pandra"
 	religion="hindu"
@@ -1029,30 +972,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-7359={ #Mukund
+7359={ # Mukund
 	terrain="flood_plain"
 	culture="pandra"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-7360={ #Sita
+7360={ # Sita
 	terrain="plains"
 	culture="magadhi"
 	religion="hindu"
@@ -1061,28 +1002,26 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-7364={ #Manbhum
+7364={ # Manbhum
 	terrain="jungle"
 	culture="vanga"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_parshvanatha
+	holy_site="omen_parshvanatha"
 }
-
-7365={ #Ladha
+7365={ # Ladha
 	terrain="jungle"
 	culture="vanga"
 	religion="hindu"
@@ -1091,14 +1030,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 }
-
-7367={ #Bhagdatpuram
+7367={ # Bhagdatpuram
 	terrain="farmland"
 	culture="magadhi"
 	religion="hindu"
@@ -1107,39 +1045,37 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=9
+		amount="9"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7368={ #Yavana
+7368={ # Yavana
 	terrain="jungle"
 	culture="pandra"
-	religion="hindu"
+	religion="agama"
 	trade_goods="elephants"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-7369={ #Pipphalivana
+7369={ # Pipphalivana
 	terrain="plains"
 	culture="vrji"
 	religion="hindu"
@@ -1148,20 +1084,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7372={ #Kusavati
+7372={ # Kusavati
 	terrain="plains"
 	culture="vrji"
 	religion="hindu"
@@ -1170,55 +1105,52 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-7383={ #Kishan
+7383={ # Kishan
 	terrain="jungle"
 	culture="kamarupi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="ivory"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7384={ #Rampurwa
+7384={ # Rampurwa
 	terrain="hills"
 	culture="himalayan"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=9
+		amount="9"
 	}
 }
-
-7392={ #Vajra
+7392={ # Vajra
 	terrain="jungle"
 	culture="vanga"
 	religion="hindu"
@@ -1227,17 +1159,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=6
+		amount="6"
 	}
 }
-
-7393={ #Kasipur
+7393={ # Kasipur
 	terrain="flood_plain"
 	culture="vanga"
 	religion="hindu"
@@ -1246,17 +1177,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7394={ #Fathabad
+7394={ # Fathabad
 	terrain="flood_plain"
 	culture="bangli"
 	religion="hindu"
@@ -1265,14 +1195,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=6
+		amount="6"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-7395={ #Barisal
+7395={ # Barisal
 	terrain="flood_plain"
 	culture="bangli"
 	religion="hindu"
@@ -1281,20 +1210,19 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 	tribesmen={
-		amount=9
+		amount="9"
 	}
 }
-
-7396={ #Bagerhat
+7396={ # Bagerhat
 	terrain="flood_plain"
 	culture="bangli"
 	religion="hindu"
@@ -1303,27 +1231,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7397={ #Jessore
+7397={ # Jessore
 	terrain="flood_plain"
 	culture="pandra"
-	religion="charvaka"
+	religion="hindu"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-7398={ #Kushtia
+7398={ # Kushtia
 	terrain="flood_plain"
 	culture="pandra"
 	religion="hindu"
@@ -1332,14 +1258,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-7400={ #Jayapura
+7400={ # Jayapura
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -1348,36 +1273,34 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7401={ #Ramgati
+7401={ # Ramgati
 	terrain="marsh"
 	culture="bangli"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="fish"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7477={ #Saran
+7477={ # Saran
 	terrain="plains"
 	culture="vrji"
 	religion="hindu"
@@ -1386,20 +1309,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7478={ #Rivilganj
+7478={ # Rivilganj
 	terrain="farmland"
 	culture="vrji"
 	religion="hindu"
@@ -1408,52 +1330,49 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7479={ #Samastipur
+7479={ # Samastipur
 	terrain="farmland"
 	culture="magadhi"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7480={ #Saharsa
+7480={ # Saharsa
 	terrain="farmland"
 	culture="magadhi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="cloth"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=10
+		amount="10"
 	}
 	slaves={
-		amount=10
+		amount="10"
 	}
 }
-
-7481={ #Supaul
+7481={ # Supaul
 	terrain="plains"
 	culture="magadhi"
 	religion="hindu"
@@ -1462,62 +1381,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7486={ #Mithila
+7486={ # Mithila
 	terrain="jungle"
 	culture="himalayan"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="earthware"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7487={ #Bijalpura
+7487={ # Bijalpura
 	terrain="hills"
 	culture="himalayan"
-	religion="charvaka"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7488={ #Bethadipa
+7488={ # Bethadipa
 	terrain="plains"
 	culture="magadhi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="cloth"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-7489={ #Birganj
+7489={ # Birganj
 	terrain="jungle"
 	culture="himalayan"
 	religion="hindu"
@@ -1526,46 +1441,43 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7490={ #Nagarpur
+7490={ # Nagarpur
 	terrain="flood_plain"
 	culture="bangli"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7491={ #Sripur
+7491={ # Sripur
 	terrain="jungle"
 	culture="bangli"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7493={ #Varendra
+7493={ # Varendra
 	terrain="farmland"
 	culture="pandra"
 	religion="hindu"
@@ -1574,37 +1486,35 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 	port_building=1
 }
-
-7494={ #Durgapur
+7494={ # Durgapur
 	terrain="jungle"
 	culture="jaintia"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="incense"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7495={ #Egarosindur
+7495={ # Egarosindur
 	terrain="jungle"
 	culture="jaintia"
 	religion="hindu"
@@ -1613,30 +1523,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7496={ #Bhaluka
+7496={ # Bhaluka
 	terrain="jungle"
 	culture="jaintia"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="wild_game"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7497={ #Puthia
+7497={ # Puthia
 	terrain="farmland"
 	culture="pandra"
 	religion="hindu"
@@ -1645,14 +1553,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=15
+		amount="15"
 	}
 }
-
-7498={ #Malda
+7498={ # Malda
 	terrain="farmland"
 	culture="pandra"
 	religion="hindu"
@@ -1661,20 +1568,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=15
+		amount="15"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7499={ #Porsha
+7499={ # Porsha
 	terrain="farmland"
 	culture="pandra"
 	religion="hindu"
@@ -1683,11 +1589,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7650={ #Itahar
+7650={ # Itahar
 	terrain="plains"
 	culture="kamarupi"
 	religion="hindu"
@@ -1696,27 +1601,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7651={ #Balurghat
+7651={ # Balurghat
 	terrain="farmland"
 	culture="kamarupi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="vegetables"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7652={ #Gosanimari
+7652={ # Gosanimari
 	terrain="jungle"
 	culture="kamarupi"
 	religion="hindu"
@@ -1725,30 +1628,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7653={ #Manasa Kamata
+7653={ # Manasa Kamata
 	terrain="hills"
 	culture="kamarupi"
-	religion="buddhism"
+	religion="bon_religion"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7654={ #Thakurgaon
+7654={ # Thakurgaon
 	terrain="plains"
 	culture="kamarupi"
 	religion="hindu"
@@ -1757,49 +1658,46 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-7655={ #Siliguri
+7655={ # Siliguri
 	terrain="jungle"
 	culture="himalayan"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="elephants"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7656={ #Damak
+7656={ # Damak
 	terrain="hills"
 	culture="himalayan"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="incense"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-7659={ #Madanpur
+7659={ # Madanpur
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -1808,73 +1706,68 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-7796={ #Bidyadhari
+7796={ # Bidyadhari
 	terrain="marsh"
 	culture="bangli"
-	religion="charvaka"
+	religion="hindu"
 	trade_goods="grain"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11530={ #Shikharji
+11530={ # Shikharji
 	terrain="hills"
 	culture="magadhi"
-	religion="jainism"
+	religion="agama"
 	trade_goods="incense"
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_satya
+	holy_site="omen_satya"
 }
-
-11531={ #Chatra
+11531={ # Chatra
 	terrain="jungle"
 	culture="magadhi"
-	religion="hindu"
+	religion="agama"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 }
-
-11532={ #Barakar
+11532={ # Barakar
 	terrain="hills"
 	culture="magadhi"
-	religion="hindu"
+	religion="agama"
 	trade_goods="vegetables"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=4
+		amount="4"
 	}
 }
-
-11533={ #Kolhua
+11533={ # Kolhua
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -1883,14 +1776,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11534={ #Daltonganj
+11534={ # Daltonganj
 	terrain="jungle"
 	culture="magadhi"
 	religion="hindu"
@@ -1899,30 +1791,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11535={ #Parsodih
+11535={ # Parsodih
 	terrain="hills"
 	culture="magadhi"
-	religion="hindu"
+	religion="agama"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-11536={ #Ajodhya
+11536={ # Ajodhya
 	terrain="hills"
 	culture="magadhi"
 	religion="hindu"
@@ -1931,14 +1821,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-11537={ #Bokaro
+11537={ # Bokaro
 	terrain="plains"
 	culture="magadhi"
 	religion="hindu"
@@ -1947,26 +1836,24 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11538={ #Baragaon
+11538={ # Baragaon
 	terrain="hills"
 	culture="magadhi"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="base_metals"
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-

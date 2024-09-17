@@ -1,4 +1,4 @@
-﻿8955={ #Pu
+﻿8955={ # Pu
 	terrain="jungle"
 	culture="pubu"
 	religion="burmese_religion"
@@ -7,11 +7,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9403={ #Kharjo
+9403={ # Kharjo
 	terrain="jungle"
 	culture="pubu"
 	religion="burmese_religion"
@@ -20,14 +19,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9404={ #Danai
+9404={ # Danai
 	terrain="jungle"
 	culture="pubu"
 	religion="burmese_religion"
@@ -36,30 +34,28 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9405={ #Piao
+9405={ # Piao
 	terrain="jungle"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="gems"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9741={ #Pathein
+9741={ # Pathein
 	terrain="marsh"
 	culture="mon"
 	religion="burmese_religion"
@@ -68,11 +64,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-9742={ #Bogale
+9742={ # Bogale
 	terrain="marsh"
 	culture="mon"
 	religion="burmese_religion"
@@ -81,11 +76,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9743={ #Nathabu
+9743={ # Nathabu
 	terrain="jungle"
 	culture="mon"
 	religion="burmese_religion"
@@ -94,86 +88,80 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9776={ #PASS
+9776={ # PASS
 	terrain="jungle"
 	culture="pubu"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
 	province_rank=""
 }
-
-9780={ #Dulahazara
+9780={ # Dulahazara
 	terrain="marsh"
 	culture="rhakine"
-	religion="buddhism"
+	religion="hindu"
 	trade_goods="fish"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9781={ #Dayawadi
+9781={ # Dayawadi
 	terrain="jungle"
 	culture="rhakine"
-	religion="hindu"
+	religion="burmese_religion"
 	trade_goods="elephants"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-9782={ #Waithali
+9782={ # Waithali
 	terrain="jungle"
 	culture="rhakine"
-	religion="hindu"
+	religion="burmese_religion"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-9783={ #Arakan
+9783={ # Arakan
 	terrain="jungle"
 	culture="rhakine"
-	religion="hindu"
+	religion="burmese_religion"
 	trade_goods="spices"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_shwemhtwehla
+	holy_site="omen_shwemhtwehla"
 }
-
-9785={ #Ywa Htin Kon
+9785={ # Ywa Htin Kon
 	terrain="hills"
 	culture="pubu"
 	religion="burmese_religion"
@@ -182,39 +170,37 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-9786={ #Binnaka
+9786={ # Binnaka
 	terrain="forest"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="silk"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 }
-
-9787={ #Beikthano
+9787={ # Beikthano
 	terrain="hills"
 	culture="pubu"
 	religion="burmese_religion"
@@ -223,15 +209,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_shwemyethna
+	holy_site="omen_shwemyethna"
 }
-
-9788={ #Taledan
+9788={ # Taledan
 	terrain="marsh"
 	culture="pubu"
 	religion="burmese_religion"
@@ -240,15 +225,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_kujii
+	holy_site="omen_kujii"
 }
-
-9789={ #Sri Ksetra
+9789={ # Sri Ksetra
 	terrain="flood_plain"
 	culture="pubu"
 	religion="burmese_religion"
@@ -257,14 +241,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9790={ #Monyo
+9790={ # Monyo
 	terrain="jungle"
 	culture="pubu"
 	religion="burmese_religion"
@@ -273,103 +256,97 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9791={ #Halin
+9791={ # Halin
 	terrain="flood_plain"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="salt"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_irrawaddy
+	holy_site="omen_irrawaddy"
 }
-
-9792={ #Hnaw Kan
+9792={ # Hnaw Kan
 	terrain="flood_plain"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-9793={ #Taungthaman
+9793={ # Taungthaman
 	terrain="farmland"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="grain"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_chuu
+	holy_site="omen_chuu"
 }
-
-9794={ #Taguang
+9794={ # Taguang
 	terrain="jungle"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="woad"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
-	holy_site=omen_mahagiri
+	holy_site="omen_mahagiri"
 }
-
-9795={ #Dalhi
+9795={ # Dalhi
 	terrain="plains"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9796={ #Nyaunggan
+9796={ # Nyaunggan
 	terrain="flood_plain"
 	culture="pubu"
 	religion="burmese_religion"
@@ -378,17 +355,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 }
-
-9797={ #Sadhuim
+9797={ # Sadhuim
 	terrain="hills"
 	culture="mon"
 	religion="burmese_religion"
@@ -397,24 +373,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_kroon
+	holy_site="omen_kroon"
 }
-
-9798={ #Martaban
+9798={ # Martaban
 	terrain="hills"
 	culture="mon"
 	religion="burmese_religion"
@@ -423,11 +398,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9799={ #Luyu
+9799={ # Luyu
 	terrain="hills"
 	culture="mon"
 	religion="burmese_religion"
@@ -436,11 +410,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9800={ #Pegu
+9800={ # Pegu
 	terrain="hills"
 	culture="mon"
 	religion="burmese_religion"
@@ -449,21 +422,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_gerger
+	holy_site="omen_gerger"
 }
-
-9801={ #Yangon
+9801={ # Yangon
 	terrain="flood_plain"
 	culture="mon"
 	religion="burmese_religion"
@@ -472,11 +444,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-9802={ #Twantay
+9802={ # Twantay
 	terrain="flood_plain"
 	culture="mon"
 	religion="burmese_religion"
@@ -485,46 +456,43 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-11069={ #Mrauk U
+11069={ # Mrauk U
 	terrain="flood_plain"
 	culture="rhakine"
-	religion="hindu"
+	religion="burmese_religion"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-11070={ #Mayo
+11070={ # Mayo
 	terrain="jungle"
 	culture="rhakine"
-	religion="hindu"
+	religion="burmese_religion"
 	trade_goods="incense"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11071={ #Aung Myay
+11071={ # Aung Myay
 	terrain="mountain"
 	culture="pubu"
 	religion="burmese_religion"
@@ -533,11 +501,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11072={ #Kettha
+11072={ # Kettha
 	terrain="hills"
 	culture="pubu"
 	religion="burmese_religion"
@@ -546,11 +513,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-11073={ #Mawlaik
+11073={ # Mawlaik
 	terrain="jungle"
 	culture="pubu"
 	religion="burmese_religion"
@@ -559,14 +525,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11074={ #Thanbauk
+11074={ # Thanbauk
 	terrain="hills"
 	culture="pubu"
 	religion="burmese_religion"
@@ -575,27 +540,25 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11075={ #Pai
+11075={ # Pai
 	terrain="jungle"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="ivory"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11076={ #Mytinge
+11076={ # Mytinge
 	terrain="hills"
 	culture="shan"
 	religion="satsana_phi_religion"
@@ -604,11 +567,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-11077={ #Shweli
+11077={ # Shweli
 	terrain="plains"
 	culture="pubu"
 	religion="burmese_religion"
@@ -617,11 +579,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-11078={ #Thanlyin
+11078={ # Thanlyin
 	terrain="hills"
 	culture="shan"
 	religion="satsana_phi_religion"
@@ -630,11 +591,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=8
+		amount="8"
 	}
 }
-
-11079={ #Lashio
+11079={ # Lashio
 	terrain="hills"
 	culture="shan"
 	religion="satsana_phi_religion"
@@ -643,37 +603,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_nang
+	holy_site="omen_nang"
 }
-
-11080={ #Wagan
+11080={ # Wagan
 	terrain="flood_plain"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-11081={ #Salin
+11081={ # Salin
 	terrain="plains"
 	culture="piaoyue"
-	religion="bon_religion"
+	religion="burmese_religion"
 	trade_goods="hemp"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-

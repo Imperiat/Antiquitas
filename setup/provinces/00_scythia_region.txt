@@ -1,4 +1,4 @@
-4521={ # Nobiodounos
+﻿4521={ # Nobiodounos
 	terrain="marsh"
 	culture="getian"
 	religion="shamanism"

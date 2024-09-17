@@ -1,4 +1,4 @@
-﻿1729={ #Athenai Pontikai
+﻿1729={ # AthenaiPontikai
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -7,17 +7,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1730={ #Rhizaion
+1730={ # Rhizaion
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -26,21 +25,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-1731={ #Ophis
+1731={ # Ophis
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -49,61 +47,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1732={ #Hyssos
+1732={ # Hyssos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1733={ #Pisingara
+1733={ # Pisingara
 	terrain="hills"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1734={ #Trapezous
+1734={ # Trapezous
 	terrain="forest"
 	culture="greco_pontic"
 	religion="greek_pantheon"
@@ -112,402 +107,381 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_mithra
+	holy_site="omen_mithra"
 	port_building=1
 }
-
-1766={ #Arane
+1766={ # Arane
 	terrain="hills"
 	culture="armenian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-1767={ #Eriza
+1767={ # Eriza
 	terrain="hills"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_anahit
+	holy_site="omen_anahit"
 }
-
-1768={ #Til
+1768={ # Til
 	terrain="plains"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_nane
+	holy_site="omen_nane"
 }
-
-1769={ #Sabos
+1769={ # Sabos
 	terrain="hills"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1771={ #Analibna
+1771={ # Analibna
 	terrain="hills"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1772={ #Sediska
+1772={ # Sediska
 	terrain="hills"
 	culture="colchian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1773={ #Theia
+1773={ # Zigana
 	terrain="hills"
 	culture="colchian"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1775={ #Magnana
+1775={ # Magnana
 	terrain="hills"
 	culture="colchian"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1776={ #Arauraka
+1776={ # Arauraka
 	terrain="hills"
 	culture="cappadocian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1778={ #Chorsabia
+1778={ # Chorsabia
 	terrain="hills"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1779={ #Olotoedariza
+1779={ # Olotoedariza
 	terrain="hills"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1781={ #Kogoniya
+1781={ # Basgoedariza
 	terrain="hills"
 	culture="cappadocian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1782={ #Dasteira
+1782={ # Dasteira
 	terrain="hills"
 	culture="armenian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-1783={ #Anniaka
+1783={ # Anniaka
 	terrain="hills"
 	culture="cappadocian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="earthware"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1786={ #Sauronisena
+1786={ # Sauronisena
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="caucasian_religion"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1787={ #Danai
+1787={ # Danai
 	terrain="forest"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="caucasian_religion"
 	trade_goods="fruits"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1789={ #Syderos
+1789={ # Syderos
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cloth"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1790={ #Komana Pontike
+1790={ # Komana Pontike
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cloth"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-1791={ #Ibora
+1791={ # Ibora
 	terrain="forest"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="leather"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_nane
+	holy_site="omen_nane"
 }
-
-1792={ #Kabeira
+1792={ # Kabeira
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1793={ #Side Pontike
+1793={ # Side Pontike
 	terrain="forest"
 	culture="greco_pontic"
 	religion="greek_pantheon"
@@ -516,141 +490,134 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	port_building=1
 }
-
-1795={ #Kotyora
+1795={ # Kotyora
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="salt"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1797={ #Koralla
+1797={ # Koralla
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1798={ #Kerasous
+1798={ # Kerasous
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="fruits"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1801={ #Matouasko
+1801={ # Matouasko
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="caucasian_religion"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1804={ #Boinasa
+1804={ # Boinasa
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="fruits"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1819={ #Amaseia
+1819={ # Amaseia
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="earthware"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1821={ #Phazemon
+1821={ # Phazemon
 	terrain="forest"
 	culture="cappadocian"
 	religion="anatolian_religion"
@@ -659,36 +626,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1822={ #Etonia
+1822={ # Etonia
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1823={ #Diakopa
+1823={ # Diakopa
 	terrain="hills"
 	culture="paphlagonian"
 	religion="anatolian_religion"
@@ -697,17 +662,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1824={ #Andrapa
+1824={ # Andrapa
 	terrain="forest"
 	culture="cappadocian"
 	religion="anatolian_religion"
@@ -716,17 +680,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1826={ #Pteria Pontias
+1826={ # Pteria Pontias
 	terrain="forest"
 	culture="paphlagonian"
 	religion="anatolian_religion"
@@ -735,17 +698,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1831={ #Pimolisa
+1831={ # Pimolisa
 	terrain="hills"
 	culture="paphlagonian"
 	religion="anatolian_religion"
@@ -754,277 +716,262 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1833={ #Dazimon
+1833={ # Dazimon
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1834={ #Zela
+1834={ # Zela
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="leather"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1837={ #Euchaita
+1837={ # Euchaita
 	terrain="hills"
 	culture="paphlagonian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1838={ #Pleuramis
+1838={ # Pleuramis
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="iron"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1839={ #Karana
+1839={ # Karana
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="iron"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1840={ #Ouerisa
+1840={ # Ouerisa
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1842={ #Zara
+1842={ # Zara
 	terrain="forest"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="cloth"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1843={ #Kamisa
+1843={ # Kamisa
 	terrain="forest"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="leather"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1844={ #Samuha
+1844={ # Talaura
 	terrain="forest"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1845={ #Phiara
+1845={ # Phiara
 	terrain="forest"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="grain"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1846={ #Pedachthoe
+1846={ # Pedachthoe
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1848={ #Zoana
+1848={ # Zoana
 	terrain="forest"
 	culture="armenian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1850={ #Goundousa
+1850={ # Goundousa
 	terrain="forest"
 	culture="armenian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1851={ #Kangal
+1851={ # Euspena
 	terrain="forest"
 	culture="armenian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1858={ #Daskousa
+1858={ # Daskousa
 	terrain="hills"
 	culture="armenian"
 	religion="anatolian_religion"
@@ -1033,53 +980,50 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7844={ #Zimara
+7844={ # Zimara
 	terrain="mountain"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="fur"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7845={ #Ani
+7845={ # Ani
 	terrain="mountain"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="wood"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_barshamin
+	holy_site="omen_barshamin"
 }
-
-7994={ #Kizari
+7994={ # Kizari
 	terrain="hills"
 	culture="cappadocian"
 	religion="anatolian_religion"
@@ -1088,48 +1032,45 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7998={ #Gazioura
+7998={ # Gazioura
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-7999={ #Sermousa
+7999={ # Sermousa
 	terrain="hills"
 	culture="cappadocian"
-	religion="anatolian_religion"
+	religion="anahita_religion"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-

@@ -1,4 +1,4 @@
-270={ # Lemnos
+﻿270={ # Lemnos
 	terrain="hills"
 	culture="attican"
 	religion="greek_pantheon"

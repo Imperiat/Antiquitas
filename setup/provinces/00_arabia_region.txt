@@ -1,4 +1,4 @@
-724={ # Ankale
+﻿724={ # Ankale
 	terrain="desert"
 	culture="nabatean"
 	religion="arabian_pantheon"
@@ -50,7 +50,7 @@
 944={ # Akkaz
 	terrain="desert"
 	culture="gerrhan"
-	religion="zoroaster"
+	religion="mesopotamian_religion"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
@@ -924,7 +924,7 @@
 5402={ # Kabrit
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="camel"
 	civilization_value=5
 	barbarian_power=0
@@ -936,7 +936,7 @@
 5403={ # Niqirah
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="leather"
 	civilization_value=5
 	barbarian_power=0
@@ -948,7 +948,7 @@
 5404={ # Mulayjah
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
@@ -960,7 +960,7 @@
 5405={ # Thaj
 	terrain="oasis"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="earthware"
 	civilization_value=17
 	barbarian_power=0
@@ -981,7 +981,7 @@
 5406={ # Urayarah
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="camel"
 	civilization_value=8
 	barbarian_power=0
@@ -993,7 +993,7 @@
 5407={ # Agarum
 	terrain="oasis"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value=15
 	barbarian_power=0
@@ -1012,7 +1012,7 @@
 5408={ # Efa
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="cattle"
 	civilization_value=15
 	barbarian_power=0
@@ -1027,7 +1027,7 @@
 5409={ # Largis
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="vegetables"
 	civilization_value=15
 	barbarian_power=0
@@ -1042,7 +1042,7 @@
 5410={ # Utea
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="vegetables"
 	civilization_value=17
 	barbarian_power=0
@@ -1057,7 +1057,7 @@
 5411={ # Ghirban
 	terrain="desert"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="leather"
 	civilization_value=5
 	barbarian_power=0
@@ -1069,7 +1069,7 @@
 5412={ # Suwaytiyah
 	terrain="desert"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="wild_game"
 	civilization_value=5
 	barbarian_power=0
@@ -1081,7 +1081,7 @@
 5413={ # Liwa
 	terrain="oasis"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="fruits"
 	civilization_value=7
 	barbarian_power=0
@@ -1096,7 +1096,7 @@
 5414={ # Murkhan
 	terrain="desert"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
@@ -1261,7 +1261,7 @@
 7196={ # Adros
 	terrain="desert"
 	culture="gerrhan"
-	religion="elamite_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value=17
 	barbarian_power=0
@@ -1276,7 +1276,7 @@
 7197={ # Itamos
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="fish"
 	civilization_value=17
 	barbarian_power=0
@@ -1291,7 +1291,7 @@
 7198={ # Istana
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="cattle"
 	civilization_value=17
 	barbarian_power=0
@@ -1309,7 +1309,7 @@
 7199={ # Gerrha
 	terrain="oasis"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="tortoise_shell"
 	civilization_value=25
 	barbarian_power=0
@@ -1331,7 +1331,7 @@
 7200={ # Theppra
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="fish"
 	civilization_value=17
 	barbarian_power=0
@@ -1343,7 +1343,7 @@
 7201={ # Atta
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="incense"
 	civilization_value=17
 	barbarian_power=0
@@ -1361,7 +1361,7 @@
 7202={ # Tylos
 	terrain="plains"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="pearls"
 	civilization_value=32
 	barbarian_power=0
@@ -1383,7 +1383,7 @@
 7203={ # Gylus
 	terrain="plains"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dye"
 	civilization_value=17
 	barbarian_power=0
@@ -1398,7 +1398,7 @@
 7204={ # Sarkoi
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dye"
 	civilization_value=17
 	barbarian_power=0
@@ -1413,7 +1413,7 @@
 7205={ # Labrys Omana
 	terrain="desert"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="camel"
 	civilization_value=7
 	barbarian_power=0
@@ -1425,7 +1425,7 @@
 7206={ # Attiaca
 	terrain="desert"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="pearls"
 	civilization_value=7
 	barbarian_power=0
@@ -1441,7 +1441,7 @@
 7207={ # Kanepsa
 	terrain="desert"
 	culture="makan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="salt"
 	civilization_value=7
 	barbarian_power=0
@@ -2253,7 +2253,7 @@
 11229={ # Tawdihiyah
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="leather"
 	civilization_value=6
 	barbarian_power=0
@@ -2265,7 +2265,7 @@
 11230={ # Haradh
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="camel"
 	civilization_value=6
 	barbarian_power=0
@@ -2277,7 +2277,7 @@
 11231={ # Hawiyah
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="wild_game"
 	civilization_value=6
 	barbarian_power=0
@@ -2289,7 +2289,7 @@
 11232={ # Yabrin
 	terrain="oasis"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value=6
 	barbarian_power=0
@@ -2426,7 +2426,7 @@
 11254={ # Khor
 	terrain="plains"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dye"
 	civilization_value=17
 	barbarian_power=0
@@ -2517,7 +2517,7 @@
 11262={ # Shayyit
 	terrain="desert"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="camel"
 	civilization_value=6
 	barbarian_power=0
@@ -2529,7 +2529,7 @@
 11263={ # Ulya
 	terrain="oasis"
 	culture="gerrhan"
-	religion="arabian_pantheon"
+	religion="mesopotamian_religion"
 	trade_goods="dates"
 	civilization_value=7
 	barbarian_power=0

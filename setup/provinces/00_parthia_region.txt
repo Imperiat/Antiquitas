@@ -1,7 +1,7 @@
-3434={ # Charinda
+﻿3434={ # Charinda
 	terrain="farmland"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="spices"
 	civilization_value=38
 	barbarian_power=0
@@ -22,7 +22,7 @@
 3435={ # Zadrakarta
 	terrain="farmland"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="camel"
 	civilization_value=27
 	barbarian_power=0
@@ -46,7 +46,7 @@
 3436={ # Asbana
 	terrain="farmland"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -67,7 +67,7 @@
 3437={ # Sirynx
 	terrain="steppes"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="woad"
 	civilization_value=20
 	barbarian_power=0
@@ -88,7 +88,7 @@
 3438={ # Gurgan
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="hemp"
 	civilization_value=20
 	barbarian_power=0
@@ -109,7 +109,7 @@
 3439={ # Komish
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="steppe_horses"
 	civilization_value=34
 	barbarian_power=0
@@ -127,7 +127,7 @@
 3440={ # Taga
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
@@ -148,7 +148,7 @@
 3441={ # Argiyan
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -166,7 +166,7 @@
 3444={ # Vishpauzatis
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
@@ -188,7 +188,7 @@
 3445={ # Sangast
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="wine"
 	civilization_value=18
 	barbarian_power=0
@@ -206,7 +206,7 @@
 3446={ # Yetaan
 	terrain="mountain"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="cloth"
 	civilization_value=16
 	barbarian_power=0
@@ -224,7 +224,7 @@
 3447={ # Salak
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="base_metals"
 	civilization_value=18
 	barbarian_power=0
@@ -245,7 +245,7 @@
 3448={ # Dakhtar
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="horses"
 	civilization_value=20
 	barbarian_power=0
@@ -266,7 +266,7 @@
 3449={ # Sapham
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -284,7 +284,7 @@
 3450={ # Patigrabana
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="spices"
 	civilization_value=23
 	barbarian_power=0
@@ -305,7 +305,7 @@
 3451={ # Sathis
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="camel"
 	civilization_value=20
 	barbarian_power=0
@@ -323,7 +323,7 @@
 3454={ # Tusa
 	terrain="mountain"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="camel"
 	civilization_value=16
 	barbarian_power=0
@@ -344,7 +344,7 @@
 3455={ # Deshrae
 	terrain="desert_hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="spices"
 	civilization_value=20
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3456={ # Tiras
 	terrain="desert_hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="grain"
 	civilization_value=31
 	barbarian_power=0
@@ -383,7 +383,7 @@
 3457={ # Choatras
 	terrain="desert"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
@@ -401,7 +401,7 @@
 3458={ # Calliope
 	terrain="desert_hills"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="base_metals"
 	civilization_value=28
 	barbarian_power=0
@@ -416,7 +416,7 @@
 3459={ # Pasacartia
 	terrain="hills"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="vegetables"
 	civilization_value=29
 	barbarian_power=0
@@ -452,7 +452,7 @@
 3462={ # Sarmagana
 	terrain="desert_hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="steppe_horses"
 	civilization_value=18
 	barbarian_power=0
@@ -491,7 +491,7 @@
 3464={ # Taua
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="fur"
 	civilization_value=20
 	barbarian_power=0
@@ -506,7 +506,7 @@
 3465={ # Siphare
 	terrain="desert_hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="fur"
 	civilization_value=18
 	barbarian_power=0
@@ -521,7 +521,7 @@
 3466={ # Rivash
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="base_metals"
 	civilization_value=18
 	barbarian_power=0
@@ -542,7 +542,7 @@
 3467={ # Oscanidati
 	terrain="desert_hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="cattle"
 	civilization_value=17
 	barbarian_power=0
@@ -560,7 +560,7 @@
 3468={ # Deraza
 	terrain="desert_hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="camel"
 	civilization_value=17
 	barbarian_power=0
@@ -581,7 +581,7 @@
 3469={ # Parvand
 	terrain="desert"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="leather"
 	civilization_value=17
 	barbarian_power=0
@@ -602,7 +602,7 @@
 4994={ # Semina
 	terrain="hills"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="base_metals"
 	civilization_value=29
 	barbarian_power=0
@@ -617,7 +617,7 @@
 4995={ # Thara
 	terrain="desert_hills"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="horses"
 	civilization_value=31
 	barbarian_power=0
@@ -638,7 +638,7 @@
 4996={ # Amarda
 	terrain="farmland"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="grain"
 	civilization_value=33
 	barbarian_power=0
@@ -659,7 +659,7 @@
 4997={ # Saringiy
 	terrain="farmland"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="spices"
 	civilization_value=38
 	barbarian_power=0
@@ -680,7 +680,7 @@
 4998={ # Shirga
 	terrain="mountain"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="vegetables"
 	civilization_value=27
 	barbarian_power=0
@@ -917,7 +917,7 @@
 6542={ # Aktene
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -938,7 +938,7 @@
 6543={ # Suphtha
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="earthware"
 	civilization_value=18
 	barbarian_power=0
@@ -959,7 +959,7 @@
 6544={ # Dirma
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
@@ -974,7 +974,7 @@
 6545={ # Guriana
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="woad"
 	civilization_value=20
 	barbarian_power=0
@@ -995,7 +995,7 @@
 6556={ # Godana
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="camel"
 	civilization_value=20
 	barbarian_power=0
@@ -1037,7 +1037,7 @@
 6656={ # Asaak
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="camel"
 	civilization_value=20
 	barbarian_power=0
@@ -1154,7 +1154,7 @@
 6662={ # Abivard
 	terrain="hills"
 	culture="margian"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
@@ -1250,7 +1250,7 @@
 6725={ # Akhur
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="indo_iranian_religion"
 	trade_goods="dye"
 	civilization_value=6
 	barbarian_power=0
@@ -1277,7 +1277,7 @@
 6727={ # Shikh
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -1298,7 +1298,7 @@
 6728={ # Kilaleh
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="hemp"
 	civilization_value=18
 	barbarian_power=0
@@ -1319,7 +1319,7 @@
 6729={ # Dasht
 	terrain="mountain"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="horses"
 	civilization_value=16
 	barbarian_power=0
@@ -1337,7 +1337,7 @@
 6776={ # Dihistan
 	terrain="plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="indo_iranian_religion"
 	trade_goods="camel"
 	civilization_value=6
 	barbarian_power=0
@@ -1457,7 +1457,7 @@
 7222={ # Kotake
 	terrain="hills"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="wild_game"
 	civilization_value=18
 	barbarian_power=0
@@ -1475,7 +1475,7 @@
 7223={ # Badghis
 	terrain="dry_plains"
 	culture="parthian"
-	religion="mithra_religion"
+	religion="zoroaster"
 	trade_goods="precious_metals"
 	civilization_value=31
 	barbarian_power=0
@@ -1493,7 +1493,7 @@
 7638={ # Mura
 	terrain="hills"
 	culture="amardian"
-	religion="mithra_religion"
+	religion="indo_iranian_religion"
 	trade_goods="honey"
 	civilization_value=29
 	barbarian_power=0
@@ -1511,7 +1511,7 @@
 7639={ # Salus
 	terrain="hills"
 	culture="cadusian"
-	religion="mithra_religion"
+	religion="indo_iranian_religion"
 	trade_goods="fish"
 	civilization_value=29
 	barbarian_power=0

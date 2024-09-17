@@ -1,4 +1,4 @@
-1023={ # Mantua Carpetania
+﻿1023={ # Mantua Carpetania
 	terrain="plains"
 	culture="carpetanian"
 	religion="druidism"

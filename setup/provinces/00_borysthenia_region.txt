@@ -1,4 +1,4 @@
-7299={ # Pirhirci
+﻿7299={ # Pirhirci
 	terrain="farmland"
 	culture="chernolian"
 	religion="indo_iranian_religion"
@@ -251,7 +251,7 @@
 10195={ # Basivka
 	terrain="plains"
 	culture="budinian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="steppe_horses"
 	civilization_value=12
 	barbarian_power=0
@@ -323,7 +323,7 @@
 10200={ # Nedryhailiv
 	terrain="forest"
 	culture="budinian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="horses"
 	civilization_value=12
 	barbarian_power=0
@@ -630,7 +630,7 @@
 10225={ # Pahost
 	terrain="forest"
 	culture="neuric"
-	religion="matrist_religion"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=7
 	barbarian_power=0
@@ -642,7 +642,7 @@
 10226={ # Salihorsk
 	terrain="forest"
 	culture="neuric"
-	religion="indo_iranian_religion"
+	religion="matrist_religion"
 	trade_goods="hemp"
 	civilization_value=7
 	barbarian_power=0
@@ -758,7 +758,7 @@
 10235={ # Mena
 	terrain="forest"
 	culture="budinian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=7
 	barbarian_power=0
@@ -794,7 +794,7 @@
 10238={ # Kuchynivka
 	terrain="forest"
 	culture="budinian"
-	religion="matrist_religion"
+	religion="uralic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
@@ -857,7 +857,7 @@
 10243={ # Hrabiv
 	terrain="forest"
 	culture="neuric"
-	religion="matrist_religion"
+	religion="uralic_pantheon"
 	trade_goods="leather"
 	civilization_value=7
 	barbarian_power=0
@@ -1224,7 +1224,7 @@
 10313={ # Slutsk
 	terrain="forest"
 	culture="androphagian"
-	religion="indo_iranian_religion"
+	religion="matrist_religion"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1272,7 +1272,7 @@
 10317={ # Kremok
 	terrain="forest"
 	culture="androphagian"
-	religion="indo_iranian_religion"
+	religion="matrist_religion"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1392,7 +1392,7 @@
 10327={ # Shlou
 	terrain="forest"
 	culture="androphagian"
-	religion="indo_iranian_religion"
+	religion="matrist_religion"
 	trade_goods="leather"
 	civilization_value=0
 	barbarian_power=0
@@ -1416,7 +1416,7 @@
 10329={ # Mogilev
 	terrain="forest"
 	culture="androphagian"
-	religion="indo_iranian_religion"
+	religion="matrist_religion"
 	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
@@ -1428,7 +1428,7 @@
 10330={ # Ryasna
 	terrain="forest"
 	culture="androphagian"
-	religion="indo_iranian_religion"
+	religion="matrist_religion"
 	trade_goods="cattle"
 	civilization_value=0
 	barbarian_power=0
@@ -1488,7 +1488,7 @@
 11421={ # Medja
 	terrain="forest"
 	culture="melanchlaenian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=5
 	barbarian_power=0
@@ -1512,7 +1512,7 @@
 11423={ # Karo
 	terrain="forest"
 	culture="melanchlaenian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=5
 	barbarian_power=0
@@ -1596,7 +1596,7 @@
 11489={ # Sulnis
 	terrain="forest"
 	culture="melanchlaenian"
-	religion="indo_iranian_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0

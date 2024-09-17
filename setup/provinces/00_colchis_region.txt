@@ -1,39 +1,37 @@
-﻿1586={ #Hokhmik
+﻿1586={ # Hokhmik
 	terrain="forest"
 	culture="ibero"
-	religion="armenian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="iron"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1587={ #Vardbach
+1587={ # Vardbach
 	terrain="forest"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1610={ #Sary-tepe
+1610={ # Sary-tepe
 	terrain="forest"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -42,20 +40,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1673={ #Iberian Gates
+1673={ # Iberian Gates
 	terrain="mountain"
 	culture="scythian"
 	religion="caucasian_religion"
@@ -64,8 +61,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-1676={ #Armazistsikhe
+1676={ # Meschistha-Harmozike
 	terrain="plains"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -74,24 +70,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=11
+		amount="11"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_armazi
+	holy_site="omen_armazi"
 }
-
-1677={ #Algeti
+1677={ # Algeti
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -100,14 +95,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1679={ #Kavtiskhevi
+1679={ # Kavtiskhevi
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -116,17 +110,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1680={ #Zalissa
+1680={ # Zalissa
 	terrain="mountain"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -135,14 +128,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-1681={ #Aragvispiri
+1681={ # Aragvispiri
 	terrain="mountain"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -151,21 +143,20 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_kopala
+	holy_site="omen_kopala"
 }
-
-1683={ #Aghaiani
+1683={ # Aghaiani
 	terrain="plains"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -174,20 +165,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1685={ #Uplistsikhe
+1685={ # Uplistsikhe
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -196,17 +186,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1686={ #Samshvilde
+1686={ # Samshvilde
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -215,17 +204,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1689={ #Urbnisi
+1689={ # Urbnisi
 	terrain="plains"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -234,14 +222,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1690={ #Zghuderi
+1690={ # Zghuderi
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -250,17 +237,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1691={ #Doghlauri
+1691={ # Dedoplis
 	terrain="plains"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -269,17 +255,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1692={ #Tskhinvali
+1692={ # Tskhinvali
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -288,20 +273,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1694={ #Vani
+1694={ # Surium
 	terrain="plains"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -310,20 +294,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1695={ #Borjomi
+1695={ # Borjomi
 	terrain="forest"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -332,17 +315,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1696={ #Atsquri
+1696={ # Leukothea
 	terrain="forest"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -351,18 +333,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_ghmerti
+	holy_site="omen_ghmerti"
 }
-
-1697={ #Akhaltsikhe
+1697={ # Akhaltsikhe
 	terrain="plains"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -371,17 +352,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1699={ #Mzetamze
+1699={ # Mzetamze
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -390,14 +370,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1700={ #Zekari Pass
+1700={ # Zekari Pass
 	terrain="hills"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -406,14 +385,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1701={ #Goderdzi Pass
+1701={ # Goderdzi Pass
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -422,36 +400,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1702={ #Javakheti
+1702={ # Javakheti
 	terrain="forest"
 	culture="ibero"
-	religion="armenian_religion"
+	religion="indo_iranian_religion"
 	trade_goods="iron"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-1703={ #Bori
+1703={ # Bori
 	terrain="forest"
 	culture="ibero"
 	religion="caucasian_religion"
@@ -460,20 +436,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1704={ #Shorapani
+1704={ # Sarapanis
 	terrain="plains"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -482,17 +457,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1705={ #Skandis
+1705={ # Skandis
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -501,17 +475,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1706={ #Vardtsikhe
+1706={ # Rhodopolis
 	terrain="plains"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -520,17 +493,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1707={ #Kutaisi
+1707={ # Kotais
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -539,17 +511,16 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1711={ #Telephis
+1711={ # Telephis
 	terrain="plains"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -558,17 +529,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1714={ #Onogouris
+1714={ # Onogouris
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -577,17 +547,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1715={ #Tsikhegoji
+1715={ # Archaiopolis
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -596,23 +565,22 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1717={ #Chaladidi
+1717={ # Chaladidi
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -621,40 +589,38 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1720={ #Phasis
+1720={ # Phasis
 	terrain="plains"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=8
+		amount="8"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1722={ #Vashnari
+1722={ # Vashnari
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -663,17 +629,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1723={ #Pichvnari
+1723={ # Pichvnari
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -682,17 +647,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1724={ #Apasidam
+1724={ # Apasidam
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -701,20 +665,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1725={ #Bathys Limen
+1725={ # Bathys Limen
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -723,21 +686,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=7
+		amount="7"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	port_building=1
 }
-
-1726={ #Apsaros
+1726={ # Apsaros
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -746,14 +708,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1727={ #Kissa
+1727={ # Kissa
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -762,14 +723,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 }
-
-1728={ #Morthoula
+1728={ # Morthoula
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -778,17 +738,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1735={ #Ergeta
+1735={ # Ergeta
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -797,20 +756,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1737={ #Ziganne
+1737={ # Ziganne
 	terrain="forest"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -819,37 +777,35 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1738={ #Gyenos
+1738={ # Gyenos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-1739={ #Tqvarcheli
+1739={ # Tqvarcheli
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -858,17 +814,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-1740={ #Tzibile
+1740={ # Tzibile
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -877,36 +832,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1741={ #Dioskourias
+1741={ # Dioscurias
 	terrain="hills"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="caucasian_religion"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1742={ #Anakopia
+1742={ # Anakopia
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -915,17 +868,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1743={ #Pityous
+1743={ # Pityous
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -934,18 +886,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	port_building=1
 }
-
-1745={ #Masaitike
+1745={ # Masaitike
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -954,17 +905,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1746={ #Itkhvissi
+1746={ # Itkhvissi
 	terrain="plains"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -973,17 +923,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-1748={ #Modinakhe
+1748={ # Modinakhe
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -992,18 +941,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_dali
+	holy_site="omen_dali"
 }
-
-1749={ #Brili
+1749={ # Brili
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -1012,8 +960,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-1750={ #Klukhor Pass
+1750={ # Klukhor Pass
 	terrain="mountain"
 	culture="colchian"
 	religion="caucasian_religion"
@@ -1022,144 +969,136 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-1752={ #Chorzene
+1752={ # Chorzene
 	terrain="plains"
 	culture="armenian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="horses"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1753={ #Kola
+1753={ # Kola
 	terrain="plains"
 	culture="ibero"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="wine"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1754={ #Artahan
+1754={ # Artahan
 	terrain="plains"
 	culture="ibero"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1755={ #Colit
+1755={ # Colit
 	terrain="plains"
 	culture="ibero"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1756={ #Artanuji
+1756={ # Artanuji
 	terrain="hills"
 	culture="colchian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-1757={ #Kaballa
+1757={ # Kaballa
 	terrain="hills"
 	culture="colchian"
-	religion="armenian_religion"
+	religion="anahita_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-1758={ #Pharangion
+1758={ # Pharangion
 	terrain="hills"
 	culture="colchian"
-	religion="armenian_religion"
+	religion="caucasian_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-4567={ #Torikos
+4567={ # Torikos
 	terrain="plains"
 	culture="sindi"
 	religion="indo_iranian_religion"
@@ -1168,20 +1107,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-4568={ #Palaia Achaia
+4568={ # Palaia Achaia
 	terrain="hills"
 	culture="sindi"
-	religion="indo_iranian_religion"
+	religion="caucasian_religion"
 	trade_goods="wine"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-

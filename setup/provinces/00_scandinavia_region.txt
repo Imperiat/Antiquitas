@@ -852,7 +852,7 @@
 6026={ # Miriquidui
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wild_game"
 	civilization_value=3
 	barbarian_power=0
@@ -864,7 +864,7 @@
 6027={ # Tivedia
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -876,7 +876,7 @@
 6028={ # Arbugae
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="cattle"
 	civilization_value=3
 	barbarian_power=0
@@ -888,7 +888,7 @@
 6029={ # Rekarne
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="salt"
 	civilization_value=3
 	barbarian_power=0
@@ -900,7 +900,7 @@
 6030={ # Birka
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fish"
 	civilization_value=3
 	barbarian_power=0
@@ -918,7 +918,7 @@
 6031={ # Arosia
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -930,7 +930,7 @@
 6032={ # Broborg
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -949,7 +949,7 @@
 6033={ # Vrine
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=3
 	barbarian_power=0
@@ -985,7 +985,7 @@
 6036={ # Rania
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="hemp"
 	civilization_value=3
 	barbarian_power=0
@@ -1049,7 +1049,7 @@
 6041={ # Aetelrugia
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -1061,7 +1061,7 @@
 6042={ # Eunixia
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fish"
 	civilization_value=3
 	barbarian_power=0
@@ -1073,7 +1073,7 @@
 6043={ # Arothia
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fish"
 	civilization_value=3
 	barbarian_power=0
@@ -1082,10 +1082,10 @@
 		amount="3"
 	}
 }
-12655={ # EMPTY LOC - 12655
+12655={ # Sweraz
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -1094,10 +1094,10 @@
 		amount="2"
 	}
 }
-12656={ # EMPTY LOC - 12656
+12656={ # Kweno
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="grain"
 	civilization_value=3
 	barbarian_power=0
@@ -1106,10 +1106,10 @@
 		amount="2"
 	}
 }
-12657={ # EMPTY LOC - 12657
+12657={ # Ainaz
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -1118,10 +1118,10 @@
 		amount="2"
 	}
 }
-12658={ # EMPTY LOC - 12658
+12658={ # Deuza
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="grain"
 	civilization_value=3
 	barbarian_power=0
@@ -1130,10 +1130,10 @@
 		amount="2"
 	}
 }
-12659={ # EMPTY LOC - 12659
+12659={ # Naglaz
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=4
 	barbarian_power=0
@@ -1148,10 +1148,10 @@
 		amount="1"
 	}
 }
-12660={ # EMPTY LOC - 12660
+12660={ # Hurna
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=3
 	barbarian_power=0
@@ -1160,10 +1160,10 @@
 		amount="2"
 	}
 }
-12661={ # EMPTY LOC - 12661
+12661={ # Bukaz
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -1172,10 +1172,10 @@
 		amount="2"
 	}
 }
-12662={ # EMPTY LOC - 12662
+12662={ # Augo
 	terrain="forest"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -1184,10 +1184,10 @@
 		amount="2"
 	}
 }
-12663={ # EMPTY LOC - 12663
+12663={ # Samdaz
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=3
 	barbarian_power=0
@@ -1196,10 +1196,10 @@
 		amount="2"
 	}
 }
-12664={ # EMPTY LOC - 12664
+12664={ # Isa
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fish"
 	civilization_value=3
 	barbarian_power=0
@@ -1211,10 +1211,10 @@
 		amount="1"
 	}
 }
-12665={ # EMPTY LOC - 12665
+12665={ # Snaiwaz
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=3
 	barbarian_power=0
@@ -1223,10 +1223,10 @@
 		amount="2"
 	}
 }
-12666={ # EMPTY LOC - 12666
+12666={ # Windaz
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=3
 	barbarian_power=0
@@ -1235,10 +1235,10 @@
 		amount="2"
 	}
 }
-12667={ # EMPTY LOC - 12667
+12667={ # Hwitaz
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="woad"
 	civilization_value=3
 	barbarian_power=0
@@ -1247,7 +1247,7 @@
 		amount="2"
 	}
 }
-12762={ # EMPTY LOC - 12762
+12762={ # Faeroe
 	terrain="hills"
 	culture="caledonian"
 	religion="druidism"
@@ -1256,10 +1256,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-12764={ # EMPTY LOC - 12764
+12764={ # Hlaiwa
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="exotic_beasts"
 	civilization_value=3
 	barbarian_power=0
@@ -1268,10 +1268,10 @@
 		amount="1"
 	}
 }
-12765={ # EMPTY LOC - 12765
+12765={ # Marir
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="wood"
 	civilization_value=3
 	barbarian_power=0
@@ -1280,10 +1280,10 @@
 		amount="1"
 	}
 }
-12766={ # EMPTY LOC - 12766
+12766={ # Barutr
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fur"
 	civilization_value=3
 	barbarian_power=0
@@ -1292,10 +1292,10 @@
 		amount="1"
 	}
 }
-12767={ # EMPTY LOC - 12767
+12767={ # Swestar
 	terrain="taiga"
 	culture="scandian"
-	religion="germanic_religion"
+	religion="uralic_pantheon"
 	trade_goods="fish"
 	civilization_value=3
 	barbarian_power=0

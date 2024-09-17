@@ -1,27 +1,26 @@
-﻿5557={ #Khyunglung
+﻿5557={ # Khyunglung
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="buddhism"
+	religion="bon_religion"
 	trade_goods="wild_game"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_gekho
+	holy_site="omen_gekho"
 }
-
-5558={ #Achuk
+5558={ # Achuk
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -30,11 +29,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5559={ #Tachok Dzong
+5559={ # Tachok Dzong
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -43,11 +41,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5560={ #Sindhu
+5560={ # Sindhu
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -56,14 +53,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-5561={ #Ladakh
+5561={ # Ladakh
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -72,14 +68,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5562={ #Rutok
+5562={ # Rutok
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -88,14 +83,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5563={ #Rabzhi Senge Dzong
+5563={ # Rabzhi Senge Dzong
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -104,11 +98,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-5564={ #Echen Khar
+5564={ # Echen Khar
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -117,14 +110,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-5565={ #Aparing
+5565={ # Aparing
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -133,14 +125,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5566={ #Lashang
+5566={ # Lashang
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -149,20 +140,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5567={ #Tiret
+5567={ # Tiret
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -171,14 +161,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-5568={ #Mune
+5568={ # Mune
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -187,14 +176,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5569={ #Tsaparang
+5569={ # Tsaparang
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -203,14 +191,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5570={ #Khayu
+5570={ # Khayu
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -219,14 +206,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5571={ #Nghulmo Khar
+5571={ # Nghulmo Khar
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -235,17 +221,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5572={ #Upper Terai
+5572={ # Upper Terai
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -254,8 +239,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-5574={ #Pumaring
+5574={ # Pumaring
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -264,17 +248,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5575={ #Gyangri
+5575={ # Gyangri
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -283,17 +266,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5576={ #Kailash
+5576={ # Kailash
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -302,18 +284,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_rishabhanatha_moksha
+	holy_site="omen_rishabhanatha_moksha"
 }
-
-5577={ #Nguot
+5577={ # Nguot
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -322,17 +303,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5578={ #Khakyor
+5578={ # Khakyor
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -341,11 +321,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5579={ #Tsina
+5579={ # Tsina
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -354,11 +333,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5580={ #Mapam
+5580={ # Mapam
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -367,11 +345,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5581={ #Yumtso
+5581={ # Yumtso
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -380,11 +357,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5582={ #Sangya
+5582={ # Sangya
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -393,17 +369,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5583={ #Serip Drukmo Dzong
+5583={ # Serip Drukmo Dzong
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -412,11 +387,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5585={ #Pakpa
+5585={ # Pakpa
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -425,8 +399,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-5586={ #Mangyul Takmo Dzong
+5586={ # Mangyul Takmo Dzong
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -435,8 +408,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-5587={ #Chomolangma
+5587={ # Chomolangma
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -445,11 +417,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5588={ #Lhayul
+5588={ # Lhayul
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -458,11 +429,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5589={ #Bhoma
+5589={ # Bhoma
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -471,11 +441,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5590={ #Tsanghla
+5590={ # Tsanghla
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -484,11 +453,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5591={ #Leh
+5591={ # Leh
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -497,177 +465,166 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5592={ #Skardo
+5592={ # Skardo
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="leather"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5593={ #Darada
+5593={ # Darada
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="woad"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5594={ #Gilgit
+5594={ # Gilgit
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="cattle"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5595={ #Hunza
+5595={ # Hunza
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="base_metals"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5596={ #Druzhiya
+5596={ # Druzhiya
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="cedar"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-5597={ #Kargah
+5597={ # Kargah
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="cattle"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-5598={ #Mulbek
+5598={ # Mulbek
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="fur"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5599={ #Teclas
+5599={ # Teclas
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="base_metals"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 }
-
-5600={ #Parsni
+5600={ # Parsni
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="hindu"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5601={ #Kusta
+5601={ # Kusta
 	terrain="mountain"
 	culture="zhangzhung"
-	religion="bon_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5602={ #Gondogoro Pass
+5602={ # Gondogoro Pass
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -676,8 +633,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-5605={ #Tago
+5605={ # Tago
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -686,11 +642,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5606={ #Yartsang
+5606={ # Yartsang
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -699,11 +654,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5607={ #Kyungchen Dzong
+5607={ # Kyungchen Dzong
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -712,11 +666,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5608={ #Dangra
+5608={ # Dangra
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -725,12 +678,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_drablai_gyalmo
+	holy_site="omen_drablai_gyalmo"
 }
-
-5609={ #Tarok
+5609={ # Tarok
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -739,11 +691,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5610={ #Kyangpu
+5610={ # Kyangpu
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -752,11 +703,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5611={ #Gyulo
+5611={ # Gyulo
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -765,11 +715,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5612={ #Supima
+5612={ # Supima
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -778,11 +727,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5613={ #Nambo
+5613={ # Nambo
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -791,11 +739,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5614={ #Ormogang
+5614={ # Ormogang
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -804,17 +751,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5615={ #Barma
+5615={ # Barma
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -823,14 +769,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-5616={ #Jangteng
+5616={ # Jangteng
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -839,11 +784,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5617={ #Chunak
+5617={ # Chunak
 	terrain="mountain"
 	culture="zhangzhung"
 	religion="bon_religion"
@@ -852,11 +796,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5618={ #Lhasa
+5618={ # Lhasa
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -865,15 +808,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_kuchi_mangke
+	holy_site="omen_kuchi_mangke"
 }
-
-5619={ #Tanglha
+5619={ # Tanglha
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -882,11 +824,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5620={ #Katsel
+5620={ # Katsel
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -895,11 +836,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5621={ #Samye
+5621={ # Samye
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -908,11 +848,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5622={ #Qoide
+5622={ # Qoide
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -921,11 +860,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5623={ #Trompagan
+5623={ # Trompagan
 	terrain="mountain"
 	culture="tsang"
 	religion="bon_religion"
@@ -934,11 +872,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5624={ #Nyentse
+5624={ # Nyentse
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -947,11 +884,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5625={ #Nesar
+5625={ # Nesar
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -960,11 +896,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5626={ #Tsangdram
+5626={ # Tsangdram
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -973,11 +908,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5627={ #Dyuni
+5627={ # Dyuni
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -986,11 +920,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-5629={ #Koryi
+5629={ # Koryi
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -999,8 +932,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-5630={ #Zhongzhong
+5630={ # Zhongzhong
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1009,14 +941,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5631={ #Mon Bumtang
+5631={ # Mon Bumtang
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1025,11 +956,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-5632={ #Khoting
+5632={ # Khoting
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1038,11 +968,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5633={ #Tsoho
+5633={ # Tsoho
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1051,14 +980,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-5634={ #Mon Shampo
+5634={ # Mon Shampo
 	terrain="mountain"
 	culture="himalayan"
 	religion="bon_religion"
@@ -1067,8 +995,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-5635={ #Lhodrak
+5635={ # Lhodrak
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1077,11 +1004,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5636={ #Chongye
+5636={ # Chongye
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1090,14 +1016,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5637={ #Chimpyu
+5637={ # Chimpyu
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1106,11 +1031,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5638={ #Kyungho
+5638={ # Kyungho
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1119,11 +1043,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5639={ #Durbye
+5639={ # Durbye
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1132,11 +1055,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5640={ #Nyenchen
+5640={ # Nyenchen
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1145,11 +1067,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5641={ #Yokang
+5641={ # Yokang
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1158,11 +1079,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5642={ #Ritang
+5642={ # Ritang
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1171,14 +1091,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5643={ #Buchu
+5643={ # Buchu
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1187,11 +1106,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5644={ #Kongpo
+5644={ # Kongpo
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1200,11 +1118,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5645={ #Lishan
+5645={ # Lishan
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1213,11 +1130,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-5646={ #Tsosong
+5646={ # Tsosong
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1226,11 +1142,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5647={ #Drena
+5647={ # Drena
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1239,11 +1154,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-5648={ #Tandruk
+5648={ # Tandruk
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1252,11 +1166,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5649={ #Tsangpo
+5649={ # Tsangpo
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1265,11 +1178,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5650={ #Dodong
+5650={ # Dodong
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1278,14 +1190,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5651={ #Shyri
+5651={ # Shyri
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1294,11 +1205,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5652={ #Pulong
+5652={ # Pulong
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1307,14 +1217,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5653={ #Soso
+5653={ # Soso
 	terrain="mountain"
 	culture="yarlung"
 	religion="bon_religion"
@@ -1323,11 +1232,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5654={ #Kongyul
+5654={ # Kongyul
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1336,8 +1244,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 }
-
-5655={ #Shingnak
+5655={ # Shingnak
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1346,11 +1253,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5656={ #Nyang
+5656={ # Nyang
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1359,14 +1265,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5657={ #Gong
+5657={ # Gong
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1375,11 +1280,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5658={ #Lum
+5658={ # Lum
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1388,11 +1292,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5659={ #Fugo
+5659={ # Fugo
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1401,11 +1304,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-5660={ #Supiyi
+5660={ # Supiyi
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1414,12 +1316,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_the_elements
+	holy_site="omen_the_elements"
 }
-
-5661={ #Rabten
+5661={ # Rabten
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1428,11 +1329,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-5662={ #Tufan
+5662={ # Tufan
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1441,14 +1341,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5663={ #Naksho
+5663={ # Naksho
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1457,14 +1356,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-5664={ #Ronglung
+5664={ # Ronglung
 	terrain="mountain"
 	culture="sumpa"
 	religion="bon_religion"
@@ -1473,11 +1371,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-12698={ #Rmat
+12698={ # Rmat
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1486,11 +1383,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12699={ #Dum
+12699={ # Dum
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1499,11 +1395,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12700={ #Tsan
+12700={ # Tsan
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1512,11 +1407,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12701={ #Glyank
+12701={ # Glyank
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1525,11 +1419,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12702={ #Muk
+12702={ # Muk
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1538,11 +1431,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12703={ #Rnamwan
+12703={ # Rnamwan
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1551,11 +1443,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12704={ #Sdik
+12704={ # Sdik
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1564,11 +1455,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12705={ #Plyum
+12705={ # Plyum
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1577,11 +1467,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12706={ #Mowt
+12706={ # Mowt
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1590,11 +1479,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12707={ #Hyam
+12707={ # Hyam
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1603,11 +1491,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-12708={ #Tsak
+12708={ # Tsak
 	terrain="mountain"
 	culture="gyalrong"
 	religion="bon_religion"
@@ -1616,7 +1503,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-

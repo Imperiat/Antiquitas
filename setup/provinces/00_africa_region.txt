@@ -1,4 +1,4 @@
-1470={ # Cossyra
+﻿1470={ # Cossyra
 	terrain="plains"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"

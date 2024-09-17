@@ -1,4 +1,4 @@
-3301={ # Sabratha
+﻿3301={ # Sabratha
 	terrain="plains"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"

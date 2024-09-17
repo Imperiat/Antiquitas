@@ -1,4 +1,4 @@
-3699={ # Aquae Mattiacorum
+﻿3699={ # Aquae Mattiacorum
 	terrain="plains"
 	culture="ubian"
 	religion="druidism"

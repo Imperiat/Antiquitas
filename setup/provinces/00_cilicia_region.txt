@@ -1,4 +1,4 @@
-156={ # Myra
+﻿156={ # Myra
 	terrain="hills"
 	culture="lycian"
 	religion="anatolian_religion"

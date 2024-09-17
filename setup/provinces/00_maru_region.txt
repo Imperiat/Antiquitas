@@ -1,4 +1,4 @@
-4350={ # Mulasthanapura
+﻿4350={ # Mulasthanapura
 	terrain="farmland"
 	culture="sivi"
 	religion="hindu"
@@ -327,7 +327,7 @@
 4369={ # Gandava
 	terrain="mountain"
 	culture="sindhi"
-	religion="hindu"
+	religion="zoroaster"
 	trade_goods="fur"
 	civilization_value=22
 	barbarian_power=0
@@ -341,8 +341,8 @@
 }
 4371={ # Deogarh
 	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="sindhi"
+	religion="hindu"
 	trade_goods="incense"
 	civilization_value=41
 	barbarian_power=0
@@ -460,7 +460,7 @@
 4385={ # Shivai
 	terrain="plains"
 	culture="sivi"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="cloth"
 	civilization_value=32
 	barbarian_power=0
@@ -478,7 +478,7 @@
 4386={ # Jadamapura
 	terrain="desert"
 	culture="sivi"
-	religion="ajivika"
+	religion="hindu"
 	trade_goods="wild_game"
 	civilization_value=23
 	barbarian_power=0
@@ -616,7 +616,7 @@
 6526={ # Pagala
 	terrain="desert"
 	culture="sindhi"
-	religion="zoroaster"
+	religion="hindu"
 	trade_goods="cowrie_shells"
 	civilization_value=23
 	barbarian_power=0
@@ -635,7 +635,7 @@
 6527={ # Morontobara
 	terrain="desert"
 	culture="sindhi"
-	religion="zoroaster"
+	religion="hindu"
 	trade_goods="fish"
 	civilization_value=23
 	barbarian_power=0
@@ -689,7 +689,7 @@
 6536={ # Arbiti
 	terrain="hills"
 	culture="sindhi"
-	religion="zoroaster"
+	religion="hindu"
 	trade_goods="hemp"
 	civilization_value=19
 	barbarian_power=0
@@ -792,7 +792,7 @@
 6817={ # Sana
 	terrain="plains"
 	culture="saurashtran"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="fur"
 	civilization_value=26
 	barbarian_power=0
@@ -902,7 +902,7 @@
 6824={ # Astakapra
 	terrain="plains"
 	culture="saurashtran"
-	religion="jainism"
+	religion="hindu"
 	trade_goods="dye"
 	civilization_value=26
 	barbarian_power=0
@@ -1004,7 +1004,7 @@
 6830={ # Svabhra
 	terrain="farmland"
 	culture="saurashtran"
-	religion="charvaka"
+	religion="hindu"
 	trade_goods="earthware"
 	civilization_value=28
 	barbarian_power=0
@@ -1274,7 +1274,7 @@
 6846={ # Horrai
 	terrain="forest"
 	culture="saurashtran"
-	religion="charvaka"
+	religion="hindu"
 	trade_goods="fur"
 	civilization_value=24
 	barbarian_power=0

@@ -1,4 +1,4 @@
-1721={ # Fines
+﻿1721={ # Fines
 	terrain="forest"
 	culture="arverni"
 	religion="druidism"

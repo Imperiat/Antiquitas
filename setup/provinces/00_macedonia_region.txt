@@ -1,4 +1,4 @@
-356={ # Thasos
+﻿356={ # Thasos
 	terrain="hills"
 	culture="macedonian"
 	religion="greek_pantheon"

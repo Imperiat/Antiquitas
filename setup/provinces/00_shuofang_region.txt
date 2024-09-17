@@ -1,323 +1,304 @@
-﻿8279={ #Yiqu
+﻿8279={ # Yiqu
 	terrain="plains"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8563={ #Yuzhi
+8563={ # Yuzhi
 	terrain="steppes"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="grain"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8564={ #Niyang
+8564={ # Niyang
 	terrain="forest"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="horses"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8565={ #Luepan
+8565={ # Luepan
 	terrain="forest"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="dates"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8566={ #Fangqu
+8566={ # Fangqu
 	terrain="steppes"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="cloth"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8567={ #Xuyan
+8567={ # Xuyan
 	terrain="steppes"
 	culture="juyan"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="salt"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8568={ #Chungu
+8568={ # Chungu
 	terrain="forest"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="grain"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8569={ #Zhilu
+8569={ # Zhilu
 	terrain="hills"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="earthware"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8570={ #Guide
+8570={ # Guide
 	terrain="forest"
 	culture="yiqu"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="wine"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8571={ #Fuping
+8571={ # Fuping
 	terrain="steppes"
 	culture="juyan"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="grain"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8572={ #Lian
+8572={ # Lian
 	terrain="plains"
 	culture="juyan"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="steppe_horses"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8573={ #Lingwu
+8573={ # Lingwu
 	terrain="steppes"
 	culture="juyan"
-	religion="bon_religion"
+	religion="hu_religions"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8574={ #Fushi
+8574={ # Fushi
 	terrain="steppes"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="cattle"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8575={ #Pingzhou
+8575={ # Pingzhou
 	terrain="steppes"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="vegetables"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8576={ #Pingdu
+8576={ # Pingdu
 	terrain="steppes"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="salt"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8577={ #Yangzhou
+8577={ # Yangzhou
 	terrain="forest"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="steppe_horses"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8578={ #Gaonu
+8578={ # Gaonu
 	terrain="hills"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="spices"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8579={ #Diaoyin
+8579={ # Diaoyin
 	terrain="forest"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="wild_game"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8580={ #Qiyuan
+8580={ # Qiyuan
 	terrain="hills"
 	culture="qin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="fur"
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8581={ #Luodu
+8581={ # Luodu
 	terrain="forest"
 	culture="linhu"
 	religion="hu_religions"
@@ -326,17 +307,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8582={ #Baitu
+8582={ # Baitu
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -345,11 +325,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8583={ #Gaowang
+8583={ # Gaowang
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -358,11 +337,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8584={ #Zhenlin
+8584={ # Zhenlin
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -371,87 +349,82 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8585={ #Dingyang
+8585={ # Dingyang
 	terrain="forest"
 	culture="jin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="leather"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8586={ #Huanyang
+8586={ # Huanyang
 	terrain="steppes"
 	culture="jin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8587={ #Xicheng
+8587={ # Xicheng
 	terrain="hills"
 	culture="jin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="wine"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8588={ #Tujun
+8588={ # Tujun
 	terrain="hills"
 	culture="jin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="wood"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8589={ #Lin
+8589={ # Lin
 	terrain="steppes"
 	culture="baidi"
 	religion="hu_religions"
@@ -460,36 +433,34 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8590={ #Lishi
+8590={ # Lishi
 	terrain="hills"
 	culture="jin"
-	religion="chinese_religions"
+	religion="hu_religions"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-8591={ #Gaolang
+8591={ # Gaolang
 	terrain="mountain"
 	culture="baidi"
 	religion="hu_religions"
@@ -498,17 +469,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8592={ #Hongmen
+8592={ # Hongmen
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -517,14 +487,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8593={ #Pingding
+8593={ # Pingding
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -533,14 +502,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8594={ #Fuchang
+8594={ # Fuchang
 	terrain="hills"
 	culture="linhu"
 	religion="hu_religions"
@@ -549,14 +517,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8595={ #Guangyan
+8595={ # Guangyan
 	terrain="plains"
 	culture="linhu"
 	religion="hu_religions"
@@ -565,20 +532,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-8596={ #Meiji
+8596={ # Meiji
 	terrain="hills"
 	culture="linhu"
 	religion="hu_religions"
@@ -587,14 +553,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8597={ #Zengshan
+8597={ # Zengshan
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -603,14 +568,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8598={ #Dacheng
+8598={ # Dacheng
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -619,15 +583,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_tabiti
+	holy_site="omen_tabiti"
 }
-
-8599={ #Humeng
+8599={ # Humeng
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -636,14 +599,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8603={ #Shuofang
+8603={ # Shuofang
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -652,14 +614,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8604={ #Hudao
+8604={ # Hudao
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -668,11 +629,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8605={ #Qusou
+8605={ # Qusou
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -681,11 +641,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8606={ #Guangmu
+8606={ # Guangmu
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -694,14 +653,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8607={ #Linhe
+8607={ # Linhe
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -710,14 +668,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8608={ #Woye
+8608={ # Woye
 	terrain="plains"
 	culture="linhu"
 	religion="hu_religions"
@@ -726,20 +683,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8609={ #Linrong
+8609={ # Linrong
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -748,11 +704,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8610={ #Yuhun
+8610={ # Yuhun
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -761,11 +716,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8611={ #Sanfeng
+8611={ # Sanfeng
 	terrain="desert"
 	culture="linhu"
 	religion="hu_religions"
@@ -774,11 +728,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8612={ #Xiudou
+8612={ # Xiudou
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -787,11 +740,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8613={ #Henan
+8613={ # Henan
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -800,11 +752,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8614={ #Xianyang
+8614={ # Xianyang
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -813,14 +764,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8615={ #Jiuyuan
+8615={ # Jiuyuan
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -829,14 +779,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8616={ #Chengyi
+8616={ # Chengyi
 	terrain="hills"
 	culture="loufan"
 	religion="hu_religions"
@@ -845,14 +794,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8618={ #Heyin
+8618={ # Heyin
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -861,14 +809,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8619={ #Qahar
+8619={ # Qahar
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -877,11 +824,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8620={ #Linwo
+8620={ # Linwo
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -890,14 +836,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8622={ #Manbai
+8622={ # Manbai
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -906,14 +851,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8624={ #Wudu
+8624={ # Wudu
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -922,14 +866,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-8665={ #Duhe
+8665={ # Duhe
 	terrain="hills"
 	culture="loufan"
 	religion="hu_religions"
@@ -938,11 +881,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-9397={ #
+9397={ # 
 	terrain="desert"
 	culture="xiongnu"
 	religion="hu_religions"
@@ -951,8 +893,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-9512={ #Shouxiang
+9512={ # Shouxiang
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -961,14 +902,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9513={ #Tuidang
+9513={ # Tuidang
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -977,11 +917,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9514={ #Tabu
+9514={ # Tabu
 	terrain="desert"
 	culture="loufan"
 	religion="hu_religions"
@@ -990,14 +929,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 }
-
-9515={ #Nuoshui
+9515={ # Nuoshui
 	terrain="steppes"
 	culture="loufan"
 	religion="hu_religions"
@@ -1006,14 +944,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-9516={ #Bigan
+9516={ # Bigan
 	terrain="desert"
 	culture="linhu"
 	religion="hu_religions"
@@ -1022,11 +959,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9517={ #Langshan
+9517={ # Langshan
 	terrain="desert"
 	culture="linhu"
 	religion="hu_religions"
@@ -1035,11 +971,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9518={ #Haya
+9518={ # Haya
 	terrain="desert"
 	culture="shanma"
 	religion="hu_religions"
@@ -1048,11 +983,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9571={ #Xinqinzhong
+9571={ # Xinqinzhong
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -1061,11 +995,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9572={ #Qingyanze
+9572={ # Qingyanze
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -1074,11 +1007,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9573={ #PASS
+9573={ # PASS
 	terrain="steppes"
 	culture="linhu"
 	religion="hu_religions"
@@ -1087,8 +1019,7 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-9879={ #Linshui
+9879={ # Linshui
 	terrain="steppes"
 	culture="baidi"
 	religion="hu_religions"
@@ -1097,10 +1028,9 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-

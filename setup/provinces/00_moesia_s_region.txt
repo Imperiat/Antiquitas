@@ -1,4 +1,4 @@
-4077={ # Marsonia
+﻿4077={ # Marsonia
 	terrain="plains"
 	culture="pannonian"
 	religion="illyrian_pantheon"
@@ -209,7 +209,7 @@
 4108={ # Vizinia
 	terrain="hills"
 	culture="dardanian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -227,7 +227,7 @@
 4109={ # Anausaro
 	terrain="hills"
 	culture="dardanian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -263,7 +263,7 @@
 4111={ # Hammeum
 	terrain="farmland"
 	culture="triballoi"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="hemp"
 	civilization_value=12
 	barbarian_power=0
@@ -311,7 +311,7 @@
 4118={ # Gramrianae
 	terrain="plains"
 	culture="triballoi"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=11
 	barbarian_power=0

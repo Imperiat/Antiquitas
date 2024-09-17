@@ -1,4 +1,4 @@
-3806={ # Varistia
+﻿3806={ # Varistia
 	terrain="plains"
 	culture="ubian"
 	religion="druidism"

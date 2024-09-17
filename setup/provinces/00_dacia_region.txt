@@ -1,4 +1,4 @@
-4210={ # Dierna
+﻿4210={ # Dierna
 	terrain="hills"
 	culture="dacian"
 	religion="shamanism"

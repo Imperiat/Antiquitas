@@ -53,7 +53,7 @@ country = {
 			government = aristocratic_republic
 			diplomatic_stance=warmongering_stance
 			primary_culture = samnite
-			religion = roman_pantheon
+			religion = greek_pantheon
 			centralization=10
 			capital = 32
 			
@@ -114,7 +114,7 @@ country = {
 			government = plutocratic_republic
 			diplomatic_stance=trading_stance
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -417,7 +417,7 @@ country = {
 		APU = {
 			government = tribal_kingdom
 			primary_culture = messapian
-			religion = roman_pantheon
+			religion = illyrian_pantheon
 			centralization=8
 			capital = 66
 			diplomatic_stance=appeasement_stance
@@ -438,7 +438,7 @@ country = {
 		BAT = {
 			government = tribal_kingdom
 			primary_culture = messapian
-			religion = roman_pantheon
+			religion = illyrian_pantheon
 			centralization=8
 			capital = 60
 			diplomatic_stance=appeasement_stance
@@ -458,7 +458,7 @@ country = {
 		LKR = {
 			government = tribal_kingdom
 			primary_culture = messapian
-			religion = roman_pantheon
+			religion = illyrian_pantheon
 			centralization=8
 			capital = 39
 			diplomatic_stance=appeasement_stance
@@ -478,7 +478,7 @@ country = {
 		MSP = {
 			government = tribal_kingdom
 			primary_culture = messapian
-			religion = roman_pantheon
+			religion = illyrian_pantheon
 			centralization=8
 			capital = 62
 			diplomatic_stance=appeasement_stance
@@ -491,7 +491,7 @@ country = {
 		BNT = {
 			government = tribal_kingdom
 			primary_culture = messapian
-			religion = roman_pantheon
+			religion = illyrian_pantheon
 			centralization=8
 			capital = 57
 			diplomatic_stance=appeasement_stance
@@ -547,7 +547,7 @@ country = {
 			government = plutocratic_republic
 			diplomatic_stance=trading_stance
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = roman_pantheon
 			capital = 117
 			
 			technology={
@@ -566,7 +566,7 @@ country = {
 		SNI = {
 			government = tribal_kingdom
 			primary_culture = sennonian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 			diplomatic_stance=trading_stance
 			capital = 121
@@ -587,7 +587,7 @@ country = {
 		FCL = {
 			government = tribal_kingdom
 			primary_culture = sennonian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 			diplomatic_stance=trading_stance
 			capital = 148
@@ -727,7 +727,7 @@ country = {
 		TAU = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 			
 			poptype_rights = { 
@@ -780,7 +780,7 @@ country = {
 		PLC = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3575
@@ -806,7 +806,7 @@ country = {
 		BRX = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3581
@@ -819,7 +819,7 @@ country = {
 		HTR = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3593
@@ -832,7 +832,7 @@ country = {
 		CNM = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3584
@@ -845,7 +845,7 @@ country = {
 		BOI = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 146
@@ -858,7 +858,7 @@ country = {
 		LGN = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 142 #Ravenna
@@ -914,7 +914,7 @@ country = {
 		HIS = {
 			government = tribal_kingdom
 			primary_culture = histrian
-			religion = greek_pantheon
+			religion = roman_pantheon
 		
 			capital = 4019 
 		
@@ -926,7 +926,7 @@ country = {
 		TRT = {
 			government = tribal_kingdom
 			primary_culture = histrian
-			religion = greek_pantheon
+			religion = roman_pantheon
 		
 			capital = 4023 
 		
@@ -938,7 +938,7 @@ country = {
 		KRN = {
 			government = tribal_kingdom
 			primary_culture = carnian
-			religion = greek_pantheon
+			religion = druidism
 			centralization=10
 		
 			capital = 4025 
@@ -951,7 +951,7 @@ country = {
 		ARB = {
 			government = tribal_kingdom
 			primary_culture = carnian
-			religion = greek_pantheon
+			religion = druidism
 			centralization=10
 		
 			capital = 4135 
@@ -964,7 +964,7 @@ country = {
 		RAE = {
 			government = tribal_kingdom
 			primary_culture = rhaetian
-			religion = greek_pantheon
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3663 
@@ -977,7 +977,7 @@ country = {
 		BRE = {
 			government = tribal_kingdom
 			primary_culture = noric
-			religion = greek_pantheon
+			religion = druidism
 			centralization=10
 		
 			capital = 3667 
@@ -1103,7 +1103,7 @@ country = {
 			government = plutocratic_republic
 			diplomatic_stance=trading_stance
 			primary_culture = italiotian
-			religion = roman_pantheon
+			religion = greek_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1385,7 +1385,7 @@ country = {
 		ZIT = { 
 			government = oligarchic_republic
 			primary_culture = carthaginian
-			religion = carthaginian_pantheon
+			religion = berber_religion
 			diplomatic_stance=trading_stance
 			
 			technology={
@@ -1766,7 +1766,7 @@ country = {
 		CRT = {
 			government = tribal_kingdom
 			primary_culture = massaesylian
-			religion = berber_religion
+			religion = carthaginian_pantheon
 			capital = 3111
 			centralization=10
 		
@@ -1886,7 +1886,7 @@ country = {
 		ACR = {
 			government = oligarchic_republic
 			primary_culture = syracusan
-			religion = greek_pantheon
+			religion = roman_pantheon
 			capital = 86
 			
 			technology={
@@ -2140,7 +2140,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = massalian
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = animism
 		
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2554,7 +2554,7 @@ country = {
 		BLD = {
 			government = tribal_federation
 			primary_culture = talaiotic
-			religion = carthaginian_pantheon
+			religion = nuragic_pantheon
 		
 			capital = 1465
 		
@@ -2681,7 +2681,7 @@ country = {
 		AUG = {
 			government = tribal_kingdom
 			primary_culture = autrigonian
-			religion = animism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 1096
@@ -2963,7 +2963,7 @@ country = {
 		CRI = {
 			government = tribal_kingdom
 			primary_culture = autrigonian
-			religion = animism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 1098
@@ -2976,7 +2976,7 @@ country = {
 		VAD = {
 			government = tribal_kingdom
 			primary_culture = vasconian
-			religion = animism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 1083
@@ -3189,7 +3189,7 @@ country = {
 		VSC = {
 			government = tribal_kingdom
 			primary_culture = vasconian
-			religion = animism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 1016
@@ -3202,7 +3202,7 @@ country = {
 		VAR = {
 			government = tribal_kingdom
 			primary_culture = vasconian
-			religion = animism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 1087
@@ -3215,7 +3215,7 @@ country = {
 		EPO = {
 			government = plutocratic_republic
 			primary_culture = massalian
-			religion = greek_pantheon
+			religion = animism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3278,7 +3278,7 @@ country = {
 		MYR = {
 			government = plutocratic_republic
 			primary_culture = carthaginian
-			religion = carthaginian_pantheon
+			religion = animism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3356,7 +3356,7 @@ country = {
 		ABC = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3518
@@ -3369,7 +3369,7 @@ country = {
 		RGM = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3529
@@ -3382,7 +3382,7 @@ country = {
 		DCA = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3542
@@ -3395,7 +3395,7 @@ country = {
 		OXB = {
 			government = tribal_kingdom
 			primary_culture = ligurian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3541
@@ -3408,7 +3408,7 @@ country = {
 		SLV = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3523
@@ -3421,7 +3421,7 @@ country = {
 		CTR = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3536
@@ -3473,7 +3473,7 @@ country = {
 		ARC = {
 			government = tribal_kingdom
 			primary_culture = salluvian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 2314
@@ -3486,7 +3486,7 @@ country = {
 		TCT = {
 			government = tribal_kingdom
 			primary_culture = volcae
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2265
@@ -3499,7 +3499,7 @@ country = {
 		SRB = {
 			government = tribal_kingdom
 			primary_culture = volcae
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 2259
@@ -3512,7 +3512,7 @@ country = {
 		RUT = {
 			government = tribal_kingdom
 			primary_culture = volcae
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 2262
@@ -3525,7 +3525,7 @@ country = {
 		ALL = {
 			government = tribal_kingdom
 			primary_culture = helvetian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 2304
@@ -3564,7 +3564,7 @@ country = {
 		NTB = {
 			government = tribal_kingdom
 			primary_culture = santonian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 2270
@@ -3577,7 +3577,7 @@ country = {
 		TVC = {
 			government = tribal_kingdom
 			primary_culture = santonian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 2294
@@ -3590,7 +3590,7 @@ country = {
 		ASC = {
 			government = tribal_kingdom
 			primary_culture = aquitani
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2275
@@ -3603,7 +3603,7 @@ country = {
 		TRB = {
 			government = tribal_kingdom
 			primary_culture = aquitani
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2243
@@ -3616,7 +3616,7 @@ country = {
 		VCT = {
 			government = tribal_kingdom
 			primary_culture = aquitani
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2272
@@ -3629,7 +3629,7 @@ country = {
 		CCS = {
 			government = tribal_kingdom
 			primary_culture = aquitani
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2241
@@ -3642,7 +3642,7 @@ country = {
 		SGA = {
 			government = tribal_kingdom
 			primary_culture = aquitani
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2238
@@ -3655,7 +3655,7 @@ country = {
 		TRS = {
 			government = tribal_kingdom
 			primary_culture = aquitani
-			religion = druidism
+			religion = pre_indo_european_religion
 			centralization=10
 		
 			capital = 2250
@@ -3759,7 +3759,7 @@ country = {
 		LPO = {
 			government = tribal_kingdom
 			primary_culture = lepontic
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3617
@@ -3799,7 +3799,7 @@ country = {
 		BRG = {
 			government = tribal_kingdom
 			primary_culture = vindelician
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3636
@@ -3825,7 +3825,7 @@ country = {
 		VNN = {
 			government = tribal_kingdom
 			primary_culture = vindelician
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3640
@@ -4215,7 +4215,7 @@ country = {
 		BTN = {
 			government = tribal_kingdom
 			primary_culture = helvetian
-			religion = druidism
+			religion = roman_pantheon
 			centralization=10
 		
 			capital = 3623
@@ -4694,7 +4694,7 @@ country = {
 		OLS = {
 			government = tribal_kingdom
 			primary_culture = celtician
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 1319 
@@ -4720,7 +4720,7 @@ country = {
 		CNU = {
 			government = tribal_kingdom
 			primary_culture = couneian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 1337 
@@ -4733,7 +4733,7 @@ country = {
 		MCR = {
 			government = tribal_kingdom
 			primary_culture = couneian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 1336 
@@ -4746,7 +4746,7 @@ country = {
 		TDL = {
 			government = tribal_kingdom
 			primary_culture = turdulian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 1411
@@ -4772,7 +4772,7 @@ country = {
 		SLA = {
 			government = tribal_kingdom
 			primary_culture = turdulian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 1444
@@ -4798,7 +4798,7 @@ country = {
 		CSP = {
 			government = tribal_kingdom
 			primary_culture = turdulian
-			religion = druidism
+			religion = animism
 			centralization=10
 		
 			capital = 1403 
@@ -5047,7 +5047,7 @@ country = {
 		DIT = {
 			government = tribal_kingdom
 			primary_culture = histrian
-			religion = greek_pantheon
+			religion = roman_pantheon
 		
 			capital = 4033
 		
@@ -5059,7 +5059,7 @@ country = {
 		OTP = {
 			government = tribal_kingdom
 			primary_culture = histrian
-			religion = greek_pantheon
+			religion = roman_pantheon
 		
 			capital = 4035
 		
@@ -5071,7 +5071,7 @@ country = {
 		LBN = {
 			government = tribal_kingdom
 			primary_culture = liburnian_culture
-			religion = greek_pantheon
+			religion = roman_pantheon
 		
 			capital = 4053
 		
@@ -5083,7 +5083,7 @@ country = {
 		DLM = {
 			government = tribal_kingdom
 			primary_culture = greco_illyrian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4066
 		
@@ -5095,7 +5095,7 @@ country = {
 		TRG = {
 			government = tribal_kingdom
 			primary_culture = greco_illyrian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4060
 		
@@ -5107,7 +5107,7 @@ country = {
 		BLA = {
 			government = tribal_kingdom
 			primary_culture = greco_illyrian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4070
 		
@@ -5119,7 +5119,7 @@ country = {
 		PII = {
 			government = tribal_kingdom
 			primary_culture = greco_illyrian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4083
 		
@@ -5131,7 +5131,7 @@ country = {
 		DRI = {
 			government = tribal_kingdom
 			primary_culture = greco_illyrian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4086
 		
@@ -5143,7 +5143,7 @@ country = {
 		CAA = {
 			government = tribal_kingdom
 			primary_culture = catari
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4038
 		
@@ -5155,7 +5155,7 @@ country = {
 		VLD = {
 			government = tribal_kingdom
 			primary_culture = catari
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4046
 		
@@ -5167,7 +5167,7 @@ country = {
 		LTB = {
 			government = tribal_kingdom
 			primary_culture = letobician
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4027
 		
@@ -5179,7 +5179,7 @@ country = {
 		SAA = {
 			government = tribal_kingdom
 			primary_culture = letobician
-			religion = greek_pantheon
+			religion = druidism
 		
 			capital = 4140
 		
@@ -5191,7 +5191,7 @@ country = {
 		ABI = {
 			government = tribal_kingdom
 			primary_culture = taulantian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4091
 		
@@ -5203,7 +5203,7 @@ country = {
 		CVI = {
 			government = tribal_kingdom
 			primary_culture = taulantian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4092
 		
@@ -5215,7 +5215,7 @@ country = {
 		LSS = {
 			government = tribal_kingdom
 			primary_culture = taulantian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 2336
 		
@@ -5227,7 +5227,7 @@ country = {
 		DNT = {
 			government = tribal_kingdom
 			primary_culture = greco_illyrian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4061
 		
@@ -5239,7 +5239,7 @@ country = {
 		BCI = {
 			government = tribal_kingdom
 			primary_culture = deurian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4123
 		
@@ -5251,7 +5251,7 @@ country = {
 		DUI = {
 			government = tribal_kingdom
 			primary_culture = deurian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4074
 		
@@ -5263,7 +5263,7 @@ country = {
 		MSO = {
 			government = tribal_kingdom
 			primary_culture = deurian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4077
 		
@@ -5275,7 +5275,7 @@ country = {
 		AMI = {
 			government = tribal_kingdom
 			primary_culture = deraemestian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4106
 		
@@ -5287,7 +5287,7 @@ country = {
 		OXU = {
 			government = tribal_kingdom
 			primary_culture = deraemestian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 4105
 		
@@ -5299,7 +5299,7 @@ country = {
 		SCD = {
 			government = tribal_kingdom
 			primary_culture = celtic_pannonian
-			religion = druidism
+			religion = shamanism
 			centralization=10
 		
 			capital = 4195
@@ -5312,7 +5312,7 @@ country = {
 		DRV = {
 			government = tribal_kingdom
 			primary_culture = celtic_pannonian
-			religion = druidism
+			religion = illyrian_pantheon
 			centralization=10
 		
 			capital = 4184
@@ -5325,7 +5325,7 @@ country = {
 		MSA = {
 			government = tribal_kingdom
 			primary_culture = celtic_pannonian
-			religion = druidism
+			religion = illyrian_pantheon
 			centralization=10
 		
 			capital = 4197
@@ -5338,7 +5338,7 @@ country = {
 		DND = {
 			government = tribal_kingdom
 			primary_culture = celtic_pannonian
-			religion = druidism
+			religion = illyrian_pantheon
 			centralization=10
 		
 			capital = 4206
@@ -5351,7 +5351,7 @@ country = {
 		OTN = {
 			government = tribal_kingdom
 			primary_culture = celtic_pannonian
-			religion = druidism
+			religion = illyrian_pantheon
 			centralization=10
 		
 			capital = 4167
@@ -5364,7 +5364,7 @@ country = {
 		HCN = {
 			government = tribal_kingdom
 			primary_culture = eravisci
-			religion = druidism
+			religion = illyrian_pantheon
 			centralization=10
 		
 			capital = 4164
@@ -5390,7 +5390,7 @@ country = {
 		TLN = {
 			government = tribal_kingdom
 			primary_culture = taulantian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 415
 		
@@ -5402,7 +5402,7 @@ country = {
 		LYN = {
 			government = tribal_kingdom
 			primary_culture = taulantian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			capital = 412
 		
@@ -5414,7 +5414,7 @@ country = {
 		TLT = {
 			government = tribal_kingdom
 			primary_culture = triballoi
-			religion = shamanism
+			religion = illyrian_pantheon
 		
 			capital = 4219
 		
@@ -5438,7 +5438,7 @@ country = {
 		DRD = {
 			government = tribal_kingdom
 			primary_culture = dardanian
-			religion = greek_pantheon
+			religion = shamanism
 		
 			historical_regnal_numbers = {
 				Bardylis = 1
@@ -5469,7 +5469,7 @@ country = {
 		BNS = {
 			government = tribal_kingdom
 			primary_culture = celtic_pannonian
-			religion = druidism
+			religion = shamanism
 			centralization=10
 			
 			capital = 4116
@@ -5638,7 +5638,7 @@ country = {
 		APP = {
 			government = tribal_kingdom
 			primary_culture = caucoensi
-			religion = shamanism
+			religion = indo_iranian_religion
 		
 			capital = 4291 
 		
@@ -5686,7 +5686,7 @@ country = {
 		CAC = {
 			government = tribal_kingdom
 			primary_culture = caucoensi
-			religion = shamanism
+			religion = indo_iranian_religion
 		
 			capital = 4505
 		
@@ -5698,7 +5698,7 @@ country = {
 		ANS = {
 			government = tribal_kingdom
 			primary_culture = caucoensi
-			religion = shamanism
+			religion = indo_iranian_religion
 		
 			capital = 4508
 		
@@ -5771,7 +5771,7 @@ country = {
 		BIS = {
 			government = plutocratic_republic
 			primary_culture = thracian
-			religion = greek_pantheon
+			religion = shamanism
 			diplomatic_stance=trading_stance
 			capital = 347	
 			
@@ -5790,7 +5790,7 @@ country = {
 		ABD = {
 			government = plutocratic_republic
 			primary_culture = thracian
-			religion = greek_pantheon
+			religion = shamanism
 			diplomatic_stance=trading_stance
 			capital = 362	
 			
@@ -5809,7 +5809,7 @@ country = {
 		ANN = {
 			government = plutocratic_republic
 			primary_culture = thracian
-			religion = greek_pantheon
+			religion = shamanism
 			diplomatic_stance=trading_stance
 			capital = 354	
 			
@@ -5849,7 +5849,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = bosporan
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5869,7 +5869,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = bosporan
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5890,7 +5890,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = bosporan
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5932,7 +5932,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = bosporan
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5953,7 +5953,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = bosporan
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -5974,7 +5974,7 @@ country = {
 			government = plutocratic_republic
 			primary_culture = bosporan
 			diplomatic_stance=trading_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -6094,7 +6094,7 @@ country = {
 			government = tribal_kingdom
 			primary_culture = odrysi
 			diplomatic_stance=warmongering_stance
-			religion = greek_pantheon
+			religion = shamanism
 			
 			capital = 348
 			
@@ -6106,7 +6106,7 @@ country = {
 		PAA = {
 			government = tribal_kingdom
 			primary_culture = paeonian
-			religion = greek_pantheon
+			religion = shamanism
 			diplomatic_stance=appeasement_stance
 			capital = 397 #Stobi
 		
@@ -6132,7 +6132,7 @@ country = {
 		MAD = {
 			government = tribal_kingdom
 			primary_culture = paeonian
-			religion = greek_pantheon
+			religion = shamanism
 			diplomatic_stance=appeasement_stance
 			capital = 498 #
 		
@@ -6414,7 +6414,7 @@ country = {
 		BYL = {
 			government = tribal_kingdom
 			primary_culture = epirote
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 			capital = 3192
 
 			technology={
@@ -7499,7 +7499,7 @@ country = {
 		BIT = {
 			government = aristocratic_monarchy
 			primary_culture = bithynian
-			religion = greek_pantheon
+			religion = shamanism
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -7519,7 +7519,7 @@ country = {
 		HCP = {
 			government = aristocratic_monarchy
 			primary_culture = greco_pontic
-			religion = greek_pantheon
+			religion = anatolian_religion
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -7584,7 +7584,7 @@ country = {
 		ADY = {
 			government = democratic_republic
 			primary_culture = troan
-			religion = greek_pantheon
+			religion = anatolian_religion
 			diplomatic_stance=trading_stance
 			capital = 281
 			
@@ -7725,7 +7725,7 @@ country = {
 		KNS = {
 			government = plutocratic_republic
 			primary_culture = ionian
-			religion = greek_pantheon
+			religion = anatolian_religion
 			diplomatic_stance=trading_stance
 			capital = 1989
 			
@@ -7744,7 +7744,7 @@ country = {
 		ALD = {
 			government = plutocratic_republic
 			primary_culture = carian
-			religion = greek_pantheon
+			religion = anatolian_religion
 			diplomatic_stance=trading_stance
 			capital = 1967
 			
@@ -7763,7 +7763,7 @@ country = {
 		MYA = {
 			government = plutocratic_republic
 			primary_culture = carian
-			religion = greek_pantheon
+			religion = anatolian_religion
 			diplomatic_stance=trading_stance
 			capital = 1977
 			
@@ -7782,7 +7782,7 @@ country = {
 		KIO = { # Kios
 			government = aristocratic_monarchy
 			primary_culture = thracian
-			religion = zoroaster
+			religion = greek_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -7827,7 +7827,7 @@ country = {
 		ZEL = {
 			government = plutocratic_republic
 			primary_culture = phrygian
-			religion = greek_pantheon
+			religion = anatolian_religion
 			diplomatic_stance=trading_stance
 			capital = 254
 			
@@ -7927,7 +7927,7 @@ country = {
 			government = aristocratic_monarchy
 			diplomatic_stance=appeasement_stance
 			primary_culture = cilician
-			religion = greek_pantheon
+			religion = anatolian_religion
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -7949,7 +7949,7 @@ country = {
 			government = aristocratic_monarchy
 			diplomatic_stance=appeasement_stance
 			primary_culture = cilician
-			religion = greek_pantheon
+			religion = anatolian_religion
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -7992,7 +7992,7 @@ country = {
 		AMZ = {
 			government = despotic_monarchy
 			primary_culture = cappadocian
-			religion = anatolian_religion
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8030,7 +8030,7 @@ country = {
 		PON = {
 			government = tribal_kingdom
 			primary_culture = cappadocian
-			religion = zoroaster
+			religion = caucasian_religion
 			
 			capital = 1792
 			centralization=10
@@ -8081,7 +8081,7 @@ country = {
 		GRH = {
 			government = democratic_republic
 			primary_culture = makan
-			religion = arabian_pantheon
+			religion = mesopotamian_religion
 		
 			capital = 7199
 			
@@ -8093,7 +8093,7 @@ country = {
 		TYO = {
 			government = plutocratic_republic
 			primary_culture = babylonian
-			religion = arabian_pantheon
+			religion = mesopotamian_religion
 		
 			capital = 7202
 			
@@ -8204,7 +8204,7 @@ country = {
 		NBT = {
 			government = despotic_monarchy
 			primary_culture = nabatean
-			religion = arabian_pantheon
+			religion = carthaginian_pantheon
 		
 			capital = 729
 			
@@ -8217,7 +8217,7 @@ country = {
 		PEA = {
 			government = despotic_monarchy
 			primary_culture = nabatean
-			religion = arabian_pantheon
+			religion = carthaginian_pantheon
 		
 			capital = 709
 			
@@ -8283,9 +8283,9 @@ country = {
 		}
 
 		GGP	= {
-			government = theocratic_monarchy
-			primary_culture = hebrew
-			religion = judaism
+			government = tribal_kingdom
+			primary_culture = sindi
+			religion = indo_iranian_religion
 		
 			capital = 4565
 			
@@ -8456,7 +8456,7 @@ country = {
 		COM = { #Commagene, Satrapy under Antigonids, later Seleukids.
 			government = despotic_monarchy
 			primary_culture = aramaic
-			religion = zoroaster
+			religion = carthaginian_pantheon
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8513,7 +8513,7 @@ country = {
 		DLC = { 
 			government = aristocratic_monarchy
 			primary_culture = aramaic
-			religion = greek_pantheon
+			religion = carthaginian_pantheon
 		
 			capital = 811
 			
@@ -8533,7 +8533,7 @@ country = {
 		ELM = {
 			government = aristocratic_monarchy
 			primary_culture = elamite
-			religion = zoroaster
+			religion = elamite_pantheon
 			capital = 946
 			diplomatic_stance=warmongering_stance
 		
@@ -8555,7 +8555,7 @@ country = {
 		BAC = {
 			government = despotic_monarchy
 			primary_culture = bactrian
-			religion = zoroaster
+			religion = vaksh_religion
 			diplomatic_stance=warmongering_stance
 			capital = 6678 #Bactra
 		
@@ -8706,7 +8706,7 @@ country = {
 		STT = {
 			government = despotic_monarchy
 			primary_culture = parthian
-			religion = zoroaster
+			religion = hindu
 			capital = 6615
 		
 			technology={
@@ -8724,7 +8724,7 @@ country = {
 		PRP = {
 			government = despotic_monarchy
 			primary_culture = parthian
-			religion = zoroaster
+			religion = hindu
 			capital = 6611
 		
 			technology={
@@ -8781,7 +8781,7 @@ country = {
 		MEE = {
 			government = despotic_monarchy
 			primary_culture = median
-			religion = zoroaster
+			religion = mithra_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8873,7 +8873,7 @@ country = {
 		IRS = {
 			government = despotic_monarchy
 			primary_culture = carmanian
-			religion = anatolian_religion
+			religion = indo_iranian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8892,7 +8892,7 @@ country = {
 		SRC = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8911,7 +8911,7 @@ country = {
 		AYR = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8930,7 +8930,7 @@ country = {
 		ADB = {
 			government = despotic_monarchy
 			primary_culture = assyrian
-			religion = zoroaster
+			religion = mesopotamian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8950,7 +8950,7 @@ country = {
 		GRE = {
 			government = despotic_monarchy
 			primary_culture = assyrian
-			religion = zoroaster
+			religion = mesopotamian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8970,7 +8970,7 @@ country = {
 		KYL = {
 			government = despotic_monarchy
 			primary_culture = cadusian
-			religion = zoroaster
+			religion = indo_iranian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8989,7 +8989,7 @@ country = {
 		PRC = {
 			government = despotic_monarchy
 			primary_culture = cadusian
-			religion = zoroaster
+			religion = indo_iranian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9008,7 +9008,7 @@ country = {
 		CRD = {
 			government = despotic_monarchy
 			primary_culture = assyrian
-			religion = zoroaster
+			religion = mesopotamian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9028,7 +9028,7 @@ country = {
 		SPH = {
 			government = despotic_monarchy
 			primary_culture = cataonian
-			religion = zoroaster
+			religion = anatolian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9049,7 +9049,7 @@ country = {
 		TLR = {
 			government = despotic_monarchy
 			primary_culture = cappadocian
-			religion = anatolian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9069,7 +9069,7 @@ country = {
 		ANI = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9088,7 +9088,7 @@ country = {
 		ATS = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = caucasian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9107,7 +9107,7 @@ country = {
 		TRW = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9126,7 +9126,7 @@ country = {
 		VSP = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9205,7 +9205,7 @@ country = {
 		KAN = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = anahita_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9224,7 +9224,7 @@ country = {
 		SNR = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = armenian_religion
+			religion = caucasian_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9363,7 +9363,7 @@ country = {
 		ABT = {
 			government = despotic_monarchy
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 					
 			capital = 6536
 		
@@ -9376,7 +9376,7 @@ country = {
 			government = tribal_kingdom
 			centralization=-10
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 		
 			capital = 6815
 		
@@ -9389,7 +9389,7 @@ country = {
 			government = tribal_kingdom
 			centralization=-10
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 		
 			capital = 6851
 		
@@ -9402,7 +9402,7 @@ country = {
 			government = tribal_kingdom
 			centralization=-10
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 		
 			capital = 4353
 		
@@ -9415,7 +9415,7 @@ country = {
 			government = tribal_kingdom
 			centralization=-10
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 		
 			capital = 4355
 		
@@ -9428,7 +9428,7 @@ country = {
 			government = tribal_kingdom
 			centralization=-10
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 		
 			capital = 4364
 		
@@ -9441,7 +9441,7 @@ country = {
 			government = tribal_kingdom
 			centralization=-10
 			primary_culture = sindhi
-			religion = zoroaster
+			religion = hindu
 		
 			capital = 4352
 		
@@ -9491,7 +9491,7 @@ country = {
 		MAP = {
 			government = despotic_monarchy
 			primary_culture = median
-			religion = zoroaster
+			religion = mesopotamian_religion
 			capital = 1649
 			diplomatic_stance=appeasement_stance
 			
@@ -9591,7 +9591,7 @@ country = {
 		HKH = {
 			government = despotic_monarchy
 			primary_culture = ibero
-			religion = armenian_religion
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9610,7 +9610,7 @@ country = {
 		AHN = {
 			government = despotic_monarchy
 			primary_culture = ibero
-			religion = armenian_religion
+			religion = caucasian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9665,7 +9665,7 @@ country = {
 		LGA = {
 			government = tribal_chiefdom
 			primary_culture = legian
-			religion = indo_iranian_religion
+			religion = caucasian_religion
 		
 			capital = 5866
 		
@@ -9898,7 +9898,7 @@ country = {
 		PLD = { #Paladas
 			government = despotic_monarchy
 			primary_culture = vidharban
-			religion = hindu
+			religion = agama
 			capital = 7075
 		
 			own_control_core = 	{ 
@@ -9947,7 +9947,7 @@ country = {
 		PRB = { #Parambu
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			capital = 6942
 			
 			technology={
@@ -9965,7 +9965,7 @@ country = {
 		KSR = { #Kosar
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = jainism
+			religion = agama
 			capital = 6938 #Karur
 			
 			technology={
@@ -9983,7 +9983,7 @@ country = {
 		ADG = { #Adigaiman
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			capital = 6989 #Tagadur
 			
 			technology={
@@ -10357,7 +10357,7 @@ country = {
 		NBP = { #Naba-Pankti
 			government = despotic_monarchy
 			primary_culture = himalayan
-			religion = buddhism
+			religion = hindu
 			capital = 4459
 		
 			own_control_core = 	{ 
@@ -10587,7 +10587,7 @@ country = {
 		ALU = {
 			government = tribal_kingdom
 			primary_culture = kannadan
-			religion = hindu
+			religion = agama
 			centralization=10
 			capital = 7015
 		
@@ -10599,7 +10599,7 @@ country = {
 		VNV = {
 			government = tribal_kingdom
 			primary_culture = kannadan
-			religion = hindu
+			religion = agama
 			centralization=10
 			capital = 6884
 		
@@ -10611,7 +10611,7 @@ country = {
 		KUN = {
 			government = tribal_kingdom
 			primary_culture = kannadan
-			religion = hindu
+			religion = agama
 			centralization=10
 			capital = 6879 
 		
@@ -10671,7 +10671,7 @@ country = {
 		IND = {
 			government = tribal_kingdom
 			primary_culture = vidharban
-			religion = hindu
+			religion = agama
 			centralization=10
 			capital = 7158
 		
@@ -10726,7 +10726,7 @@ country = {
 		ASM = {
 			government = tribal_kingdom
 			primary_culture = telugu
-			religion = hindu
+			religion = agama
 			centralization=10
 			capital = 7058
 		
@@ -10738,7 +10738,7 @@ country = {
 		ANH = {
 			government = tribal_kingdom
 			primary_culture = telugu
-			religion = hindu
+			religion = agama
 			centralization=10
 			capital = 7019
 		
@@ -10750,7 +10750,7 @@ country = {
 		KAL = {
 			government = oligarchic_republic
 			primary_culture = kalingan
-			religion = hindu
+			religion = agama
 		
 			capital = 7081
 			
@@ -10826,7 +10826,7 @@ country = {
 		MSH = {
 			government = tribal_kingdom
 			primary_culture = kannadan
-			religion = hindu
+			religion = agama
 			centralization=5
 			capital = 7030
 		
@@ -10838,7 +10838,7 @@ country = {
 		CTD = {
 			government = tribal_kingdom
 			primary_culture = kannadan
-			religion = hindu
+			religion = agama
 			centralization=5
 			capital = 7037
 		
@@ -10863,7 +10863,7 @@ country = {
 		PND = {
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -10895,7 +10895,7 @@ country = {
 		CHL = {
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -10913,7 +10913,7 @@ country = {
 
 		KRG = {
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -10926,7 +10926,7 @@ country = {
 
 		MVL = {
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -10939,7 +10939,7 @@ country = {
 
 		MTT = {
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -10952,7 +10952,7 @@ country = {
 
 		TRL = {
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -10965,7 +10965,7 @@ country = {
 
 		CGM = {
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -10978,7 +10978,7 @@ country = {
 
 		BDK = {
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -10991,7 +10991,7 @@ country = {
 
 		MLG = {
 			primary_culture = telugu
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -11004,7 +11004,7 @@ country = {
 
 		KTT = {
 			primary_culture = telugu
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -11017,7 +11017,7 @@ country = {
 
 		MDN = {
 			primary_culture = telugu
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -11030,7 +11030,7 @@ country = {
 
 		PTO = {
 			primary_culture = telugu
-			religion = hindu
+			religion = agama
 			government = tribal_kingdom
 			centralization=5
 
@@ -11044,7 +11044,7 @@ country = {
 		AYY = {
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -11063,7 +11063,7 @@ country = {
 		CHR = {
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -11082,7 +11082,7 @@ country = {
 		STY = {
 			government = despotic_monarchy
 			primary_culture = tamil
-			religion = hindu
+			religion = agama
 			capital = 6912
 		
 			own_control_core = 	{ 
@@ -11093,7 +11093,7 @@ country = {
 		PSH = {
 			government = despotic_monarchy
 			primary_culture = sakan
-			religion = eastern_animism
+			religion = indo_iranian_religion
 		
 			capital = 6742
 			
@@ -11131,7 +11131,7 @@ country = {
 		KHT = {
 			government = despotic_monarchy
 			primary_culture = sakan
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			technology={
 				military_tech={ level=1 progress=0 }
 				civic_tech={ level=1 progress=0 }
@@ -11250,7 +11250,7 @@ country = {
 		SHU = {
 			government = despotic_monarchy
 			primary_culture = tocharian
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11269,7 +11269,7 @@ country = {
 		PMR = {
 			government = despotic_monarchy
 			primary_culture = tocharian
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11307,7 +11307,7 @@ country = {
 		PHY = {
 			government = despotic_monarchy
 			primary_culture = sakan
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11326,7 +11326,7 @@ country = {
 		TAY = {
 			government = despotic_monarchy
 			primary_culture = tayuan
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11345,7 +11345,7 @@ country = {
 		FRG = {
 			government = despotic_monarchy
 			primary_culture = tayuan
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11364,7 +11364,7 @@ country = {
 		WUS = {
 			government = despotic_monarchy
 			primary_culture = tocharian
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11383,7 +11383,7 @@ country = {
 		CAH = {
 			government = despotic_monarchy
 			primary_culture = margian
-			religion = zoroaster
+			religion = vaksh_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11402,7 +11402,7 @@ country = {
 		MRG = {
 			government = despotic_monarchy
 			primary_culture = margian
-			religion = zoroaster
+			religion = vaksh_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11421,7 +11421,7 @@ country = {
 		TPU = {
 			government = despotic_monarchy
 			primary_culture = margian
-			religion = zoroaster
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11436,30 +11436,11 @@ country = {
 				6661 6660 7226 6723 6671
 			}
 		}
-
-		CAH = {
-			government = despotic_monarchy
-			primary_culture = tocharian
-			religion = eastern_animism
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-			
-			capital = 6784
-			
-			own_control_core = {
-				6784
-			}
-		}
 		
 		SOG = {
 			government = despotic_monarchy
 			primary_culture = sogdian
-			religion = eastern_animism
+			religion = vaksh_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11479,7 +11460,7 @@ country = {
 		BSK = {
 			government = despotic_monarchy
 			primary_culture = sogdian
-			religion = eastern_animism
+			religion = indo_iranian_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11564,7 +11545,7 @@ country = {
 		CHS = {
 			government = democratic_republic
 			primary_culture = bosporan
-			religion = greek_pantheon
+			religion = indo_iranian_religion
 			diplomatic_stance=trading_stance
 			capital = 4538
 			
@@ -11583,7 +11564,7 @@ country = {
 		CRX = {
 			government = democratic_republic
 			primary_culture = bosporan
-			religion = greek_pantheon
+			religion = indo_iranian_religion
 			diplomatic_stance=trading_stance
 			capital = 4539
 			
@@ -11602,7 +11583,7 @@ country = {
 		LPS = {
 			government = democratic_republic
 			primary_culture = bosporan
-			religion = greek_pantheon
+			religion = indo_iranian_religion
 			diplomatic_stance=trading_stance
 			capital = 4540 
 			
@@ -11621,7 +11602,7 @@ country = {
 		ATN = {
 			government = democratic_republic
 			primary_culture = bosporan
-			religion = greek_pantheon
+			religion = indo_iranian_religion
 			diplomatic_stance=trading_stance
 			capital = 4543 
 			
@@ -11703,7 +11684,7 @@ country = {
 		PHI = {
 			government = plutocratic_republic
 			primary_culture = greco_pontic
-			religion = greek_pantheon
+			religion = caucasian_religion
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -11852,7 +11833,7 @@ country = {
 		AXM = {
 			government = despotic_monarchy
 			primary_culture = aksumite
-			religion = arabian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -11943,7 +11924,7 @@ country = {
 		BMY = {
 			government = tribal_kingdom
 			primary_culture = blemmyan
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			capital = 7599
 			
@@ -11955,7 +11936,7 @@ country = {
 		SST = {
 			government = tribal_kingdom
 			primary_culture = blemmyan
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			capital = 7598
 			
@@ -11967,7 +11948,7 @@ country = {
 		BOR = {
 			government = tribal_kingdom
 			primary_culture = meroitic
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			capital = 7589
 			
@@ -11979,7 +11960,7 @@ country = {
 		DMR = {
 			government = tribal_kingdom
 			primary_culture = meroitic
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			capital = 7590
 			
@@ -11991,7 +11972,7 @@ country = {
 		DRR = {
 			government = tribal_kingdom
 			primary_culture = meroitic
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			capital = 3323
 			
@@ -12003,7 +11984,7 @@ country = {
 		AUT = {
 			government = despotic_monarchy
 			primary_culture = roman
-			religion = egyptian_pantheon
+			religion = nilotic_pantheon
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12060,7 +12041,7 @@ country = {
 		ADO = {
 			government = despotic_monarchy
 			primary_culture = aksumite
-			religion = arabian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12079,7 +12060,7 @@ country = {
 		YEH = {
 			government = theocratic_monarchy
 			primary_culture = aksumite
-			religion = arabian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12098,7 +12079,7 @@ country = {
 		GWN = {
 			government = despotic_monarchy
 			primary_culture = aksumite
-			religion = arabian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12117,7 +12098,7 @@ country = {
 		MND = {
 			government = plutocratic_republic
 			primary_culture = puntic
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12136,7 +12117,7 @@ country = {
 		MYL = {
 			government = plutocratic_republic
 			primary_culture = puntic
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12155,7 +12136,7 @@ country = {
 		OPO = {
 			government = plutocratic_republic
 			primary_culture = puntic
-			religion = egyptian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12174,7 +12155,7 @@ country = {
 		AVL = {
 			government = despotic_monarchy
 			primary_culture = puntic
-			religion = arabian_pantheon
+			religion = puntic_religion
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -12221,7 +12202,7 @@ country = {
 		SWE = {
 			government = tribal_chiefdom
 			primary_culture = suiones
-			religion = germanic_religion
+			religion = uralic_pantheon
 			centralization=-50
 			
 			capital = 6032
@@ -12299,7 +12280,7 @@ country = {
 		LGI = {
 			government = tribal_chiefdom
 			primary_culture = vandal
-			religion = germanic_religion
+			religion = matrist_religion
 			centralization=-50
 			
 			capital = 4758
@@ -12351,7 +12332,7 @@ country = {
 		SXS = {
 			government = tribal_chiefdom
 			primary_culture = saxonian
-			religion = germanic_religion
+			religion = druidism
 			centralization=-50
 			
 			capital = 3842
@@ -12464,7 +12445,7 @@ country = {
 		GTH = {
 			government = tribal_chiefdom
 			primary_culture = gothonic
-			religion = germanic_religion
+			religion = matrist_religion
 			
 			capital = 4755
 			
@@ -12477,7 +12458,7 @@ country = {
 		RGG = {
 			government = tribal_chiefdom
 			primary_culture = gothonic
-			religion = germanic_religion
+			religion = matrist_religion
 			
 			capital = 4751
 			
@@ -12489,7 +12470,7 @@ country = {
 		SCI = {
 			government = tribal_chiefdom
 			primary_culture = vandal
-			religion = germanic_religion
+			religion = matrist_religion
 			
 			capital = 4763
 			
@@ -12537,7 +12518,7 @@ country = {
 		VDL = {
 			government = tribal_chiefdom
 			primary_culture = rugian
-			religion = germanic_religion
+			religion = uralic_pantheon
 			
 			capital = 6042
 			
@@ -12597,7 +12578,7 @@ country = {
 		BLR = {
 			government = tribal_federation
 			primary_culture = nuragic
-			religion = carthaginian_pantheon
+			religion = nuragic_pantheon
 			
 			capital = 3501
 			
@@ -12609,7 +12590,7 @@ country = {
 		LIA = {
 			government = tribal_federation
 			primary_culture = nuragic
-			religion = carthaginian_pantheon
+			religion = roman_pantheon
 			
 			capital = 3515
 			
@@ -12621,7 +12602,7 @@ country = {
 		ALO = {
 			government = tribal_federation
 			primary_culture = nuragic
-			religion = carthaginian_pantheon
+			religion = roman_pantheon
 			
 			capital = 3511
 			
@@ -12633,7 +12614,7 @@ country = {
 		OLI = {
 			government = tribal_federation
 			primary_culture = nuragic
-			religion = carthaginian_pantheon
+			religion = nuragic_pantheon
 			
 			capital = 3504
 			
@@ -12645,7 +12626,7 @@ country = {
 		IOI = {
 			government = tribal_kingdom
 			primary_culture = nuragic
-			religion = carthaginian_pantheon
+			religion = nuragic_pantheon
 			
 			capital = 3491
 			
@@ -12814,7 +12795,7 @@ country = {
 			government = plutocratic_republic
 			diplomatic_stance=trading_stance
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = roman_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -12873,7 +12854,7 @@ country = {
 		HEM = {
 			government = oligarchic_republic
 			primary_culture = syracusan
-			religion = greek_pantheon
+			religion = roman_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -12892,7 +12873,7 @@ country = {
 		HPP = {
 			government = oligarchic_republic
 			primary_culture = syracusan
-			religion = greek_pantheon
+			religion = roman_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -12930,7 +12911,7 @@ country = {
 		TYN = {
 			government = oligarchic_republic
 			primary_culture = syracusan
-			religion = greek_pantheon
+			religion = roman_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -12949,7 +12930,7 @@ country = {
 		CLA = {
 			government = oligarchic_republic
 			primary_culture = syracusan
-			religion = greek_pantheon
+			religion = roman_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -12968,7 +12949,7 @@ country = {
 		THM = {
 			government = oligarchic_republic
 			primary_culture = syracusan
-			religion = greek_pantheon
+			religion = carthaginian_pantheon
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13203,7 +13184,7 @@ country = {
 		ASP = { # Asparos
 			government = oligarchic_republic
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = roman_pantheon
 		
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13222,7 +13203,7 @@ country = {
 		PHA = { # Issa
 			government = oligarchic_republic
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13241,7 +13222,7 @@ country = {
 		EPM = { # Epidaurum
 			government = oligarchic_republic
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13260,7 +13241,7 @@ country = {
 		APO = { # Apollonia
 			government = oligarchic_republic
 			primary_culture = italiotian
-			religion = greek_pantheon
+			religion = illyrian_pantheon
 		
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13281,7 +13262,7 @@ country = {
 		SLG = { # Selgia
 			government = tribal_federation
 			primary_culture = pisidian
-			religion = anatolian_religion
+			religion = greek_pantheon
 		
 			capital = 1885
 		
@@ -13329,7 +13310,7 @@ country = {
 		PDL = { # Pednelissia
 			government = tribal_federation
 			primary_culture = pisidian
-			religion = anatolian_religion
+			religion = greek_pantheon
 		
 			capital = 167
 		
@@ -13353,7 +13334,7 @@ country = {
 		LYC = { # Lycia
 			government = oligarchic_republic
 			primary_culture = lycian
-			religion = greek_pantheon
+			religion = anatolian_religion
 		
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13396,7 +13377,7 @@ country = {
 		MYD = { # Mariandynia
 			government = tribal_chiefdom
 			primary_culture = mariandynian
-			religion = greek_pantheon
+			religion = anatolian_religion
 		
 			capital = 219
 		
@@ -13408,7 +13389,7 @@ country = {
 		SMS = { # Sesamos
 			government = oligarchic_republic
 			primary_culture = greco_pontic
-			religion = greek_pantheon
+			religion = anatolian_religion
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13427,7 +13408,7 @@ country = {
 		TIE = { # Tieion
 			government = oligarchic_republic
 			primary_culture = greco_pontic
-			religion = greek_pantheon
+			religion = anatolian_religion
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13470,7 +13451,7 @@ country = {
 		ABL = { # Ambladia
 			government = tribal_federation
 			primary_culture = oroandian
-			religion = anatolian_religion
+			religion = greek_pantheon
 			
 			capital = 1921
 			
@@ -13615,7 +13596,7 @@ country = {
 		KAK = { # Kaukonia
 			government = tribal_chiefdom
 			primary_culture = mariandynian
-			religion = greek_pantheon
+			religion = anatolian_religion
 		
 			capital = 210
 		

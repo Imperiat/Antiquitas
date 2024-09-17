@@ -1,4 +1,4 @@
-1276={ # Baria
+﻿1276={ # Baria
 	terrain="plains"
 	culture="bastetanian"
 	religion="animism"

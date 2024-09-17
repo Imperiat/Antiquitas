@@ -1,4 +1,4 @@
-﻿5603={ #Gondogoro Pass
+﻿5603={ # Gondogoro Pass
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -7,18 +7,16 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-5604={ #Gondogoro Pass
+5604={ # Gondogoro Pass
 	terrain="mountain"
 	culture="khotanese"
-	religion="buddhism"
+	religion="indo_iranian_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
 	province_rank=""
 }
-
-5665={ #Taklamakan
+5665={ # Taklamakan
 	terrain="desert"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -27,21 +25,19 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-5666={ #Makit
+5666={ # Makit
 	terrain="desert"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="camel"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5667={ #Tumxuk
+5667={ # Tumxuk
 	terrain="desert"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -50,24 +46,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5668={ #Tageairike
+5668={ # Tageairike
 	terrain="steppes"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="horses"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-5669={ #Taklamakan
+5669={ # Taklamakan
 	terrain="desert"
 	culture="khotanese"
 	religion="eastern_animism"
@@ -76,59 +70,55 @@
 	barbarian_power=0
 	province_rank=""
 }
-
-6741={ #Yutian
+6741={ # Yutian
 	terrain="oasis"
 	culture="tocharian"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="jade"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=7
+		amount="7"
 	}
 }
-
-6742={ #Pishan
+6742={ # Pishan
 	terrain="steppes"
 	culture="khotanese"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="jade"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=4
+		amount="4"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6743={ #Shiyan
+6743={ # Shiyan
 	terrain="desert"
 	culture="khotanese"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 }
-
-6744={ #Kashgar
+6744={ # Kashgar
 	terrain="oasis"
 	culture="shule"
 	religion="indo_iranian_religion"
@@ -137,40 +127,38 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=11
+		amount="11"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_menya
+	holy_site="omen_menya"
 }
-
-6745={ #Keriya
+6745={ # Keriya
 	terrain="desert"
 	culture="khotanese"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6746={ #Shaju
+6746={ # Shaju
 	terrain="oasis"
 	culture="shule"
 	religion="indo_iranian_religion"
@@ -179,37 +167,35 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6747={ #Wumi
+6747={ # Wumi
 	terrain="hills"
 	culture="khotanese"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
-	holy_site=omen_wealth_earth
+	holy_site="omen_wealth_earth"
 }
-
-6748={ #Cadota
+6748={ # Cadota
 	terrain="oasis"
 	culture="loulan"
 	religion="eastern_animism"
@@ -218,20 +204,19 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=6
+		amount="6"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6749={ #Cherchen
+6749={ # Cherchen
 	terrain="oasis"
 	culture="loulan"
 	religion="eastern_animism"
@@ -240,17 +225,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6750={ #Iuwo
+6750={ # Iuwo
 	terrain="desert"
 	culture="loulan"
 	religion="eastern_animism"
@@ -259,11 +243,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6752={ #Endere
+6752={ # Endere
 	terrain="desert"
 	culture="loulan"
 	religion="eastern_animism"
@@ -272,46 +255,43 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6753={ #Toksa
+6753={ # Toksa
 	terrain="steppes"
 	culture="tocharian"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 }
-
-6754={ #Kagra
+6754={ # Kagra
 	terrain="desert"
 	culture="tocharian"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6755={ #Kumo
+6755={ # Kumo
 	terrain="steppes"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -320,288 +300,272 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6756={ #Khata
+6756={ # Khata
 	terrain="desert"
 	culture="khotanese"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="leather"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6757={ #Shachi
+6757={ # Shachi
 	terrain="hills"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="incense"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6758={ #Surkhab
+6758={ # Surkhab
 	terrain="hills"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="marble"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6760={ #Tashqurgan
+6760={ # Tashqurgan
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6761={ #Kasia
+6761={ # Kasia
 	terrain="steppes"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6762={ #Kaahka Pamir
+6762={ # KaahkaPamir
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="gems"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6763={ #Bulaq
+6763={ # Bulaq
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="stone"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6764={ #Miena
+6764={ # Miena
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6765={ #Kafir Kala
+6765={ # Kafir Kala
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6766={ #Yamchun
+6766={ # Yamchun
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6767={ #Urang
+6767={ # Urang
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6769={ #Pamir
+6769={ # Pamir
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_guidance_of_the_wind
+	holy_site="omen_guidance_of_the_wind"
 }
-
-6770={ #Toquzbolaq
+6770={ # Toquzbolaq
 	terrain="mountain"
 	culture="phryni"
-	religion="vaksh_religion"
+	religion="indo_iranian_religion"
 	trade_goods="dye"
 	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 }
-
-6771={ #Kezhen
+6771={ # Kezhen
 	terrain="mountain"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="leather"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6772={ #Irkeshtam
+6772={ # Irkeshtam
 	terrain="mountain"
 	culture="shule"
-	religion="eastern_animism"
+	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6778={ #Balasaghun
+6778={ # Balasaghun
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -610,17 +574,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-6779={ #Suyab
+6779={ # Suyab
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -629,20 +592,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
+		amount="2"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-6780={ #Nevaket
+6780={ # Nevaket
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -651,20 +613,19 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-6781={ #Yul
+6781={ # Yul
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -673,11 +634,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-6782={ #Ashpara
+6782={ # Ashpara
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -686,17 +646,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-6787={ #Narin
+6787={ # Narin
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -705,15 +664,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
-	holy_site=omen_blessing_life
+	holy_site="omen_blessing_life"
 }
-
-6788={ #Shura
+6788={ # Shura
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -722,11 +680,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-7183={ #Rucya
+7183={ # Rucya
 	terrain="hills"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -735,17 +692,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-7184={ #Kuche
+7184={ # Kuche
 	terrain="oasis"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -754,24 +710,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=3
+		amount="3"
 	}
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=13
+		amount="13"
 	}
 	slaves={
-		amount=8
+		amount="8"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
-	holy_site=omen_swanco
+	holy_site="omen_swanco"
 }
-
-8208={ #Yancheng
+8208={ # Yancheng
 	terrain="hills"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -780,17 +735,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8209={ #Luntai
+8209={ # Luntai
 	terrain="desert"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -799,17 +753,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8210={ #Wulei
+8210={ # Wulei
 	terrain="steppes"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -818,17 +771,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8211={ #Weili
+8211={ # Weili
 	terrain="hills"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -837,17 +789,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8212={ #Weixu
+8212={ # Weixu
 	terrain="steppes"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -856,17 +807,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8213={ #Miran
+8213={ # Miran
 	terrain="oasis"
 	culture="loulan"
 	religion="eastern_animism"
@@ -875,17 +825,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount="1"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-8214={ #Charklik
+8214={ # Charklik
 	terrain="oasis"
 	culture="loulan"
 	religion="eastern_animism"
@@ -894,17 +843,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount="3"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8215={ #Gaochangbi
+8215={ # Gaochangbi
 	terrain="desert"
 	culture="jushi"
 	religion="eastern_animism"
@@ -913,17 +861,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8216={ #Jiaohe
+8216={ # Jiaohe
 	terrain="oasis"
 	culture="jushi"
 	religion="eastern_animism"
@@ -932,21 +879,20 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=5
+		amount="5"
 	}
 	freemen={
-		amount=5
+		amount="5"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
-	holy_site=omen_kaum
+	holy_site="omen_kaum"
 }
-
-8217={ #Cheshiliugu
+8217={ # Cheshiliugu
 	terrain="mountain"
 	culture="jushi"
 	religion="eastern_animism"
@@ -955,49 +901,46 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8218={ #Wutugu
+8218={ # Wutugu
 	terrain="hills"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="fur"
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-8219={ #Houcheng
+8219={ # Houcheng
 	terrain="steppes"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="salt"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8220={ #Dong Qiemi
+8220={ # Dong Qiemi
 	terrain="steppes"
 	culture="jushi"
 	religion="eastern_animism"
@@ -1006,17 +949,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8221={ #Xi Qiemi
+8221={ # Xi Qiemi
 	terrain="steppes"
 	culture="jushi"
 	religion="eastern_animism"
@@ -1025,62 +967,58 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount="2"
 	}
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8222={ #Danhuan
+8222={ # Danhuan
 	terrain="steppes"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-8223={ #Alagou
+8223={ # Alagou
 	terrain="hills"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=12
+		amount="12"
 	}
 }
-
-8224={ #Manas
+8224={ # Manas
 	terrain="steppes"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-8225={ #Yuanqu
+8225={ # Yuanqu
 	terrain="farmland"
 	culture="tocharian"
 	religion="eastern_animism"
@@ -1089,17 +1027,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount="4"
 	}
 	slaves={
-		amount=4
+		amount="4"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-8226={ #Kroran
+8226={ # Kroran
 	terrain="oasis"
 	culture="loulan"
 	religion="eastern_animism"
@@ -1108,24 +1045,23 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount="2"
 	}
 	citizen={
-		amount=3
+		amount="3"
 	}
 	freemen={
-		amount=7
+		amount="7"
 	}
 	slaves={
-		amount=3
+		amount="3"
 	}
 	tribesmen={
-		amount=4
+		amount="4"
 	}
-	holy_site=omen_kem
+	holy_site="omen_kem"
 }
-
-8241={ #Bailongdui
+8241={ # Bailongdui
 	terrain="desert"
 	culture="loulan"
 	religion="eastern_animism"
@@ -1134,46 +1070,43 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-8255={ #Qijiaojingzhen
+8255={ # Qijiaojingzhen
 	terrain="desert_hills"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="camel"
 	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-8256={ #Barkol
+8256={ # Barkol
 	terrain="hills"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="hu_religions"
 	trade_goods="steppe_horses"
 	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	citizen={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=1
+		amount="1"
 	}
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-8303={ #Chigu
+8303={ # Chigu
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1182,14 +1115,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8304={ #Beishan
+8304={ # Beishan
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1198,14 +1130,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	slaves={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-8306={ #Xiaowan
+8306={ # Xiaowan
 	terrain="mountain"
 	culture="loulan"
 	religion="eastern_animism"
@@ -1214,11 +1145,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9455={ #Jieshan
+9455={ # Jieshan
 	terrain="hills"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1227,11 +1157,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9456={ #Yilihe
+9456={ # Yilihe
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1240,11 +1169,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9457={ #Gongyue
+9457={ # Gongyue
 	terrain="steppes"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1253,76 +1181,70 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9458={ #Yehe
+9458={ # Yehe
 	terrain="steppes"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="base_metals"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-9459={ #Heishui
+9459={ # Heishui
 	terrain="steppes"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="leather"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9460={ #Donglin
+9460={ # Donglin
 	terrain="steppes"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="fur"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9461={ #Xilin
+9461={ # Xilin
 	terrain="steppes"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="cattle"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9462={ #Shuanghe
+9462={ # Shuanghe
 	terrain="hills"
 	culture="wusun"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="earthware"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9463={ #Tuanchang
+9463={ # Tuanchang
 	terrain="desert"
 	culture="wusun"
 	religion="indo_iranian_religion"
@@ -1331,24 +1253,22 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9475={ #Bo'erqiangjizhen
+9475={ # Bo'erqiangjizhen
 	terrain="steppes"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="hu_religions"
 	trade_goods="horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-9576={ #Puchanghai
+9576={ # Puchanghai
 	terrain="marsh"
 	culture="loulan"
 	religion="eastern_animism"
@@ -1357,11 +1277,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9577={ #Yumen
+9577={ # Yumen
 	terrain="desert"
 	culture="loulan"
 	religion="eastern_animism"
@@ -1370,102 +1289,94 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount="1"
 	}
 }
-
-9582={ #Pulei
+9582={ # Pulei
 	terrain="steppes"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="steppe_horses"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-9583={ #Mazong
+9583={ # Mazong
 	terrain="mountain"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="stone"
 	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-10583={ #Yiwu
+10583={ # Yiwu
 	terrain="hills"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="hu_religions"
 	trade_goods="horses"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-10584={ #Tougong
+10584={ # Tougong
 	terrain="desert_hills"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="base_metals"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-10585={ #Shichengzhicun
+10585={ # Shichengzhicun
 	terrain="desert_hills"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="eastern_animism"
 	trade_goods="jade"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=7
+		amount="7"
 	}
 }
-
-10586={ #Naomaohuzhen
+10586={ # Naomaohuzhen
 	terrain="steppes"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="hu_religions"
 	trade_goods="wild_game"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10601={ #Altai Sum
+10601={ # Altai Sum
 	terrain="steppes"
 	culture="yuezhi"
-	religion="indo_iranian_religion"
+	religion="hu_religions"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10612={ #Issyk
+10612={ # Issyk
 	terrain="plains"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1474,17 +1385,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount="1"
 	}
 	freemen={
-		amount=2
+		amount="2"
 	}
 	tribesmen={
-		amount=10
+		amount="10"
 	}
 }
-
-10613={ #Chilpek
+10613={ # Chilpek
 	terrain="hills"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1493,11 +1403,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=6
+		amount="6"
 	}
 }
-
-10614={ #Aktogay
+10614={ # Aktogay
 	terrain="hills"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1506,11 +1415,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount="4"
 	}
 }
-
-10615={ #Ili
+10615={ # Ili
 	terrain="plains"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1519,11 +1427,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-10616={ #Tekes
+10616={ # Tekes
 	terrain="plains"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1532,11 +1439,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
-10617={ #Bosteri
+10617={ # Bosteri
 	terrain="mountain"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1545,11 +1451,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=2
+		amount="2"
 	}
 }
-
-10618={ #Caspan
+10618={ # Caspan
 	terrain="hills"
 	culture="sakan"
 	religion="indo_iranian_religion"
@@ -1558,11 +1463,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=5
+		amount="5"
 	}
 }
-
-12264={ #Danmu
+12264={ # Danmu
 	terrain="steppes"
 	culture="wusun"
 	religion="indo_iranian_religion"
@@ -1571,7 +1475,6 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=3
+		amount="3"
 	}
 }
-
