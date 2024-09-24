@@ -68,6 +68,12 @@
 		}
 		custom_tooltip = "newline_tt"
 		custom_tooltip = "founding_city_in_progress_tt"
+		if = {
+			limit = {
+				has_food_trade_good_trigger = yes
+			}
+			custom_tooltip = "gains_new_trade_good_city_tt"
+		}
 		custom_tooltip = "time_to_complete_city_tt"
 		hidden_effect = {
 			add_province_modifier = {
@@ -263,7 +269,8 @@ revoke_city_status_button = {
 			}
 		}
 		custom_tooltip = "newline_tt" 
-		set_city_status = settlement
+		restore_food_effect = yes
+		destroy_city_effect = yes
 		custom_tooltip = "city_angry_for_a_while"
 		hidden_effect = {
 			add_province_modifier = {
@@ -271,7 +278,13 @@ revoke_city_status_button = {
 				duration = 5475 # 10 years
 			}
 			every_neighbor_province = {
-				limit = { has_city_status = no }
+				limit = { 
+					NOR = {
+						is_sea = yes
+						terrain = riverine_terrain
+						has_city_status = yes
+					}
+				}
 				add_neighbor_city_modifier_effect = yes
 			}	
 		}		
