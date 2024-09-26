@@ -31,7 +31,7 @@ interesting_treasures.1 = {
 			treasure:treasure_it_goddess_reitia_shrine = { transfer_treasure_to_country = c:VNT }
 			treasure:treasure_it_golden_cape_of_deceangli = { transfer_treasure_to_country = c:DEC }
 			treasure:treasure_it_turduli_warrior_stela = { transfer_treasure_to_country = c:TDT }
-			treasure:treasure_it_lycian_marble_sarcophagus = { transfer_treasure_to_country = c:EPI }
+			treasure:treasure_it_lycian_marble_sarcophagus = { transfer_treasure_to_country = c:MOL }
 			treasure:treasure_it_phoenician_votive_statuettes = { transfer_treasure_to_country = c:BYB }
 			treasure:treasure_it_herma_statue_of_siphnos = { transfer_treasure_to_country = c:DEL }
 			treasure:treasure_it_statue_of_thales = { transfer_treasure_to_country = c:PHI }
@@ -47,7 +47,7 @@ interesting_treasures.1 = {
 			treasure:treasure_it_scythian_princes_plunder = { transfer_treasure_to_country = c:LGI }
 			treasure:treasure_it_mask_of_agamemnon = { transfer_treasure_to_country = c:ARG }
 			treasure:treasure_it_statue_of_siren_parthenope = { transfer_treasure_to_country = c:ROM }
-			treasure:treasure_it_statue_of_sardus_pater = { transfer_treasure_to_country = c:X49 }
+			treasure:treasure_it_statue_of_sardus_pater = { transfer_treasure_to_country = c:OLI }
 			treasure:treasure_it_santones_ceremonial_helmet = { transfer_treasure_to_country = c:SNT }
 			treasure:treasure_it_iguvine_tablets = { transfer_treasure_to_country = c:UMB }
 			treasure:treasure_it_corieltauvi_shield = { transfer_treasure_to_country = c:COI }
@@ -78,7 +78,7 @@ interesting_treasures.1 = {
 			treasure:treasure_it_lusitanian_silver_breastplate = { transfer_treasure_to_country = c:PAE }
 			treasure:treasure_it_euryleonis_bronze_statue = { transfer_treasure_to_country = c:SPA }
 			treasure:treasure_it_stele_of_agritore = { transfer_treasure_to_country = c:OSM }
-			treasure:treasure_it_vishapaqar_fish_stone = { transfer_treasure_to_country = c:ARM }
+			treasure:treasure_it_vishapaqar_fish_stone = { transfer_treasure_to_country = c:VSP }
 			treasure:treasure_it_veliocassian_tribal_helmet = { transfer_treasure_to_country = c:VCL }
 			treasure:treasure_it_goddess_artemis_stone = { transfer_treasure_to_country = c:ION }
 			treasure:treasure_it_cult_bear_sculpture = { transfer_treasure_to_country = c:BOA }
