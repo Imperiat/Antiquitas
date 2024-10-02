@@ -12983,27 +12983,6 @@ country = {
 				93
 			}
 		}
-		
-		AMP = {
-			government = oligarchic_republic
-			primary_culture = north_western_doric
-			religion = greek_pantheon
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 458
-		
-			own_control_core = {
-				458
-			}
-		
-			treasures = { 53 }
-		}
 
 		DOR = { #Doris
 			government = tribal_kingdom
@@ -13732,7 +13711,7 @@ country = {
 			religion = greek_pantheon
 			centralization = 10
 			
-			capital = 457
+			capital = 458
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -13742,8 +13721,10 @@ country = {
 			}
 			
 			own_control_core = {
-				457
+				457 458
 			}
+			
+			treasures = { 53 }
 		}
 
 		AIN = { # Aeniania

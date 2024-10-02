@@ -5066,7 +5066,7 @@ patrai_heritage = {
 	}
 }
 
-amphissa_heritage = {
+lokrisozolia_heritage = {
 	modifier = {
 		#good
 		build_time = -0.2
@@ -5077,7 +5077,7 @@ amphissa_heritage = {
 	}
    
 	trigger = {
-		tag = AMP
+		tag = LCS
 	}
 }
 

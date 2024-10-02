@@ -370,7 +370,7 @@ treasure_manager = {
                 local_population_capacity = 4
             }
         }
-        53 = { # Amphissa - Bronze Athena - R2
+        53 = { # Lokris Ozolia - Bronze Athena - R2
             key = "treasure_bronze_athena_statue"
             icon = "treasure_architecture"
             state_modifier = {

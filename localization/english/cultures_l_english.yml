@@ -27,6 +27,7 @@
  proto_european:1 "Occidental"
  scythia:0 "Sakan"
  south_levantine:0 "Arabian"
+ south_arabian:0 "Yemeni"
  tibetan:0 "Tibetan"
  west_levantine:0 "Levantine"
  fezzani:0 "Fezzani"
@@ -275,7 +276,7 @@
  ligurian:0 "Ligurian"
  etruscan:0 "Etruscan"
  rhaetian:0 "Rhaetian"
- umbrian:0 "Umbrian" 
+ umbrian:0 "Umbrian"
  samnite:0 "Sabellian"
  siculian:0 "Siculian"
  bruttian:0 "Bruttian"
@@ -502,6 +503,8 @@
  scythia_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  south_levantine_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  south_levantine_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ south_arabian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ south_arabian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  tibetan_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  tibetan_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  west_levantine_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
@@ -525,6 +528,12 @@
  NAVY_NAME_scythian_east:0 "$NUM$$ORDER$ Navy"
  COHORT_NAME_scythian_east:1 "$COHORT_NAME_north_african$"
  LEGION_NAME_scythian_east:0 "$LEGION_NAME_persia$"
+
+ #South Arabian
+ ARMY_NAME_south_arabian:0 "$NUM$$ORDER$ Army"
+ NAVY_NAME_south_arabian:0 "$NUM$$ORDER$ Navy"
+ COHORT_NAME_south_arabian:1 "$NUM$$ORDER$ Lîmu of $HOME$"
+ LEGION_NAME_south_arabian:0 "$NUM$$ORDER$ Lîmu of $HOME$"
 
 #Pu
  ARMY_NAME_pu:0 "$NUM$$ORDER$ Army"
