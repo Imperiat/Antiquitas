@@ -121,11 +121,11 @@ LCS = "setup/countries/greece/lokris_ozolia.txt"
 AIN = "setup/countries/greece/aeniania.txt"
 MOL = "setup/countries/greece/molossia.txt"
 LAP = "setup/countries/greece/lappa.txt"
-PR1 = "setup/countries/greece/priansos.txt"
+PRI = "setup/countries/greece/priansos.txt"
 PHO = "setup/countries/greece/phokis.txt"
 DLP = "setup/countries/greece/delphi.txt"
 AMK = "setup/countries/greece/ambrakia.txt"
-CH1 = "setup/countries/greece/chaonia.txt"
+CHA = "setup/countries/greece/chaonia.txt"
 THP = "setup/countries/greece/thesprotia.txt"
 
 # Crimea and Abkhazia
