@@ -23,7 +23,10 @@ clothes = {
 			
 			modifier = {
 				add = 100 
-				has_culture_group = latin	
+				OR = {
+					has_culture_group = latin
+					has_culture_group = tyrsenian
+				}				
 				is_female = no
 				OR = { 		
 					is_general = yes
@@ -473,8 +476,11 @@ clothes = {
 			base = 0	
 			
 			modifier = {
-				add = 50 
-				has_culture_group = latin
+				add = 50
+				OR = {
+					has_culture_group = latin
+					has_culture_group = tyrsenian
+				}
 				NOR = { 		
 					is_general = yes
 					is_admiral = yes

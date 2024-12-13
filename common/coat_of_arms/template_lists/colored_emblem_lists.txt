@@ -644,6 +644,8 @@ colored_emblem_texture_lists = {
 					country_culture_group = "latin"
 					country_culture_group = "hellenic"
 					country_culture_group = "illyrian_group"
+					country_culture_group = "tyrsenian"
+					country_culture_group = "minoan"
 				}
 			}
 			10 = "ce_hellenic_1.dds"

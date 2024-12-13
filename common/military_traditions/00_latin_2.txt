@@ -12,6 +12,13 @@
 			country_culture_group = latin
 		}
 		trigger_else_if = {
+			limit = { country_culture_group = tyrsenian }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = tyrsenian
+		}
+		trigger_else_if = {
 			limit = { primary_culture = lepontic }
 			custom_tooltip = {
 				text = "began_with_tradition_group"

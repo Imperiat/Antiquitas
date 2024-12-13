@@ -1,6 +1,9 @@
 ﻿## This is for specifying the culture groups in the checks for trads
 is_italian_culture_group_trigger = {
-	this.culture.culture_group = culture_group:latin
+	OR = {
+		this.culture.culture_group = culture_group:latin
+		this.culture.culture_group = culture_group:tyrsenian
+	}
 }
 
 is_celtic_culture_group_trigger = {
@@ -48,7 +51,10 @@ is_levantine_culture_group_trigger = { #military traditions
 }
 
 is_greek_culture_group_trigger = {
-	this.culture.culture_group = culture_group:hellenic
+	OR = {
+		this.culture.culture_group = culture_group:hellenic
+		this.culture.culture_group = culture_group:minoan
+	}
 }
 
 is_haemic_culture_group_trigger = {

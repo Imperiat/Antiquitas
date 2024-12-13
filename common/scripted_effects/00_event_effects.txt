@@ -2288,6 +2288,7 @@ add_relevant_subunit_effect = {
 					has_culture_group = west_levantine
 					has_culture_group = hellenic
 					has_culture_group = latin
+					has_culture_group = tyrsenian
 					has_culture_group = persia
 				}
 			}
@@ -2558,6 +2559,7 @@ add_relevant_loyal_subunit_effect = {
 					has_culture_group = west_levantine
 					has_culture_group = hellenic
 					has_culture_group = latin
+					has_culture_group = tyrsenian
 					has_culture_group = persia
 					has_culture_group = anatolian
 					has_culture_group = caucasian

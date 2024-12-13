@@ -1,6 +1,6 @@
 ﻿6={ # Capua
 	terrain="farmland"
-	culture="roman"
+	culture="capuan"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=37

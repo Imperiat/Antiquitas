@@ -477,7 +477,10 @@ deity_darius = {
 deity_aphrodite_anaitis = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}
 		OR = {
 			AND = {
 				religion = zoroaster

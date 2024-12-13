@@ -77,7 +77,10 @@ get_event_picture = {
 	}
 	if = {
 		limit = {
-			culture_group:$cg$ = culture_group:latin
+			OR = {
+				culture_group:$cg$ = culture_group:latin
+				culture_group:$cg$ = culture_group:tyrsenian
+			}
 		}
 		set_variable = {
 			name = event_picture

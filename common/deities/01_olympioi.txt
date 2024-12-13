@@ -3,7 +3,10 @@
 deity_ares = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -36,7 +39,10 @@ deity_ares = {
 deity_poseidon = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -71,7 +77,10 @@ deity_poseidon = {
 deity_heracles = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}	
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -135,7 +144,10 @@ deity_apollo = {
 deity_hephaestus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -167,7 +179,10 @@ deity_hephaestus = {
 deity_athena = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -227,7 +242,10 @@ deity_asclepius = {
 deity_hades = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -286,8 +304,11 @@ deity_hades = {
 deity_aphrodite = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
-		NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+			country_culture_group = illyrian_group
+		}		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = greek_pantheon
@@ -315,7 +336,10 @@ deity_aphrodite = {
 deity_pan = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -347,8 +371,11 @@ deity_pan = {
 deity_zeus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
-		NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+			country_culture_group = illyrian_group
+		}		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = greek_pantheon
@@ -376,7 +403,10 @@ deity_zeus = {
 deity_tyche = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -408,7 +438,10 @@ deity_tyche = {
 deity_hermes = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -440,7 +473,10 @@ deity_hermes = {
 deity_hera = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -472,7 +508,10 @@ deity_hera = {
 deity_artemis = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}	
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -505,7 +544,10 @@ deity_artemis = {
 deity_helios = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -537,8 +579,11 @@ deity_helios = {
 deity_demeter = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
-		NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+			country_culture_group = illyrian_group
+		}		
 		OR = {
 			religion = animism
 			common_deity_trigger = {
@@ -567,7 +612,10 @@ deity_demeter = {
 deity_dionysus = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -599,7 +647,10 @@ deity_dionysus = {
 deity_dioscuri = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1491,7 +1542,10 @@ deity_achilles = {
 		has_dlc = "Epirus Flavor Pack"
 		has_variable = deity_unlocked_achilles
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}	
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = greek_pantheon
@@ -1548,7 +1602,10 @@ deity_zeus_olympios = {
 		has_dlc = "Heirs of Alexander"
 		has_variable = deity_unlocked_zeus_olympios
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1581,7 +1638,10 @@ deity_apollo_nabu = {
 	trigger = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1618,7 +1678,10 @@ deity_zeus_belos = {
 	trigger = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1655,7 +1718,10 @@ deity_dionysos_kathegemon = {
 	trigger = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}	
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1692,7 +1758,10 @@ deity_telephos = {
 	trigger = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1729,7 +1798,10 @@ deity_leto = {
 	trigger = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1761,7 +1833,10 @@ deity_hekate = {
 	trigger = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1794,7 +1869,10 @@ deity_hekate = {
 deity_enyo = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1827,7 +1905,10 @@ deity_enyo = {
 deity_aphrodite_areia = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			primary_culture = doric
 			primary_culture = italiotian
@@ -1861,7 +1942,10 @@ deity_aphrodite_areia = {
 deity_hestia = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1893,7 +1977,10 @@ deity_hestia = {
 deity_kronos = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)
@@ -1925,7 +2012,10 @@ deity_kronos = {
 deity_eris = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
-		NOT = { country_culture_group = latin }
+		NOR = {
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}		
 		OR = {
 			NOT = { country_culture_group = illyrian_group } #Illyrians have own deities
 			primary_culture = messapian #Messapians have Greek deities (some with a different name)

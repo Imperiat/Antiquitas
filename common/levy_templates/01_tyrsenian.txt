@@ -5,31 +5,21 @@
 #	3rd NOTE: If a specific subunit cannot be constructed for some reason another one that can from that tier will replace it ( if possible )
 #
 
-levy_italic = {
+levy_tyrsenian = {
 	default = no
-	light_infantry = 0.4
-	slingers = 0.2
-	
-	heavy_infantry = 0.25
-	chariots = 0.15
+
+	light_infantry = 0.2
+	spearmen = 0.4
+	archers = 0.2
+
+	light_cavalry = 0.2
 }
 
-levy_roman = {
+levy_rhaetian = {
 	default = no
 
-	light_infantry = 0.3
-	spearmen = 0.25
-	
-	heavy_infantry = 0.3
-	light_cavalry = 0.15
-}
-
-levy_samnite = {
-	default = no
-
-	light_infantry = 0.4
-	spearmen = 0.2
-	
-	heavy_infantry = 0.35
-	chariots = 0.05
+	light_infantry = 0.25
+	horse_skirmishers = 0.15
+	heavy_infantry = 0.4
+	chariots = 0.1
 }

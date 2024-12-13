@@ -702,8 +702,9 @@ deity_amazons = { # WAR
 			}
 			AND = {
 				religion = roman_pantheon
-				NOT = {
+				NOR = {
 					country_culture_group = latin
+					country_culture_group = tyrsenian
 				}
 				trigger_if = {
 					limit = {

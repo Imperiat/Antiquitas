@@ -991,8 +991,8 @@
  #New tooltips
  integrated_any_celtic_culture:0 "Integrate any #Y Gallic#!, #Y Pannonian#! or #Y Belgae#! culture."
  integrated_any_indian_culture:0 "Integrate any #Y Aryan#!, #Y Pracyan#! or #Y Dravidian#! culture."
- integrated_any_latin_culture:0 "Integrate any #Y Latin#! culture."
- integrated_any_hellenic_culture:0 "Integrate any #Y Hellenic#! culture."
+ integrated_any_latin_culture:0 "Integrate any #Y Latin#! or #Y Tyrsenian#! culture."
+ integrated_any_hellenic_culture:0 "Integrate any #Y Hellenic#! or #Y Minoan#! culture."
  integrated_any_iberian_culture:0 "Integrate any #Y Iberian#! or #Y Celtiberian#! culture."
  integrated_any_haemic_culture:0 "Integrate any #Y Thracian#!, #Y Dacian#! or #Y Illyrian#! culture."
  integrated_any_punic_culture:0 "Integrate any #Y West Levantine#! culture."

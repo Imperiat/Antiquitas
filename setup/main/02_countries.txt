@@ -195,7 +195,7 @@ country = {
 		CPA = {
 			government = plutocratic_republic
 			diplomatic_stance=trading_stance
-			primary_culture = samnite
+			primary_culture = capuan
 			religion = roman_pantheon
 			
 			technology={
@@ -230,27 +230,6 @@ country = {
 				106 108 111
 			}
 			
-		}
-		
-		ETR = { # Etruscans
-			government = oligarchic_republic
-			primary_culture = etruscan
-			religion = roman_pantheon
-			diplomatic_stance=trading_stance
-			capital = 114 
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			own_control_core = 	{
-				130 136 135 134 126 114 127 115 125 129 128
-			}
-			
-			treasures = { 40 }
 		}
 
 		VLC = {
@@ -13805,7 +13784,301 @@ country = {
 			own_control_core = 	{
 				419
 			}
+		}
+		
+		PIS = { # Pisea
+			government = theocratic_monarchy
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 136
 			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				136 135
+			}
+		}
+		
+		VEI = { # Veii
+			government = oligarchic_republic
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 16
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+
+			is_antagonist = yes
+
+			own_control_core = 	{
+				16
+			}
+			
+			treasures = { 40 }
+		}
+
+		VLA = { # Votlerra
+			government = theocratic_monarchy
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 129
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+
+			is_antagonist = yes
+
+			own_control_core = 	{
+				128 129 125 130 134
+			}
+		}	
+
+		PPA = { # Pupluna
+			government = theocratic_monarchy
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 126
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				126 127
+			}
+		}
+
+		VTA = { # Vatluna
+			government = oligarchic_republic
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 114
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				114 115
+			}
+		}
+
+		CSR = { # Caisra
+			government = oligarchic_republic
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 14
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				14
+			}
+		}
+
+		VNA = { # Velzna
+			government = theocratic_monarchy
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 21
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				21 102
+			}
+		}
+
+		CRU = { # Curtum
+			government = oligarchic_republic
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 124
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				124 120
+			}
+		}
+
+		PUA = { # Perusna
+			government = theocratic_monarchy
+			primary_culture = etruscan
+			religion = roman_pantheon
+			diplomatic_stance=trading_stance
+			capital = 103
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				103 119
+			}
+		}
+
+		LAV = { # Lavinium
+			government = aristocratic_monarchy
+			diplomatic_stance=warmongering_stance
+			primary_culture = latins
+			religion = roman_pantheon
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			capital = 3
+		
+		
+			own_control_core = 	{
+				3 
+			}
+		}
+
+		TUS = { # Tusculum
+			government = aristocratic_monarchy
+			diplomatic_stance=warmongering_stance
+			primary_culture = latins
+			religion = roman_pantheon
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			capital = 2
+		
+		
+			own_control_core = 	{
+				2 
+			}
+		}
+
+		CAI = { # Cabii
+			government = aristocratic_monarchy
+			diplomatic_stance=warmongering_stance
+			primary_culture = latins
+			religion = roman_pantheon
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			capital = 19
+		
+		
+			own_control_core = 	{
+			19
+			}
+		}
+
+		ADA = { # Ardea
+			government = aristocratic_monarchy
+			diplomatic_stance=warmongering_stance
+			primary_culture = latins
+			religion = roman_pantheon
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			capital = 4
+		
+		
+			own_control_core = 	{
+				4
+			}
+		}
+
+		VTE = { # Velitrae
+			government = aristocratic_monarchy
+			diplomatic_stance=warmongering_stance
+			primary_culture = latins
+			religion = roman_pantheon
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+			
+			capital = 25
+		
+		
+			own_control_core = 	{
+				25
+			}
+		}
+
+		VLI = {
+			government = tribal_kingdom
+			primary_culture = volsci
+			religion = roman_pantheon
+			centralization = -5
+		
+			capital = 5
+		
+			own_control_core = {
+				5 26 31
+			}
 		}
 	}
 }

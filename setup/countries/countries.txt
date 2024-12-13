@@ -2,7 +2,7 @@
 PIR = "setup/countries/pirates.txt"
 BAR = "setup/countries/barbarians.txt"
 MER = "setup/countries/mercenaries.txt"
-
+ 
 # Greece/Macedonia
 
 ATH = "setup/countries/greece/athens.txt"
@@ -192,7 +192,6 @@ BMB = "setup/countries/syria/bambyce.txt"
 
 ROM = "setup/countries/italia/rome.txt"
 SAM = "setup/countries/italia/samnium.txt"
-ETR = "setup/countries/italia/etruscia.txt"
 UMB = "setup/countries/italia/umbria.txt"
 PIE = "setup/countries/italia/picentes.txt"
 SAB = "setup/countries/italia/sabinia.txt"
@@ -237,6 +236,21 @@ MRS = "setup/countries/italia/marsia.txt"
 SIO = "setup/countries/italia/sipontum.txt"
 SYR = "setup/countries/italia/syracusae.txt"
 ACR = "setup/countries/italia/acragas.txt"
+PIS = "setup/countries/italia/pisea.txt"
+VLA = "setup/countries/italia/votlerra.txt"
+PPA = "setup/countries/italia/pupluna.txt"
+VTA = "setup/countries/italia/vatluna.txt"
+CSR = "setup/countries/italia/caisra.txt"
+VEI = "setup/countries/italia/veii.txt"
+VNA = "setup/countries/italia/velzna.txt"
+CRU = "setup/countries/italia/curtum.txt"
+PUA = "setup/countries/italia/perusna.txt"
+LAV = "setup/countries/italia/lavinium.txt"
+TUS = "setup/countries/italia/tusculum.txt"
+CAI = "setup/countries/italia/cabii.txt"
+ADA = "setup/countries/italia/ardea.txt"
+VTE = "setup/countries/italia/velitrae.txt"
+VLI = "setup/countries/italia/volcia.txt"
 
 #Britannic
 

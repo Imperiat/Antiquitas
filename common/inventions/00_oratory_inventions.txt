@@ -1455,7 +1455,10 @@ oratory_2 = {
         }
         requires = { tyranny_inv_1 }
         allow = {
-			country_culture_group = latin
+			OR = {
+				country_culture_group = latin
+				country_culture_group = tyrsenian
+			}		
 		}
     }
 

@@ -25,7 +25,7 @@
 }
 2={ # Tibur
 	terrain="farmland"
-	culture="roman"
+	culture="latins"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=37
@@ -43,7 +43,7 @@
 }
 3={ # Lavinium
 	terrain="farmland"
-	culture="roman"
+	culture="latins"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=37
@@ -61,7 +61,7 @@
 }
 4={ # Circeii
 	terrain="hills"
-	culture="roman"
+	culture="latins"
 	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=24
@@ -79,7 +79,7 @@
 }
 5={ # Fundi
 	terrain="hills"
-	culture="roman"
+	culture="volsci"
 	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
@@ -138,7 +138,7 @@
 }
 16={ # Veii
 	terrain="farmland"
-	culture="roman"
+	culture="etruscan"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=35
@@ -204,7 +204,7 @@
 }
 19={ # Carsioli
 	terrain="hills"
-	culture="roman"
+	culture="latins"
 	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=24
@@ -225,7 +225,7 @@
 }
 20={ # Cures
 	terrain="hills"
-	culture="roman"
+	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=24
@@ -308,7 +308,7 @@
 }
 24={ # Peltuinum
 	terrain="hills"
-	culture="roman"
+	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=24
@@ -329,7 +329,7 @@
 }
 25={ # Norba
 	terrain="hills"
-	culture="roman"
+	culture="latins"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
@@ -347,7 +347,7 @@
 }
 26={ # Fregellae
 	terrain="plains"
-	culture="roman"
+	culture="volsci"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=26
@@ -362,7 +362,7 @@
 }
 27={ # Fucens
 	terrain="hills"
-	culture="roman"
+	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods="fur"
 	civilization_value=24
@@ -422,7 +422,7 @@
 }
 30={ # Aufidena
 	terrain="hills"
-	culture="roman"
+	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=9
@@ -1313,7 +1313,7 @@
 }
 1712={ # Antinum
 	terrain="hills"
-	culture="roman"
+	culture="samnite"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=9

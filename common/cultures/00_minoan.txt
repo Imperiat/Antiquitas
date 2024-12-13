@@ -3,14 +3,14 @@
 	color = hsv { 0.15 0.15 0.05 }
 
 	primary = archers
-	second = heavy_infantry
+	second = light_infantry
 	flank = spearmen
 
 	primary_navy = tetrere
 	secondary_navy = octere
 	flank_navy = liburnian
 
-	levy_template = levy_general_greek
+	levy_template = levy_eteocretan
 
 	male_names = {
 		Abreas Achaios Aineias Airopos Agaios Agatharchides Agathokles Agathon Agelaos Agenor Agesipolis Agis Aiakides Aischines Aknonios Akrotatos Alexandros Alexarchos
@@ -238,7 +238,7 @@
 
 	}
 	culture = {
-		eteocretan = { levy_template = levy_eteocretan }
+		eteocretan = { }
 	}
 
 	barbarian_names = {

@@ -7,7 +7,6 @@ get_medicine_god = {
 	text = { # Roman
 		localization_key = get_aesculapius
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -64,7 +63,6 @@ get_war_god = {
 	text = { # Roman
 		localization_key = get_mars
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -121,7 +119,6 @@ get_forge_god ={
 	text = { # Roman
 		localization_key = get_vulcan
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -171,7 +168,6 @@ get_sea_god = {
 	text = { # Roman
 		localization_key = get_neptune
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -207,7 +203,6 @@ get_wine_god = {
 	text = { # Roman
 		localization_key = get_bacchus
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -257,7 +252,6 @@ get_hero_god = {
 	text = { # Roman
 		localization_key = get_hercules
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -335,7 +329,6 @@ get_commerce_god = {
 	text = { # Roman
 		localization_key = get_mercury
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -399,7 +392,6 @@ get_sky_god = {
 	text = { # Roman
 		localization_key = get_jupiter
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -488,7 +480,6 @@ get_harvest_god = {
 	text = { # Roman
 		localization_key = get_saturn
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -561,7 +552,6 @@ get_god_of_dead = {
 	text = { # Roman
 		localization_key = get_dis
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -674,7 +664,6 @@ get_wisdom_goddess = {
 	text = { # Roman
 		localization_key = get_minerva 
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -738,7 +727,6 @@ get_moon_goddess = {
 	text = { # Roman
 		localization_key = get_diana
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -797,7 +785,6 @@ get_love_goddess = {
 	text = { # Roman
 		localization_key = get_venus
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -863,7 +850,6 @@ get_marriage_goddess = {
 	text = { # Roman
 		localization_key = get_juno
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -906,7 +892,6 @@ get_harvest_goddess = {
 	text = { # Roman
 		localization_key = get_ceres
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1129,7 +1114,6 @@ get_fortune_goddess = {
 	text = { # Roman
 		localization_key = get_fortuna
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1155,7 +1139,6 @@ get_fortune_goddess = {
 		localization_key = get_fortune_goddess_default
 		trigger = {
 			NAND = {
-				NOT = { primary_culture = etruscan }
 				country_culture_group = latin
 				religion = roman_pantheon
 			}
@@ -1178,7 +1161,6 @@ get_random_god = {
 	text = { # Roman Medicine
 		localization_key = get_aesculapius
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1217,7 +1199,6 @@ get_random_god = {
 	text = { # Roman War
 		localization_key = get_mars
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1256,7 +1237,6 @@ get_random_god = {
 	text = { # Roman Forge
 		localization_key = get_vulcan
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1295,7 +1275,6 @@ get_random_god = {
 	text = { # Roman Sea
 		localization_key = get_neptune
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1320,7 +1299,6 @@ get_random_god = {
 	text = { # Roman Wine
 		localization_key = get_bacchus
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1359,7 +1337,6 @@ get_random_god = {
 	text = { # Roman Hero
 		localization_key = get_hercules
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1419,7 +1396,6 @@ get_random_god = {
 	text = { # Roman Commerce
 		localization_key = get_mercury
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1465,7 +1441,6 @@ get_random_god = {
 	text = { # Roman Sky
 		localization_key = get_jupiter
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1527,7 +1502,6 @@ get_random_god = {
 	text = { # Roman Harvest
 		localization_key = get_saturn
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1582,7 +1556,6 @@ get_random_god = {
 	text = { # Roman Dead
 		localization_key = get_dis
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1658,7 +1631,6 @@ get_random_god = {
 	text = { # Roman Wisdom
 		localization_key = get_minerva 
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1704,7 +1676,6 @@ get_random_god = {
 	text = { # Roman Moon
 		localization_key = get_diana
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1752,7 +1723,6 @@ get_random_god = {
 	text = { # Roman Love
 		localization_key = get_venus
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1800,7 +1770,6 @@ get_random_god = {
 	text = { # Roman Marriage
 		localization_key = get_juno
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1832,7 +1801,6 @@ get_random_god = {
 	text = { # Roman Harvest
 		localization_key = get_ceres
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
@@ -1924,7 +1892,6 @@ get_random_god = {
 	text = { # Roman Fortune
 		localization_key = get_fortuna
 		trigger = {
-			NOT = { primary_culture = etruscan }
 			country_culture_group = latin
 			religion = roman_pantheon
 		}

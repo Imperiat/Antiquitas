@@ -363,7 +363,10 @@ deity_thoth_hermes = {
 		has_dlc = "Heirs of Alexander"
 		polytheistic_check_religion_trigger = yes
 		is_monarchy = yes
-		NOT = { country_culture_group = latin }
+		NOR = { 
+			country_culture_group = latin
+			country_culture_group = tyrsenian
+		}
 		OR = {
 			AND = {
 				religion = egyptian_pantheon
