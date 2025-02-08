@@ -8,7 +8,8 @@
  MER_ADJ:0 "Mercenary"
  REB:0 "Rebels"
  REB_ADJ:0 "Rebel"
- 
+
+ # ITALIA
  PIS:0 "Pisea"
  PIS_ADJ:0 "Pisean"
  VLA:0 "Votlerra"
@@ -39,8 +40,6 @@
  VLI_ADJ:0 "Volcian"
  CAI:0 "Cabii"
  CAI_ADJ:0 "Cabii"
-
- # ITALIA
  ALO:0 "Alouka"
  ALO_ADJ:0 "Aloukan"
  ANO:0 "Ancona"
@@ -2377,8 +2376,6 @@
  PERMINUNDIA_ADJ:0 "Perminundian"
  MLD:0 "Milyas"
  MLD_ADJ:0 "Milyadian"
- PIS:0 "Pisidia"
- PIS_ADJ:0 "Pisidian"
  CAB:0 "Cabalis"
  CAB_ADJ:0 "Cabalian"
  LYD:0 "Lydia"

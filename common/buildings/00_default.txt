@@ -782,6 +782,7 @@ agriculture_building = { #Farming Settlement
 		OR = {
 			terrain = farmland
 			terrain = plains
+			has_food_trade_good_trigger = yes
 		}
 	}
 

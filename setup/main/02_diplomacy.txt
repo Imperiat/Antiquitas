@@ -18,4 +18,42 @@ diplomacy = {
 	#Polyrrhenia
 	alliance = { first = PYR second = GEL }
 	dependency = { first = PYR second = KYD subject_type = vassal_state }
+	
+	#Latin League
+	defensive_league = {
+		member = LAV
+		member = TUS
+		member = CAI
+		member = ADA
+		member = VTE
+	}
+
+	#Southern Etruscan League
+	defensive_league = {
+		member = TCH
+		member = VEI
+		member = CSR
+	}
+
+	#Eastern Etruscan League
+	defensive_league = {
+		member = PUA
+		member = ICM
+		member = CRU
+	}
+
+	#Northern Etruscan League
+	defensive_league = {
+		member = PPA
+		member = VLA
+		member = PIS
+	}
+
+	#Western Etruscan League
+	defensive_league = {
+		member = VTA
+		member = VLC
+		member = VNA
+		member = CLS
+	}
 }

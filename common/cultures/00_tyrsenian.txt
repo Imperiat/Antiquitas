@@ -1,6 +1,5 @@
 ﻿tyrsenian = {
-#reminder to change color
-	color = hsv { 0.2 0.25 0.5 }
+	color = hsv { 0 1 0.2 }
 	
 	levy_template = levy_tyrsenian
 	
