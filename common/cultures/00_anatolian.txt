@@ -121,6 +121,7 @@
 		oroandian = {}
 		morimenian = {}
 		kennataian = {}
+        mygdonian = {}
 		#diff to Invictus:
 		phasiane = {}
 		sophene = {}

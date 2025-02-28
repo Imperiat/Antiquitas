@@ -242,7 +242,6 @@
  pannonian:0 "Pannonian"
  iapodian:0 "Iapodian"
  catari:0 "Catarian"
- mygdonian:0 "Mygdonian"
  #Indian
  kannadan:0 "Kannadan"
  tamil:0 "Tamil"
@@ -381,6 +380,7 @@
  mysian:0 "Mysian"
  lydian:0 "Lydian"
  pamphylian:0 "Pamphylian"
+ mygdonian:0 "Mygdonian"
  #Caucasian
  albanian:0 "Albanian"
  caspian:0 "Caspian"

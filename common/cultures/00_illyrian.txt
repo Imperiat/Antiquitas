@@ -86,7 +86,6 @@
 		#added cultures
 		pannonian = {}
 		iapodian = {}
-        mygdonian = {}
 	}
 
 	barbarian_names = {
