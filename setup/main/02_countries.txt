@@ -14317,7 +14317,7 @@ country = {
 			}
 		}
 		
-		YEA = { #Ye
+		YEE = { #Ye
 			government = tribal_federation
 			primary_culture = yilyu
 			religion = yi_religions
@@ -14325,6 +14325,925 @@ country = {
 		
 			own_control_core = {
 				8792 8795 8797 8799 9886 
+			}
+		}
+		
+		HSH = { #Sushen
+			government = tribal_chiefdom
+			primary_culture = sushen
+			religion = tunguistic_religion
+			centralization=-50
+			capital = 9547
+		
+			own_control_core = {
+				9547 9551
+			}
+		}
+	
+		MEK = { #Maek
+			government = tribal_federation
+			primary_culture = goguryeo
+			religion = yi_religions
+			capital = 8793
+		
+			own_control_core = {
+				8783 8785 8790 8793 8794 8800 9541 9548
+			}
+		}
+		
+		TUH = { #Tuhe
+			government = tribal_kingdom
+			primary_culture = joseon
+			religion = hu_religions
+			capital = 8773
+		
+			own_control_core = {
+				8766 8773 8774 8775 8776 8777 8780 9539 9540 9665 9875 9876 9877
+			}
+		}
+		
+		DGH = { #Donghu
+			government = tribal_kingdom
+			primary_culture = donghu
+			religion = hu_religions
+			capital = 9527
+		
+			own_control_core = {
+				9526 9527 9536 9538 9529 12719
+			}
+		}
+		
+		YAN = { #Yan
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8742
+			treasures = { 1036 }
+			monarchy_military_reforms = recruit_from_nobles
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8714 8715 8716 8717 8724 8731 8732 8733 8734 8736 8742 8743 8745 8746 8747 8748 8750 8752 8753 8754 8755 8756 8757 8758 8759 8761 8762 8763 8764 8765 8769 8770 8771 8772 8778 9589
+			}
+		}
+
+		ZHA = { #Zhao
+			government = aristocratic_monarchy
+			primary_culture = ji
+			religion = chinese_religions
+			capital = 8681
+			treasures = { 1001 }
+			poptype_rights = {
+				{
+					culture = jin
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8368 8589 8590 8591 8633 8635 8636 8637 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 8648 8649 8650 8651 8653 8654 8655 8677 8678 8679 8681 8682 8683 8685 8687 8688 8689 8691 8692 8693 8697 8705 8706 8744 8749 9588 9879 9880 8614 8615 8616 8618 8620 8621 8623 8624 8629 8659 8665 8666 8667 8707
+				
+			}
+		}
+
+		LNH = { #Linhu
+			government = tribal_kingdom
+			primary_culture = linhu
+			religion = hu_religions
+			capital = 8595
+			centralization = 40
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				8583 8584 8592 8593 8594 8595 8596 8597 8598 8599 8604 8605 8612 8622
+				
+			}
+		}
+		
+		ZHS = { #Zhongshan
+			government = aristocratic_monarchy
+			primary_culture = ji
+			religion = chinese_religions
+			capital = 8686
+			treasures = { 1031 1034}
+			poptype_rights = {
+				{
+					culture = baidi
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8684 8686 8690 8696 8699 8700 8701 8702 8703 8704 8708 8709 8710 8711 8712 8713 8735 8737 8741
+			}
+		}
+		
+		QII = { #Qi
+			government = aristocratic_monarchy
+			primary_culture = qilu
+			religion = chinese_religions
+			capital = 8504
+			treasures = { 1029 1032 1033 }
+			poptype_rights = {
+				{
+					culture = yaan
+					type = citizen
+				}
+			}
+			poptype_rights = {
+				{
+					culture = xu
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8480
+				8482
+				8483
+				8488
+				8490
+				8491
+				8492
+				8493
+				8494
+				8495
+				8496
+				8497
+				8498
+				8499
+				8500
+				8501
+				8502
+				8503
+				8504
+				8505
+				8506
+				8507
+				8508
+				8509
+				8510
+				8511
+				8512
+				8513
+				8514
+				8515
+				8516
+				8519
+				8520
+				8521
+				8522
+				8524
+				8525
+				8529
+				8530
+				8539
+				8546
+				8547
+				8718
+				8719
+				8725
+				8726
+				8727
+			}
+		}
+		QIN = { #Qin
+			government = stratocratic_monarchy
+			primary_culture = qin
+			religion = chinese_religions
+			capital = 8313
+			diplomatic_stance = warmongering_stance
+			is_antagonist = yes
+			monarchy_military_reforms = recruit_from_nobles
+			treasures = { 1010 1025 1026 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8259
+				8264
+				8277
+				8278
+				8280
+				8281
+				8282
+				8283
+				8284
+				8285
+				8286
+				8287
+				8288
+				8289
+				8290
+				8291
+				8292
+				8293
+				8294
+				8295
+				8296
+				8297
+				8298
+				8307
+				8308
+				8309
+				8310
+				8311
+				8312
+				8313
+				8314
+				8315
+				8316
+				8317
+				8318
+				8319
+				8320
+				8323
+				8324
+				8325
+				8326
+				8327
+				8328
+				8329
+				8330
+				8331
+				8332
+				8333
+				8334
+				8335
+				8336
+				8337
+				8338
+				8339
+				8340
+				8341
+				8342
+				8343
+				8356
+				8357
+				8358
+				8359
+				8360
+				8361
+				8362
+				8363
+				8568
+				8574
+				8575
+				8576
+				8577
+				8578
+				8579
+				8580
+				8581
+				8585
+				8586
+				8587
+				8588
+				8816
+				8817
+				8818
+				8819
+				8820
+				8821
+				8824
+				8825
+				8826
+				8827
+				8831
+				8832
+				8833
+				8834
+				8838
+				8841
+				8842
+				8843
+				8847
+				8854
+				8855
+				8856
+				8858
+				8859
+				8860
+				8861
+				8862
+				8863
+				8864
+				8865
+				8866
+				8867
+				8868
+				8869
+				8870
+				8871
+				8883
+				8884
+				8885
+				8886
+				8887
+				8888
+				8889
+				9415
+				9609
+				9610
+				9611
+				9623
+				9624
+			}
+		}
+
+		WZO = { #Xi Zhou
+			government = aristocratic_monarchy
+			primary_culture = zhongyuan
+			religion = chinese_religions
+			capital = 8380
+			treasures = { 1016 1018 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8380
+			}
+		}
+
+		ZHO = { #Zhou
+			government = enfeoffment_zhourites
+			primary_culture = zhongyuan
+			religion = chinese_religions
+			capital = 8379
+			treasures = { 1014 1028 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8379
+			}
+		}
+
+		WEI = { #Wei
+			government = aristocratic_monarchy
+			primary_culture = zhongyuan
+			religion = chinese_religions
+			capital = 8446
+			treasures = { 1011 1012 1024 }
+			poptype_rights = {
+				{
+					culture = jin
+					type = citizen
+				}
+			}
+			poptype_rights = {
+				{
+					culture = yaan
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8344
+				8345
+				8346
+				8348
+				8349
+				8352
+				8353
+				8354
+				8367
+				8369
+				8370
+				8371
+				8372
+				8373
+				8374
+				8375
+				8377
+				8378
+				8386
+				8387
+				8396
+				8397
+				8404
+				8436
+				8438
+				8439
+				8446
+				8450
+				8452
+				8453
+				8454
+				8455
+				8456
+				8461
+				8463
+				8464
+				8466
+				8467
+				8468
+				8470
+				8625
+				8626
+				8668
+				8669
+				8670
+				8675
+				8676
+				8680
+			}
+		}
+
+		WII = { #Weii
+			government = aristocratic_monarchy
+			primary_culture = yaan
+			religion = chinese_religions
+			capital = 8435
+			treasures = { 1021 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8435 8451
+			}
+		}
+
+		SNG = { #Song
+			government = aristocratic_monarchy
+			succession_law=agnatic_seniority_succession_law
+			primary_culture = xu
+			religion = mohism
+			capital = 8433
+			treasures = { 1020 1023 }
+			poptype_rights = {
+				{
+					culture = zhongyuan
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8424
+				8425
+				8426
+				8427
+				8429
+				8430
+				8433
+				8434
+				8448
+				8449
+				8462
+				8469
+				8474
+				8475
+				8476
+				8536
+				8540
+				8541
+				8542
+				8551
+			}
+		}
+
+		LUU = { #Lu
+			government = aristocratic_monarchy
+			primary_culture = xu
+			religion = confucian
+			capital = 8533
+			treasures = { 1022 }
+			poptype_rights = {
+				{
+					culture = qilu
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8471 8472 8481 8533 8534 8535 8478 8485 8487
+			}
+		}
+
+		ZOU = { #Zou
+			government = aristocratic_monarchy
+			primary_culture = xu
+			religion = chinese_religions
+			capital = 8537
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8537
+			}
+		}
+
+		NII = { #Ni
+			government = aristocratic_monarchy
+			primary_culture = xu
+			religion = chinese_religions
+			capital = 8538
+			treasures = { 1019 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8538
+			}
+		}
+
+		TNG = { #Teng
+			government = aristocratic_monarchy
+			primary_culture = xu
+			religion = mohism
+			capital = 8428
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8428
+			}
+		}
+
+		BII = { #Bi
+			government = aristocratic_monarchy
+			primary_culture = xu
+			religion = chinese_religions
+			capital = 8548
+			treasures = { 1035 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8548 8549 8550	
+			}
+		}
+
+		NYE = { #Langyawuyue
+			government = despotic_monarchy
+			primary_culture = wuyue
+			religion = chinese_religions
+			capital = 8527
+			poptype_rights = {
+				{
+					culture = xu
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8479 8523 8526 8527 8528 9650
+			}
+		}
+
+		CHU = { #Chu
+			government = aristocratic_monarchy
+			primary_culture = chu
+			religion = chinese_religions
+			capital = 8972
+			treasures = { 1003 1009 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8364
+				8382
+				8383
+				8393
+				8394
+				8395
+				8401
+				8402
+				8403
+				8405
+				8406
+				8407
+				8408
+				8409
+				8410
+				8411
+				8412
+				8413
+				8414
+				8415
+				8416
+				8417
+				8418
+				8419
+				8420
+				8421
+				8422
+				8423
+				8431
+				8432
+				8447
+				8457
+				8458
+				8459
+				8460
+				8532
+				8543
+				8544
+				8545
+				8552
+				8553
+				8554
+				8555
+				8556
+				8557
+				8558
+				8559
+				8560
+				8561
+				8562
+				8828
+				8829
+				8830
+				8844
+				8845
+				8846
+				8956
+				8957
+				8958
+				8959
+				8960
+				8961
+				8962
+				8963
+				8964
+				8965
+				8966
+				8967
+				8968
+				8969
+				8970
+				8971
+				8972
+				8973
+				8974
+				8975
+				8976
+				8977
+				8978
+				8979
+				8980
+				8981
+				8982
+				8983
+				8984
+				8985
+				8986
+				8987
+				8988
+				8991
+				8992
+				8993
+				8994
+				8995
+				8996
+				8997
+				8998
+				8999
+				9000
+				9001
+				9002
+				9003
+				9004
+				9005
+				9006
+				9007
+				9008
+				9009
+				9011
+				9013
+				9018
+				9019
+				9020
+				9021
+				9022
+				9023
+				9024
+				9025
+				9026
+				9027
+				9028
+				9029
+				9030
+				9036
+				9037
+				9038
+				9039
+				9040
+				9041
+				9049
+				9050
+				9051
+				9052
+				9053
+				9054
+				9055
+				9056
+				9057
+				9058
+				9059
+				9060
+				9061
+				9063
+				9064
+				9065
+				9066
+				9067
+				9068
+				9069
+				9070
+				9071
+				9072
+				9073
+				9074
+				9075
+				9076
+				9077
+				9080
+				9081
+				9082
+				9083
+				9084
+				9085
+				9086
+				9087
+				9118
+				9119
+				9120
+				9121
+				9122
+				9126
+				9127
+				9128
+				9129
+				9130
+				9131
+				9425
+				9426
+				9625
+				9626
+				9627
+				9628
+				9629
+				9630
+				9631
+				9632
+				9633
+				9634
+				9635
+				9636
+				9637
+				9638
+				9639
+				9641
+				9642
+				9643
+				9644
+				9645
+				9646
+				9647
+				9648
+				9649
+				9651
+				9652
+				9653
+				9654
+				9655
+				9656
+				9657
+				9658
+				9659
+				9660
+				9661
+				9662
+				9663
+				9664
+			}
+		}
+
+		YUE = { #Yue
+			government = despotic_monarchy
+			primary_culture = wuyue
+			religion = chinese_religions
+			capital = 9089
+			treasures = { 1027 }
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				9078 9079 9088 9089 9090 9091 9092 9093 9094 9123 9124 9125 11082
+			}
+		}
+
+		HAN = { #Han
+			government = aristocratic_monarchy
+			primary_culture = zhongyuan
+			religion = chinese_religions
+			capital = 8384
+			treasures = { 1013 1030 }
+			poptype_rights = {
+				{
+					culture = jin
+					type = citizen
+				}
+			}
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8347 8350 8351 8355 8376 8384 8385 8388 8398 8399 8400 8627 8628 8630 8631 8632 8634 8674
+			}
+		}
+
+		BAA = { #Ba
+			government = tribal_kingdom
+			primary_culture = ba
+			religion = bon_religion
+			capital = 8839
+			centralization = 10
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				8839 8840 9612
 			}
 		}
 	}

@@ -1,4 +1,0 @@
-﻿color = rgb { 37 90 114 }
-
-ship_names = {
-}
