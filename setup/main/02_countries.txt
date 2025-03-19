@@ -14410,7 +14410,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8368 8589 8590 8591 8633 8635 8636 8637 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 8648 8649 8650 8651 8653 8654 8655 8677 8678 8679 8681 8682 8683 8685 8687 8688 8689 8691 8692 8693 8697 8705 8706 8744 8749 9588 9879 9880 8614 8615 8616 8618 8620 8621 8623 8624 8629 8659 8665 8666 8667 8707
+				8368 8589 8590 8591 8633 8635 8636 8637 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 8648 8649 8650 8651 8653 8654 8655 8677 8678 8679 8681 8682 8683 8685 8687 8688 8689 8691 8692 8693 8697 8705 8706 8744 8749 9588 9879 9880 8614 8615 8616 8618 8620 8621 8624 8629 8665 8666 8667 8707
 				
 			}
 		}
@@ -14438,7 +14438,7 @@ country = {
 			primary_culture = ji
 			religion = chinese_religions
 			capital = 8686
-			treasures = { 1031 1034}
+			treasures = { 1031 1034 }
 			poptype_rights = {
 				{
 					culture = baidi
@@ -15006,26 +15006,16 @@ country = {
 				8458
 				8459
 				8460
-				8532
-				8543
-				8544
-				8545
 				8552
 				8553
-				8554
 				8555
-				8556
-				8557
 				8558
 				8559
 				8560
 				8561
-				8562
 				8828
 				8829
 				8830
-				8844
-				8845
 				8846
 				8956
 				8957
@@ -15069,34 +15059,16 @@ country = {
 				8997
 				8998
 				8999
-				9000
 				9001
-				9002
-				9003
-				9004
-				9005
-				9006
-				9007
-				9008
 				9009
 				9011
 				9013
-				9018
-				9019
 				9020
 				9021
 				9022
-				9023
-				9024
-				9025
 				9026
 				9027
 				9028
-				9029
-				9030
-				9036
-				9037
-				9038
 				9039
 				9040
 				9041
@@ -15136,20 +15108,11 @@ country = {
 				9085
 				9086
 				9087
-				9118
-				9119
 				9120
 				9121
-				9122
 				9126
-				9127
-				9128
-				9129
 				9130
-				9131
 				9425
-				9426
-				9625
 				9626
 				9627
 				9628
@@ -15160,10 +15123,8 @@ country = {
 				9633
 				9634
 				9635
-				9636
 				9637
 				9638
-				9639
 				9641
 				9642
 				9643
@@ -15185,8 +15146,6 @@ country = {
 				9660
 				9661
 				9662
-				9663
-				9664
 			}
 		}
 
@@ -15243,7 +15202,39 @@ country = {
 				religious_tech = { level = 1 progress = 0 }
 			}
 			own_control_core = {
-				8839 8840 9612
+				8839 8840 8844 8845 9002 9003 9004 9010 9612 9625
+			}
+		}
+
+		CAD = { #Chang Di
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8728
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8698 8720 8721 8722 8723 8728 8729 8730 8738 8739 8740
+			}
+		}
+
+		WEY = { #Wey
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8695
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8437 8440 8441 8442 8443 8444 8445 8465 8477 8484 8486 8489 8671 8673 8694 8695 8672
 			}
 		}
 	}

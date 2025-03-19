@@ -20,7 +20,7 @@
 	trade_goods="elephants"
 	civilization_value=7
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="2"
 	}
