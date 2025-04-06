@@ -14410,7 +14410,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8368 8589 8590 8591 8633 8635 8636 8637 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 8648 8649 8650 8651 8653 8654 8655 8677 8678 8679 8681 8682 8683 8685 8687 8688 8689 8691 8692 8693 8697 8705 8706 8744 8749 9588 9879 9880 8614 8615 8616 8618 8620 8621 8624 8629 8665 8666 8667 8707
+				8368 8589 8590 8591 8633 8635 8636 8637 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 8648 8649 8650 8651 8653 8654 8655 8677 8678 8679 8681 8682 8683 8685 8687 8688 8689 8691 8692 8693 8697 8705 8706 8744 8749 9588 9879 9880 8629 8707
 				
 			}
 		}
@@ -14510,15 +14510,11 @@ country = {
 				8512
 				8513
 				8514
-				8515
-				8516
 				8519
 				8520
-				8521
 				8522
 				8524
 				8525
-				8529
 				8530
 				8539
 				8546
@@ -14642,9 +14638,6 @@ country = {
 				8838
 				8841
 				8842
-				8843
-				8847
-				8854
 				8855
 				8856
 				8858
@@ -14653,7 +14646,6 @@ country = {
 				8861
 				8862
 				8863
-				8864
 				8865
 				8866
 				8867
@@ -14968,24 +14960,11 @@ country = {
 				8409
 				8410
 				8411
-				8412
-				8413
 				8414
 				8415
 				8416
 				8417
 				8418
-				8419
-				8421
-				8422
-				8423
-				8431
-				8432
-				8447
-				8457
-				8458
-				8459
-				8460
 				8555
 				8558
 				8559
@@ -15037,42 +15016,19 @@ country = {
 				9009
 				9013
 				9020
-				9049
-				9050
-				9051
-				9052
 				9053
-				9054
 				9055
 				9056
-				9057
-				9058
 				9059
 				9060
 				9061
 				9063
 				9064
-				9065
 				9066
-				9067
 				9068
 				9069
 				9070
 				9071
-				9072
-				9073
-				9074
-				9075
-				9076
-				9077
-				9080
-				9081
-				9082
-				9083
-				9084
-				9085
-				9086
-				9087
 				9120
 				9121
 				9126
@@ -15086,23 +15042,13 @@ country = {
 				9632
 				9641
 				9642
-				9643
 				9644
 				9645
-				9647
 				9648
 				9649
-				9651
-				9652
-				9653
-				9654
-				9655
 				9656
-				9657
-				9658
 				9659
 				9660
-				9661
 			}
 		}
 
@@ -15208,6 +15154,134 @@ country = {
 			}
 			own_control_core = {
 				8532 8543 8544 8545 8554 8556 8557 8562
+			}
+		}
+
+		LAI = { #Lai Yi
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8515
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8515 8516 8517 8518 8521 8529
+			}
+		}
+
+		XHM = { #Xiu Hun
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8663
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8614 8615 8616 8618 8623 8659 8620 8621 8624 8663 8665 8666 8667
+			}
+		}
+
+		FAN = { #Fan
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8601
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8601
+			}
+		}
+
+		XUU = { #Xu
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8553
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8420 8552 8553 8560 8561 9646
+			}
+		}
+
+		ZHE = { #Zhen
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8446
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8386 8387 8396 8397 8404 8446 8450 8452 8453 8454 8455 8456 8461 8463 8464 8467 8468 8470
+			}
+		}
+
+		CHN = { #Chen
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8457
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8431 8447 8457 8459 8458 8460
+			}
+		}
+
+		CII = { #Cai
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 8412
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8412 8413 8423 8432
+			}
+		}
+
+		ZHU = { #Zhoulai
+			government = aristocratic_monarchy
+			primary_culture = yan
+			religion = chinese_religions
+			capital = 
+			technology = {
+				military_tech = { level = 2 progress = 0 }
+				civic_tech = { level = 2 progress = 0 }
+				oratory_tech = { level = 2 progress = 0 }
+				religious_tech = { level = 2 progress = 0 }
+			}
+			own_control_core = {
+				8419 8421 8422 9049 9050 9051 9057 9643 9658
 			}
 		}
 	}
