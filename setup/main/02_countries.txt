@@ -14392,9 +14392,9 @@ country = {
 		}
 
 		ZHA = { #Zhao
-			government = aristocratic_monarchy
+			government = tribal_kingdom
 			primary_culture = ji
-			religion = chinese_religions
+			religion = hu_religions
 			capital = 8681
 			treasures = { 1001 }
 			technology = {
@@ -14430,7 +14430,7 @@ country = {
 		ZHS = { #Zhongshan
 			government = aristocratic_monarchy
 			primary_culture = ji
-			religion = chinese_religions
+			religion = hu_religions
 			capital = 8686
 			treasures = { 1031 1034 }
 			technology = {
@@ -14457,49 +14457,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8480
-				8482
-				8483
-				8488
-				8490
-				8491
-				8492
-				8493
-				8494
-				8495
-				8496
-				8497
-				8498
-				8499
-				8500
-				8501
-				8502
-				8503
-				8504
-				8505
-				8506
-				8507
-				8508
-				8509
-				8510
-				8511
-				8512
-				8513
-				8514
-				8519
-				8520
-				8522
-				8524
-				8525
-				8530
-				8539
-				8546
-				8547
-				8718
-				8719
-				8725
-				8726
-				8727
+				8480 8482 8483 8488 8490 8491 8492 8493 8494 8495 8496 8497 8498 8499 8500 8501 8502 8503 8504 8505 8506 8507 8508 8509 8510 8511 8512 8513 8514 8519 8520 8522 8524 8525 8530 8539 8546 8547 8718 8719 8725 8726 8727
 			}
 		}
 		QIN = { #Qin
@@ -14518,69 +14476,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8277
-				8278
-				8282
-				8283
-				8284
-				8285
-				8286
-				8307
-				8308
-				8309
-				8310
-				8311
-				8312
-				8313
-				8314
-				8315
-				8316
-				8317
-				8318
-				8319
-				8320
-				8323
-				8324
-				8325
-				8326
-				8327
-				8328
-				8329
-				8330
-				8331
-				8332
-				8333
-				8334
-				8335
-				8336
-				8337
-				8338
-				8339
-				8340
-				8341
-				8342
-				8343
-				8356
-				8357
-				8358
-				8359
-				8360
-				8361
-				8362
-				8363
-				8568
-				8574
-				8575
-				8576
-				8577
-				8578
-				8579
-				8580
-				8581
-				8585
-				8586
-				8587
-				8588
+				8277 8278 8282 8283 8284 8285 8286 8307 8308 8309 8310 8311 8312 8313 8314 8315 8316 8317 8318 8319 8320 8323 8324 8325 8326 8327 8328 8329 8330 8331 8332 8333 8334 8335 8336 8337 8338 8339 8340 8341 8342 8343 8356 8357 8358 8359 8360 8361 8362 8363 8568 8574 8575 8576 8577 8578 8579 8580 8581 8585 8586 8587 8588
 			}
 		}
 
@@ -14614,7 +14510,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8379
+				8379 8381
 			}
 		}
 
@@ -14631,35 +14527,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8344
-				8345
-				8346
-				8348
-				8349
-				8352
-				8353
-				8354
-				8367
-				8369
-				8370
-				8371
-				8372
-				8373
-				8374
-				8375
-				8377
-				8378
-				8436
-				8438
-				8439
-				8625
-				8626
-				8668
-				8669
-				8670
-				8675
-				8676
-				8680
+				8344 8345 8346 8348 8349 8352 8353 8354 8367 8369 8370 8371 8372 8373 8374 8375 8377 8378 8436 8438 8439 8625 8626 8668 8669 8670 8675 8676 8680
 			}
 		}
 
@@ -14683,7 +14551,7 @@ country = {
 		SNG = { #Song
 			government = aristocratic_monarchy
 			succession_law=agnatic_seniority_succession_law
-			primary_culture = xu
+			primary_culture = zhongyuan
 			religion = mohism
 			capital = 8433
 			treasures = { 1020 1023 }
@@ -14694,26 +14562,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8424
-				8425
-				8426
-				8427
-				8429
-				8430
-				8433
-				8434
-				8448
-				8449
-				8462
-				8469
-				8474
-				8475
-				8476
-				8536
-				8540
-				8541
-				8542
-				8551
+				8424 8425 8426 8427 8429 8430 8433 8434 8448 8449 8462 8469 8473 8474 8475 8476 8536 8540 8541 8542 8551
 			}
 		}
 
@@ -14802,7 +14651,7 @@ country = {
 
 		NYE = { #Langyawuyue
 			government = despotic_monarchy
-			primary_culture = wuyue
+			primary_culture = xu
 			religion = chinese_religions
 			capital = 8527
 			technology = {
@@ -14829,109 +14678,12 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8364
-				8382
-				8383
-				8393
-				8394
-				8395
-				8401
-				8402
-				8403
-				8405
-				8406
-				8407
-				8408
-				8409
-				8410
-				8411
-				8414
-				8415
-				8416
-				8417
-				8418
-				8828
-				8829
-				8830
-				8846
-				8956
-				8957
-				8958
-				8959
-				8960
-				8961
-				8962
-				8963
-				8964
-				8965
-				8966
-				8967
-				8968
-				8969
-				8970
-				8971
-				8972
-				8973
-				8974
-				8975
-				8976
-				8977
-				8978
-				8979
-				8980
-				8981
-				8982
-				8983
-				8984
-				8985
-				8986
-				8987
-				8988
-				8991
-				8992
-				8993
-				8994
-				8995
-				8996
-				8997
-				8998
-				9009
-				9013
-				9020
-				9055
-				9056
-				9059
-				9060
-				9061
-				9063
-				9064
-				9066
-				9068
-				9069
-				9070
-				9071
-				9120
-				9121
-				9126
-				9425
-				9626
-				9627
-				9628
-				9629
-				9630
-				9631
-				9632
-				9641
-				9642
-				9644
-				9645
-				9659
-				9660
+				8364 8382 8383 8393 8394 8395 8401 8402 8403 8405 8406 8407 8408 8409 8410 8411 8414 8415 8416 8417 8418 8828 8829 8830 8846 8956 8957 8958 8959 8960 8961 8962 8963 8964 8965 8966 8967 8968 8969 8970 8971 8972 8973 8974 8975 8976 8977 8978 8979 8980 8981 8982 8983 8984 8985 8986 8987 8988 8991 8992 8993 8994 8995 8996 8997 8998 9009 9013 9020 9055 9056 9059 9060 9061 9063 9064 9066 9068 9069 9070 9071 9120 9121 9126 9425 9626 9627 9628 9629 9630 9631 9632 9641 9642 9644 9645 9659 9660
 			}
 		}
 
 		YUE = { #Yue
-			government = despotic_monarchy
+			government = tribal_kingdom
 			primary_culture = wuyue
 			religion = chinese_religions
 			capital = 9089
@@ -15014,8 +14766,8 @@ country = {
 		}
 
 		HYI = { #Huai Yi
-			government = aristocratic_monarchy
-			primary_culture = yan
+			government = tribal_kingdom
+			primary_culture = huaiyi
 			religion = chinese_religions
 			capital = 8556
 			technology = {
@@ -15030,7 +14782,7 @@ country = {
 		}
 
 		LAI = { #Lai Yi
-			government = aristocratic_monarchy
+			government = tribal_kingdom
 			primary_culture = laiyi
 			religion = chinese_religions
 			capital = 8515
@@ -15046,9 +14798,9 @@ country = {
 		}
 
 		XHM = { #Xiu Hun
-			government = aristocratic_monarchy
+			government = tribal_kingdom
 			primary_culture = loufan
-			religion = chinese_religions
+			religion = hu_religions
 			capital = 8663
 			technology = {
 				military_tech = { level = 2 progress = 0 }
@@ -15064,7 +14816,7 @@ country = {
 		FAN = { #Fan
 			government = aristocratic_monarchy
 			primary_culture = jin	
-			religion = chinese_religions
+			religion = hu_religions
 			capital = 8601
 			technology = {
 				military_tech = { level = 2 progress = 0 }
@@ -15079,7 +14831,7 @@ country = {
 
 		XUU = { #Xu
 			government = aristocratic_monarchy
-			primary_culture = yan
+			primary_culture = xu
 			religion = chinese_religions
 			capital = 8553
 			technology = {
@@ -15095,7 +14847,7 @@ country = {
 
 		ZHE = { #Zhen
 			government = aristocratic_monarchy
-			primary_culture = yan
+			primary_culture = zhongyuan
 			religion = chinese_religions
 			capital = 8446
 			technology = {
@@ -15105,13 +14857,13 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8386 8387 8396 8397 8404 8446 8450 8452 8453 8454 8455 8456 8461 8463 8464 8467 8468 8470
+				8386 8387 8396 8397 8404 8446 8450 8452 8453 8454 8455 8456 8461 8463 8464 8466 8467 8468 8470
 			}
 		}
 
 		CHN = { #Chen
 			government = aristocratic_monarchy
-			primary_culture = yan
+			primary_culture = zhongyuan
 			religion = chinese_religions
 			capital = 8457
 			technology = {
@@ -15127,7 +14879,7 @@ country = {
 
 		CII = { #Cai
 			government = aristocratic_monarchy
-			primary_culture = yan
+			primary_culture = zhongyuan
 			religion = chinese_religions
 			capital = 8412
 			technology = {
@@ -15142,8 +14894,8 @@ country = {
 		}
 
 		ZHU = { #Zhoulai
-			government = aristocratic_monarchy
-			primary_culture = yan
+			government = tribal_federation
+			primary_culture = chu
 			religion = chinese_religions
 			capital = 8422
 			technology = {
@@ -15158,8 +14910,8 @@ country = {
 		}
 
 		SUU = { #Shu
-			government = aristocratic_monarchy
-			primary_culture = yan
+			government = tribal_kingdom
+			primary_culture = shu
 			religion = chinese_religions
 			capital = 8866
 			technology = {
@@ -15174,8 +14926,8 @@ country = {
 		}
 
 		WUU = { #Wu
-			government = aristocratic_monarchy
-			primary_culture = yan
+			government = tribal_kingdom
+			primary_culture = wuyue
 			religion = chinese_religions
 			capital = 9076
 			technology = {
@@ -15190,9 +14942,9 @@ country = {
 		}
 
 		HUR = { #Huan
-			government = aristocratic_monarchy
-			primary_culture = yan
-			religion = chinese_religions
+			government = tribal_kingdom
+			primary_culture = qin
+			religion = hu_religions
 			capital = 8289
 			technology = {
 				military_tech = { level = 2 progress = 0 }
@@ -15206,8 +14958,8 @@ country = {
 		}
 
 		BAO = { #Bao
-			government = aristocratic_monarchy
-			primary_culture = yan
+			government = tribal_federation
+			primary_culture = ba
 			religion = chinese_religions
 			capital = 8831
 			technology = {
