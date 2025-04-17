@@ -14678,14 +14678,14 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8364 8382 8383 8393 8394 8395 8401 8402 8403 8405 8406 8407 8408 8409 8410 8411 8414 8415 8416 8417 8418 8828 8829 8830 8846 8956 8957 8958 8959 8960 8961 8962 8963 8964 8965 8966 8967 8968 8969 8970 8971 8972 8973 8974 8975 8976 8977 8978 8979 8980 8981 8982 8983 8984 8985 8986 8987 8988 8991 8992 8993 8994 8995 8996 8997 8998 9009 9013 9020 9055 9056 9059 9060 9061 9063 9064 9066 9068 9069 9070 9071 9120 9121 9126 9425 9626 9627 9628 9629 9630 9631 9632 9641 9642 9644 9645 9659 9660
+				8364 8382 8383 8393 8394 8395 8401 8402 8403 8405 8406 8407 8408 8409 8410 8411 8414 8415 8416 8417 8418 8828 8829 8830 8846 8956 8957 8958 8959 8960 8961 8962 8963 8964 8965 8966 8967 8968 8969 8970 8971 8972 8973 8974 8975 8976 8977 8978 8979 8980 8981 8982 8983 8984 8985 8986 8987 8988 8991 8992 8993 8994 8995 8996 8997 8998 9009 9013 9020 9055 9056 9059 9060 9061 9063 9064 9066 9068 9069 9070 9071 9120 9121 9425 9626 9627 9628 9629 9630 9631 9632 9641 9642 9644 9645 9659 9660
 			}
 		}
 
 		YUE = { #Yue
 			government = tribal_kingdom
 			primary_culture = wuyue
-			religion = chinese_religions
+			religion = chinese_religions 
 			capital = 9089
 			treasures = { 1027 }
 			technology = {
@@ -14695,7 +14695,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				9078 9079 9088 9089 9090 9091 9092 9093 9094 9123 9124 9125 11082
+				9078 9079 9088 9089 9090 9091 9092 9093 9094 9123 9124 9661 11082
 			}
 		}
 
@@ -14937,7 +14937,7 @@ country = {
 				religious_tech = { level = 2 progress = 0 }
 			}
 			own_control_core = {
-				8555 8558 8559 9052 9053 9054 9058 9065 9067 9072 9073 9074 9075 9076 9077 9080 9081 9082 9083 9084 9085 9086 9087 9647 9648 9649 9651 9652 9653 9655 9654 9656 9657 9661
+				8555 8558 8559 9052 9053 9054 9058 9065 9067 9072 9073 9074 9075 9076 9077 9080 9081 9082 9083 9084 9085 9086 9087 9647 9648 9649 9651 9652 9653 9655 9654 9656 9657
 			}
 		}
 
@@ -14970,6 +14970,177 @@ country = {
 			}
 			own_control_core = {
 				8818 8824 8825 8826 8827 8831 8832 8833 8834 9623 9624
+			}
+		}
+		
+		OUY = { #Ouyue
+			government = tribal_kingdom
+			primary_culture = ouyue
+			religion = baiyue_religions
+			capital = 9101
+			centralization = 40
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				9097 9098 9099 9100 9101 9102 11063 11066 11067
+			}
+		}
+		
+		MNY = { #Minyue
+			government = tribal_kingdom
+			primary_culture = minyue
+			religion = baiyue_religions
+			capital = 9107
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				9105 9106 9107 9108 9109 9110 9111 9112 11062 11064 11065 11068
+			}
+		}
+
+		YLG = { #Yelang
+			government = tribal_kingdom
+			primary_culture = yelang
+			religion = tai_religion
+			capital = 8934
+			centralization = 30
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				8934 8936 8937 8893 9617
+			}
+		}
+
+		DIA = { #Dian
+			government = tribal_kingdom
+			primary_culture = dian
+			religion = tai_religion
+			capital = 8914
+			centralization = 25
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				8914 8920 8923 8924 8925 9618 9619 9620 9621 9622
+			}
+		}
+
+		TB2 = { #Kunming
+			government = tribal_chiefdom
+			primary_culture = kunming
+			religion = tai_religion
+
+			centralization = -75
+
+			capital = 8908
+
+			own_control_core = {
+			8907 8908 8915 8917 8918 8919 
+			}
+		}
+
+		BKT = { #Beikthano
+			government = tribal_kingdom
+			primary_culture = pubu
+			religion = burmese_religion
+			capital = 9787
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				9787
+			}
+		}
+
+		A22 = { #Barus
+			government = tribal_kingdom
+			primary_culture = minangkabau
+			religion = austronesian_religion
+
+			capital = 11050
+			
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+		 
+			own_control_core = 	{ 
+				11050 
+			}
+			
+		}
+
+		A13 = { #Langkashuka
+			government = tribal_kingdom
+			primary_culture = malayan
+			religion = austronesian_religion
+
+			capital = 11029
+			
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+		 
+			own_control_core = 	{ 
+				11029 11032
+			}
+			
+		}
+
+		HEZ = { #Hezongshi
+			government = tribal_kingdom
+			primary_culture = linhu
+			religion = hu_religions
+			capital = 8608
+			centralization = 30
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				8603 8606 8607 8608 8609 8610 8611 8613 9571 9572
+			}
+		}
+
+		LOF = { #Loufan
+			government = tribal_kingdom
+			primary_culture = loufan
+			religion = hu_religions
+			capital = 8617
+			centralization = 40
+			technology = {
+				military_tech = { level = 1 progress = 0 }
+				civic_tech = { level = 1 progress = 0 }
+				oratory_tech = { level = 1 progress = 0 }
+				religious_tech = { level = 1 progress = 0 }
+			}
+			own_control_core = {
+				8656 8657 8660 8661 8662 8664 8617 8619 8658 9513
 			}
 		}
 	}

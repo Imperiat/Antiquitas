@@ -2898,21 +2898,6 @@ Elaian_heritage = {
 	}
 }
 
-adabulia_heritage = {
-	modifier = {
-		#good
-		hostile_attrition = 0.2
-		hills_combat_bonus = 0.1
-
-		#bad
-		global_defensive = -0.1
-	}
-
-	trigger = {
-		tag = ADA
-	}
-}
-
 memnonia_heritage = {
 	modifier = {
 		#good
