@@ -6098,7 +6098,7 @@ country = {
 		
 		THR = {
 			government = tribal_kingdom
-			primary_culture = mygdonian
+			primary_culture = macedonian
 			religion = greek_pantheon
 			diplomatic_stance=appeasement_stance
 			capital = 373 #Stobi
@@ -6214,7 +6214,7 @@ country = {
 
 		APS = {
 			government = tribal_kingdom
-			primary_culture = mygdonian
+			primary_culture = macedonian
 			religion = greek_pantheon
 			capital = 366
 			
@@ -6232,7 +6232,7 @@ country = {
 
 		CKD = {
 			government = aristocratic_monarchy
-			primary_culture = mygdonian
+			primary_culture = macedonian
 			religion = greek_pantheon
 			capital = 376
 			
