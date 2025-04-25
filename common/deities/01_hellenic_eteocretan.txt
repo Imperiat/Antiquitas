@@ -5,7 +5,7 @@ deity_diktynna = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_diktynna = {
@@ -16,7 +16,7 @@ deity_diktynna = {
 	icon = deity_war
 	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
 	omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = war #This Deity uses a War slot.
 	
 	deification_trigger = {
@@ -33,7 +33,7 @@ deity_eleuthya = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_eleuthya = {
@@ -44,7 +44,7 @@ deity_eleuthya = {
 	icon = deity_eloquence
 	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
 	omen = { manpower_recovery_speed = omen_manpower_recovery_speed } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
 	
 	deification_trigger = {
@@ -61,7 +61,7 @@ deity_velchanos = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_velchanos = {
@@ -72,7 +72,7 @@ deity_velchanos = {
 	icon = deity_wealth
 	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
 	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = economy #This Deity uses an Economy Slot
 	
 	deification_trigger = {
@@ -89,7 +89,7 @@ deity_rieia = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_rieia = {
@@ -100,7 +100,7 @@ deity_rieia = {
 	icon = deity_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
@@ -117,7 +117,7 @@ deity_diktean_zeus = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_diktean_zeus = {
@@ -128,7 +128,7 @@ deity_diktean_zeus = {
 	icon = deity_eloquence
 	passive_modifier = { diplomatic_reputation = deity_diplomatic_reputation_svalue }
 	omen = { monthly_tyranny = omen_monthly_tyranny_svalue } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
 	
 	deification_trigger = {
@@ -145,7 +145,7 @@ deity_ariadne = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_ariadne = {
@@ -156,7 +156,7 @@ deity_ariadne = {
 	icon = deity_eloquence
 	passive_modifier = { global_monthly_civilization = deity_global_monthly_civilization_svalue }
 	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = culture #This Deity uses a Culture Slot
 	
 	deification_trigger = {
@@ -173,7 +173,7 @@ deity_amaya = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_amaya = {
@@ -184,7 +184,7 @@ deity_amaya = {
 	icon = deity_love
 	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
 	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {
@@ -201,7 +201,7 @@ deity_karmanor = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = greek_pantheon
+				RELIGION = roman_pantheon
 				CULTURE = eteocretan
 			}
 			deity:omen_karmanor = {
@@ -212,7 +212,7 @@ deity_karmanor = {
 	icon = deity_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
-	religion = greek_pantheon
+	religion = roman_pantheon
 	deity_category = fertility #This Deity uses a Fertility Slot
 	
 	deification_trigger = {

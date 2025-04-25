@@ -100,15 +100,6 @@
 			scope:actor.current_ruler = { add_friend = scope:target }
 		}
 	}
-	
-	ai_will_do = {
-		modifier = {
-			add = 1
-			trigger = {				
-				power_base >= 5
-			}
-		}
-	}
 }
 
 defriend = {

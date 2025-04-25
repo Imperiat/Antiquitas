@@ -280,8 +280,12 @@ deity_vulcan = {
 deity_diana = {
 	trigger = {
 		polytheistic_check_religion_trigger = yes
+		NOR = {
+			primary_culture = etruscan
+			primary_culture = rhaetian
+		}
 		NOT = {
-			country_culture_group = tyrsenian
+			has_deity_in_pantheon = deity:omen_diana_nemorensis
 		}
 		country_culture_group = latin
 		OR = {

@@ -14,7 +14,7 @@ festival_type = {
 		localization_key = pyanepsia
 		trigger = {
 			country_culture_group = hellenic
-			religion = greek_pantheon
+			religion = roman_pantheon
 		}
 	}
 
@@ -1094,6 +1094,7 @@ get_local_terrain = {
 get_military_icon = {
 	type = country
 	random_valid = yes
+
 	text = {
 		localization_key = get_discipline_icon
 		trigger = { always = yes }
@@ -1112,6 +1113,10 @@ get_military_icon = {
 	}
 	text = {
 		localization_key = get_diplomatic_reputation_icon
+		trigger = { always = yes }
+	}
+	text = {
+		localization_key = get_statesmanship_icon
 		trigger = { always = yes }
 	}
 }

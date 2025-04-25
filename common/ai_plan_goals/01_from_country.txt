@@ -68,10 +68,10 @@ is_great_power_aimod = {
 	aggressive = 30
 }
 
-is_early_rome_aimod = {
+is_rome_aimod = {
 	trigger = {
-		this = c:ROM
-		manpower > 4
+		tag = ROM
+		manpower > 3
 	}
 	ae_ceiling = 30
 	aggressive = 400
@@ -120,7 +120,7 @@ is_not_tribe_aimod = {
 	trigger = {
 		is_tribal = no
 	}
-	global_monthly_civilization = 2000
+	country_civilization_value = 100
 }
 
 is_monarchy_aimod = {
