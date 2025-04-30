@@ -177,7 +177,7 @@
 	}
 
 	subject_loyalty_inv = {
-		modifier = { diplomatic_relations = 1  }	
+		modifier = { diplomatic_relations = 1  }
 		requires = { agressive_expansion_impact_inv_3 }
 	}	
 
@@ -761,6 +761,7 @@
         	monthly_corruption = -0.01
         	global_monthly_civilization = 0.01
         }
+
         requires = { musnad_script_inv }
         allow = {
 			OR = {
@@ -1994,6 +1995,26 @@ oratory_2 = {
 		} 
     }
 
+    #New Invictus invention
+    egyptian_makeup_inv = {
+    	modifier = {
+    		monthly_wage_modifier = 0.1
+    		global_pop_promotion_speed_modifier = 0.05
+    		character_loyalty = 3
+    	}
+    	requires = { perfume_inv }
+    	allow = {
+    		OR = {
+    			country_culture_group = north_african
+    			any_country_culture = {
+					is_integrated = yes
+					OR = {
+						this.culture.culture_group = culture_group:north_african
+					}
+				}
+    		}
+    	}
+    }
 
 	# Level 3
 	diplomatic_relations_inv = { 
@@ -2076,6 +2097,15 @@ oratory_2 = {
 		} 
     }
 
+    #New Invictus invention
+    police_baboon_inv = {
+    	modifier = {
+    		global_unrest = -0.5
+    		global_monthly_state_loyalty = 0.03
+    	}
+    	requires = { oratory_tech_investment_inv_2 }
+    	allow = { country_culture_group = north_african }
+    }
 	# Level 4
 	control_range_modifier_inv = { 
 		modifier = { control_range_modifier = 0.05  }
@@ -2344,7 +2374,7 @@ oratory_2 = {
     achaemenid_administration_inv = {
     	modifier = { 
     		global_monthly_state_loyalty = 0.02 
-    		monthly_character_experience = 0.02
+    		character_loyalty = 1
     	}
         
         requires = { oratory_tech_investment_inv_2 }
@@ -2479,7 +2509,9 @@ oratory_2 = {
 
 	#New Invictus invention
     pahlavi_script_inv = {
-    	modifier = { monthly_character_experience =  0.02 }
+    	modifier = {
+    		character_loyalty = 1
+    	}
         requires = { polycentric_administration_inv }
         allow = {
 			OR = {

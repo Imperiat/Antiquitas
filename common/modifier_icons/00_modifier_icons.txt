@@ -3042,6 +3042,10 @@ riverine_terrain_combat_bonus = {
     positive = "gfx/interface/icons/modifiers/riverine_terrain_combat_bonus.dds"
 }
 
+port_building_cost = {
+    positive = "gfx/interface/icons/modifiers/port_building_cost.dds"
+}
+
 innovations = {
     positive = "gfx/interface/icons/modifiers/innovations.dds"
 }

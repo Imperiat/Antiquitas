@@ -27,6 +27,7 @@
 				text = "tradition_unlock_requirement_cultural_decision"
 				has_variable = tibetan_influence
 			}
+			custom_tooltip = tradition_unlock_requirement_tibetan
 		}
 	}
 
@@ -115,7 +116,6 @@
 	}
 	
 	tibetan_mauryan_enable = { 
-		modifier = {}
 		icon = mauryan_noble_path_1
 		requires = { tibetan_noble_path_3 }
 		modifier = { 

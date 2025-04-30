@@ -29,6 +29,13 @@
 			}
 			country_culture_group = fezzani
 		}
+		trigger_else_if = {																	
+			limit = { tag = CYR }
+			custom_tooltip = {
+				text = "is_cyr.tt"
+			}
+			has_country_modifier = cyr_punic_integration
+		}
 		trigger_else_if = {
 			limit = { country_culture_group = proto_european }
 			custom_tooltip = {

@@ -99,7 +99,7 @@ religious_1 = {
 				add = 100
 				OR = {
 					is_antagonist = yes
-					rank > regional_power
+					rank >= regional_power
 				}
 				is_monarchy = yes
 			}
@@ -207,7 +207,7 @@ religious_1 = {
 				add = 100
 				OR = {
 					is_antagonist = yes
-					rank > regional_power
+					rank >= regional_power
 				}
 				is_monarchy = yes
 			}
@@ -320,6 +320,7 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = numidian
+				country_culture_group = fezzani
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_numidian_culture
@@ -412,7 +413,7 @@ religious_1 = {
 				add = 100
 				OR = {
 					is_antagonist = yes
-					rank > regional_power
+					rank >= regional_power
 				}
 				is_monarchy = yes
 			}
@@ -550,6 +551,7 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = numidian
+				country_culture_group = fezzani
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_numidian_culture
@@ -607,6 +609,20 @@ religious_1 = {
 #		}		 
 #    }
 
+	#New Invictus invention
+	hair_braids_inv = {
+		modifier = {
+			global_pop_promotion_speed_modifier = 0.05
+			happiness_for_same_religion_modifier = deity_happiness_for_same_religion_modifier
+		}
+		requires = { stability_inv_3 }
+		allow = {
+			OR = {
+				primary_culture = upper_egyptian
+				country_culture_group = nilotic_group
+			}
+		}
+	}
 
 	# Level 6
 	omen_duration_inv_1 = {
@@ -759,6 +775,7 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = numidian
+				country_culture_group = fezzani
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_numidian_culture
@@ -816,7 +833,6 @@ religious_1 = {
     #New Invictus invention
     carpets_inv = {
     	modifier = { 
-    		max_friends = 1 
     		character_loyalty = 2
     	}
         
@@ -936,6 +952,7 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = numidian
+				country_culture_group = fezzani
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_numidian_culture
@@ -1052,6 +1069,7 @@ religious_1 = {
         allow = {
 			OR = {
 				country_culture_group = numidian
+				country_culture_group = fezzani
 				custom_tooltip = {
 					#Need a new text
 					text = integrated_any_numidian_culture
