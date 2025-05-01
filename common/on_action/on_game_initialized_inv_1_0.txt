@@ -10,6 +10,9 @@
 
 		###Birth Order Traits
 		firstborn_traits.1
+		
+		###Roman Name Order
+		roman_name_order.1
 
 		###Interesting Treasures
 		interesting_treasures.1
@@ -75,6 +78,7 @@
 			set_variable = {
 				name = fix_new_countries
 			}
+		}
 		### Other ###
 		if = {
 			limit = {
