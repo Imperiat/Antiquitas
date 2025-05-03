@@ -11,6 +11,7 @@
 				NOR = {
 
 					is_tradition_tree_allowed = japanese_philosophy
+					is_tradition_tree_allowed = ti_austronesian_philosophy
 
 					is_tradition_tree_allowed = greek_philosophy
 					is_tradition_tree_allowed = mauryan_philosophy_2
@@ -22,6 +23,7 @@
 					heritage = pirate_heritage
 					heritage = olbe_cilicia_heritage
 					heritage = balearic_heritage
+					has_variable = unlocked_slave_raiding
 				}
 			}
 		}
@@ -36,10 +38,6 @@
 				heritage = pirate_heritage
 			}
 			trigger_else_if = {
-				limit = { is_tradition_tree_allowed = japanese_philosophy }
-				has_military_bonus = japan_pacific_pirates
-			}
-			trigger_else_if = {
 				limit = {
 					heritage = olbe_cilicia_heritage
 				}
@@ -50,6 +48,12 @@
 					heritage = balearic_heritage
 				}
 				heritage = balearic_heritage
+			}
+			trigger_else_if = {
+				limit = {
+					has_variable = unlocked_slave_raiding
+				}
+				has_variable = unlocked_slave_raiding
 			}
 			trigger_else_if = {
 				limit = { is_tradition_tree_allowed = greek_philosophy }
@@ -63,6 +67,8 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}
@@ -78,6 +84,8 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}
@@ -93,6 +101,8 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}
@@ -108,6 +118,8 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}
@@ -123,6 +135,8 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}
@@ -138,6 +152,8 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}
@@ -153,6 +169,42 @@
 						has_military_bonus = arabian_path_1
 						has_military_bonus = lydian_path_1
 						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
+					}
+				}
+			}
+			trigger_else_if = {
+				limit = { is_tradition_tree_allowed = japanese_philosophy } #New for TI
+				custom_tooltip = {
+					text = has_slave_raiding_military_tradition
+					OR = {
+						has_military_bonus = greek_antigonid_path_4
+						has_military_bonus = mauryan_coastal_path_4
+						has_military_bonus = illyrian_piracy_path_1
+						has_military_bonus = celt_iberian_path_c_3
+						has_military_bonus = arabian_path_1
+						has_military_bonus = lydian_path_1
+						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
+					}
+				}
+			}
+			trigger_else_if = {
+				limit = { is_tradition_tree_allowed = ti_austronesian_philosophy } #New for TI
+				custom_tooltip = {
+					text = has_slave_raiding_military_tradition
+					OR = {
+						has_military_bonus = greek_antigonid_path_4
+						has_military_bonus = mauryan_coastal_path_4
+						has_military_bonus = illyrian_piracy_path_1
+						has_military_bonus = celt_iberian_path_c_3
+						has_military_bonus = arabian_path_1
+						has_military_bonus = lydian_path_1
+						has_military_bonus = germanic_sea_path_2
+						has_military_bonus = japan_pacific_pirates
+						has_military_bonus = ti_austronesian_path_10
 					}
 				}
 			}

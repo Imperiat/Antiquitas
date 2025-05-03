@@ -116,7 +116,6 @@ char_is_hellenic_sphere_trigger = {
 		has_culture_group = north_african
 		has_culture_group = latin
 		has_religion = roman_pantheon
-		has_religion = greek_pantheon
 		has_religion = egyptian_pantheon
 		has_religion = carthaginian_pantheon
 		has_religion = anatolian_religion

@@ -2,6 +2,9 @@
 ## Each new bloodline has to be added to the bloodline_on_born_effect and bloodline_setup_effect scripted effects
 
 bloodline_on_born_effect = {
+    # TI Bloodlines
+    bloodline_on_born_effect_TI = yes
+
     ##OG Bloodlines
     pass_down_bloodline_character_effect = { BLOODLINE = "achaemenid"}
     pass_down_bloodline_character_effect = { BLOODLINE = "aeacidae"}
@@ -61,9 +64,14 @@ bloodline_on_born_effect = {
     pass_down_bloodline_character_effect = { BLOODLINE = "blood_of_pharnavazid"}
     pass_down_bloodline_character_effect = { BLOODLINE = "blood_of_shaushtatar" }
     pass_down_bloodline_character_effect = { BLOODLINE = "blood_of_forcos" }
+    pass_down_bloodline_character_effect = { BLOODLINE = "blood_of_pandava" }
+    pass_down_bloodline_character_effect = { BLOODLINE = "blood_of_arhan" }
 }
 
 bloodline_setup_effect = {
+    # TI Bloodlines
+    bloodline_setup_effect_TI = yes
+    
     ##OG Bloodlines
     pass_down_bloodline_effect = { BLOODLINE = "achaemenid"}
     pass_down_bloodline_effect = { BLOODLINE = "aeacidae"}
@@ -123,6 +131,7 @@ bloodline_setup_effect = {
     pass_down_bloodline_effect = { BLOODLINE = "blood_of_pharnavazid"}
     pass_down_bloodline_effect = { BLOODLINE = "blood_of_shaushtatar" }
     pass_down_bloodline_effect = { BLOODLINE = "blood_of_forcos" }
+    pass_down_bloodline_effect = { BLOODLINE = "blood_of_pandava" }
 }
 
 pass_down_bloodline_effect = {

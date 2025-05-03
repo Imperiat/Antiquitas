@@ -403,14 +403,96 @@ get_diadochi_pantheon_svalue = {
 diadochi_pantheon_target_svalue = {
 	value = 2
 }
+generic_area_mission_25_economy_buildings_current = {
+	value = 0
+	if = {
+		limit = { has_variable = thebes_properity_counting }
+		area:arcadia_area = {
+			every_area_province = {
+				limit = {
+					owner = root
+					OR = {
+						num_of_port_building >= 1
+						num_of_commerce_building >= 1
+						num_of_town_hall_building >= 1
+					}
+				}
+				add = num_of_port_building
+				add = num_of_commerce_building
+				add = num_of_town_hall_building
+			}
+		}
+	}
+	max = generic_area_mission_25_economy_buildings_total
+}
 generic_area_mission_25_economy_buildings_total = {
 	value = 20
+}
+generic_area_mission_25_military_buildings_current = {
+	value = 0
+	if = {
+		limit = { has_variable = thebes_properity_counting }
+		area:south_peleponnesos_area = {
+			every_area_province = {
+				limit = {
+					owner = root
+					OR = {
+						num_of_barracks_building >= 1
+						num_of_military_building >= 1
+						num_of_production_building >= 1
+					}
+				}
+				add = num_of_barracks_building
+				add = num_of_military_building
+				add = num_of_production_building
+			}
+		}
+	}
+	max = generic_area_mission_25_military_buildings_total
 }
 generic_area_mission_25_military_buildings_total = {
 	value = 20
 }
+generic_area_mission_25_academic_buildings_current = {
+	value = 0
+	if = {
+		limit = { has_variable = thebes_properity_counting }
+		area:central_greece_area = {
+			every_area_province = {
+				limit = {
+					owner = root
+					OR = {
+						num_of_academy_building >= 1
+						num_of_court_building >= 1
+						num_of_library_building >= 1
+					}
+				}
+				add = num_of_academy_building
+				add = num_of_court_building
+				add = num_of_library_building
+			}
+		}
+	}
+	max = generic_area_mission_25_academic_buildings_total
+}
 generic_area_mission_25_academic_buildings_total = {
 	value = 20
+}
+generic_25_buildings_svalue_current = {
+	value = 0
+	if = {
+		limit = { has_variable = thebes_properity_counting }
+		area:boeotia_area = {
+			every_area_province = {
+				limit = {
+					owner = root
+					num_of_used_building_slots >= 1
+				}
+				add = num_of_used_building_slots
+			}
+		}
+	}
+	max = generic_25_buildings_svalue_total
 }
 generic_25_buildings_svalue_total = {
 	value = 20
@@ -422,6 +504,7 @@ orchomenos_pops_minus_one_svalue = {
 }
 
 owned_alexandrias_svalue = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			is_alexandria = yes
@@ -431,11 +514,12 @@ owned_alexandrias_svalue = {
 }
 
 cappadocia_fort_svalue = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			has_building = fortress_building
 		}
-		add = 1
+		add = num_of_fortress_building
 	}
 }
 
@@ -476,6 +560,7 @@ pop_culture_happiness_political_influence_svalue = { # for religion
 }
 
 cap_horse_svalue = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			is_in_region = cappadocia_region
@@ -486,6 +571,7 @@ cap_horse_svalue = {
 }
 
 cilicia_ports_svalue = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			is_in_region = cilicia_region
@@ -562,84 +648,173 @@ total_pop_happiness_max_svalue_33p = { # max 80% of non-salve pops
 }
 
 rank_scaled_manpower_svalue = {
+	value = 0
 	if = {
 		limit = {
-			rank = migrant_horde
+			current_date >= 600.1.1
 		}
-		add = -1
+		if = {
+			limit = {
+				rank = migrant_horde
+			}
+			add = -2
+		}
+		else_if = {
+			limit = {
+				rank = city_power
+			}
+			add = -2
+		}
+		else_if = {
+			limit = {
+				rank = local_power
+			}
+			add = -4
+		}
+		else_if = {
+			limit = {
+				rank = regional_power
+			}
+			add = -8
+		}
+		else_if = {
+			limit = {
+				rank = major_power
+			}
+			add = -15
+		}
+		else_if = {
+			limit = {
+				rank = great_power
+			}
+			add = -30
+		}
 	}
-	else_if = {
-		limit = {
-			rank = city_power
+	else = {
+		if = {
+			limit = {
+				rank = migrant_horde
+			}
+			add = -1
 		}
-		add = -2
-	}
-	else_if = {
-		limit = {
-			rank = local_power
+		else_if = {
+			limit = {
+				rank = city_power
+			}
+			add = -1
 		}
-		add = -3
-	}
-	else_if = {
-		limit = {
-			rank = regional_power
+		else_if = {
+			limit = {
+				rank = local_power
+			}
+			add = -2
 		}
-		add = -6
-	}
-	else_if = {
-		limit = {
-			rank = major_power
+		else_if = {
+			limit = {
+				rank = regional_power
+			}
+			add = -4
 		}
-		add = -15
-	}
-	else_if = {
-		limit = {
-			rank = great_power
+		else_if = {
+			limit = {
+				rank = major_power
+			}
+			add = -10
 		}
-		add = -30
+		else_if = {
+			limit = {
+				rank = great_power
+			}
+			add = -20
+		}
 	}
 }
 
 rank_scaled_treasury_svalue = {
+	value = 0
 	if = {
 		limit = {
-			rank = migrant_horde
+			current_date >= 600.1.1
 		}
-		add = -50
+		if = {
+			limit = {
+				rank = migrant_horde
+			}
+			add = -50
+		}
+		else_if = {
+			limit = {
+				rank = city_power
+			}
+			add = -80
+		}
+		else_if = {
+			limit = {
+				rank = local_power
+			}
+			add = -150
+		}
+		else_if = {
+			limit = {
+				rank = regional_power
+			}
+			add = -300
+		}
+		else_if = {
+			limit = {
+				rank = major_power
+			}
+			add = -600
+		}
+		else_if = {
+			limit = {
+				rank = great_power
+			}
+			add = -1000
+		}
 	}
-	else_if = {
-		limit = {
-			rank = city_power
+	else = {
+		if = {
+			limit = {
+				rank = migrant_horde
+			}
+			add = -25
 		}
-		add = -80
-	}
-	else_if = {
-		limit = {
-			rank = local_power
+		else_if = {
+			limit = {
+				rank = city_power
+			}
+			add = -40
 		}
-		add = -150
-	}
-	else_if = {
-		limit = {
-			rank = regional_power
+		else_if = {
+			limit = {
+				rank = local_power
+			}
+			add = -75
 		}
-		add = -300
-	}
-	else_if = {
-		limit = {
-			rank = major_power
+		else_if = {
+			limit = {
+				rank = regional_power
+			}
+			add = -150
 		}
-		add = -600
-	}
-	else_if = {
-		limit = {
-			rank = great_power
+		else_if = {
+			limit = {
+				rank = major_power
+			}
+			add = -300
 		}
-		add = -1000
+		else_if = {
+			limit = {
+				rank = great_power
+			}
+			add = -500
+		}
 	}
 }
 
 owned_incense_province_svalue = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			trade_goods = incense
@@ -649,15 +824,17 @@ owned_incense_province_svalue = {
 }
 
 owned_myrrh_province_svalue = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			trade_goods = myrrh
 		}
 		add = 1
 	}
-}	
+}
 
 main_sub_unit_count = {
+	value = 0
 	c:MIN = {
 		every_country_sub_unit = {
 			limit = {
@@ -669,6 +846,7 @@ main_sub_unit_count = {
 }
 
 root_sub_unit_count = {
+	value = 0
 	ROOT = {
 		every_country_sub_unit = {
 			limit = {
@@ -680,6 +858,7 @@ root_sub_unit_count = {
 }
 
 african_trade_svalue = {
+	value = 0
 	region:punt_region = {
 		every_region_province = {
 			limit = {
@@ -696,7 +875,18 @@ african_trade_svalue = {
 	}
 }
 
+marib_damage_svalue = {
+	value = 1000
+	if = {
+		limit = {
+			has_variable = marib_damage_value_var
+		}
+		multiply = var:marib_damage_value_var
+	}
+}
+
 himyar_province_number_svalue = {
+	value = 0
 	every_country = {
 		every_owned_province = {
 			limit = {
@@ -708,10 +898,27 @@ himyar_province_number_svalue = {
 }
 
 himyar_province_number_svalue_current = {
+	value = 0
 	every_owned_province = {
 		limit = {
 			dominant_province_culture = himjar
 		}
 		add = 1
 	}
+}
+		add = 1
+	}
+}
+
+
+ver_sacrum_territory_svalue = {
+	THIS = {
+		value = population_cap
+		multiply = 0.95
+	}
+}
+
+sab_take_women_home_svalue = {
+	value = p:1.total_population
+	multiply = 0.25 # 25%
 }
