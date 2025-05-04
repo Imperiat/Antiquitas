@@ -67,6 +67,31 @@
 				change_country_flag = DAHAE_FLAG
 			}
 			hidden_effect = {
+				if = {
+					limit = { is_ai = yes }
+					region:sakia_region = {
+						every_region_province = {
+							limit = {
+								owner = { 
+									is_ai = yes
+									is_subject_of = root
+								}
+							}
+							set_owned_by = root
+						}
+					}
+					region:parthia_region = {
+						every_region_province = {
+							limit = {
+								owner = { 
+									is_ai = yes
+									is_subject_of = root
+								}
+							}
+							set_owned_by = root
+						}
+					}
+				}
 				area:parthia_area = {
 					every_area_province = {
 						add_claim = ROOT
@@ -119,7 +144,7 @@
 					owner = root
 				}
 			}
-			owns = 6657
+			owns_or_subject_owns = 6657
 		}
 		
 		effect = {

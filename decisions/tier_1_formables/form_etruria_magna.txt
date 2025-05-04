@@ -21,10 +21,10 @@
 		
 		allow = {
 			war = no
-			owns = 1
+			owns_or_subject_owns = 1
 			trigger_if = {
 				limit = {
-					owns = 1
+					owns_or_subject_owns = 1
 					exists = c:ROM
 					c:ROM = {
 						has_land = yes
@@ -43,7 +43,21 @@
 			hidden_effect = {
 				change_country_color =  "tuscia_color"
 			}
+			custom_tooltip = "restore_the_monarchy"
 			
+			if = {
+				limit = { 
+					is_republic = yes 
+					exists = c:ROM
+					c:ROM = { 
+						has_land = yes
+						is_subject = no
+					}
+				}
+				trigger_event = {
+					id = country_rename.3
+				}
+			}
 			add_2_free_province_investments = yes
 			set_variable = formed_etruria_magna
 		}

@@ -58,19 +58,19 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 91
-			owns = 84
+			owns_or_subject_owns = 91
+			owns_or_subject_owns = 84
 			calc_true_if = {
 				amount = 4
-				owns = 80
-				owns = 78
-				owns = 72
-				owns = 52
-				owns = 54
-				owns = 55
-				owns = 56
-				owns = 63
-				owns = 12
+				owns_or_subject_owns = 80
+				owns_or_subject_owns = 78
+				owns_or_subject_owns = 72
+				owns_or_subject_owns = 52
+				owns_or_subject_owns = 54
+				owns_or_subject_owns = 55
+				owns_or_subject_owns = 56
+				owns_or_subject_owns = 63
+				owns_or_subject_owns = 12
 			}
 			OR = {
 				owns_or_subject_owns = 7
