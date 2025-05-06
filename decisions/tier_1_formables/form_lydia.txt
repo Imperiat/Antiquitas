@@ -46,11 +46,11 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 292 # Sardeis
-			owns = 296 # Magnesia
-			owns = 293 # Myloukome
-			owns = 274 # Thyateira
-			owns = 294 # Larisa
+			owns_or_subject_owns = 292 # Sardeis
+			owns_or_subject_owns = 296 # Magnesia
+			owns_or_subject_owns = 293 # Myloukome
+			owns_or_subject_owns = 274 # Thyateira
+			owns_or_subject_owns = 294 # Larisa
 		}
 		
 		effect = {

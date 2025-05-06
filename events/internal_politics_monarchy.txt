@@ -2847,7 +2847,7 @@ ip_monarchy.26 = {
 			limit = {
 				OR = {
 					any_neighbour_country = { count >= 1 }
-					any_country = { in_diplomatic_range = yes } 
+					any_country = { in_diplomatic_range = root } 
 				}
 				scope:ip_monarchy_25_general_scope = {
 					OR = {

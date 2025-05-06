@@ -37,11 +37,11 @@
 				}
 			}
 			can_form_nation_trigger = yes
-			owns = 1948 # Laodikeia/Diospolis
-			owns = 1966 # Tralleis
-			owns = 1967 # Alabanda
-			owns = 1977 # Mylasa
-			owns = 1981 # Halikarnassos
+			owns_or_subject_owns = 1948 # Laodikeia/Diospolis
+			owns_or_subject_owns = 1966 # Tralleis
+			owns_or_subject_owns = 1967 # Alabanda
+			owns_or_subject_owns = 1977 # Mylasa
+			owns_or_subject_owns = 1981 # Halikarnassos
 		}
 		
 		effect = {

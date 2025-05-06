@@ -109,9 +109,6 @@
 				change_country_tag = PER
 			}
 			monarchy_republic_into_imperium_formable_effect = yes
-			trigger_event = {
-				id = nation_forming.2
-			}
 			add_country_modifier = {
 				name = "persia_unified"
 				duration = 7300

@@ -249,12 +249,27 @@ me_subject_independence.2 = {	# Discussion which path should be taken
 				var:discussion_progress >= 5
 				is_subject = yes
 			}
+			# var:X can't be used on right side of comparison but local_var can.
+			set_local_variable = {
+				name = right_argument_points
+				value = var:right_argument_points
+			}
+			set_local_variable = {
+				name = left_argument_points
+				value = var:left_argument_points
+			}
 			if = {	# Left side superior
+				limit = {
+					local_var:left_argument_points > local_var:right_argument_points
+				}
 				set_variable = {
 					name = left_won
 				}
 			}
 			else_if = {	# Right side superior
+				limit = {
+					local_var:right_argument_points > local_var:left_argument_points
+				}
 				set_variable = {
 					name = right_won
 				}
@@ -265,6 +280,8 @@ me_subject_independence.2 = {	# Discussion which path should be taken
 				}
 			}
 			hidden_effect = {
+				remove_local_variable = right_argument_points
+				remove_local_variable = left_argument_points
 				remove_variable = discussion_progress
 				remove_variable = left_argument_points
 				remove_variable = right_argument_points
@@ -3969,6 +3986,9 @@ me_subject_independence.131 = {	# Progress event - 25% done
 							has_trait = crafty
 							has_trait = cautious
 							has_trait = unnoticeable
+							has_trait = shy
+							has_trait = obsessive_perfectionist
+							has_trait = obsessive
 						}
 					}
 				}
@@ -3988,6 +4008,8 @@ me_subject_independence.131 = {	# Progress event - 25% done
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = prominent
+							has_trait = well_connected
+							has_trait = impatient
 						}
 					}
 				}
@@ -4060,6 +4082,9 @@ me_subject_independence.132 = {	# Progress event - 50% done
 							has_trait = crafty
 							has_trait = cautious
 							has_trait = unnoticeable
+							has_trait = shy
+							has_trait = obsessive_perfectionist
+							has_trait = obsessive
 						}
 					}
 				}
@@ -4079,6 +4104,8 @@ me_subject_independence.132 = {	# Progress event - 50% done
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = prominent
+							has_trait = well_connected
+							has_trait = impatient
 						}
 					}
 				}
@@ -4116,6 +4143,9 @@ me_subject_independence.132 = {	# Progress event - 50% done
 							has_trait = crafty
 							has_trait = cautious
 							has_trait = unnoticeable
+							has_trait = shy
+							has_trait = obsessive_perfectionist
+							has_trait = obsessive
 						}
 					}
 				}
@@ -4135,6 +4165,8 @@ me_subject_independence.132 = {	# Progress event - 50% done
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = prominent
+							has_trait = well_connected
+							has_trait = impatient
 						}
 					}
 				}
@@ -4210,6 +4242,9 @@ me_subject_independence.133 = {	# Progress event - 75% done
 							has_trait = crafty
 							has_trait = cautious
 							has_trait = unnoticeable
+							has_trait = shy
+							has_trait = obsessive_perfectionist
+							has_trait = obsessive
 						}
 					}
 				}
@@ -4229,6 +4264,8 @@ me_subject_independence.133 = {	# Progress event - 75% done
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = prominent
+							has_trait = well_connected
+							has_trait = impatient
 						}
 					}
 				}
@@ -4266,6 +4303,9 @@ me_subject_independence.133 = {	# Progress event - 75% done
 							has_trait = crafty
 							has_trait = cautious
 							has_trait = unnoticeable
+							has_trait = shy
+							has_trait = obsessive_perfectionist
+							has_trait = obsessive
 						}
 					}
 				}
@@ -4285,6 +4325,8 @@ me_subject_independence.133 = {	# Progress event - 75% done
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = prominent
+							has_trait = well_connected
+							has_trait = impatient
 						}
 					}
 				}
@@ -4766,11 +4808,11 @@ me_subject_independence.139 = {	# Overlord - Notification of chosen effect in ca
 				}
 				c:REB = {
 					create_unit = {
-						location = capital_scope
+						location = root.capital_scope
 					}
 					random_unit = {
 						limit = {
-							unit_location = capital_scope
+							unit_location = root.capital_scope
 							unit_owner = c:REB
 						}
 						set_variable = {
@@ -5660,6 +5702,9 @@ me_subject_independence.156 = {	# Progress event - 33% done
 							has_trait = lazy
 							has_trait = aggressive
 							has_trait = dumb
+							has_trait = dull
+							has_trait = pillager
+							has_trait = intimidating
 						}
 					}
 				}
@@ -5710,6 +5755,9 @@ me_subject_independence.156 = {	# Progress event - 33% done
 							has_trait = lazy
 							has_trait = aggressive
 							has_trait = dumb
+							has_trait = dull
+							has_trait = pillager
+							has_trait = intimidating
 						}
 					}
 				}
@@ -5795,6 +5843,9 @@ me_subject_independence.157 = {	# Progress event - 66% done
 							has_trait = lazy
 							has_trait = aggressive
 							has_trait = dumb
+							has_trait = dull
+							has_trait = pillager
+							has_trait = intimidating
 						}
 					}
 				}
@@ -5845,6 +5896,9 @@ me_subject_independence.157 = {	# Progress event - 66% done
 							has_trait = lazy
 							has_trait = aggressive
 							has_trait = dumb
+							has_trait = dull
+							has_trait = pillager
+							has_trait = intimidating
 						}
 					}
 				}
@@ -7213,6 +7267,7 @@ me_subject_independence.183 = {	# Result of the attempt
 							has_trait = submissive
 							has_trait = reckless
 							has_trait = trusting
+							has_trait = impatient
 						}
 					}
 				}
@@ -7303,6 +7358,7 @@ me_subject_independence.183 = {	# Result of the attempt
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = foolish
+							has_trait = impatient
 						}
 					}
 				}
@@ -7373,6 +7429,7 @@ me_subject_independence.183 = {	# Result of the attempt
 							has_trait = guileless
 							has_trait = reckless
 							has_trait = foolish
+							has_trait = impatient
 						}
 					}
 				}

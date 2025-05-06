@@ -321,13 +321,6 @@
  BBY_ADJ:0 "Babylonian"
  form_babylon:0 "Form Babylon"
  form_babylon_desc:0 "Babylon the great, that most ancient of cities, which reigns over the kings of the earth; it is our destiny to break the yoke of our oppressors, and restore her to her people."
- nation_forming.2.t:0 "Seat of Power"
- nation_forming.2.desc:0 "The ancient Kings of Persia ruled from the fertile lands of lower Mesopotamia. It would be a sure sign of our supremacy, if we were to emulate them by relocating our throne to one of the many glorious sites used by Cyrus and his descendants.\n\nOur choice may affect how our people react to this news."
- nation_forming.2.a:0 "To Babylon, the Great!"
- nation_forming.2.b:0 "Let us cast off ancient trappings."
- nation_forming.2.c:0 "The Greeks conquerors favored Persepolis."
- nation_forming.2.d:0 "Our current palace is sufficient."
- nation_forming.2.e:0 "Let us rebuild the jewel of Cyrus!"
  form_babylon_claims_tooltip:0 "Babylon will gain Claims on the Regions of #Y Mesopotamia#! and #Y Assyria#!, and the Provinces of #Y Susiana#! and #Y Mardiene#!."
  #Media
  formable_not_media_exists:0 "#Y Media#! must NOT exist."

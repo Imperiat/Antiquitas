@@ -9475,7 +9475,7 @@ ip_republic.82 = {							# Oligarch Plot - Confront Outcome
 				scope:ip_rep_66_protagonist = { has_variable = ip_rep_66_fled }
 				OR = {
 					exists = scope:ip_rep_66_foreign_backer
-					any_country = { in_diplomatic_range = yes }
+					any_country = { in_diplomatic_range = root }
 				}
 			}
 			current_ruler = { 
