@@ -1110,7 +1110,7 @@
 	terrain="farmland"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
-	trade_goods="olive"
+	trade_goods="dye"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
@@ -1129,7 +1129,7 @@
 	terrain="farmland"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
-	trade_goods="olive"
+	trade_goods="elephants"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
@@ -1321,7 +1321,7 @@
 	terrain="plains"
 	culture="carthaginian"
 	religion="carthaginian_pantheon"
-	trade_goods="elephants"
+	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"

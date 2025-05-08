@@ -1,7 +1,7 @@
 ﻿483={ # Artales
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=16
 	barbarian_power=0
@@ -16,7 +16,7 @@
 846={ # Cymiza
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -31,7 +31,7 @@
 978={ # Tatyene
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -46,7 +46,7 @@
 987={ # Zoaranda
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
@@ -64,7 +64,7 @@
 988={ # Thospia
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -79,7 +79,7 @@
 989={ # Nymphaeum
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -94,7 +94,7 @@
 990={ # Arsissa
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -115,7 +115,7 @@
 991={ # Arest
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="honey"
 	civilization_value=18
 	barbarian_power=0
@@ -130,7 +130,7 @@
 992={ # Balaleisa
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=16
 	barbarian_power=0
@@ -148,7 +148,7 @@
 993={ # Calata
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -166,7 +166,7 @@
 994={ # Ashtishat
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -179,7 +179,7 @@
 995={ # Molchia
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -191,7 +191,7 @@
 996={ # Alouaka
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -206,7 +206,7 @@
 997={ # Kotorox
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="honey"
 	civilization_value=16
 	barbarian_power=0
@@ -224,7 +224,7 @@
 998={ # Artemita Vaspurakan
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -239,7 +239,7 @@
 999={ # Hayk
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -254,7 +254,7 @@
 1500={ # Chauon
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
@@ -272,7 +272,7 @@
 1501={ # Naxouana
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="steppe_horses"
 	civilization_value=18
 	barbarian_power=0
@@ -290,7 +290,7 @@
 1502={ # Tasuk
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
@@ -305,7 +305,7 @@
 1503={ # Salamas
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=20
 	barbarian_power=0
@@ -317,7 +317,7 @@
 1504={ # Gazrik
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
@@ -335,7 +335,7 @@
 1505={ # Karenis
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -353,7 +353,7 @@
 1506={ # Ormi
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=21
 	barbarian_power=0
@@ -371,7 +371,7 @@
 1507={ # Surenapati
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=21
 	barbarian_power=0
@@ -389,7 +389,7 @@
 1508={ # Balajuk
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=19
 	barbarian_power=0
@@ -404,7 +404,7 @@
 1509={ # Siraganon
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
@@ -440,7 +440,7 @@
 1519={ # Mari
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fish"
 	civilization_value=19
 	barbarian_power=0
@@ -461,7 +461,7 @@
 1527={ # Parsk
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
@@ -479,7 +479,7 @@
 1528={ # Morounda
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -497,7 +497,7 @@
 1529={ # Darman
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
@@ -515,7 +515,7 @@
 1530={ # Bakurakerta
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=16
 	barbarian_power=0
@@ -533,7 +533,7 @@
 1531={ # Malejin
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -551,7 +551,7 @@
 1532={ # Zarawand
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -569,7 +569,7 @@
 1533={ # Shamiram
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -584,7 +584,7 @@
 1534={ # Rusakhinili
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -599,7 +599,7 @@
 1535={ # Qiz Chakhlu
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -611,7 +611,7 @@
 1536={ # Maku
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=16
 	barbarian_power=0
@@ -626,7 +626,7 @@
 1537={ # Nuarsak
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0
@@ -638,7 +638,7 @@
 1538={ # Goltan
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
@@ -659,7 +659,7 @@
 1539={ # Jula
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -677,7 +677,7 @@
 1540={ # Parakan
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -692,7 +692,7 @@
 1541={ # Sangibut
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -710,7 +710,7 @@
 1542={ # Arxata
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -728,7 +728,7 @@
 1543={ # Avarayr
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -743,7 +743,7 @@
 1544={ # Catispi
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -758,7 +758,7 @@
 1545={ # Barun Qal'eh
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
@@ -776,7 +776,7 @@
 1546={ # Shawarshan
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
@@ -791,7 +791,7 @@
 1547={ # Keshmesh
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -803,7 +803,7 @@
 1548={ # Tambat
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=16
 	barbarian_power=0
@@ -821,7 +821,7 @@
 1549={ # Teroua
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="precious_metals"
 	civilization_value=18
 	barbarian_power=0
@@ -836,7 +836,7 @@
 1550={ # Maravan
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -854,7 +854,7 @@
 1551={ # Ardeank'
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fruits"
 	civilization_value=20
 	barbarian_power=0
@@ -872,7 +872,7 @@
 1559={ # Aladagh Qal'eh
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -884,7 +884,7 @@
 1560={ # Andzevatsik
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -903,7 +903,7 @@
 1561={ # Mardastan
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -921,7 +921,7 @@
 1562={ # Zombis
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -936,7 +936,7 @@
 1563={ # Acachia
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -951,7 +951,7 @@
 1564={ # Kolchion
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -963,7 +963,7 @@
 1566={ # Didima
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wine"
 	civilization_value=18
 	barbarian_power=0
@@ -975,7 +975,7 @@
 1567={ # Bagauna
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wine"
 	civilization_value=18
 	barbarian_power=0
@@ -987,7 +987,7 @@
 1568={ # Hariza
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -1003,7 +1003,7 @@
 1569={ # Paracata
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="grain"
 	civilization_value=18
 	barbarian_power=0
@@ -1021,7 +1021,7 @@
 1570={ # Armaouira
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="steppe_horses"
 	civilization_value=33
 	barbarian_power=0
@@ -1040,7 +1040,7 @@
 1571={ # Artaxata
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=31
 	barbarian_power=0
@@ -1062,7 +1062,7 @@
 1572={ # Tibion
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=31
 	barbarian_power=0
@@ -1083,7 +1083,7 @@
 1573={ # Gorneae
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -1098,7 +1098,7 @@
 1575={ # Erebuni
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -1114,7 +1114,7 @@
 1576={ # Kainepolis Syracene
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=29
 	barbarian_power=0
@@ -1129,7 +1129,7 @@
 1577={ # Motene
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="honey"
 	civilization_value=27
 	barbarian_power=0
@@ -1144,7 +1144,7 @@
 1579={ # Ashnak
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=20
 	barbarian_power=0
@@ -1174,7 +1174,7 @@
 1581={ # Eruandashat
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="honey"
 	civilization_value=18
 	barbarian_power=0
@@ -1189,7 +1189,7 @@
 1582={ # Ani
 	terrain="plains"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=20
 	barbarian_power=0
@@ -1304,7 +1304,7 @@
 1592={ # Akunk
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
@@ -1346,7 +1346,7 @@
 1613={ # Shalat
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="base_metals"
 	civilization_value=18
 	barbarian_power=0
@@ -1376,7 +1376,7 @@
 1623={ # Arevik
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="base_metals"
 	civilization_value=18
 	barbarian_power=0
@@ -1391,7 +1391,7 @@
 1668={ # Vayots Dzor
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
@@ -1406,7 +1406,7 @@
 1669={ # Chahuk
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -1445,7 +1445,7 @@
 1736={ # Vagharshakert
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -1460,7 +1460,7 @@
 1744={ # Karana
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -1478,7 +1478,7 @@
 1747={ # Gymnias
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -1496,7 +1496,7 @@
 1751={ # Barantea
 	terrain="forest"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -1515,7 +1515,7 @@
 	terrain="hills"
 	culture="colchian"
 	religion="caucasian_religion"
-	trade_goods="cattle"
+	trade_goods="precious_metals"
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
@@ -1556,7 +1556,7 @@
 1762={ # Bagariza
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
@@ -1575,7 +1575,7 @@
 1763={ # Tareina
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -1593,7 +1593,7 @@
 1764={ # Bizana
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -1608,7 +1608,7 @@
 1765={ # Koubina
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -1623,7 +1623,7 @@
 1770={ # Satala
 	terrain="mountain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=16
 	barbarian_power=0
@@ -1641,7 +1641,7 @@
 4037={ # Kitharizon
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0

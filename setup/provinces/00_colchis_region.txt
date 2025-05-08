@@ -1065,7 +1065,7 @@
 1757={ # Kaballa
 	terrain="hills"
 	culture="colchian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0

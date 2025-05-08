@@ -19,7 +19,7 @@
 1512={ # Sagapeni
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=19
 	barbarian_power=0
@@ -55,7 +55,7 @@
 1514={ # Fakhrikah
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=21
 	barbarian_power=0
@@ -73,7 +73,7 @@
 1515={ # Gazaka
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -94,7 +94,7 @@
 1516={ # Gomarga
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=21
 	barbarian_power=0
@@ -112,7 +112,7 @@
 1517={ # Matiania
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -130,7 +130,7 @@
 1520={ # Bonab Qal'eh
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=21
 	barbarian_power=0
@@ -148,7 +148,7 @@
 1521={ # Akra-rudh
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
@@ -166,7 +166,7 @@
 1522={ # Godjer
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=19
 	barbarian_power=0
@@ -184,7 +184,7 @@
 1523={ # Phraaspa
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=19
 	barbarian_power=0
@@ -202,7 +202,7 @@
 1524={ # Qara Sheshen
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=21
 	barbarian_power=0
@@ -220,7 +220,7 @@
 1525={ # Gurqal'eh
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
@@ -238,7 +238,7 @@
 1526={ # Tauris
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=19
 	barbarian_power=0
@@ -383,7 +383,7 @@
 1565={ # Shahi Island
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -600,7 +600,7 @@
 1620={ # Aharawan
 	terrain="plains"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=21
 	barbarian_power=0
@@ -618,7 +618,7 @@
 1621={ # Arvandj
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=21
 	barbarian_power=0
@@ -636,7 +636,7 @@
 1622={ # Seqindel
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
@@ -654,7 +654,7 @@
 1624={ # Chaharla
 	terrain="mountain"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=17
 	barbarian_power=0
@@ -672,7 +672,7 @@
 1625={ # Kuh-i Bolagh
 	terrain="hills"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="horses"
 	civilization_value=21
 	barbarian_power=0
@@ -690,7 +690,7 @@
 1626={ # Mishkinshahr
 	terrain="plains"
 	culture="cadusian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=21
 	barbarian_power=0
@@ -886,7 +886,7 @@
 3387={ # Mediana
 	terrain="plains"
 	culture="cadusian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=26
 	barbarian_power=0

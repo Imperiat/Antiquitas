@@ -1738,7 +1738,7 @@
 5189={ # 
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1747,7 +1747,7 @@
 5190={ # 
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1756,7 +1756,7 @@
 5191={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1774,7 +1774,7 @@
 5193={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1783,7 +1783,7 @@
 5194={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1792,7 +1792,7 @@
 5195={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1819,7 +1819,7 @@
 5198={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1828,7 +1828,7 @@
 5199={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1927,7 +1927,7 @@
 5210={ # Bamni Volcano
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1936,7 +1936,7 @@
 5211={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1945,7 +1945,7 @@
 5212={ # Ararat Volcano
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1954,7 +1954,7 @@
 5213={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1963,7 +1963,7 @@
 5214={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1972,7 +1972,7 @@
 5215={ # 
 	terrain="impassable_terrain"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1999,7 +1999,7 @@
 5218={ # 
 	terrain="impassable_terrain"
 	culture="cadusian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2008,7 +2008,7 @@
 5219={ # 
 	terrain="impassable_terrain"
 	culture="median"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -2062,7 +2062,7 @@
 5225={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6805,7 +6805,7 @@
 7972={ # 
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6814,7 +6814,7 @@
 7973={ # 
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6877,7 +6877,7 @@
 7980={ # 
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6976,7 +6976,7 @@
 7997={ # 
 	terrain="impassable_terrain"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6994,7 +6994,7 @@
 8001={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7003,7 +7003,7 @@
 8002={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7012,7 +7012,7 @@
 8004={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7021,7 +7021,7 @@
 8005={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7030,7 +7030,7 @@
 8006={ # 
 	terrain="impassable_terrain"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

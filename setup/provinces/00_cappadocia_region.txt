@@ -420,7 +420,7 @@
 1849={ # Tonosa
 	terrain="forest"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wild_game"
 	civilization_value=18
 	barbarian_power=0
@@ -642,7 +642,7 @@
 1899={ # Malandara
 	terrain="hills"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -699,7 +699,7 @@
 1907={ # Agranai
 	terrain="hills"
 	culture="cappadocian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="precious_metals"
 	civilization_value=18
 	barbarian_power=0

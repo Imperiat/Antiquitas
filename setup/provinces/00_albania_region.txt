@@ -629,7 +629,7 @@
 1663={ # Vaykunik
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -674,7 +674,7 @@
 1666={ # Koght
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -938,7 +938,7 @@
 	tribesmen={
 		amount="3"
 	}
-	holy_site="omen_argimpasa"
+	#holy_site=omen_argimpasa #Moved to 1643 - Samukh
 }
 5875={ # Ashawm
 	terrain="forest"

@@ -1184,7 +1184,7 @@
 1856={ # Anzita
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -1199,7 +1199,7 @@
 1857={ # Hierapolis Sophenias
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -1367,7 +1367,7 @@
 8007={ # Halouras
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="vegetables"
 	civilization_value=29
 	barbarian_power=0
@@ -1379,7 +1379,7 @@
 8008={ # Palios
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -1391,7 +1391,7 @@
 8009={ # Balisbiga
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="leather"
 	civilization_value=29
 	barbarian_power=0
@@ -1412,7 +1412,7 @@
 8010={ # Koloua
 	terrain="hills"
 	culture="armenian"
-	religion="anahita_religion"
+	religion="anahitic_religion"
 	trade_goods="base_metals"
 	civilization_value=18
 	barbarian_power=0
