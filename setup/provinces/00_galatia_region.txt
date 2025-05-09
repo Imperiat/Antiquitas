@@ -1541,7 +1541,7 @@
 7961={ # Kagrai
 	terrain="hills"
 	culture="oroandian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=13
 	barbarian_power=0

@@ -536,7 +536,7 @@
 240={ # Chalcedon
 	terrain="plains"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -598,7 +598,7 @@
 243={ # Astakos
 	terrain="hills"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
@@ -638,8 +638,8 @@
 245={ # Kios
 	terrain="hills"
 	culture="thracian"
-	religion="greek_pantheon"
-	trade_goods="olive"
+	religion="roman_pantheon"
+	trade_goods="cloth"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
@@ -658,7 +658,7 @@
 	terrain="hills"
 	culture="thracian"
 	religion="shamanism"
-	trade_goods="cloth"
+	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
@@ -897,7 +897,7 @@
 1807={ # Amisos
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
@@ -955,7 +955,7 @@
 1812={ # Sinope
 	terrain="plains"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=26
 	barbarian_power=0

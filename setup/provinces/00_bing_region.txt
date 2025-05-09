@@ -701,7 +701,7 @@
 	terrain="farmland"
 	culture="baidi"
 	religion="hu_religions"
-	trade_goods="cattle"
+	trade_goods="base_metals"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
@@ -765,7 +765,7 @@
 	terrain="plains"
 	culture="baidi"
 	religion="hu_religions"
-	trade_goods="hemp"
+	trade_goods="cattle"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"

@@ -802,7 +802,7 @@
 4254={ # Callatis
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
@@ -966,7 +966,7 @@
 4516={ # Argamum
 	terrain="forest"
 	culture="getian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0

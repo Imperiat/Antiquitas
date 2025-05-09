@@ -37,7 +37,7 @@
 4024={ # Emona
 	terrain="mountain"
 	culture="carnian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
@@ -76,7 +76,7 @@
 4026={ # Longaticum
 	terrain="hills"
 	culture="carnian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
@@ -133,7 +133,7 @@
 4029={ # Celeia
 	terrain="mountain"
 	culture="carnian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=6
 	barbarian_power=0
@@ -151,7 +151,7 @@
 4030={ # Poetovio
 	terrain="hills"
 	culture="carnian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0

@@ -222,7 +222,7 @@
 	terrain="hills"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="stone"
+	trade_goods="gems"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -237,7 +237,7 @@
 	terrain="hills"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	trade_goods="base_metals"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -255,7 +255,7 @@
 	terrain="plains"
 	culture="aramaic"
 	religion="carthaginian_pantheon"
-	trade_goods="grain"
+	trade_goods="earthware"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -291,7 +291,7 @@
 	terrain="plains"
 	culture="aramaic"
 	religion="carthaginian_pantheon"
-	trade_goods="grain"
+	trade_goods="stone"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
@@ -370,7 +370,7 @@
 	terrain="hills"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="cattle"
+	trade_goods="stone"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -541,7 +541,7 @@
 	terrain="plains"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="grain"
+	trade_goods="honey"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
@@ -756,7 +756,7 @@
 	terrain="hills"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="honey"
+	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
@@ -807,7 +807,7 @@
 	terrain="plains"
 	culture="assyrian"
 	religion="mesopotamian_religion"
-	trade_goods="dates"
+	trade_goods="cloth"
 	civilization_value=36
 	barbarian_power=0
 	province_rank="city"

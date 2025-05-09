@@ -1,7 +1,7 @@
 ﻿1={ # Roma
 	terrain="farmland"
 	culture="roman"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cloth"
 	civilization_value=44
 	barbarian_power=0
@@ -26,7 +26,7 @@
 2={ # Tibur
 	terrain="farmland"
 	culture="latins"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=37
 	barbarian_power=0
@@ -44,7 +44,7 @@
 3={ # Lavinium
 	terrain="farmland"
 	culture="latins"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=37
 	barbarian_power=0
@@ -62,7 +62,7 @@
 4={ # Circeii
 	terrain="hills"
 	culture="latins"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -80,7 +80,7 @@
 5={ # Fundi
 	terrain="hills"
 	culture="volsci"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -98,7 +98,7 @@
 14={ # Pyrgi
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="hemp"
 	civilization_value=26
 	barbarian_power=0
@@ -117,7 +117,7 @@
 15={ # Ostia
 	terrain="farmland"
 	culture="roman"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="iron"
 	civilization_value=33
 	barbarian_power=0
@@ -139,7 +139,7 @@
 16={ # Veii
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=35
 	barbarian_power=0
@@ -163,7 +163,7 @@
 17={ # Tarquini
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="iron"
 	civilization_value=33
 	barbarian_power=0
@@ -184,7 +184,7 @@
 18={ # Nepete
 	terrain="hills"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -205,7 +205,7 @@
 19={ # Carsioli
 	terrain="hills"
 	culture="latins"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=24
 	barbarian_power=0
@@ -226,7 +226,7 @@
 20={ # Cures
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -244,7 +244,7 @@
 21={ # Visentium
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -265,7 +265,7 @@
 22={ # Volci
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=33
 	barbarian_power=0
@@ -288,7 +288,7 @@
 23={ # Narnia
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
@@ -309,7 +309,7 @@
 24={ # Peltuinum
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=24
 	barbarian_power=0
@@ -330,7 +330,7 @@
 25={ # Norba
 	terrain="hills"
 	culture="latins"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -348,7 +348,7 @@
 26={ # Fregellae
 	terrain="plains"
 	culture="volsci"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
@@ -363,7 +363,7 @@
 27={ # Fucens
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=24
 	barbarian_power=0
@@ -381,7 +381,7 @@
 28={ # Corfinium
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
@@ -402,7 +402,7 @@
 29={ # Histonium
 	terrain="farmland"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=13
 	barbarian_power=0
@@ -423,7 +423,7 @@
 30={ # Aufidena
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -444,7 +444,7 @@
 34={ # Iuvanum
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
@@ -465,7 +465,7 @@
 35={ # Buca
 	terrain="plains"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=16
 	barbarian_power=0
@@ -487,7 +487,7 @@
 48={ # Terventum
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -508,7 +508,7 @@
 49={ # Gerumum
 	terrain="farmland"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=13
 	barbarian_power=0
@@ -529,7 +529,7 @@
 102={ # Tuder
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=26
 	barbarian_power=0
@@ -550,7 +550,7 @@
 103={ # Plestia
 	terrain="forest"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="leather"
 	civilization_value=29
 	barbarian_power=0
@@ -574,7 +574,7 @@
 104={ # Amiternum
 	terrain="forest"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -595,7 +595,7 @@
 105={ # Trebula
 	terrain="forest"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -613,7 +613,7 @@
 106={ # Aternum
 	terrain="farmland"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=21
 	barbarian_power=0
@@ -635,7 +635,7 @@
 107={ # Interamnia
 	terrain="forest"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
@@ -656,7 +656,7 @@
 108={ # Matrinum
 	terrain="farmland"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=16
 	barbarian_power=0
@@ -674,7 +674,7 @@
 109={ # Asculum
 	terrain="plains"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=14
 	barbarian_power=0
@@ -695,7 +695,7 @@
 110={ # Septempeda
 	terrain="forest"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -716,7 +716,7 @@
 111={ # Picenum
 	terrain="farmland"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=21
 	barbarian_power=0
@@ -737,7 +737,7 @@
 112={ # Telamon
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
@@ -758,7 +758,7 @@
 113={ # Aurinia
 	terrain="hills"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="honey"
 	civilization_value=24
 	barbarian_power=0
@@ -779,7 +779,7 @@
 114={ # Vetulonia
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
@@ -803,7 +803,7 @@
 115={ # Rusellae
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="earthware"
 	civilization_value=26
 	barbarian_power=0
@@ -824,7 +824,7 @@
 116={ # Clusium
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=33
 	barbarian_power=0
@@ -845,7 +845,7 @@
 117={ # Ancona
 	terrain="farmland"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="dye"
 	civilization_value=33
 	barbarian_power=0
@@ -870,7 +870,7 @@
 118={ # Cingulum
 	terrain="hills"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=24
 	barbarian_power=0
@@ -891,7 +891,7 @@
 119={ # Sentinum
 	terrain="hills"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -912,7 +912,7 @@
 120={ # Perusia
 	terrain="hills"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -933,7 +933,7 @@
 121={ # Sena Gallica
 	terrain="plains"
 	culture="lepontic"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=11
 	barbarian_power=0
@@ -954,7 +954,7 @@
 122={ # Urbinum
 	terrain="hills"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -972,7 +972,7 @@
 123={ # Iguvium
 	terrain="hills"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=29
 	barbarian_power=0
@@ -996,7 +996,7 @@
 124={ # Cortona
 	terrain="hills"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=29
 	barbarian_power=0
@@ -1020,7 +1020,7 @@
 125={ # Ad Novas
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=28
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 126={ # Populonia
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=33
 	barbarian_power=0
@@ -1065,7 +1065,7 @@
 127={ # Ilva
 	terrain="hills"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -1086,7 +1086,7 @@
 128={ # Vada Volaterrana
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="pearls"
 	civilization_value=26
 	barbarian_power=0
@@ -1108,7 +1108,7 @@
 129={ # Volaterrae
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=26
 	barbarian_power=0
@@ -1129,7 +1129,7 @@
 130={ # Sena Iulia
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
@@ -1150,7 +1150,7 @@
 131={ # Arretium
 	terrain="hills"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -1172,7 +1172,7 @@
 132={ # Sarsina
 	terrain="hills"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1193,7 +1193,7 @@
 133={ # Ariminum
 	terrain="farmland"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=13
 	barbarian_power=0
@@ -1208,7 +1208,7 @@
 134={ # Florentia
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
@@ -1229,7 +1229,7 @@
 135={ # Valvata
 	terrain="plains"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=26
 	barbarian_power=0
@@ -1250,7 +1250,7 @@
 136={ # Pisae
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=33
 	barbarian_power=0
@@ -1272,7 +1272,7 @@
 140={ # Faesulae
 	terrain="mountain"
 	culture="umbrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="honey"
 	civilization_value=7
 	barbarian_power=0
@@ -1293,7 +1293,7 @@
 148={ # ForumPopilii
 	terrain="hills"
 	culture="lepontic"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -1314,7 +1314,7 @@
 1712={ # Antinum
 	terrain="hills"
 	culture="samnite"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
@@ -1783,7 +1783,7 @@
 3504={ # Phausiane
 	terrain="plains"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=33
 	barbarian_power=0
@@ -1802,7 +1802,7 @@
 3505={ # Tibula
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1820,7 +1820,7 @@
 3506={ # Longones
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
@@ -1838,7 +1838,7 @@
 3507={ # Rhoubra
 	terrain="plains"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -1859,7 +1859,7 @@
 3508={ # Phikaria
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=0
 	barbarian_power=0
@@ -1878,7 +1878,7 @@
 3509={ # Pauka
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=0
 	barbarian_power=0
@@ -1896,7 +1896,7 @@
 3510={ # Saone
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
@@ -1917,7 +1917,7 @@
 3511={ # Alouka
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1936,7 +1936,7 @@
 3512={ # Rhopikon
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=0
 	barbarian_power=0
@@ -1957,7 +1957,7 @@
 3513={ # Kanelate
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=24
 	barbarian_power=0
@@ -1978,7 +1978,7 @@
 3514={ # Ouagon
 	terrain="hills"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -1999,7 +1999,7 @@
 3515={ # Aleria
 	terrain="farmland"
 	culture="etruscan"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="honey"
 	civilization_value=39
 	barbarian_power=0
@@ -2021,7 +2021,7 @@
 3516={ # Sermigion
 	terrain="mountain"
 	culture="corsian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0

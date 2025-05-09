@@ -1,7 +1,7 @@
 ﻿3537={ # Maurienna
 	terrain="mountain"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=7
 	barbarian_power=0
@@ -16,7 +16,7 @@
 3538={ # Voludnia
 	terrain="mountain"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=7
 	barbarian_power=0
@@ -37,7 +37,7 @@
 3539={ # Labisco
 	terrain="hills"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -55,7 +55,7 @@
 3608={ # Mantala
 	terrain="mountain"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=7
 	barbarian_power=0
@@ -191,7 +191,7 @@
 3616={ # Curia
 	terrain="mountain"
 	culture="lepontic"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
@@ -209,7 +209,7 @@
 3617={ # Clavenna
 	terrain="mountain"
 	culture="lepontic"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=7
 	barbarian_power=0
@@ -230,7 +230,7 @@
 3618={ # Summus Lacus
 	terrain="mountain"
 	culture="lepontic"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=7
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3619={ # Clunia Raetia
 	terrain="mountain"
 	culture="lepontic"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
@@ -278,7 +278,7 @@
 3621={ # Venetonimagus
 	terrain="hills"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -311,7 +311,7 @@
 3623={ # Boutae
 	terrain="hills"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3624={ # Genava
 	terrain="mountain"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="iron"
 	civilization_value=7
 	barbarian_power=0
@@ -542,7 +542,7 @@
 3636={ # Brigantium
 	terrain="hills"
 	culture="vindelician"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=9
 	barbarian_power=0
@@ -617,7 +617,7 @@
 3640={ # Damasia
 	terrain="forest"
 	culture="vindelician"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -635,7 +635,7 @@
 3641={ # Arces Covelicae
 	terrain="plains"
 	culture="vindelician"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=11
 	barbarian_power=0
@@ -833,7 +833,7 @@
 3654={ # Foetes
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
@@ -851,7 +851,7 @@
 3655={ # Tiralia
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=7
 	barbarian_power=0
@@ -872,7 +872,7 @@
 3656={ # Alpis Superior
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0
@@ -893,7 +893,7 @@
 3657={ # Alpis Inferior
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=7
 	barbarian_power=0
@@ -911,7 +911,7 @@
 3658={ # Statio Maiensis
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=7
 	barbarian_power=0
@@ -932,7 +932,7 @@
 3659={ # Vadena
 	terrain="hills"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
@@ -953,7 +953,7 @@
 3660={ # Salurnis
 	terrain="hills"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -971,7 +971,7 @@
 3663={ # Sublavione
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=7
 	barbarian_power=0
@@ -992,7 +992,7 @@
 3664={ # Sebatum
 	terrain="mountain"
 	culture="noric"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=7
 	barbarian_power=0
@@ -1010,7 +1010,7 @@
 3665={ # Vipitenum
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0
@@ -1025,7 +1025,7 @@
 3666={ # Mastiacum
 	terrain="mountain"
 	culture="rhaetian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=7
 	barbarian_power=0

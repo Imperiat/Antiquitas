@@ -351,7 +351,7 @@
 4549={ # Pantikapaion
 	terrain="forest"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=26
 	barbarian_power=0

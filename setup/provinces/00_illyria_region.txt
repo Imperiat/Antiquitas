@@ -16,7 +16,7 @@
 4018={ # Tergeste
 	terrain="plains"
 	culture="histrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -34,7 +34,7 @@
 4019={ # Parentium
 	terrain="farmland"
 	culture="histrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
@@ -55,7 +55,7 @@
 4020={ # Pola
 	terrain="farmland"
 	culture="histrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=12
 	barbarian_power=0
@@ -75,7 +75,7 @@
 4021={ # Flanona
 	terrain="forest"
 	culture="histrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=8
 	barbarian_power=0
@@ -94,7 +94,7 @@
 4022={ # Piquentum
 	terrain="hills"
 	culture="histrian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=8
 	barbarian_power=0
@@ -115,7 +115,7 @@
 4023={ # Tarsatica
 	terrain="hills"
 	culture="iapodian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cloth"
 	civilization_value=8
 	barbarian_power=0
@@ -136,7 +136,7 @@
 4032={ # Curicum
 	terrain="hills"
 	culture="iapodian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=8
 	barbarian_power=0
@@ -157,7 +157,7 @@
 4033={ # Senia
 	terrain="hills"
 	culture="iapodian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
@@ -178,7 +178,7 @@
 4034={ # Apsaros
 	terrain="hills"
 	culture="italiotian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -193,7 +193,7 @@
 4035={ # Ortopla
 	terrain="hills"
 	culture="iapodian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=8
 	barbarian_power=0
@@ -371,7 +371,7 @@
 4049={ # Vegium
 	terrain="hills"
 	culture="liburnian_culture"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="olive"
 	civilization_value=8
 	barbarian_power=0
@@ -419,7 +419,7 @@
 4052={ # Kissa
 	terrain="plains"
 	culture="liburnian_culture"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -440,7 +440,7 @@
 4053={ # Ainona
 	terrain="farmland"
 	culture="liburnian_culture"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
@@ -462,7 +462,7 @@
 4054={ # Idassa
 	terrain="plains"
 	culture="liburnian_culture"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=15
 	barbarian_power=0
@@ -481,7 +481,7 @@
 4055={ # Argyruntum
 	terrain="hills"
 	culture="liburnian_culture"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0

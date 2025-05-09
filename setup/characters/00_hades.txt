@@ -5,7 +5,7 @@
 		family = c:ROM.fam:Romulii
 		birth_date=1.1.1
 		death_date=38.1.1
-		religion="roman_pantheon"
+		religion="italic_pantheon"
 		culture="roman"
 		add_trait="founder"
 		add_trait="ambitious"
@@ -16,7 +16,7 @@
 		family = c:ROM.fam:Romulii
 		birth_date=1.4.1
 		death_date=82.1.1
-		religion="roman_pantheon"
+		religion="italic_pantheon"
 		culture="samnite"
 		dna="FegV6MZvxm/4z/jPAn0CfQKJAokCmAKYAnICcgKBAoECmAKYAoICggKPAo8CggKCAnUCdQKKAooCdgJ2BMQExAKKAooCbwJvAmkCaQTjBOMCdQJ1AoUChQKYApgCfAJ8A44DjgKHAocChAKEAEgASAKCAoICagJqAnECcQKGAoYCggKCAnMCcwKHAocCcAJwAWQBZAJ2AnYCewJ7Am8CbwJ9An0CggKCAoECgQJxAnEBVQFVAmsCawKAAoABUQFRAm8CbwKDAoMCgwKDApECkQKEAoQCjAKMAmsCawJvAm8CigKKAmsCawJgAmAAvwC/ALoAugKAAoAAogCiADkAOQFpAWkAdQB1AEYARgAGAAYAqgCqABwAHAB/AH8AVgBWAVQBVAFcAVwBbAFsAPAA8AD1APUAbwBvAr8CvwB/AH8BBAEEAvMC8wC1ALUAlgCWAJoAmgT+BP4AnACcAzkDOQCTAJMDSwNLADQANAEaARoF6gXqAH8AfwPVA9UBuwH8APQA9AnbCR8BtQG1AEgASAAAAAAAAAAAAAAAAA=="
 	}
@@ -25,7 +25,7 @@
 		family = c:ROM.fam:Romulii
 		birth_date=63.4.1
 		death_date=114.1.1
-		religion="roman_pantheon"
+		religion="italic_pantheon"
 		culture="samnite"
 		dna="WmZaZsR6xHquka6RAncCdwOgA6ACkgKSAVUBVQKNAo0CkgKSApQClAJxAnEClQKVAnYCdgJ6AnoCeAJ4AnUCdQTGBMYCjQKNApACkATbBNsCfQJ9Ao0CjQJrAmsChgKGAnwCfAJxAnECcQJxA6kDqQOaA5oCZwJnApACkAJ5AnkCcgJyAocChwAyADICmQKZAn0CfQKDAoMCcAJwAo8CjwA+AD4CbwJvAnoCegJxAnECeQJ5AmkCaQKEAoQCeAJ4A6YDpgKEAoQCdgJ2ApgCmAKGAoYCjwKPApICkgJ7AnsCkQKRAn4CfgIWAhYAjQCNASYBJgBxAHEAMwAzADcANwDFAMUBTwFPACsAKwC6ALoAywDLAGwAbAB/AH8CfwJ/AM8AzwFUAVQAGAAYABoAGgLVAtUBKwErATYBNgB/AH8AMgAyAogCiAA3ADcAcABwApwCnALQAtAAwADAAMsAywCpAKkAXQBdAxMDEwNBA0EA8wDzAH8AfwT/BP8BpAGkAGEAYQlnCWcBSgFKAKYApgAAAAAAAAAAAAAAAA=="
 	}
@@ -34,7 +34,7 @@
 		family = c:ROM.fam:Romulii
 		birth_date=92.4.1
 		death_date=138.1.1
-		religion="roman_pantheon"
+		religion="italic_pantheon"
 		culture="samnite"
 		dna="GPEY8cF5wXnDqsOqAn8CfwKEAoQCfwJ/BLwEvAKDAoMCdQJ1AmgCaAKOAo4BXgFeAnoCegJqAmoCaAJoAnACcAJpAmkDpQOlAowCjAFcAVwCdAJ0ApUClQObA5sClgKWAmoCagOyA7ICiwKLAnkCeQKLAosBVQFVAmcCZwJ+An4ChgKGAV0BXQJqAmoCbAJsAngCeAJ7AnsCdwJ3AVcBVwKWApYCkwKTAmkCaQJwAnACjQKNAokCiQJrAmsCkwKTAokCiQJ9An0ClwKXAnMCcwKFAoUCjwKPApUClQKOAo4CigKKAnwCfALaAtoA3gDeAV8BXwAZABkBYQFhAW4BbgEdAR0AgwCDAuEC4QCeAJ4DIAMgAE8ATwB/AH8A/wD/AUkBSQBSAFICfwJ/AWsBawLjAuMCWQJZAN8A3wB/AH8C4wLjAT4BPgEZARkA9AD0AvoC+gNYA1gAaQBpAxEDEQBdAF0BJQElAzkDOQDnAOcHbgduAH8AfwQ2BDYBlQGVAMgAyAlWCVYBMgEyAC8ALwAAAAAAAAAAAAAAAA=="
 	}		
@@ -47,7 +47,7 @@
 		birth_date=111.4.1
 		death_date=152.1.1
 		culture="macedonian"
-		religion="greek_pantheon"
+		religion="roman_pantheon"
 		no_stats=yes
 		add_martial=8
 		add_charisma=8
@@ -104,7 +104,7 @@
 		birth_date=83.1.1
 		death_date=127.1.1
 		culture="doric"
-		religion="greek_pantheon"
+		religion="roman_pantheon"
 		no_stats=yes
 		add_martial=11
 		add_charisma=8

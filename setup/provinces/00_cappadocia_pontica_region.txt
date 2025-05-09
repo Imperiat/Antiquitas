@@ -101,7 +101,7 @@
 1734={ # Trapezous
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=29
 	barbarian_power=0
@@ -175,7 +175,7 @@
 	tribesmen={
 		amount="3"
 	}
-	holy_site="omen_nane"
+	holy_site=omen_nane #Removed duplicate in Ibora
 }
 1769={ # Sabos
 	terrain="hills"
@@ -458,7 +458,6 @@
 	tribesmen={
 		amount="3"
 	}
-	holy_site="omen_nane"
 }
 1792={ # Kabeira
 	terrain="hills"
@@ -484,7 +483,7 @@
 1793={ # Side Pontike
 	terrain="forest"
 	culture="greco_pontic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0

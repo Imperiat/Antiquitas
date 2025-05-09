@@ -22,7 +22,7 @@
 220={ # Oinoe Ikarias
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -61,7 +61,7 @@
 252={ # Kyzikos
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=29
 	barbarian_power=0
@@ -121,7 +121,7 @@
 255={ # Parium
 	terrain="forest"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=24
 	barbarian_power=0
@@ -140,7 +140,7 @@
 256={ # Lampsakos
 	terrain="plains"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=26
 	barbarian_power=0
@@ -158,7 +158,7 @@
 257={ # Ilion
 	terrain="plains"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=26
 	barbarian_power=0
@@ -179,7 +179,7 @@
 258={ # Polymedion
 	terrain="plains"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=26
 	barbarian_power=0
@@ -197,7 +197,7 @@
 259={ # Assos
 	terrain="plains"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -233,7 +233,7 @@
 261={ # Abydos
 	terrain="plains"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=26
 	barbarian_power=0
@@ -305,7 +305,7 @@
 266={ # Ialysos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=33
 	barbarian_power=0
@@ -460,7 +460,7 @@
 275={ # Iasos
 	terrain="plains"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -520,7 +520,7 @@
 279={ # Elaea
 	terrain="plains"
 	culture="aeolian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=26
 	barbarian_power=0
@@ -539,7 +539,7 @@
 280={ # Poseidion
 	terrain="hills"
 	culture="eteocretan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -576,7 +576,7 @@
 282={ # Atarna
 	terrain="plains"
 	culture="troan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=21
 	barbarian_power=0
@@ -594,7 +594,7 @@
 283={ # Mytilene
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=24
 	barbarian_power=0
@@ -613,7 +613,7 @@
 284={ # Eresos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="dye"
 	civilization_value=19
 	barbarian_power=0
@@ -628,7 +628,7 @@
 285={ # Kyme
 	terrain="plains"
 	culture="aeolian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=26
 	barbarian_power=0
@@ -646,7 +646,7 @@
 286={ # Chios
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
@@ -665,7 +665,7 @@
 287={ # Smyrna
 	terrain="hills"
 	culture="aeolian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="papyrus"
 	civilization_value=29
 	barbarian_power=0
@@ -684,7 +684,7 @@
 288={ # Tecybeleneos
 	terrain="hills"
 	culture="aeolian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -702,7 +702,7 @@
 289={ # Erythrai
 	terrain="hills"
 	culture="aeolian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -720,7 +720,7 @@
 290={ # Ephesos
 	terrain="hills"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="papyrus"
 	civilization_value=41
 	barbarian_power=0
@@ -743,7 +743,7 @@
 291={ # Colophon
 	terrain="hills"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -1024,7 +1024,7 @@
 310={ # Leros
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1102,7 +1102,7 @@
 1653={ # Kalymnos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1141,7 +1141,7 @@
 1830={ # Lindos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=24
 	barbarian_power=0
@@ -1177,7 +1177,7 @@
 1884={ # Syme
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1402,7 +1402,7 @@
 1970={ # Kos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="silk"
 	civilization_value=34
 	barbarian_power=0
@@ -1420,7 +1420,7 @@
 1972={ # Priene
 	terrain="plains"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
@@ -1442,7 +1442,7 @@
 1973={ # Miletos
 	terrain="farmland"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=28
 	barbarian_power=0
@@ -1464,7 +1464,7 @@
 1974={ # Samos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=29
 	barbarian_power=0
@@ -1519,7 +1519,7 @@
 1981={ # Halikarnassos
 	terrain="hills"
 	culture="carian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=39
 	barbarian_power=0
@@ -1574,7 +1574,7 @@
 1987={ # Knidos
 	terrain="hills"
 	culture="ionian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="dye"
 	civilization_value=29
 	barbarian_power=0
@@ -1612,7 +1612,7 @@
 1996={ # Astypalaia
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=24
 	barbarian_power=0
@@ -1631,7 +1631,7 @@
 7908={ # Antigoneia Kyzikene
 	terrain="hills"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1667,7 +1667,7 @@
 7935={ # Bargylia
 	terrain="hills"
 	culture="carian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="dye"
 	civilization_value=29
 	barbarian_power=0
@@ -1682,7 +1682,7 @@
 7936={ # Nisyros
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=24
 	barbarian_power=0
@@ -1700,7 +1700,7 @@
 7937={ # Telos
 	terrain="hills"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -1760,7 +1760,7 @@
 8015={ # Kameiros
 	terrain="mountain"
 	culture="eastern_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=22
 	barbarian_power=0

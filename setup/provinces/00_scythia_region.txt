@@ -65,7 +65,7 @@
 4525={ # Tyras
 	terrain="marsh"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=22
 	barbarian_power=0
@@ -120,7 +120,7 @@
 4529={ # Olbia
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=26
 	barbarian_power=0

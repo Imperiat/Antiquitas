@@ -92,7 +92,7 @@
 164={ # Phaselis
 	terrain="hills"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="citrus"
 	civilization_value=29
 	barbarian_power=0
@@ -108,7 +108,7 @@
 165={ # OlbiaPamphylias
 	terrain="plains"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=26
 	barbarian_power=0
@@ -123,7 +123,7 @@
 166={ # Perge
 	terrain="plains"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=31
 	barbarian_power=0
@@ -141,7 +141,7 @@
 167={ # Pednelissos
 	terrain="hills"
 	culture="pisidian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=18
 	barbarian_power=0
@@ -159,7 +159,7 @@
 168={ # Aspendos
 	terrain="plains"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0
@@ -216,7 +216,7 @@
 330={ # Karpasia
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="opium"
 	civilization_value=24
 	barbarian_power=0
@@ -234,7 +234,7 @@
 331={ # Salamis Kyprias
 	terrain="plains"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=31
 	barbarian_power=0
@@ -272,7 +272,7 @@
 333={ # Soloi
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
@@ -287,7 +287,7 @@
 334={ # Paphos
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cedar"
 	civilization_value=29
 	barbarian_power=0
@@ -307,7 +307,7 @@
 335={ # Kyrenia
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -326,7 +326,7 @@
 336={ # Tamassos
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -513,7 +513,7 @@
 1879={ # Aigaiai
 	terrain="plains"
 	culture="cilician"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -606,7 +606,7 @@
 1885={ # Selge
 	terrain="hills"
 	culture="pisidian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="incense"
 	civilization_value=18
 	barbarian_power=0
@@ -788,7 +788,7 @@
 1905={ # Korakesion
 	terrain="hills"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=26
 	barbarian_power=0
@@ -818,7 +818,7 @@
 1908={ # Kolybrassos
 	terrain="hills"
 	culture="pisidian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="honey"
 	civilization_value=13
 	barbarian_power=0
@@ -836,7 +836,7 @@
 1910={ # Side
 	terrain="plains"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="dye"
 	civilization_value=31
 	barbarian_power=0
@@ -858,7 +858,7 @@
 1911={ # Sillyon
 	terrain="plains"
 	culture="pamphylian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=29
 	barbarian_power=0
@@ -891,7 +891,7 @@
 1921={ # Amblada
 	terrain="hills"
 	culture="oroandian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=13
 	barbarian_power=0
@@ -1260,7 +1260,7 @@
 6431={ # Marion
 	terrain="hills"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="base_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -1279,7 +1279,7 @@
 6433={ # Chythroi
 	terrain="plains"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=26
 	barbarian_power=0
@@ -1435,7 +1435,7 @@
 7958={ # Kotenna
 	terrain="hills"
 	culture="pisidian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cedar"
 	civilization_value=13
 	barbarian_power=0
@@ -1519,7 +1519,7 @@
 7990={ # Kourion
 	terrain="forest"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cedar"
 	civilization_value=24
 	barbarian_power=0
@@ -1534,7 +1534,7 @@
 7991={ # Idalion
 	terrain="plains"
 	culture="cypriot"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0

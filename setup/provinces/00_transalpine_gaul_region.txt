@@ -76,7 +76,7 @@
 2256={ # Narbo
 	terrain="plains"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=11
 	barbarian_power=0
@@ -116,7 +116,7 @@
 2258={ # Usuerva
 	terrain="plains"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=11
 	barbarian_power=0
@@ -134,7 +134,7 @@
 2259={ # Baeterrae
 	terrain="plains"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=11
 	barbarian_power=0
@@ -149,7 +149,7 @@
 2260={ # Agatha
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0
@@ -164,7 +164,7 @@
 2261={ # Luteva
 	terrain="forest"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -383,7 +383,7 @@
 2297={ # Cebennia
 	terrain="forest"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -461,7 +461,7 @@
 2304={ # Vienna
 	terrain="plains"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=11
 	barbarian_power=0
@@ -479,7 +479,7 @@
 2305={ # Allobrogia
 	terrain="plains"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -509,7 +509,7 @@
 2307={ # Morginnum
 	terrain="plains"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=11
 	barbarian_power=0
@@ -524,7 +524,7 @@
 2308={ # Valentia
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="vegetables"
 	civilization_value=11
 	barbarian_power=0
@@ -593,7 +593,7 @@
 2312={ # Andusia
 	terrain="hills"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -611,7 +611,7 @@
 2313={ # Sextantio
 	terrain="farmland"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=13
 	barbarian_power=0
@@ -633,7 +633,7 @@
 2314={ # Nemausus
 	terrain="plains"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0
@@ -648,7 +648,7 @@
 2315={ # Briginnum
 	terrain="plains"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -663,7 +663,7 @@
 2316={ # Staturnae
 	terrain="hills"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -684,7 +684,7 @@
 2317={ # Ucetia
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=11
 	barbarian_power=0
@@ -702,7 +702,7 @@
 2318={ # Rhodanousia
 	terrain="plains"
 	culture="volcae"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=11
 	barbarian_power=0
@@ -717,7 +717,7 @@
 2319={ # Arelatis
 	terrain="farmland"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="grain"
 	civilization_value=13
 	barbarian_power=0
@@ -782,7 +782,7 @@
 2323={ # Pisavi
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="salt"
 	civilization_value=11
 	barbarian_power=0
@@ -818,7 +818,7 @@
 2325={ # Massalia
 	terrain="plains"
 	culture="massalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0
@@ -897,7 +897,7 @@
 3517={ # Tauroention
 	terrain="forest"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -916,7 +916,7 @@
 3518={ # Griselica
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=11
 	barbarian_power=0
@@ -958,7 +958,7 @@
 3520={ # Segustero
 	terrain="forest"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="horses"
 	civilization_value=9
 	barbarian_power=0
@@ -979,7 +979,7 @@
 3521={ # Tegulata
 	terrain="forest"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
@@ -994,7 +994,7 @@
 3522={ # Sanitium
 	terrain="hills"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
@@ -1012,7 +1012,7 @@
 3523={ # Verunia
 	terrain="plains"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=11
 	barbarian_power=0
@@ -1030,7 +1030,7 @@
 3524={ # Vappincum
 	terrain="forest"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -1048,7 +1048,7 @@
 3525={ # Vocontiorum
 	terrain="hills"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="leather"
 	civilization_value=9
 	barbarian_power=0
@@ -1066,7 +1066,7 @@
 3526={ # Darentiaca
 	terrain="hills"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="stone"
 	civilization_value=9
 	barbarian_power=0
@@ -1126,7 +1126,7 @@
 3529={ # Rigomagus
 	terrain="forest"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
 	barbarian_power=0
@@ -1147,7 +1147,7 @@
 3530={ # Mustiae Calmes
 	terrain="mountain"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="base_metals"
 	civilization_value=7
 	barbarian_power=0
@@ -1168,7 +1168,7 @@
 3531={ # Cularo
 	terrain="mountain"
 	culture="allobrogian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=7
 	barbarian_power=0
@@ -1183,7 +1183,7 @@
 3532={ # Catorissium
 	terrain="mountain"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=7
 	barbarian_power=0
@@ -1201,7 +1201,7 @@
 3533={ # Murissa
 	terrain="hills"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="leather"
 	civilization_value=9
 	barbarian_power=0
@@ -1219,7 +1219,7 @@
 3534={ # Scingomagus
 	terrain="mountain"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="iron"
 	civilization_value=7
 	barbarian_power=0
@@ -1234,7 +1234,7 @@
 3536={ # Eburodunum
 	terrain="mountain"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="marble"
 	civilization_value=7
 	barbarian_power=0
@@ -1249,7 +1249,7 @@
 3540={ # Pergantion
 	terrain="forest"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -1267,7 +1267,7 @@
 3541={ # Agathom
 	terrain="forest"
 	culture="ligurian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="fish"
 	civilization_value=9
 	barbarian_power=0
@@ -1288,7 +1288,7 @@
 3542={ # Matavo
 	terrain="forest"
 	culture="salluvian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wine"
 	civilization_value=9
 	barbarian_power=0
@@ -1306,7 +1306,7 @@
 3543={ # Antipolis
 	terrain="plains"
 	culture="massalian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="wood"
 	civilization_value=31
 	barbarian_power=0
@@ -1322,7 +1322,7 @@
 3544={ # Navelis
 	terrain="plains"
 	culture="ligurian"
-	religion="roman_pantheon"
+	religion="italic_pantheon"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0

@@ -5589,26 +5589,53 @@ get_olympics_count_suffix = {
 
 festival_type = {
 	type = country
-	
+
 	text = {
 		localization_key = saturnalia
-		trigger = { 
+		trigger = {
 			country_culture_group = latin
 			religion = roman_pantheon
 		}
 	}
-	
+
 	text = {
 		localization_key = pyanepsia
-		trigger = { 
+		trigger = {
 			country_culture_group = hellenic
-			religion = greek_pantheon
+			religion = roman_pantheon
 		}
 	}
-	
+
+	text = {
+		localization_key = marzeah
+		trigger = {
+			has_deity_in_pantheon = deity:omen_melqart
+			NOT = { religion = roman_pantheon }
+		}
+	}
+
+	text = {
+		localization_key = adonia
+		trigger = {
+			has_deity_in_pantheon = deity:omen_astarte
+			NOT = { has_deity_in_pantheon = deity:omen_melqart }
+			NOT = { religion = roman_pantheon }
+		}
+	}
+
+	text = {
+		localization_key = mayumas
+		trigger = {
+			has_deity_in_pantheon = deity:omen_atargatis
+			NOT = { has_deity_in_pantheon = deity:omen_astarte }
+			NOT = { has_deity_in_pantheon = deity:omen_melqart }
+			NOT = { religion = roman_pantheon }
+		}
+	}
+
 	text = {
 		localization_key = festival_key
-		trigger = { 
+		trigger = {
 			always = yes
 		}
 	}

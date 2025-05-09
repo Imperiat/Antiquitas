@@ -1,7 +1,7 @@
 ﻿356={ # Thasos
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=24
 	barbarian_power=0
@@ -63,7 +63,7 @@
 366={ # Stageira
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -108,7 +108,7 @@
 373={ # Thermae
 	terrain="hills"
 	culture="western_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=36
 	barbarian_power=0
@@ -149,7 +149,7 @@
 376={ # Poteidaia
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -169,7 +169,7 @@
 377={ # Akanthos
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
@@ -189,7 +189,7 @@
 378={ # Olynthos
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -210,7 +210,7 @@
 379={ # Pella
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=47
 	barbarian_power=0
@@ -225,7 +225,7 @@
 380={ # Dion
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=36
 	barbarian_power=0
@@ -242,7 +242,7 @@
 381={ # Beroia
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=26
 	barbarian_power=0
@@ -257,7 +257,7 @@
 382={ # Edessa
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=28
 	barbarian_power=0
@@ -332,7 +332,7 @@
 388={ # Gonnoi
 	terrain="hills"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=24
 	barbarian_power=0
@@ -348,7 +348,7 @@
 389={ # Larissa
 	terrain="farmland"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=37
 	barbarian_power=0
@@ -374,7 +374,7 @@
 390={ # Pherai
 	terrain="farmland"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=37
 	barbarian_power=0
@@ -390,7 +390,7 @@
 391={ # Pagasai
 	terrain="hills"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -411,7 +411,7 @@
 392={ # Kasthaneia
 	terrain="hills"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -426,7 +426,7 @@
 393={ # Pelagonia
 	terrain="forest"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -441,7 +441,7 @@
 394={ # Pharsalos
 	terrain="farmland"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=40
 	barbarian_power=0
@@ -459,7 +459,7 @@
 395={ # Pialeia
 	terrain="farmland"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=38
 	barbarian_power=0
@@ -474,7 +474,7 @@
 396={ # Pelinna
 	terrain="plains"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=26
 	barbarian_power=0
@@ -509,7 +509,7 @@
 398={ # Nea Halos
 	terrain="marsh"
 	culture="achaean"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=22
 	barbarian_power=0
@@ -527,7 +527,7 @@
 400={ # Elimia
 	terrain="farmland"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=28
 	barbarian_power=0
@@ -542,7 +542,7 @@
 404={ # Olooson
 	terrain="plains"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="honey"
 	civilization_value=26
 	barbarian_power=0
@@ -560,7 +560,7 @@
 405={ # Stuberra
 	terrain="forest"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -590,7 +590,7 @@
 411={ # Herakleia Lynkestis
 	terrain="forest"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -650,7 +650,7 @@
 420={ # Peparethos
 	terrain="hills"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -677,7 +677,7 @@
 428={ # Aigeai
 	terrain="plains"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="rice"
 	civilization_value=26
 	barbarian_power=0
@@ -796,7 +796,7 @@
 3125={ # Keletron
 	terrain="mountain"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
@@ -811,7 +811,7 @@
 3175={ # Eratyra
 	terrain="hills"
 	culture="epirote"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -972,7 +972,7 @@
 6399={ # Methone
 	terrain="plains"
 	culture="western_ionic"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
@@ -994,7 +994,7 @@
 8023={ # TempePass
 	terrain="mountain"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1003,7 +1003,7 @@
 8024={ # BoloustanaPass
 	terrain="mountain"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -1012,7 +1012,7 @@
 8025={ # PetraPass
 	terrain="mountain"
 	culture="thessalian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0

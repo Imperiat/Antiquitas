@@ -1,7 +1,7 @@
 ﻿270={ # Lemnos
 	terrain="hills"
 	culture="attican"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
@@ -21,7 +21,7 @@
 297={ # Imbros
 	terrain="hills"
 	culture="attican"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=19
 	barbarian_power=0
@@ -91,7 +91,7 @@
 345={ # Selymbria
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -106,7 +106,7 @@
 346={ # Perinthos
 	terrain="forest"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -158,7 +158,7 @@
 349={ # Sestos
 	terrain="farmland"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
@@ -176,7 +176,7 @@
 350={ # Lysimacheia
 	terrain="plains"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=37
 	barbarian_power=0
@@ -249,7 +249,7 @@
 357={ # Maroneia
 	terrain="farmland"
 	culture="odrysi"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
@@ -365,7 +365,7 @@
 482={ # ApolloniaPontike
 	terrain="plains"
 	culture="bosporan"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
@@ -614,7 +614,7 @@
 1453={ # Byzantion
 	terrain="farmland"
 	culture="thracian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=29
 	barbarian_power=0
@@ -636,7 +636,7 @@
 1774={ # Samothrake
 	terrain="hills"
 	culture="macedonian"
-	religion="greek_pantheon"
+	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=24
 	barbarian_power=0

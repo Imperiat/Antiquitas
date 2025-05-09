@@ -4,7 +4,7 @@
 		first_name="Lucius Tarquinius Priscus" 
 		family = c:ROM.fam:Romulii
 		birth_date=116.4.1
-		religion="roman_pantheon"
+		religion="italic_pantheon"
 		culture="etruscan"
 		no_stats=yes
 		add_martial=8
@@ -22,7 +22,7 @@
 		family = c:ROM.fam:Romulii
 		birth_date=150.4.1
 		father="char:4"
-		religion="roman_pantheon"
+		religion="italic_pantheon"
 		culture="etruscan"
 		dna="GPEY8cF5wXnDqsOqAn8CfwKEAoQCfwJ/BLwEvAKDAoMCdQJ1AmgCaAKOAo4BXgFeAnoCegJqAmoCaAJoAnACcAJpAmkDpQOlAowCjAFcAVwCdAJ0ApUClQObA5sClgKWAmoCagOyA7ICiwKLAnkCeQKLAosBVQFVAmcCZwJ+An4ChgKGAV0BXQJqAmoCbAJsAngCeAJ7AnsCdwJ3AVcBVwKWApYCkwKTAmkCaQJwAnACjQKNAokCiQJrAmsCkwKTAokCiQJ9An0ClwKXAnMCcwKFAoUCjwKPApUClQKOAo4CigKKAnwCfALaAtoA3gDeAV8BXwAZABkBYQFhAW4BbgEdAR0AgwCDAuEC4QCeAJ4DIAMgAE8ATwB/AH8A/wD/AUkBSQBSAFICfwJ/AWsBawLjAuMCWQJZAN8A3wB/AH8C4wLjAT4BPgEZARkA9AD0AvoC+gNYA1gAaQBpAxEDEQBdAF0BJQElAzkDOQDnAOcHbgduAH8AfwQ2BDYBlQGVAMgAyAlWCVYBMgEyAC8ALwAAAAAAAAAAAAAAAA=="
 	}
