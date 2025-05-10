@@ -118,7 +118,7 @@
 	tribesmen={
 		amount="8"
 	}
-	holy_site="omen_rama"
+	holy_site=omen_murugan
 	port_building=1
 }
 6917={ # Madurai

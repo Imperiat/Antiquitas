@@ -1515,6 +1515,7 @@
 	freemen={
 		amount="3"
 	}
+	holy_site=omen_hekate
 }
 1981={ # Halikarnassos
 	terrain="hills"

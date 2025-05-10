@@ -232,6 +232,7 @@
 	freemen={
 		amount="1"
 	}
+	holy_site=omen_gordys
 }
 834={ # Satalka
 	terrain="hills"
