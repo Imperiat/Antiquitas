@@ -15,12 +15,13 @@
 	tribesmen={
 		amount="1"
 	}
+	holy_site=omen_thoth #Moved from Hermoupolis Mikra
 }
 551={ # Monkanei
 	terrain="flood_plain"
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="opium"
+	trade_goods="precious_metals"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
@@ -318,7 +319,7 @@
 	terrain="flood_plain"
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="citrus"
+	trade_goods="vegetables"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
@@ -331,6 +332,7 @@
 	tribesmen={
 		amount="1"
 	}
+	holy_site=omen_heqet
 }
 568={ # Petemout
 	terrain="flood_plain"
@@ -424,7 +426,7 @@
 	terrain="flood_plain"
 	culture="upper_egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="exotic_beasts"
+	trade_goods="wild_game"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
@@ -458,6 +460,7 @@
 	tribesmen={
 		amount="2"
 	}
+	holy_site=omen_heka #Changed to Heka, Temple was dedicated to a triad of Khnum, Neith and Heka
 }
 575={ # Eileithyiopolis
 	terrain="flood_plain"
@@ -505,7 +508,7 @@
 	}
 }
 580={ # Myos Hormos
-	terrain="dry_plains"
+	terrain="desert_hills"
 	culture="upper_egyptian"
 	religion="arabian_pantheon"
 	trade_goods="marble"
@@ -557,7 +560,7 @@
 	}
 }
 583={ # Berenike
-	terrain="dry_plains"
+	terrain="desert_hills"
 	culture="upper_egyptian"
 	religion="puntic_religion"
 	trade_goods="earthware"
@@ -693,7 +696,7 @@
 	terrain="desert"
 	culture="upper_egyptian"
 	religion="arabian_pantheon"
-	trade_goods="tortoise_shell"
+	trade_goods="fish"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
@@ -822,7 +825,7 @@
 	}
 }
 5506={ # Tchonemyris
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="earthware"
@@ -855,7 +858,7 @@
 	}
 }
 5508={ # Kysis
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="fur"
@@ -888,7 +891,7 @@
 	}
 }
 5510={ # Mothis
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="camel"
@@ -909,7 +912,7 @@
 	}
 }
 5511={ # Trimithis
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="dates"
@@ -1146,7 +1149,7 @@
 	}
 }
 5526={ # Minqar
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="stone"
@@ -1164,7 +1167,7 @@
 	}
 }
 5527={ # Tablamum
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="cattle"
@@ -1188,7 +1191,7 @@
 	}
 }
 5529={ # Poka
-	terrain="desert"
+	terrain="oasis"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="vegetables"
@@ -1200,7 +1203,7 @@
 	}
 }
 5530={ # Mandish
-	terrain="desert"
+	terrain="oasis"
 	culture="upper_egyptian"
 	religion="berber_religion"
 	trade_goods="woad"

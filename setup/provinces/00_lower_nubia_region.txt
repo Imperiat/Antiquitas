@@ -143,7 +143,7 @@
 	terrain="flood_plain"
 	culture="lower_nubian"
 	religion="egyptian_pantheon"
-	trade_goods="exotic_beasts"
+	trade_goods="wild_game"
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
@@ -231,6 +231,7 @@
 	tribesmen={
 		amount="3"
 	}
+	holy_site=omen_mandulis #Swapped Apedemak with Mandulis, as Apedemak was the patron god of the city of Meroe, and Mandulis was a god of Lower Nubia
 }
 601={ # Serra
 	terrain="flood_plain"

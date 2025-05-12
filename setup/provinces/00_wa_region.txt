@@ -74,7 +74,7 @@
 	terrain="plains"
 	culture="kumaso"
 	religion="wa_religions"
-	trade_goods="stone"
+	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -998,6 +998,7 @@
 	tribesmen={
 		amount="4"
 	}
+	holy_site=omen_amamichuu
 }
 9735={ # Harimanokamo
 	terrain="hills"

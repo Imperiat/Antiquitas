@@ -66,7 +66,7 @@
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="opium"
+	trade_goods="cloth"
 	civilization_value=42
 	barbarian_power=0
 	province_rank="city"
@@ -119,6 +119,7 @@
 	slaves={
 		amount="9"
 	}
+	holy_site=omen_bastet #Patron goddess of Per-Bast/Bubastis
 }
 504={ # Leontopolis
 	terrain="flood_plain"
@@ -349,7 +350,7 @@
 	}
 }
 516={ # Alexandria
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="glass"
@@ -394,7 +395,7 @@
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="dates"
+	trade_goods="papyrus"
 	civilization_value=32
 	barbarian_power=0
 	province_rank="city"
@@ -407,6 +408,7 @@
 	slaves={
 		amount="19"
 	}
+	holy_site=omen_wadjet
 }
 519={ # Sais
 	terrain="flood_plain"
@@ -425,6 +427,7 @@
 	slaves={
 		amount="19"
 	}
+	holy_site=omen_neith #Patron goddess of Zau/Sais, moved from Latopolis
 	port_building=1
 }
 520={ # Xois
@@ -487,7 +490,7 @@
 	terrain="marsh"
 	culture="egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="pearls"
+	trade_goods="fish"
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
@@ -541,7 +544,7 @@
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="citrus"
+	trade_goods="dates"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="settlement"
@@ -592,7 +595,7 @@
 	}
 }
 529={ # Kanopos
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="dye"
@@ -647,7 +650,7 @@
 	}
 }
 532={ # Chaireon
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="vegetables"
@@ -686,7 +689,7 @@
 	terrain="flood_plain"
 	culture="egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="opium"
+	trade_goods="earthware"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="city"
@@ -762,7 +765,7 @@
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="opium"
+	trade_goods="cloth"
 	civilization_value=38
 	barbarian_power=0
 	province_rank="city"
@@ -805,7 +808,7 @@
 	terrain="oasis"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="dates"
+	trade_goods="grain"
 	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
@@ -884,12 +887,13 @@
 	slaves={
 		amount="8"
 	}
+	holy_site=omen_heryshaf #Patron god of Henen-nesut/Herakleiopolis, replaced Set as he no longer possessed a significant cult
 }
 545={ # Oxyrhynchus
 	terrain="flood_plain"
 	culture="middle_egyptian"
 	religion="egyptian_pantheon"
-	trade_goods="opium"
+	trade_goods="grain"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
@@ -1184,7 +1188,7 @@
 	}
 }
 5531={ # Parva
-	terrain="desert"
+	terrain="oasis"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="camel"
@@ -1316,10 +1320,10 @@
 	}
 }
 5547={ # Philoteris
-	terrain="desert"
+	terrain="oasis"
 	culture="middle_egyptian"
 	religion="berber_religion"
-	trade_goods="grain"
+	trade_goods="dates"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
@@ -1413,6 +1417,7 @@
 	slaves={
 		amount="4"
 	}
+	#holy_site=omen_thoth - Moved to Hermopolis Magna
 }
 7690={ # Tamiathis
 	terrain="marsh"

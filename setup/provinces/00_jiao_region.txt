@@ -89,7 +89,7 @@
 	terrain="hills"
 	culture="fulou"
 	religion="baiyue_religions"
-	trade_goods="wood"
+	trade_goods="cowrie_shells"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -248,7 +248,7 @@
 	terrain="hills"
 	culture="gui"
 	religion="tai_religion"
-	trade_goods="elephants"
+	trade_goods="cowrie_shells"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -347,7 +347,7 @@
 	terrain="forest"
 	culture="gui"
 	religion="tai_religion"
-	trade_goods="elephants"
+	trade_goods="ivory"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"

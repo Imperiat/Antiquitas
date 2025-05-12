@@ -62,6 +62,7 @@
 	slaves={
 		amount="3"
 	}
+	holy_site=omen_dengxi
 }
 8382={ # Liang
 	terrain="plains"
@@ -125,6 +126,7 @@
 	slaves={
 		amount="4"
 	}
+	holy_site=omen_lieyukou
 }
 8385={ # Xingyang
 	terrain="farmland"
@@ -744,6 +746,7 @@
 	slaves={
 		amount="2"
 	}
+	holy_site=omen_mozi
 }
 8446={ # Daliang
 	terrain="farmland"
@@ -762,6 +765,7 @@
 	slaves={
 		amount="6"
 	}
+	holy_site=omen_zichan
 }
 8447={ # Yan
 	terrain="plains"
@@ -1389,6 +1393,7 @@
 	slaves={
 		amount="3"
 	}
+	holy_site=omen_laozi
 }
 8957={ # Bowang
 	terrain="forest"

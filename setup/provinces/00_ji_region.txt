@@ -250,6 +250,7 @@
 	slaves={
 		amount="6"
 	}
+	holy_site=omen_shangyang
 	port_building=1
 }
 8436={ # Yan
@@ -1007,6 +1008,7 @@
 	slaves={
 		amount="7"
 	}
+	holy_site=omen_xunzi
 }
 8706={ # Baixiang
 	terrain="plains"

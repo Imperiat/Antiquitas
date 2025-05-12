@@ -18,6 +18,7 @@
 	slaves={
 		amount="6"
 	}
+	holy_site=omen_zouyan
 }
 8480={ # Bo
 	terrain="hills"
@@ -491,6 +492,7 @@
 	slaves={
 		amount="5"
 	}
+	holy_site=omen_guanzhong
 }
 8505={ # Ju
 	terrain="farmland"
@@ -611,6 +613,7 @@
 	slaves={
 		amount="5"
 	}
+	holy_site=omen_suntzu
 }
 8511={ # Duchang
 	terrain="plains"
@@ -872,6 +875,7 @@
 	slaves={
 		amount="5"
 	}
+	holy_site=omen_zengzi
 }
 8534={ # Bian
 	terrain="plains"

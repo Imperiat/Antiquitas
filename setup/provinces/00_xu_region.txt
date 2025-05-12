@@ -468,6 +468,7 @@
 	slaves={
 		amount="3"
 	}
+	holy_site=omen_confucius
 }
 8538={ # Ni
 	terrain="plains"
@@ -528,6 +529,7 @@
 	slaves={
 		amount="5"
 	}
+	holy_site=omen_zhuangzi
 }
 8541={ # Lyu
 	terrain="plains"
@@ -672,6 +674,7 @@
 	slaves={
 		amount="3"
 	}
+	holy_site=omen_mencius
 }
 8549={ # Xiangfen
 	terrain="plains"

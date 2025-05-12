@@ -456,7 +456,7 @@
 	terrain="hills"
 	culture="helvetian"
 	religion="druidism"
-	trade_goods="precious_metals"
+	trade_goods="vegetables"
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
@@ -1626,5 +1626,26 @@
 	}
 	tribesmen={
 		amount="2"
+	}
+}
+12887={ #Camuni
+	terrain="hills"
+	culture="rhaetian"
+	religion="italic_pantheon"
+	trade_goods="leather"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }

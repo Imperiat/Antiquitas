@@ -628,6 +628,7 @@
 	nobles={
 		amount="4"
 	}
+	holy_site=omen_likui
 }
 8345={ # Yishi
 	terrain="plains"
@@ -703,6 +704,7 @@
 	slaves={
 		amount="2"
 	}
+	holy_site=omen_zhangyi
 }
 8349={ # Yuan
 	terrain="farmland"
