@@ -1,0 +1,3 @@
+﻿###India###
+
+output_medium_svalue = 0.04

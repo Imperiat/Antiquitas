@@ -127,12 +127,6 @@
  unite_the_dahae_desc:0 "For too long the Dahae tribes have been squabbling between themselves. We have been disunited and weak, open to the whims of the great empires that surround us.\nLet us unite the Dahae tribes into a powerful tribal federation, only then will we be masters of our own faith."
  unite_dahae_claims_tooltip:0 "Dahae will gain Claims on the Province of #Y Parthia#!."
  
- hellas:0 "Unite Hellas"
- hellas_desc:0 "The many squabbling city-states of Hellas have been divided for too long! It is time for the Greeks to forge their own destiny as one unified state."
- formable_not_hellas_exists:0 "Hellas must not exist already."
- formable_not_has_greek_2_mission:0 "The mission '#Y Pan-Hellenic Government#!' is NOT active."
- formable_not_has_greek_2_mission_abort:0 "Has not aborted the mission '#Y Pan-Hellenic Government#!' in the last 20 years."
- 
  reunite_alexanders_empire:0 "Reunite Alexander's Empire"
  reunite_alexanders_empire_desc:0 "For too long parasites and scavengers have made a feast of the Great Empire that Alexander spent a lifetime building. It is time we do away with all claimants, usurpers and delusional provincial strongmen. There can be only one authority within the empire of Alexander the Great, one upholder of the great Hellenistic legacy that this great man founded.\nThat one power could not possibly come from any dynasty but our own. Only a family that respects the Argead traditions can legitimately claim its legacy."
  formable_not_argeads_exists:0 "The Argead Empire must NOT already exist."

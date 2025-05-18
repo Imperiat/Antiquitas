@@ -10,13 +10,9 @@
 			}
 		    OR = {
 		        AND = {
-			        has_completed_mission_task = secure_venetia_mission_task_20
 			        num_of_cities >= 20
 			        NOT = {
-			            OR = {
-			               has_variable = formed_venetian_empire
-			               has_completed_mission_task = secure_venetia_mission_task_69
-			            }
+			            has_variable = formed_venetian_empire
 			        }
 			    }
 			    AND = {
@@ -70,13 +66,9 @@
 			}
 		    OR = {
 		        AND = {
-			        has_completed_mission_task = secure_venetia_mission_task_13
 			        num_of_cities >= 20
 			        NOT = {
-			            OR = {
-			               has_variable = formed_venetic_league
-			               has_completed_mission_task = secure_venetia_mission_task_68
-			            }
+			            has_variable = formed_venetic_league
 			        }
                 }
                 AND = {

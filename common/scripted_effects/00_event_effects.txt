@@ -6662,6 +6662,10 @@ clear_loyalty_effect = {
 		remove_loyalty = loyalty_republic_election_reforms_rom
 	}
 	if = {
+		limit = { has_loyalty = loyalty_centralize_court }
+		remove_loyalty = loyalty_centralize_court
+	}
+	if = {
 		limit = { has_loyalty = loyalty_fled_battle }
 		remove_loyalty = loyalty_fled_battle
 	}

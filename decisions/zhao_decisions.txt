@@ -5,7 +5,6 @@
 			is_ai = no
 			has_land = yes
 			tag = ZHA
-			has_completed_mission_task = zhao_missions_task_23
 		}
 
 		allow = {

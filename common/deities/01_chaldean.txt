@@ -982,7 +982,6 @@ deity_gordys = { # 'Founder' God of Gordyene
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			primary_culture = cardukoi
-			primary_culture = euboean
 			primary_culture = aramaic
 		}
 		OR = {

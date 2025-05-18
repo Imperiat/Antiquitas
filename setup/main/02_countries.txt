@@ -8871,7 +8871,7 @@ country = {
 		SRC = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -8890,7 +8890,7 @@ country = {
 		AYR = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9028,7 +9028,7 @@ country = {
 		TLR = {
 			government = despotic_monarchy
 			primary_culture = cappadocian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9048,7 +9048,7 @@ country = {
 		ANI = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9086,7 +9086,7 @@ country = {
 		TRW = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9105,7 +9105,7 @@ country = {
 		VSP = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -9184,7 +9184,7 @@ country = {
 		KAN = {
 			government = despotic_monarchy
 			primary_culture = armenian
-			religion = anahita_religion
+			religion = anahitic_religion
 					
 			technology={
 				military_tech={ level=1 progress=0 }

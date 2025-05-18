@@ -58,10 +58,5 @@
  indo_scythian_kingdom:0 "Indo-Scythian Kingdom"
  parthian_death_lasers:0 "Parthian Warriors"
 
- #Decisions
- form_indo_scythian_kingdom:0 "Form Indo-Scythian Kingdom"
- form_indo_scythian_kingdom_desc:0 ""
- formable_not_indo_scythian_exists:0 "Indo-Scythian Kingdom must not exist"
-
  #fix
  diadochi_flavor_101_tooltip:0 "[GetCountry('PRN').GetName] declares war on [origin.GetName] with war goal #Y Horde Conquest#!"
