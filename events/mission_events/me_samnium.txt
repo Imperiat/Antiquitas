@@ -1,0 +1,63 @@
+﻿namespace = samnium_event
+
+samnium_event.1001 = { # ver sacrum event
+    type = country_event
+    title = samnium_event.1001.t
+    desc = samnium_event.1001.desc
+    picture = city_construction
+
+    left_portrait = current_ruler
+
+    goto_location = scope:ver_sacrum_target
+
+    immediate = {
+        random_province = {
+            limit = {
+                NOT = { owner = root }
+                any_neighbor_province = {
+                    owner = root
+                }
+            }
+            save_scope_as = ver_sacrum_target
+        }
+    }
+
+    option = {
+        name = samnium_event.1001.a
+        add_stability = 8
+        ordered_owned_province = {
+            limit = {
+                any_pops_in_province = {
+                    pop_culture = samnite
+                    pop_religion = italic_pantheon
+                }
+            }
+            order_by = total_population
+            while = {
+                count = 5
+                random_pops_in_province = {
+                    limit = {
+                        pop_culture = samnite
+                        pop_religion = italic_pantheon
+                    }
+                    move_pop = scope:ver_sacrum_target
+                }
+            }
+        }
+        if = {
+            limit = {
+                has_variable = sam_res_ver_sacrum_bonus
+            }
+            add_military_experience = 5
+        }
+        if = {
+            limit = {
+                has_variable = sam_sync_ver_sacrum_bonus
+            }
+            add_political_influence = 15
+        }
+        scope:ver_sacrum_target = {
+            add_claim = root
+        }
+    }
+}

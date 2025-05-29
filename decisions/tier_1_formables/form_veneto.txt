@@ -59,9 +59,6 @@
 	    effect = {
 	        custom_tooltip = "tier_1_formable_tooltip"
 	        custom_tooltip = "form_veneto_tt"
-	        trigger_event = {
-	            id = veneto_flavour_event.10
-	        }
 	    }
 
 	    ai_will_do = {

@@ -27,7 +27,6 @@
 		
 		effect = {
 			custom_tooltip = "tier_1_formable_tooltip"
-			trigger_event = ti_nation_formation_events.2
 			show_as_tooltip = {
 				change_country_name = "LUU"
 				hidden_effect = {

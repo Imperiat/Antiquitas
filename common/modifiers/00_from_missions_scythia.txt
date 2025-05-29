@@ -1,0 +1,7 @@
+﻿##################################################################################################
+# Scythia Mission 01 - Our Stance on the Greeks
+##################################################################################################
+#the first one is from the formable
+sarmatia_formable_modifier = {
+	global_pop_assimilation_speed_modifier = 0.2
+}

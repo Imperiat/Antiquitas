@@ -15,12 +15,8 @@
 					is_in_area = corduene_area
 				}
 			}
-			NOR = {
+			NOT = {
 				tag = ARM
-				trigger_if = {
-					limit = { exists = global_var:ARI_tag }
-					this = global_var:ARI_tag
-				}
 			}
 			OR = {
 				is_ai = no

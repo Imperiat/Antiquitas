@@ -30,7 +30,6 @@
 						tag = TOI
 					}
 				# }
-				# has_variable = phrygian_invasion_flag
 			# }
 		}
 		
@@ -113,10 +112,6 @@
 						}
 					}
 				}
-				trigger_event = {
-					id = galatian_invasion.72
-					days = 3
-				}
 			}
 		}
 		
@@ -154,7 +149,6 @@
 				tag = TOI
 			}
 				# }
-			has_global_variable = phrygian_invasion_flag
 			# }
 		}
 		
@@ -271,10 +265,6 @@
 							}
 						}
 					}
-				}
-				trigger_event = {
-					id = galatian_invasion.72
-					days = 3
 				}
 			}
 		}
@@ -423,10 +413,6 @@
 						}
 					}
 				}
-				trigger_event = {
-					id = galatian_invasion.72
-					days = 3
-				}
 			}
 		}
 		
@@ -465,7 +451,6 @@
 						tag = TOI
 					}
 				# }
-				has_global_variable = cappadocian_invasion_flag
 			# }
 		}
 		
@@ -579,10 +564,6 @@
 							}
 						}
 					}
-				}
-				trigger_event = {
-					id = galatian_invasion.72
-					days = 3
 				}
 			}
 		}

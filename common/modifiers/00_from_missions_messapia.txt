@@ -1,0 +1,5 @@
+﻿soft_recent_convert_modifier = { # For easier converts
+	global_pop_conversion_speed_modifier = 0.15
+	change_pantheon_cost_modifier = -1
+	stability_monthly_change = -0.03
+}

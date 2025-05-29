@@ -19,12 +19,6 @@
  RHAETIAN_ADJECTIVE: "Rhaetian"
  any_rhaetian_country_tt: "@trigger_no! All #Y Rhaetian#! nations are our subjects, or we are the only #Y Rhaetian nation."
 
- #Jin
- ti_nation_formation_events.1.t: "United Jin"
- ti_nation_formation_events.1.desc: "A few generations ago, the lands of Jin were partitioned and divided between the Han, Zhao and Wei; an epochal moment in our histories, and one that some say should have never happened. But now, the misdeeds of the past have been atoned for, and Jin has been pieced together by our hands; all that remains left to do is to announce the triumphant rebirth of this pillar of Zhou culture."
- ti_nation_formation_events.1.a: "Let us fully restore Jin."
- ti_nation_formation_events.1.b: "We can stand on our own."
-
  #Zhou
  unite_zhou: "Unite Zhou"
  unite_zhou_desc: "After a long period of warring with the equally small remaining and fractured domains of the Zhou, all of their territories have been subjugated by us. It is therefore time to assert our position as the new Zhou suzerain."
@@ -32,12 +26,7 @@
  #Lu
  form_lu: "Form Lu"
  form_lu_desc: "As the last Sanhuan, it is our right to claim the throne of Lu. Like the rulers of Lu have not shown mercy to the other two Sanhuan branches, we should not spare these corrupt and decadent rulers from the same fate."
- 
- ti_nation_formation_events.2.t: "Overthrown Main Lu Line"
- ti_nation_formation_events.2.desc: "[ROOT.GetCountry.GetRuler.GetName] has finally managed to topple the last of the #E Lu#!, bringing glory and prestige to [ROOT.GetCountry.GetRuler.GetHerHis] kingdom.\n\nNot only has an enemy been dethroned, but within our own realm, the generals and governors have thrown their support behind [ROOT.GetCountry.GetRuler.GetFirstName]. Oaths of loyalty have been sworn, and all within [GetCountry('BII').GetName)] and abroad are now convinced that [ROOT.GetCountry.GetRuler.GetFirstName] is the rightful heir of the [GetCountry('LUU').GetName)]."
- ti_nation_formation_events.2.a: "Let us claim the Lu heritage."
- ti_nation_formation_events.2.b: "We are strong ourselves."
- 
+
  #Miao
  MIA_NAME: "San Miao"
  MIA_ADJ: "Miao"

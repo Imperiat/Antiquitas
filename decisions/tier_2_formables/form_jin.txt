@@ -41,7 +41,6 @@
 		
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
-			trigger_event = ti_nation_formation_events.1
 			show_as_tooltip = {
 				change_country_name = "JIN_NAME"
 				hidden_effect = {

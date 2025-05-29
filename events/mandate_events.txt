@@ -88,7 +88,7 @@ mandate_events.3 = {
 
     title = mandate_events.3.t
     desc = mandate_events.3.desc
-    picture = Wang_Hui_3_event    
+    picture = Wang_Hui_3_event
 	left_portrait = root.current_ruler
 	
 	trigger = {

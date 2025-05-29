@@ -6662,10 +6662,6 @@ clear_loyalty_effect = {
 		remove_loyalty = loyalty_republic_election_reforms_rom
 	}
 	if = {
-		limit = { has_loyalty = loyalty_centralize_court }
-		remove_loyalty = loyalty_centralize_court
-	}
-	if = {
 		limit = { has_loyalty = loyalty_fled_battle }
 		remove_loyalty = loyalty_fled_battle
 	}
@@ -9158,10 +9154,6 @@ clear_loyalty_effect = {
 		remove_loyalty = loyalty_tyranny_avoided
 	}
 	if = {
-		limit = { has_loyalty = loyalty_me_syr_17_tricked }
-		remove_loyalty = loyalty_me_syr_17_tricked
-	}
-	if = {
 		limit = { has_loyalty = loyalty_defended_interests }
 		remove_loyalty = loyalty_defended_interests
 	}
@@ -9176,22 +9168,6 @@ clear_loyalty_effect = {
 	if = {
 		limit = { has_loyalty = loyalty_gm_1_pleased_family }
 		remove_loyalty = loyalty_gm_1_pleased_family
-	}
-	if = {
-		limit = { has_loyalty = me_gre_1_upset_family_loyalty }
-		remove_loyalty = me_gre_1_upset_family_loyalty
-	}
-	if = {
-		limit = { has_loyalty = me_gre_3_pleased_family_loyalty }
-		remove_loyalty = me_gre_3_pleased_family_loyalty
-	}
-	if = {
-		limit = { has_loyalty = ant_01_3_philokles_denied_loyalty }
-		remove_loyalty = ant_01_3_philokles_denied_loyalty
-	}
-	if = {
-		limit = { has_loyalty = ant_01_3_usurped_throne }
-		remove_loyalty = ant_01_3_usurped_throne
 	}
 	if = {
 		limit = { has_loyalty = food_protector_accepted }

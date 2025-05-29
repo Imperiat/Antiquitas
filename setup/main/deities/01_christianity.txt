@@ -72,5 +72,5 @@ deity_manager = {
 			key = omen_archangel_uriel
 			deity = deity_archangel_uriel
 		}
-	}	
+	}
 }

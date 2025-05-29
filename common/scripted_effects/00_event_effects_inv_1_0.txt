@@ -576,14 +576,6 @@ clear_loyalty_effect = {
 		remove_loyalty = loyalty_republic_election_reforms_rom
 	}
 	if = {
-		limit = { has_loyalty = loyalty_centralize_court }
-		remove_loyalty = loyalty_centralize_court
-	}
-	if = {
-		limit = { has_loyalty = loyalty_pyrrhus_travelling }
-		remove_loyalty = loyalty_pyrrhus_travelling
-	}
-	if = {
 		limit = { has_loyalty = loyalty_fled_battle }
 		remove_loyalty = loyalty_fled_battle
 	}
@@ -3068,24 +3060,12 @@ clear_loyalty_effect = {
 		remove_loyalty = national_conversion_l
 	}
 	if = {
-		limit = { has_loyalty = athenian_mission_01_appreciative_family }
-		remove_loyalty = athenian_mission_01_appreciative_family
-	}
-	if = {
-		limit = { has_loyalty = athenian_mission_01_unappreciative_family }
-		remove_loyalty = athenian_mission_01_unappreciative_family
-	}
-	if = {
 		limit = { has_loyalty = loyalty_tyrant_family_upset }
 		remove_loyalty = loyalty_tyrant_family_upset
 	}
 	if = {
 		limit = { has_loyalty = loyalty_tyranny_avoided }
 		remove_loyalty = loyalty_tyranny_avoided
-	}
-	if = {
-		limit = { has_loyalty = loyalty_me_syr_17_tricked }
-		remove_loyalty = loyalty_me_syr_17_tricked
 	}
 	if = {
 		limit = { has_loyalty = loyalty_defended_interests }
@@ -3102,22 +3082,6 @@ clear_loyalty_effect = {
 	if = {
 		limit = { has_loyalty = loyalty_gm_1_pleased_family }
 		remove_loyalty = loyalty_gm_1_pleased_family
-	}
-	if = {
-		limit = { has_loyalty = me_gre_1_upset_family_loyalty }
-		remove_loyalty = me_gre_1_upset_family_loyalty
-	}
-	if = {
-		limit = { has_loyalty = me_gre_3_pleased_family_loyalty }
-		remove_loyalty = me_gre_3_pleased_family_loyalty
-	}
-	if = {
-		limit = { has_loyalty = ant_01_3_philokles_denied_loyalty }
-		remove_loyalty = ant_01_3_philokles_denied_loyalty
-	}
-	if = {
-		limit = { has_loyalty = ant_01_3_usurped_throne }
-		remove_loyalty = ant_01_3_usurped_throne
 	}
 	if = {
 		limit = { has_loyalty = food_protector_accepted }
@@ -3166,22 +3130,6 @@ clear_loyalty_effect = {
 	if = {
 		limit = { has_loyalty = scheme_disloyalty_self }
 		remove_loyalty = scheme_disloyalty_self
-	}
-	if = {
-		limit = { has_loyalty = cyr_loyalty_republic_declared }
-		remove_loyalty = cyr_loyalty_republic_declared
-	}
-	if = {
-		limit = { has_loyalty = cyr_battiad_scorned }
-		remove_loyalty = cyr_battiad_scorned
-	}
-	if = {
-		limit = { has_loyalty = cyr_divided_powerstructure }
-		remove_loyalty = cyr_divided_powerstructure
-	}
-	if = {
-		limit = { has_loyalty = cyr_magid_family_recruit }
-		remove_loyalty = cyr_magid_family_recruit
 	}
 	if = {
 		limit = { has_loyalty = loyalty_sparta_co_ruler }

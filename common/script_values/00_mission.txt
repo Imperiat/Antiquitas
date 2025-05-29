@@ -403,96 +403,14 @@ get_diadochi_pantheon_svalue = {
 diadochi_pantheon_target_svalue = {
 	value = 2
 }
-generic_area_mission_25_economy_buildings_current = {
-	value = 0
-	if = {
-		limit = { has_variable = thebes_properity_counting }
-		area:arcadia_area = {
-			every_area_province = {
-				limit = {
-					owner = root
-					OR = {
-						num_of_port_building >= 1
-						num_of_commerce_building >= 1
-						num_of_town_hall_building >= 1
-					}
-				}
-				add = num_of_port_building
-				add = num_of_commerce_building
-				add = num_of_town_hall_building
-			}
-		}
-	}
-	max = generic_area_mission_25_economy_buildings_total
-}
 generic_area_mission_25_economy_buildings_total = {
 	value = 20
-}
-generic_area_mission_25_military_buildings_current = {
-	value = 0
-	if = {
-		limit = { has_variable = thebes_properity_counting }
-		area:south_peleponnesos_area = {
-			every_area_province = {
-				limit = {
-					owner = root
-					OR = {
-						num_of_barracks_building >= 1
-						num_of_military_building >= 1
-						num_of_production_building >= 1
-					}
-				}
-				add = num_of_barracks_building
-				add = num_of_military_building
-				add = num_of_production_building
-			}
-		}
-	}
-	max = generic_area_mission_25_military_buildings_total
 }
 generic_area_mission_25_military_buildings_total = {
 	value = 20
 }
-generic_area_mission_25_academic_buildings_current = {
-	value = 0
-	if = {
-		limit = { has_variable = thebes_properity_counting }
-		area:central_greece_area = {
-			every_area_province = {
-				limit = {
-					owner = root
-					OR = {
-						num_of_academy_building >= 1
-						num_of_court_building >= 1
-						num_of_library_building >= 1
-					}
-				}
-				add = num_of_academy_building
-				add = num_of_court_building
-				add = num_of_library_building
-			}
-		}
-	}
-	max = generic_area_mission_25_academic_buildings_total
-}
 generic_area_mission_25_academic_buildings_total = {
 	value = 20
-}
-generic_25_buildings_svalue_current = {
-	value = 0
-	if = {
-		limit = { has_variable = thebes_properity_counting }
-		area:boeotia_area = {
-			every_area_province = {
-				limit = {
-					owner = root
-					num_of_used_building_slots >= 1
-				}
-				add = num_of_used_building_slots
-			}
-		}
-	}
-	max = generic_25_buildings_svalue_total
 }
 generic_25_buildings_svalue_total = {
 	value = 20

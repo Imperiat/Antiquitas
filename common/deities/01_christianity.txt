@@ -181,7 +181,7 @@ deity_st_paul = {
 				multiply = 2.5
 				min = 5
 				max = 25
-			}		
+			}
 		}
 		if = {
 			limit = {
@@ -196,7 +196,7 @@ deity_st_paul = {
 			set_variable = {
 				name = st_paul_canonization
 			}
-			trigger_event = { 
+			trigger_event = {
 				on_action = te_custom_on_action_canonizations
 				years = 5
 			}
@@ -211,7 +211,7 @@ deity_st_paul = {
 deity_st_john = {
 	trigger = {
 		current_date > 854.1.1
-		OR = { 
+		OR = {
 			religion = christianity
 			very_common_deity_culture_group_region_trigger = {
 				RELIGION = christianity
@@ -247,7 +247,7 @@ deity_st_john = {
 							is_in_region = asia_region
 						}	
 					}
-				}	
+				}
 				NOT = {
 					has_global_variable = st_john_theosis	
 				}
@@ -255,7 +255,7 @@ deity_st_john = {
 			set_variable = {
 				name = st_john_canonization
 			}
-			trigger_event = { 
+			trigger_event = {
 				on_action = te_custom_on_action_canonizations
 				years = 5
 			}
@@ -265,11 +265,11 @@ deity_st_john = {
 				AND = {
 					has_variable = st_john_canonization
 					exists = scope:deified_ruler
-				}	
+				}
 				any_owned_province = {
 					any_pops_in_province = {
 						NOT = {
-							pop_religion = christianity 
+							pop_religion = christianity
 						}
 					}
 				}
@@ -1222,14 +1222,14 @@ deity_archangel_michael = {
 		#		}
 		#	}
 		#}
-		OR = { 
+		OR = {
 			religion = christianity
 			AND = {
 				polytheistic_check_religion_trigger = yes
 				common_deity_trigger = {
 					RELIGION = christianity
 				}
-			}	
+			}
 			deity:omen_archangel_michael = {
 				holy_site_deity_check_trigger = yes
 			}

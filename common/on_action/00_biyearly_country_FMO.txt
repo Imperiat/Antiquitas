@@ -38,7 +38,7 @@
 		10 = mandate_events.10
 	}
 	events = {
-		dhe_zou_ti.2 #Mencius grave event
+
 	}
 }
 ai_take_focus_perks_action = {

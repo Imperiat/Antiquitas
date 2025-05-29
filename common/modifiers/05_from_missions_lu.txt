@@ -1,0 +1,4 @@
+﻿#modifier for formable
+revenge_of_last_huanen = {
+	monthly_political_influence_modifier = 0.2
+}

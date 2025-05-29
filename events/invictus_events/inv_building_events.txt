@@ -315,7 +315,7 @@ inv_building_events.5 = {
         }
     }
 
-    option = {      
+    option = {
         name = inv_building_events.5.a
         add_stability = 3
         add_treasury = {
@@ -323,7 +323,7 @@ inv_building_events.5 = {
 			multiply = 4
         }
     }
-    option = {      
+    option = {
         name = inv_building_events.5.b
         scope:building_province = {
             add_province_modifier = {
@@ -367,14 +367,14 @@ inv_building_events.6 = {
         }
     }
 
-    option = {      
+    option = {
         name = inv_building_events.6.a
         add_treasury = {
             subtract = root.has_monthly_income
 			multiply = 4
         }
     }
-    option = {      
+    option = {
         name = inv_building_events.6.b
         scope:building_province = {
             add_province_modifier = {

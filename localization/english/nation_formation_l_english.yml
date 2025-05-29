@@ -541,5 +541,10 @@
  SCN:0 "Scandia"
  inherit_scandia_provinces_tooltip:0 "Conquer all territories in the $herulia_area$, $east_gothia_area$, $west_gothia_area$, and $ultima_thule_area$ areas."
  formable_not_scandia_exists:0 "Scandia does not exist"
+ #Veneto
+ form_veneto_decision:0 "Unite the #E Veneti#!"
+ form_veneto_decision_desc:0 "The Veneti have long inhabited the lands of #Y [GetProvince('(int32)3598').GetArea.GetName]#!, but, disunited as we are, that may not last.\n\nBeing in a unique position of strength, we should take it upon ourselves to unite the $venetic$ people into a single federation!"
+ form_veneto_tt:0 "Will form #Y $VNT$#!"
+
  
  aethiopia_must_not_exist:0 "Aethiopia does not exist"

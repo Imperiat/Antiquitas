@@ -6,11 +6,11 @@
 			has_global_variable = is_playing_invictus
 			current_date >= 1148.1.1 # Historical date 1148.1.17
 			num_of_cities >= 2
-			OR = { 
+			OR = {
 				government = imperium
 				government = dictatorship
 				government = imperial_cult
-			}	
+			}
 			tag = ROM
 			any_owned_province = {
 				is_in_pars_occidentalis_inv_trigger = yes
@@ -175,7 +175,7 @@
 									multiply = 100
 									min = 100
 									max = 4000
-								}	
+								}
 							}
 						}
 						while = {
@@ -189,7 +189,7 @@
 									multiply = 100
 									min = 100
 									max = 4000
-								}	
+								}
 							}
 						}
 						while = {
