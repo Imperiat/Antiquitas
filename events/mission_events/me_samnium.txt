@@ -44,18 +44,6 @@ samnium_event.1001 = { # ver sacrum event
                 }
             }
         }
-        if = {
-            limit = {
-                has_variable = sam_res_ver_sacrum_bonus
-            }
-            add_military_experience = 5
-        }
-        if = {
-            limit = {
-                has_variable = sam_sync_ver_sacrum_bonus
-            }
-            add_political_influence = 15
-        }
         scope:ver_sacrum_target = {
             add_claim = root
         }

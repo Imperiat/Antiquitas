@@ -304,7 +304,6 @@
 						tag = TOI
 					}
 				# }
-				has_global_variable = asian_invasion_flag
 			# }
 		}
 		

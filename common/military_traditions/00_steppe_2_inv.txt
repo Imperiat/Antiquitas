@@ -39,10 +39,7 @@
 		}
 		trigger_else_if = {
 			limit = {
-				OR = {
-					has_variable = was_bactria
-					tag = BAC
-				}
+				tag = BAC
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"

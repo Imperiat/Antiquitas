@@ -49,18 +49,6 @@
 			show_as_tooltip = {
 				add_stability = 8
 				custom_tooltip = ver_sacrum_pop_movement_tt
-				if = {
-					limit = {
-						has_variable = sam_res_ver_sacrum_bonus
-					}
-					add_military_experience = 5
-				}
-				if = {
-					limit = {
-						has_variable = sam_sync_ver_sacrum_bonus
-					}
-					add_political_influence = 15
-				}
 			}
 		}
 	}

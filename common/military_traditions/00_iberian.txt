@@ -51,15 +51,6 @@
 			}
 			tag = GAD
 		}
-		trigger_else_if = {
-			limit = {
-				has_variable = gm_4_greek_country_flag
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			has_variable = gm_4_greek_country_flag
-		}
 		trigger_else = {
 			custom_tooltip = {
 				text = "tradition_unlock_requirement_cultural_decision"

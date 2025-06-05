@@ -155,7 +155,7 @@ deity_st_paul = {
 		#	}
 		#}
 		OR = {
-			religion = christianity	
+			religion = christianity
 			very_common_deity_culture_group_trigger = {
 				RELIGION = christianity
 				CULTURE_GROUP = anatolian
