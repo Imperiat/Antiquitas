@@ -14133,7 +14133,7 @@ country = {
 			capital = 8782
 		
 			own_control_core = {
-				8779 8781 8782 8784 8786 8787 8788 8789 8791 9666 9667
+				8779 8781 8782 8784 8786 8787 8788 8789 8791 9666 9667 12889 12890
 			}
 		}
 		
@@ -14185,7 +14185,7 @@ country = {
 			}
 		}
 		
-		ILL = { #Illan
+		ILA = { #Illan
 			government = tribal_kingdom
 			primary_culture = mahan
 			religion = wa_religions

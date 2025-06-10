@@ -97,7 +97,6 @@ zorgo_event.2 = {
 		}
 	}
 
-
 	fire_only_once = yes
 
 	option = {
@@ -133,7 +132,7 @@ zorgo_event.3 = {
 
 	picture = interesting_histories_fish_market
 	
-	trigger = {	
+	trigger = {
 		is_subject = no
 		any_character = {
 			is_head_of_family = no
@@ -197,7 +196,7 @@ zorgo_event.4 = {
 	right_portrait = scope:heir
 
 	picture = senate_debate
-	trigger = {		
+	trigger = {
 		is_subject = no
 		any_character = {
 			is_adult = yes
