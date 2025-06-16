@@ -824,10 +824,6 @@ himyar_province_number_svalue_current = {
 		add = 1
 	}
 }
-		add = 1
-	}
-}
-
 
 ver_sacrum_territory_svalue = {
 	THIS = {

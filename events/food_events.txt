@@ -3989,7 +3989,7 @@ food_events.16 = {						# Food bought up
 			add_tyranny = tyranny_small
 		}
 		else_if = {
-			limit = { 
+			limit = {
 				current_ruler = { has_trait = cruel }
 			}
 			current_ruler = { add_popularity = popularity_small }

@@ -5320,6 +5320,7 @@ replace_food_after_city_upgrade_effect = {
 				OR = {
 					terrain = marsh
 					terrain = desert
+					terrain = desert_hills
 				}
 			}
 			$VARIABLE_OR_SET_TRADE_GOODS$ = earthware
@@ -5330,6 +5331,16 @@ replace_food_after_city_upgrade_effect = {
 				terrain = marsh
 			}
 			$VARIABLE_OR_SET_TRADE_GOODS$ = dye
+		}
+		5 = {
+			modifier = {
+				factor = 0
+				NOR = {
+					terrain = mountain
+					is_coastal = yes
+				}
+			}
+			$VARIABLE_OR_SET_TRADE_GOODS$ = salt
 		}
 		5 = { #Unusual but not very dependent on where you are
 			$VARIABLE_OR_SET_TRADE_GOODS$ = glass
@@ -5385,6 +5396,7 @@ replace_food_after_city_upgrade_finish_effect = {
 		dye = { set_trade_goods = dye remove_variable = dye }
 		glass = { set_trade_goods = glass remove_variable = glass }
 		silk = { set_trade_goods = silk remove_variable = silk }
+		salt = { set_trade_goods = salt remove_variable = salt }
 	}
 }
 
@@ -5394,7 +5406,10 @@ restore_food_effect = {
 		had_grain = { set_trade_goods = grain remove_variable = had_grain }
 		had_fish = { set_trade_goods = fish remove_variable = had_fish }
 		had_cattle = { set_trade_goods = cattle remove_variable = had_cattle }
-		had_vegetables = { set_trade_goods = vegetables remove_variable = had_vegetables  }
+		had_vegetables = { set_trade_goods = vegetables remove_variable = had_vegetables }
+		had_fruits = { set_trade_goods = fruits remove_variable = had_fruits }
+		had_olive = { set_trade_goods = olive remove_variable = had_olive }
+		had_dates = { set_trade_goods = dates remove_variable = had_dates }
 	}
 }
 

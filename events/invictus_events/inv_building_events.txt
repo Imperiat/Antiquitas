@@ -1143,7 +1143,7 @@ inv_building_events.26 = {
         }
         random_owned_province = {
             limit = {
-                num_of_aqueduct_building >= 2
+                num_of_housing_building >= 2
                 province_unrest > 2
             }
             save_scope_as = building_province

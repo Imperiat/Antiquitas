@@ -2724,7 +2724,7 @@ gm_1_list_effect = {
 			add_to_list = gm_1_list
 		}
 	}
-	region:sarmatia_europea_region = {
+	region:scythia_region = {
 		every_region_province = {
 			limit = { 
 				is_port = yes

@@ -428,7 +428,7 @@ deity_mizuhanome = {
 		}
 	}
 	icon = deity_japan_3
-	passive_modifier = { aqueduct_building_cost = -0.3 }
+	passive_modifier = { housing_building_cost = -0.3 }
 	omen = { fort_maintenance_cost = omen_fort_maintenance_cost_svalue }	#Bonus from Omen
 	on_activate = {
 		economy_income_effect = yes
