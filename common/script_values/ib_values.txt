@@ -131,6 +131,6 @@ num_of_barracks_building_sv = {
   value = num_of_barracks_building
 }
 
-num_of_road_building_sv = {
-  value = num_of_road_building
+num_of_road_infrastructure_building_sv = {
+  value = num_of_road_infrastructure_building
 }

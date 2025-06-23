@@ -5955,8 +5955,8 @@ destroy_building_effect = {
 					remove_building_level = fortress_ramparts_building
 				}
 				1 = {
-					trigger = { num_of_road_building > 0 }
-					remove_building_level = road_building
+					trigger = { num_of_road_infrastructure_building > 0 }
+					remove_building_level = road_infrastructure_building
 				}
 			}
 		}

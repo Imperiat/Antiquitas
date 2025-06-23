@@ -67,6 +67,6 @@ real_num_of_recreation_building = {
 real_num_of_barracks_building = {
   value = num_of_barracks_building
 }
-real_num_of_road_building = {
-  value = num_of_road_building
+real_num_of_road_infrastructure_building = {
+  value = num_of_road_infrastructure_building
 }

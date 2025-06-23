@@ -23,7 +23,7 @@
 		sanitation_building
 		recreation_building
 		barracks_building
-		road_building
+		road_infrastructure_building
 		fortress_building
 		town_hall_building
 		temple_building

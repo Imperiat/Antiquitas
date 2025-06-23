@@ -2545,7 +2545,7 @@ recreation_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 
-road_building_cost = {
+road_infrastructure_building_cost = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 

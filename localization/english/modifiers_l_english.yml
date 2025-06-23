@@ -3596,7 +3596,7 @@
  sanitation_building_cost:0 "Sewage Systems Building Cost"
  recreation_building_cost:0 "Public Baths Building Cost"
  barracks_building_cost:0 "Barracks Building Cost"
- road_building_cost:0 "Roads Building Cost"
+ road_infrastructure_building_cost:0 "Road Infrastructure Building Cost"
  fortress_building_cost:0 "Fortress Building Cost"
  town_hall_building_cost:0 "Tax Office Building Cost"
  temple_building_cost:0 "Temple Building Cost"
