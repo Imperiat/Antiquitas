@@ -17,7 +17,6 @@
 	}
 	port_building=1
 	forum_building=1
-	road_building=1
 	shrine_building=1
 }
 277={ # Skyros
@@ -106,7 +105,6 @@
 	}
 	holy_site="omen_ariadne"
 	port_building=1
-	road_building=1
 	agriculture_building=1
 }
 359={ # Chersonesos Kriti
@@ -145,7 +143,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 367={ # Kydonia
 	terrain="plains"
@@ -322,7 +319,6 @@
 	tribesmen={
 		amount="4"
 	}
-	road_building=1
 }
 407={ # Chalcis
 	terrain="plains"
@@ -346,7 +342,6 @@
 	}
 	port_building=1
 	forum_building=1
-	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -368,7 +363,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 410={ # Oichalia Euboias
 	terrain="hills"
@@ -427,7 +421,6 @@
 	port_building=1
 	forum_building=1
 	commerce_building=1
-	road_building=1
 	shrine_building=1
 	recreation_building=1
 	production_building=1
@@ -457,7 +450,6 @@
 		amount="3"
 	}
 	port_building=1
-	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -486,7 +478,6 @@
 	}
 	port_building=1
 	forum_building=1
-	road_building=1
 	shrine_building=1
 	recreation_building=1
 	production_building=1
@@ -543,7 +534,6 @@
 		amount="4"
 	}
 	forum_building=1
-	road_building=1
 	shrine_building=1
 	agriculture_building=1
 }
@@ -619,7 +609,6 @@
 	holy_site="omen_dionysus"
 	forum_building=1
 	commerce_building=1
-	road_building=1
 	shrine_building=1
 	recreation_building=1
 	production_building=1
@@ -647,7 +636,6 @@
 	slaves={
 		amount="4"
 	}
-	road_building=1
 	shrine_building=1
 }
 429={ # Epidauros Limera
@@ -704,7 +692,6 @@
 		amount="6"
 	}
 	port_building=1
-	road_building=1
 }
 432={ # Mothone
 	terrain="hills"
@@ -871,7 +858,6 @@
 	holy_site="omen_hera"
 	port_building=1
 	forum_building=1
-	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -894,7 +880,6 @@
 	}
 	holy_site="omen_asclepius"
 	port_building=1
-	road_building=1
 	shrine_building=1
 	healthcare_building=2
 }
@@ -928,7 +913,6 @@
 	port_building=1
 	forum_building=1
 	commerce_building=1
-	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -965,7 +949,7 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
+
 }
 446={ # Elis
 	terrain="farmland"
@@ -1144,7 +1128,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 	shrine_building=1
 }
 458={ # Chaleion
@@ -1253,7 +1236,6 @@
 	}
 	fortress_building=1
 	port_building=1
-	road_building=1
 	shrine_building=1
 }
 464={ # Aktion
@@ -1301,7 +1283,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 	production_building=1
 }
 466={ # Oichalia Aitolias
@@ -1356,7 +1337,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 469={ # Thaumakoi
 	terrain="plains"
@@ -1391,7 +1371,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 471={ # Kythera
 	terrain="hills"
@@ -1426,7 +1405,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1f
 }
 473={ # Leuktron
 	terrain="mountain"
@@ -1515,7 +1493,6 @@
 	holy_site="omen_poseidon"
 	port_building=1
 	forum_building=1
-	road_building=1
 	shrine_building=1
 	production_building=1
 }
@@ -1537,7 +1514,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 1915={ # Paros
 	terrain="hills"
@@ -1576,7 +1552,6 @@
 		amount="2"
 	}
 	port_building=1
-	road_building=1
 }
 3192={ # Byllis
 	terrain="forest"
@@ -1626,7 +1601,6 @@
 	tribesmen={
 		amount="6"
 	}
-	road_building=1
 }
 7802={ # Tanagra
 	terrain="plains"
@@ -1694,7 +1668,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 7891={ # Tegea
 	terrain="hills"
@@ -1815,7 +1788,6 @@
 	tribesmen={
 		amount="6"
 	}
-	road_building=1
 }
 7899={ # Kerinthos
 	terrain="hills"
@@ -1831,7 +1803,6 @@
 	tribesmen={
 		amount="4"
 	}
-	road_building=1
 }
 7901={ # Eretria
 	terrain="plains"
@@ -1854,7 +1825,6 @@
 		amount="4"
 	}
 	port_building=1
-	road_building=1
 }
 7902={ # Salamis
 	terrain="hills"
@@ -1887,7 +1857,6 @@
 	}
 	holy_site="omen_hestia"
 	port_building=1
-	road_building=1
 }
 7904={ # Styra
 	terrain="hills"
@@ -1938,7 +1907,6 @@
 	}
 	port_building=1
 	forum_building=1
-	road_building=1
 	shrine_building=1
 }
 8016={ # Lappa
