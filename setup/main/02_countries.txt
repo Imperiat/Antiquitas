@@ -1620,7 +1620,7 @@ country = {
 			}
 		}
 
-		TNG = {
+		TIN = { #Tinga
 			government = aristocratic_republic
 			primary_culture = carthaginian
 			religion = carthaginian_pantheon

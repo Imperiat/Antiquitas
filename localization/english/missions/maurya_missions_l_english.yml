@@ -69,11 +69,6 @@ flavor_maurya_14_title:0 "The death of Susima"
 flavor_maurya_14_desc:0 "Our primary heir, Susima Maurya, has mysteriously died. The palace guards have found the young prince dead in his chambers this morning, and our best healers were unable to do anything for him. Investigations are already being conducted, with the screams of interrogated prisoners echoing throughout your palace at all hours, but no one seems to have seen or heard anything. The sudden murder of our prince is truly disturbing, and more and more rumors about discontent governors and nobility are slowly spreading throughout the court. It seems as if times of change lie before us, whether we want them or not."
 flavor_maurya_14.a:0 "Bonk!"
 
-flavor_maurya_16_title:0 "Mauryan Collapse"
-flavor_maurya_16_desc:0 "Ashoka Maurya has died, sending the Mauryan Empire into disarray. Internally, many prominent nobles vie for control of the reins of state, and these scheming princes are causing great division amongst our once unified people. It is clear that the mighty Mauryan Empire, which once controlled nearly all of India, is now on the verge of a dramatic collapse - who could have foreseen such a thing happening? Even now, our many enemies prepare their armies..."
-flavor_maurya_16.a:0 "Very interesting..."
-flavor_maurya.16.tt:0 "Countries that border #Y [GetCountry('MRY').GetName]#! will gain access to the #Y Mauryan Collapse#! Wargoal, which has reduced conquest cost."
-
 flavor_maurya_17_title:0 "Indo-Greek Ways"
 flavor_maurya_17_desc:0 "The Mauryan kingdom was too far in decline to be repaired, despite the efforts of many to claim the mantle for themselves. Instead of trying to reforge what should remain broken, we have decided to create a new kingdom, one that embraces the cultures of the many peoples that live under our banner; we shall not attempt to piece together the shattered legitimacy of the Maurya, but shall create an Indo-Greek dynasty of our own that will become more powerful than any that have preceded us."
 flavor_maurya_17.a:0 "Kapisa is now our home"

@@ -906,7 +906,6 @@ interesting_histories_country_events.33 = {
 		is_ai = no
 		OR = {
 			tag = AES
-			tag = SLO
 			tag = VND
 			tag = SUD
 		}

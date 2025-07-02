@@ -6,17 +6,6 @@
 		} 
 }
 
-CRS = {
-	pattern="pattern_solid.tga"
-	color1 = cherusci_blue
-	color2 = cherusci_blue
-	colored_emblem={
-		color1 = cherusci_black
-		color2 = mid_grey
-		texture = "ce_deer_cheruscia.dds"
-	}
-}
-
 CHC = {
 	pattern = "pattern_viking_13.dds"
 	color1 = chauci_magenta

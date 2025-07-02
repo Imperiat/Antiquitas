@@ -73,7 +73,7 @@ interesting_treasures.1 = {
 			treasure:treasure_it_divine_spoons_of_durotriges = { transfer_treasure_to_country = c:DUR }
 			treasure:treasure_it_votive_stone_of_hludana = { transfer_treasure_to_country = c:SWE }
 			treasure:treasure_it_perun_thunder_god_idol = { transfer_treasure_to_country = c:VND }
-			treasure:treasure_it_medeina_forest_mother = { transfer_treasure_to_country = c:SLO }
+			treasure:treasure_it_medeina_forest_mother = { transfer_treasure_to_country = c:VND }
 			treasure:treasure_it_otherworld_portal = { transfer_treasure_to_country = c:SLV }
 			treasure:treasure_it_lusitanian_silver_breastplate = { transfer_treasure_to_country = c:PAE }
 			treasure:treasure_it_euryleonis_bronze_statue = { transfer_treasure_to_country = c:SPA }

@@ -2386,18 +2386,6 @@ MNP = {
 	}
 }
 
-#Treveria
-TVI = {
-	pattern = "pattern_solid.tga"
-	color1 = rgb {  56  84  5  }
-	color2 = rgb {  56  84  5  }
-
-	colored_emblem = {
-		texture = "ce_treveria.dds"
-		color1 = rgb {  225  225  31  }
-	}
-}
-
 #Boihaemia / Boii of Bohemia
 BOA = {
 	pattern = "pattern_solid.tga"

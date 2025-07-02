@@ -1801,7 +1801,7 @@ treasure_manager = {
                 local_unrest = -0.3
             }
         }
-        858 = { # SLO
+        858 = { # VND
             key = "treasure_it_medeina_forest_mother"
             icon = "treasure_it_medeina_forest_mother"
             state_modifier = {

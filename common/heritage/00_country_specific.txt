@@ -1331,7 +1331,6 @@ pyrenean_heritage = { # added
 #
 #	trigger = {
 #		OR = {
-#			tag = CLC
 #			tag = AVC # kept as mod version
 #			tag = VCI # kept as mod version
 #			tag = NRI
@@ -6368,36 +6367,6 @@ caledonia_heritage = {
 	}
 }
 
-cornavia_heritage = {
-	modifier = {
-		#good
-		naval_damage_taken = -0.1
-		global_export_commerce_modifier = 0.05
-	   
-		#bad
-		global_supply_limit_modifier = -0.05
-	}
-   
-	trigger = {
-		tag = CON
-	}
-}
-
-carnonacia_heritage = {
-	modifier = {
-		#good
-		global_tribesmen_output = 0.1
-		naval_morale_modifier = 0.05
-	   
-		#bad
-		country_civilization_value = -3
-	}
-   
-	trigger = {
-		tag = CAN
-	}
-}
-
 monapia_heritage = {
 	modifier = {
 		#good
@@ -6658,20 +6627,20 @@ fugandulu_heritage = {
 }
 
 beikthano_heritage = {
-	modifier = {
-		#good
-		global_defensive = 0.05
-		monthly_legitimacy = 0.05
-		traditionalist_party_influence = 0.05
-		monthly_centralization = 0.05
-	   
-		#bad
-		global_pop_assimilation_speed_modifier = -0.03
-	}
+    modifier = {
+        #good
+        global_defensive = 0.05
+        monthly_legitimacy = 0.05
+        traditionalist_party_influence = 0.05
+        monthly_centralization = 0.05
+       
+        #bad
+        global_pop_assimilation_speed_modifier = -0.03
+    }
    
-	trigger = {
-		tag = BKT
-	}
+    trigger = {
+        tag = BKT
+    }
 }
 
 beinnaka_heritage = {

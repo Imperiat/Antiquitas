@@ -309,18 +309,6 @@ IDK = {
 	}	
 }
 
-#Sefia
-SFI = {
-	pattern="pattern_solid.tga"
-	color1 = rgb { 30  30  30 }
-	color2 = rgb { 30  30  30 }
-	colored_emblem={
-		texture = "ce_sefia_dolphins.dds"
-		color1 = rgb { 78  122  163 }
-		color2 = "iberian_sun"	
-	}	
-}
-
 #Ausetania
 AUI = {
 	pattern="pattern_solid.tga"

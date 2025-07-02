@@ -611,27 +611,6 @@ CMB = {
 	}
 }
 
-CLC = {
-	pattern = "pattern_solid.tga"
-	color1 = "ck2_black"
-	color2 = "offwhite"
-	
-	colored_emblem = {
-		texture = "ce_tree_01.dds"
-		color1 = "offwhite"
-		
-		instance = { scale = { 0.75 0.75 }  position = { 0.50 0.50 } }
-	}
-	
-	colored_emblem = {
-		texture = "ce_border_triangles_01.dds"
-		color1 = "offwhite"
-		
-		instance = { scale = { 1.0 1.0 }  position = { 0.50 0.50 } }
-		instance = { scale = { 1.0 1.0 }  position = { 0.50 0.50 } rotation = 180 }
-	}
-}
-
 MAP={
 	pattern="pattern_solid.tga"
 	color1=pitch_black	color2=bone_white	color3=roman_red	colored_emblem={

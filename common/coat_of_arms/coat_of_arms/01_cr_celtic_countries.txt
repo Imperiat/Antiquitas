@@ -1,16 +1,5 @@
 ﻿###### Belgic ######
 
-MDM = { #Mediomatrici
-	color1 = "mediomatrici_green"
-	color2 = "mediomatrici_brown"
-
-	colored_emblem = {
-		texture = "cr_belgic_mediomatrici_01.dds"
-		color1 = "mediomatrici_brown"
-		color2 = "mediomatrici_green"
-	}
-}
-
 NMI = { #Nemeti
 	color1 = "nementia_dark_orange"
 	color2 = "nemetia_orange"
@@ -180,17 +169,6 @@ CMI = { #Aulerica
 	}
 }
 
-CRN = { #Carnutes
-	color1 = "carnutes_blue2"
-	color2 = "carnutes_blue1"
-
-	colored_emblem = {
-		texture = "cr_gallic_carnutes_01.dds"
-		color1 = "carnutes_blue1"
-		color2 = "carnutes_blue2"
-	}
-}
-
 EBV = { #Eburovices
 	color1 = "eburovices_mustard"
 	color2 = "eburovices_copper"
@@ -269,17 +247,6 @@ SSS = { #Suessiones
 		texture = "cr_gallic_suessiones_01.dds"
 		color1 = "suessiones_yellow"
 		color2 = "suessiones_bone"
-	}
-}
-
-TRC = { #Tricases
-	color1 = "tricases_white"
-	color2 = "tricases_blue"
-
-	colored_emblem = {
-		texture = "cr_gallic_tricasses_01.dds"
-		color1 = "tricases_blue"
-		color2 = "tricases_white"
 	}
 }
 
