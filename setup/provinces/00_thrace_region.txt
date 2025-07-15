@@ -185,10 +185,10 @@
 		amount="3"
 	}
 	freemen={
-		amount="24"
+		amount="5"
 	}
 	slaves={
-		amount="17"
+		amount="3"
 	}
 	port_building=1
 }

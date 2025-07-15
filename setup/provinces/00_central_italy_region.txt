@@ -124,13 +124,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="13"
+		amount="5"
 	}
 	freemen={
-		amount="8"
+		amount="3"
 	}
 	slaves={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="2"
