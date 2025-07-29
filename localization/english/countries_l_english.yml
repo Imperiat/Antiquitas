@@ -2264,8 +2264,8 @@
  LCS_ADJ:0 "Locrian"
  MOL:0 "Molossia"
  MOL_ADJ:0 "Molossian"
- CH1:0 "Chaonia"
- CH1_ADJ:0 "Chaonian"
+ CHA:0 "Chaonia"
+ CHA_ADJ:0 "Chaonian"
  THP:0 "Thesprotia"
  THP_ADJ:0 "Thesprotian"
 
