@@ -850,7 +850,7 @@ military_experience = {
 }
 
 religious_unity = {
-	omen_power = 0.82 #Antiquitas - changed from 1.0 to 0.82
+	omen_power = 0.85 #Antiquitas - changed from 1.0 to 0.85
 	next_ruler_legitimacy = 20
 }
 

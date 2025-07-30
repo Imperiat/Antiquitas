@@ -147,7 +147,7 @@ NCountry = {
 
 	POTENTIAL_MISSION_COUNT = 4 # Number of random missions to pick between
 
-	EXPECTED_DEITY_COUNT = 6 # Number of deities each country is expected to have at game start. 
+	EXPECTED_DEITY_COUNT = 6 # Number of deities each country is expected to have at game start.
 
 	CHANGE_PANTHEON_OMEN_COOLDOWN_MONTHS = 36 # Cooldown period in months after a country changes it's pantheon. No omens can be called on that deity during this cooldown period. 
 	
@@ -343,8 +343,8 @@ NUnit = {
 
 	DISBAND_MANPOWER_RESTORE = 0.25
 	
-	LAND_MORALE = 1.65 #Antiquitas - changed from 3.0 to 1.65
-	NAVAL_MORALE = 1.65 #Antiquitas - changed from 3.0 to 1.65
+	LAND_MORALE = 1.875 #Antiquitas - changed from 3.0 to 1.875
+	NAVAL_MORALE = 1.875 #Antiquitas - changed from 3.0 to 1.875
 	
 	MOVEMENT_LOCKED = 0.5
 	LOW_MORALE_THRESHOLD = 0.5
