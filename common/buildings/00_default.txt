@@ -341,7 +341,7 @@ library_building = { #Library
 	local_nobles_output = 0.01
 	local_citizen_output = 0.01
 	local_pop_promotion_speed = 0.25
-	local_nobles_desired_pop_ratio = 0.01
+	local_nobles_desired_pop_ratio = 0.02
 	local_country_civilization_value = 0.5
 
 	cost = 160
@@ -448,7 +448,7 @@ theathre_building = { #Grand Theater
 
 military_building = { #Conscription Camp
 	local_manpower_modifier = 0.05
-	local_freemen_desired_pop_ratio = 0.02
+	local_freemen_desired_pop_ratio = 0.01
 	local_country_civilization_value = 0.5
 
 	cost = 160
@@ -581,7 +581,7 @@ temple_building = { #Great Temple
 recreation_building = { #Public Bath
 	local_nobles_happyness = 0.02
 	local_citizen_happyness = 0.02
-	local_citizen_desired_pop_ratio = 0.01
+	local_citizen_desired_pop_ratio = 0.02
 	local_pop_assimilation_speed = 0.02
 	local_pop_conversion_speed = 0.02
 	local_country_civilization_value = 0.5
@@ -798,7 +798,6 @@ agriculture_building = { #Farming Settlement
 military_harbor_building = { #Shipyard
 	local_ship_recruit_speed = 0.5
 	local_ship_start_experience = 20
-	local_freemen_desired_pop_ratio = 0.05
 
 	cost = 320
 	time = 360
