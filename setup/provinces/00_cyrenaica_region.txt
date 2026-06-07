@@ -1063,7 +1063,7 @@
 	trade_goods="dates"
 	civilization_value=36
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="2"
 	}

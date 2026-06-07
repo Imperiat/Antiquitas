@@ -402,7 +402,7 @@
 	trade_goods="myrrh"
 	civilization_value=21
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="3"
 	}
@@ -424,7 +424,7 @@
 	trade_goods="myrrh"
 	civilization_value=21
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="4"
 	}
@@ -480,7 +480,7 @@
 	trade_goods="spices"
 	civilization_value=19
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="4"
 	}
@@ -564,7 +564,7 @@
 	trade_goods="spices"
 	civilization_value=21
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	slaves={
 		amount="2"
 	}
@@ -599,7 +599,7 @@
 	trade_goods="gems"
 	civilization_value=30
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1267,7 +1267,7 @@
 	trade_goods="myrrh"
 	civilization_value=18
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="4"
 	}
@@ -1382,7 +1382,7 @@
 	trade_goods="incense"
 	civilization_value=17
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="2"
 	}
@@ -1656,7 +1656,7 @@
 	trade_goods="tortoise_shell"
 	civilization_value=20
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}

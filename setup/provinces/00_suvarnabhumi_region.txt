@@ -197,7 +197,7 @@
 	trade_goods="incense"
 	civilization_value=15
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -346,7 +346,7 @@
 	trade_goods="glass"
 	civilization_value=17
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -525,7 +525,7 @@
 	trade_goods="iron"
 	civilization_value=13
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}
@@ -827,7 +827,7 @@
 	trade_goods="sugar"
 	civilization_value=14
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -888,7 +888,7 @@
 	trade_goods="glass"
 	civilization_value=13
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}

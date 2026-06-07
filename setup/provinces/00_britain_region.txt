@@ -62,7 +62,7 @@
 	trade_goods="base_metals"
 	civilization_value=16
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -249,7 +249,7 @@
 	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}
@@ -408,7 +408,7 @@
 	trade_goods="hemp"
 	civilization_value=16
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=2
 	}
@@ -540,7 +540,7 @@
 	trade_goods="earthware"
 	civilization_value=14
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}
@@ -617,7 +617,7 @@
 	trade_goods="earthware"
 	civilization_value=21
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}
