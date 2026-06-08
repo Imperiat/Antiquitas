@@ -5,7 +5,7 @@
 	trade_goods="marble"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -22,8 +22,6 @@
 		amount="2"
 	}
 	port_building=1
-	forum_building=1
-	shrine_building=1
 }
 277={ # Skyros
 	terrain="hills"
@@ -117,7 +115,7 @@
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -135,7 +133,6 @@
 	}
 	holy_site="omen_ariadne"
 	port_building=1
-	agriculture_building=1
 }
 359={ # Chersonesos Kriti
 	terrain="hills"
@@ -366,7 +363,7 @@
 	trade_goods="wine"
 	civilization_value=28
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="3"
 	}
@@ -377,8 +374,6 @@
 		amount="1"
 	}
 	port_building=1
-	forum_building=1
-	shrine_building=1
 }
 406={ # Anthedon
 	terrain="hills"
@@ -408,7 +403,7 @@
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -425,9 +420,6 @@
 		amount="2"
 	}
 	port_building=1
-	forum_building=1
-	shrine_building=1
-	production_building=1
 }
 409={ # Karystos
 	terrain="hills"
@@ -625,7 +617,7 @@
 	trade_goods="base_metals"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -641,9 +633,6 @@
 	slaves={
 		amount="2"
 	}
-	forum_building=1
-	shrine_building=1
-	agriculture_building=1
 }
 424={ # Delphi
 	terrain="mountain"
@@ -652,7 +641,7 @@
 	trade_goods="wood"
 	civilization_value=26
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -670,9 +659,6 @@
 	}
 	holy_site="omen_apollo"
 	port_building=1
-	commerce_building=1
-	shrine_building=1
-	agriculture_building=1
 }
 425={ # Dodona
 	terrain="mountain"
@@ -1008,7 +994,7 @@
 	trade_goods="wine"
 	civilization_value=54
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1026,8 +1012,7 @@
 	}
 	holy_site="omen_asclepius"
 	port_building=1
-	shrine_building=1
-	healthcare_building=2
+	healthcare_building=1
 }
 442={ # Aigina
 	terrain="plains"
@@ -1287,7 +1272,7 @@
 	trade_goods="marble"
 	civilization_value=6
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1514,7 +1499,7 @@
 }
 467={ # Orikos
 	terrain="hills"
-	culture="epirote"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fish"
 	civilization_value=9
@@ -1709,7 +1694,7 @@
 	trade_goods="base_metals"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1727,9 +1712,6 @@
 	}
 	holy_site="omen_poseidon"
 	port_building=1
-	forum_building=1
-	shrine_building=1
-	production_building=1
 }
 1903={ # Andros
 	terrain="hills"
@@ -2100,7 +2082,7 @@
 	trade_goods="wood"
 	civilization_value=30
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -2196,7 +2178,7 @@
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -2213,8 +2195,6 @@
 		amount="2"
 	}
 	port_building=1
-	forum_building=1
-	shrine_building=1
 }
 8016={ # Lappa
 	terrain="hills"
