@@ -22,7 +22,7 @@
 }
 363={ # Neapolis Thrake
 	terrain="plains"
-	culture="macedonian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=26
@@ -37,7 +37,7 @@
 }
 364={ # Krenides
 	terrain="farmland"
-	culture="macedonian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="iron"
 	civilization_value=40
@@ -49,7 +49,7 @@
 }
 365={ # Amphipolis
 	terrain="hills"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="precious_metals"
 	civilization_value=33
@@ -79,7 +79,7 @@
 }
 369={ # Sirra
 	terrain="plains"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="wine"
 	civilization_value=26
@@ -94,7 +94,7 @@
 }
 371={ # Euporia
 	terrain="plains"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="glass"
 	civilization_value=26
@@ -204,7 +204,7 @@
 }
 379={ # Pella
 	terrain="farmland"
-	culture="macedonian"
+	culture="paeonian"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=47
@@ -265,7 +265,7 @@
 }
 383={ # Europos
 	terrain="farmland"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="olive"
 	civilization_value=28
@@ -280,7 +280,7 @@
 }
 384={ # Gortynia
 	terrain="plains"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="citrus"
 	civilization_value=26
@@ -295,7 +295,7 @@
 }
 385={ # Tauriana
 	terrain="plains"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=26
@@ -310,7 +310,7 @@
 }
 386={ # Asseros
 	terrain="farmland"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=28
@@ -566,7 +566,7 @@
 }
 408={ # Arnisa
 	terrain="forest"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=24
@@ -596,7 +596,7 @@
 }
 412={ # Lychidnos
 	terrain="mountain"
-	culture="epirote"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -656,7 +656,7 @@
 }
 422={ # Apollonia
 	terrain="farmland"
-	culture="italiotian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
@@ -686,7 +686,7 @@
 }
 455={ # Dimalion
 	terrain="farmland"
-	culture="taulantian"
+	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods="olive"
 	civilization_value=22
@@ -698,7 +698,7 @@
 }
 497={ # Sintia
 	terrain="hills"
-	culture="macedonian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="iron"
 	civilization_value=24
@@ -722,7 +722,7 @@
 }
 499={ # Spinopara
 	terrain="farmland"
-	culture="triballoi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=13
@@ -735,7 +735,7 @@
 }
 1445={ # Kodrion
 	terrain="mountain"
-	culture="epirote"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=16
@@ -817,7 +817,7 @@
 }
 3356={ # Beoue
 	terrain="mountain"
-	culture="epirote"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=22
@@ -832,7 +832,7 @@
 }
 4096={ # Scupi
 	terrain="farmland"
-	culture="dardanian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=12
@@ -848,7 +848,7 @@
 }
 4097={ # Helice
 	terrain="hills"
-	culture="triballoi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -861,7 +861,7 @@
 }
 4117={ # Pautalia
 	terrain="hills"
-	culture="dardanian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="base_metals"
 	civilization_value=8
@@ -873,7 +873,7 @@
 }
 4152={ # Tranupara
 	terrain="farmland"
-	culture="dardanian"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="woad"
 	civilization_value=12

@@ -1,6 +1,6 @@
 ﻿477={ # Serdica
 	terrain="hills"
-	culture="triballoi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=9
@@ -60,7 +60,7 @@
 }
 4116={ # Ballanstra
 	terrain="hills"
-	culture="triballoi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -456,7 +456,7 @@
 }
 4234={ # Melta
 	terrain="plains"
-	culture="triballoi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=10
@@ -477,7 +477,7 @@
 }
 4235={ # Sostra
 	terrain="hills"
-	culture="odrysi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8

@@ -281,7 +281,7 @@
 }
 362={ # Abdera
 	terrain="plains"
-	culture="thracian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=31
@@ -653,7 +653,7 @@
 }
 3853={ # Sparata
 	terrain="hills"
-	culture="odrysi"
+	culture="paeonian"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=18
