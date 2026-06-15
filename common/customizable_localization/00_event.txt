@@ -4293,6 +4293,11 @@ get_random_culture = {
 	}
 	
 	text = {
+		localization_key = chalcidian
+		trigger = { always = yes }
+	}
+	
+	text = {
 		localization_key = parthinian
 		trigger = { always = yes }
 	}
@@ -4689,6 +4694,11 @@ get_random_culture = {
  
 	text = {
 		localization_key = phrygian
+		trigger = { always = yes }
+	}
+
+	text = {
+		localization_key = mygdonian
 		trigger = { always = yes }
 	}
  

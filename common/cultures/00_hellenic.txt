@@ -239,6 +239,7 @@
 	}
 	culture = {
 		macedonian = { levy_template = levy_macedonian }
+		chalcidian = { }
 		italiotian = { levy_template = levy_magna_graecia }
 		thracian = { }
 		kerkyran = { }

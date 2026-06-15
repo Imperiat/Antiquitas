@@ -612,7 +612,7 @@
 }
 5064={ # 
 	terrain="impassable_terrain"
-	culture="boeotian"
+	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -621,7 +621,7 @@
 }
 5065={ # 
 	terrain="impassable_terrain"
-	culture="doric"
+	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -630,7 +630,7 @@
 }
 5066={ # 
 	terrain="impassable_terrain"
-	culture="thessalian"
+	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -666,8 +666,8 @@
 }
 5070={ # 
 	terrain="impassable_terrain"
-	culture="epirote"
-	religion="roman_pantheon"
+	culture="taulantian"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -693,7 +693,7 @@
 }
 5073={ # 
 	terrain="impassable_terrain"
-	culture="macedonian"
+	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -702,8 +702,8 @@
 }
 5074={ # 
 	terrain="impassable_terrain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="taulantian"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -712,7 +712,7 @@
 5075={ # 
 	terrain="impassable_terrain"
 	culture="taulantian"
-	religion="roman_pantheon"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -873,7 +873,7 @@
 }
 5093={ # Upper Dardania
 	terrain="impassable_terrain"
-	culture="greco_illyrian"
+	culture="dardanian"
 	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -900,8 +900,8 @@
 }
 5096={ # 
 	terrain="impassable_terrain"
-	culture="dardanian"
-	religion="shamanism"
+	culture="taulantian"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -936,8 +936,8 @@
 }
 5100={ # 
 	terrain="impassable_terrain"
-	culture="macedonian"
-	religion="roman_pantheon"
+	culture="paeonian"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -954,8 +954,8 @@
 }
 5102={ # 
 	terrain="impassable_terrain"
-	culture="celtic_pannonian"
-	religion="shamanism"
+	culture="paeonian"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -981,8 +981,8 @@
 }
 5105={ # 
 	terrain="impassable_terrain"
-	culture="triballoi"
-	religion="shamanism"
+	culture="paeonian"
+	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -6255,7 +6255,7 @@
 }
 7797={ # Parnassus Mons
 	terrain="impassable_terrain"
-	culture="boeotian"
+	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -6273,7 +6273,7 @@
 }
 7801={ # 
 	terrain="impassable_terrain"
-	culture="doric"
+	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
