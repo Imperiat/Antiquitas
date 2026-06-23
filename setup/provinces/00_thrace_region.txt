@@ -5,7 +5,7 @@
 	trade_goods="pearls"
 	civilization_value=24
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="4"
 	}
@@ -38,7 +38,7 @@
 }
 341={ # Philia
 	terrain="forest"
-	culture="thracian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="fish"
 	civilization_value=24
@@ -125,7 +125,7 @@
 	trade_goods="cloth"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="1"
 	}
@@ -139,12 +139,12 @@
 }
 348={ # Bergoule
 	terrain="forest"
-	culture="thracian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="3"
 	}
@@ -180,7 +180,7 @@
 	trade_goods="salt"
 	civilization_value=37
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="3"
 	}
@@ -286,7 +286,7 @@
 	trade_goods="stone"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="3"
 	}
@@ -305,7 +305,7 @@
 	trade_goods="wood"
 	civilization_value=23
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="4"
 	}
@@ -341,7 +341,7 @@
 	trade_goods="wine"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="3"
 	}
@@ -351,7 +351,7 @@
 }
 481={ # Anchialos
 	terrain="plains"
-	culture="bosporan"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=26
@@ -369,7 +369,7 @@
 	trade_goods="cloth"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="3"
 	}
@@ -618,7 +618,7 @@
 	trade_goods="pearls"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -654,7 +654,7 @@
 3853={ # Sparata
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0

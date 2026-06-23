@@ -53,7 +53,7 @@
 	trade_goods="earthware"
 	civilization_value=14
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=3
 	}
@@ -937,7 +937,7 @@
 	trade_goods="wood"
 	civilization_value=16
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=1
 	}
@@ -970,7 +970,7 @@
 	trade_goods="fur"
 	civilization_value=14
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount=1
 	}

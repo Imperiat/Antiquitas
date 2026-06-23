@@ -699,7 +699,7 @@
 	trade_goods="wine"
 	civilization_value=18
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount=4
 	}

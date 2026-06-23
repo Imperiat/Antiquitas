@@ -466,7 +466,7 @@
 	trade_goods="fish"
 	civilization_value=15
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="1"
 	}
@@ -1019,7 +1019,7 @@
 	trade_goods="salt"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="1"
 	}
@@ -1190,7 +1190,7 @@
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="2"
 	}

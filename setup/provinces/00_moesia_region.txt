@@ -1,7 +1,7 @@
 ﻿477={ # Serdica
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -61,7 +61,7 @@
 4116={ # Ballanstra
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -457,7 +457,7 @@
 4234={ # Melta
 	terrain="plains"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -478,7 +478,7 @@
 4235={ # Sostra
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -707,7 +707,7 @@
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -727,7 +727,7 @@
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="1"
 	}
@@ -806,7 +806,7 @@
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -828,7 +828,7 @@
 	trade_goods="salt"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="1"
 	}
@@ -927,7 +927,7 @@
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -970,7 +970,7 @@
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="1"
 	}

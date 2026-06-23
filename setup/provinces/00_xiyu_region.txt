@@ -877,7 +877,7 @@
 	trade_goods="spices"
 	civilization_value=23
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="2"
 	}
@@ -1043,7 +1043,7 @@
 	trade_goods="silk"
 	civilization_value=24
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="2"
 	}

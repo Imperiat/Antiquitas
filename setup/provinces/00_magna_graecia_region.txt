@@ -5,7 +5,7 @@
 	trade_goods="wine"
 	civilization_value=37
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -30,7 +30,7 @@
 	trade_goods="cloth"
 	civilization_value=37
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="3"
 	}
@@ -117,7 +117,7 @@
 	trade_goods="wood"
 	civilization_value=14
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -141,7 +141,7 @@
 	trade_goods="fruits"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -214,7 +214,7 @@
 	trade_goods="horses"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -311,7 +311,7 @@
 	trade_goods="wine"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -336,7 +336,7 @@
 	trade_goods="hemp"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -588,7 +588,7 @@
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -631,7 +631,7 @@
 	trade_goods="hemp"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -656,7 +656,7 @@
 	trade_goods="olive"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -827,7 +827,7 @@
 	trade_goods="salt"
 	civilization_value=13
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -924,7 +924,7 @@
 	trade_goods="olive"
 	civilization_value=18
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1070,7 +1070,7 @@
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1095,7 +1095,7 @@
 	trade_goods="earthware"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1145,7 +1145,7 @@
 	trade_goods="wood"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="3"
 	}
@@ -1213,7 +1213,7 @@
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1256,7 +1256,7 @@
 	trade_goods="stone"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1299,7 +1299,7 @@
 	trade_goods="glass"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="4"
 	}
@@ -1386,7 +1386,7 @@
 	trade_goods="horses"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="3"
 	}
@@ -1484,7 +1484,7 @@
 	trade_goods="salt"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="1"
 	}
@@ -1599,7 +1599,7 @@
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1666,7 +1666,7 @@
 	trade_goods="base_metals"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	freemen={
 		amount="3"
 	}
@@ -1768,7 +1768,7 @@
 	trade_goods="glass"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1816,7 +1816,7 @@
 	trade_goods="hemp"
 	civilization_value=31
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
@@ -1936,7 +1936,7 @@
 	trade_goods="stone"
 	civilization_value=29
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="1"
 	}
