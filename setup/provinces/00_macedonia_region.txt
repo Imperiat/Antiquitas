@@ -1,6 +1,6 @@
 ﻿356={ # Thasos
 	terrain="hills"
-	culture="macedonian"
+	culture="chalcidian"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=24
@@ -50,7 +50,7 @@
 365={ # Amphipolis
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=33
 	barbarian_power=0
@@ -61,7 +61,7 @@
 }
 366={ # Stageira
 	terrain="hills"
-	culture="macedonian"
+	culture="chalcidian"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
@@ -80,7 +80,7 @@
 369={ # Sirra
 	terrain="plains"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="wine"
 	civilization_value=26
 	barbarian_power=0
@@ -95,7 +95,7 @@
 371={ # Euporia
 	terrain="plains"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="glass"
 	civilization_value=26
 	barbarian_power=0
@@ -128,7 +128,7 @@
 }
 374={ # Kalindoia
 	terrain="hills"
-	culture="macedonian"
+	culture="mygdonian"
 	religion="anatolian_religion"
 	trade_goods="olive"
 	civilization_value=24
@@ -146,7 +146,7 @@
 }
 376={ # Poteidaia
 	terrain="plains"
-	culture="macedonian"
+	culture="chalcidian"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
@@ -165,7 +165,7 @@
 }
 377={ # Akanthos
 	terrain="hills"
-	culture="macedonian"
+	culture="chalcidian"
 	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=24
@@ -184,7 +184,7 @@
 }
 378={ # Olynthos
 	terrain="hills"
-	culture="macedonian"
+	culture="chalcidian"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
@@ -266,7 +266,7 @@
 383={ # Europos
 	terrain="farmland"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="olive"
 	civilization_value=28
 	barbarian_power=0
@@ -281,7 +281,7 @@
 384={ # Gortynia
 	terrain="plains"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="citrus"
 	civilization_value=26
 	barbarian_power=0
@@ -296,7 +296,7 @@
 385={ # Tauriana
 	terrain="plains"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=26
 	barbarian_power=0
@@ -311,7 +311,7 @@
 386={ # Asseros
 	terrain="farmland"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="grain"
 	civilization_value=28
 	barbarian_power=0
@@ -346,7 +346,7 @@
 	trade_goods="horses"
 	civilization_value=37
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	nobles={
 		amount="2"
 	}
@@ -482,7 +482,7 @@
 397={ # Stobi
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=23
 	barbarian_power=0
@@ -567,7 +567,7 @@
 408={ # Arnisa
 	terrain="forest"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -611,7 +611,7 @@
 }
 414={ # Keirpara
 	terrain="hills"
-	culture="paeonian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="iron"
 	civilization_value=24
@@ -699,7 +699,7 @@
 497={ # Sintia
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="iron"
 	civilization_value=24
 	barbarian_power=0
@@ -711,7 +711,7 @@
 498={ # Scaptopara
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=18
 	barbarian_power=0
@@ -723,7 +723,7 @@
 499={ # Spinopara
 	terrain="farmland"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=13
 	barbarian_power=0
@@ -833,7 +833,7 @@
 4096={ # Scupi
 	terrain="farmland"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=12
 	barbarian_power=0
@@ -849,7 +849,7 @@
 4097={ # Helice
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=9
 	barbarian_power=0
@@ -862,7 +862,7 @@
 4117={ # Pautalia
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=8
 	barbarian_power=0
@@ -874,7 +874,7 @@
 4152={ # Tranupara
 	terrain="farmland"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="woad"
 	civilization_value=12
 	barbarian_power=0
@@ -886,7 +886,7 @@
 4153={ # Zapara
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -901,7 +901,7 @@
 4302={ # Doberos
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -913,7 +913,7 @@
 4303={ # Astraia
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=18
 	barbarian_power=0
@@ -925,7 +925,7 @@
 4304={ # Astibos
 	terrain="farmland"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
@@ -937,7 +937,7 @@
 4305={ # Bylazora
 	terrain="hills"
 	culture="paeonian"
-	religion="shamanism"
+	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -951,7 +951,7 @@
 }
 4306={ # Keirpara
 	terrain="mountain"
-	culture="paeonian"
+	culture="odrysi"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=16
@@ -968,7 +968,7 @@
 	trade_goods="earthware"
 	civilization_value=33
 	barbarian_power=0
-	province_rank="city"
+	province_rank="settlement"
 	citizen={
 		amount="2"
 	}

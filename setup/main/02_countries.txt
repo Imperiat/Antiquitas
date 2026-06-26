@@ -6152,7 +6152,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				379 381 382 383 384 428 #Macedonia
+				379 380 381 382 383 384 428 #Macedonia
 				400 408 3175 #Upper Macedonia
 			}
 			
@@ -6194,24 +6194,6 @@ country = {
 			}
 		}
 
-		DIO = {
-			government = aristocratic_monarchy
-			primary_culture = macedonian
-			religion = roman_pantheon
-			capital = 380
-			
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-
-			own_control_core = 	{
-				380
-			}
-		}
-
 		APS = {
 			government = tribal_kingdom
 			primary_culture = macedonian
@@ -6234,7 +6216,7 @@ country = {
 			government = aristocratic_monarchy
 			primary_culture = macedonian
 			religion = roman_pantheon
-			capital = 376
+			capital = 377
 			
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -6244,7 +6226,7 @@ country = {
 			}
 
 			own_control_core = 	{
-				376 377 378
+				377 378
 			}
 		}
 		
@@ -6271,7 +6253,7 @@ country = {
 
 		IMB = {
 			government = democratic_republic
-			primary_culture = attican
+			primary_culture = pelasgian
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 297
@@ -6290,7 +6272,7 @@ country = {
 
 		HST = {
 			government = democratic_republic
-			primary_culture = attican
+			primary_culture = pelasgian
 			religion = roman_pantheon
 			diplomatic_stance=trading_stance
 			capital = 270
@@ -6341,7 +6323,7 @@ country = {
 			}
 		
 			own_control_core = 	{
-				470
+				467 470
 			}
 			
 		}
@@ -6404,7 +6386,7 @@ country = {
 			}
 
 			own_control_core = 	{
-				3192 467 455
+				3192 455
 			}
 		}
 		
@@ -6445,13 +6427,13 @@ country = {
 			capital = 407
 		
 			own_control_core = 	{
-				407 7899
+				407 420 7899
 			}
 		}
 
 		SKY = {
 			government = oligarchic_republic
-			primary_culture = attican
+			primary_culture = pelasgian
 			religion = roman_pantheon
 			
 			technology={
@@ -6618,7 +6600,7 @@ country = {
 			}
 			
 			own_control_core = 	{
-				418 464
+				376 418 464
 			}
 		}
 
@@ -12979,7 +12961,7 @@ country = {
 			capital = 475
 		
 			own_control_core = {
-				399 475
+				475
 			}
 		}
 
@@ -13019,7 +13001,7 @@ country = {
 			capital = 389
 		
 			own_control_core = {
-				389 388 404 392 390 398 391 420
+				389 388 404 392 390 398 391
 			}
 		}
 		
@@ -13722,7 +13704,7 @@ country = {
 			}
 			
 			own_control_core = {
-				401 469
+				399 401 469
 			}
 		}
 		MOL = { # Molossia

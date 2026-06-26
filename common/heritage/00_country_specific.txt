@@ -3243,20 +3243,20 @@ apocopa_heritage = {
 	}
 }
 
-soqotra_heritage = {
-	modifier = {
-		#good
-		global_export_commerce_modifier = 0.15
-		price_state_investment_oratory_cost_modifier = -0.3
-
-		#bad
-		global_population_growth = -0.1
-	}
-
-	trigger = {
-		tag = DIO
-	}
-}
+#soqotra_heritage = {
+# 	modifier = {
+# 		#good
+# 		global_export_commerce_modifier = 0.15
+# 		price_state_investment_oratory_cost_modifier = -0.3
+# 
+# 		#bad
+# 		global_population_growth = -0.1
+# 	}
+# 
+# 	trigger = {
+# 		tag = DIO
+# 	}
+# }
 
 ### Arabian Heritages
 
