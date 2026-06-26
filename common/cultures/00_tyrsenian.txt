@@ -346,6 +346,7 @@
 
 	culture = {
 		etruscan = {}
+		pelasgian = {}
 		rhaetian = {
 			levy_template = levy_rhaetian
 			male_names = {

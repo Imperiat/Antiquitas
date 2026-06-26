@@ -25,7 +25,7 @@
 }
 277={ # Skyros
 	terrain="hills"
-	culture="attican"
+	culture="pelasgian"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=23

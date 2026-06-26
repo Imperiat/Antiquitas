@@ -1,6 +1,6 @@
 ﻿270={ # Lemnos
 	terrain="hills"
-	culture="attican"
+	culture="pelasgian"
 	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=24
@@ -20,7 +20,7 @@
 }
 297={ # Imbros
 	terrain="hills"
-	culture="attican"
+	culture="pelasgian"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=19
@@ -635,7 +635,7 @@
 }
 1774={ # Samothrake
 	terrain="hills"
-	culture="macedonian"
+	culture="thracian"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=24
