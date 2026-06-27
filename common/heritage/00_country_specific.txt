@@ -6988,3 +6988,18 @@ istria_heritage = {
         tag = HIS
     }
 }
+
+aegina_heritage = {
+    modifier = {
+        #good
+        global_capital_trade_routes = 3
+        naval_morale_modifier = 0.1
+
+        #bad
+        diplomatic_relations = -1
+    }
+
+    trigger = {
+        tag = AGN
+    }
+}

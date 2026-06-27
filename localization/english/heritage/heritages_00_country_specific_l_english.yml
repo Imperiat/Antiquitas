@@ -1,6 +1,8 @@
 ﻿l_english:
  #ONLY for heritages with a specific tag(list) as trigger
  #Vanilla
+ aegina_heritage:0 "Aiginetan Heritage"
+ aegina_heritage_desc:0 "Anchored in the Saronic Gulf and famed for her silver 'turtle' staters, Aigina rose in the Archaic age as the mercantile rival of Athens and the mint that monetised much of Hellas. Tradition traced the island's earliest settlement to King Cychreus, while the Aiginetans themselves claimed descent from Aiakos and the Myrmidons. Successive waves of Argive and Epidaurian control ended with a violent secession to independence in the seventh century. By the late sixth, Aigina had become a teeming emporion with multiple harbors, a far-ranging merchant fleet, and a prolific mint whose high-silver staters set the Aiginetan standard that dominated Peloponnesian exchange. In the early fifth century her ships won the aristeia at Salamis, yet rivalry with Athens brought tribute status, siege, expulsion, and an Attic apoikia, before Lysander refounded the polis under Spartan oversight. Despite its small size, Aigina's boasted a population between 35,000 and 45,000 at its Classical peak,with metics and slaves rivaling citizen body in number. Aigina sent colonists to Kydonia, Adria, and Damastion, and her coinage spread from Naukratis to Illyria."
  corinthian_heritage:0 "Corinthian Heritage"
  corinthian_heritage_desc:0 "Corinth was one of the largest city-states in all of Greece. It played an important role as a highly defensive position in-between the rich states of Attica and the Peleponnese."
  roman_heritage:0 "Roman Heritage"
