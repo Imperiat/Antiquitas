@@ -130,9 +130,6 @@
  ###THRACE
  odrysian_heritage:0 "Odrysian Heritage"
  odrysian_heritage_desc:0 "The Odrysian Kingdom once ruled over the entire region of Thrace, before they were driven inland by the Macedonians. While they cannot match the economic might of their conquerors, they still remember the heritage of their former empire."
- ###ILLYRIA
- dardanian_heritage:0 "Dardanian Heritage"
- dardanian_heritage_desc:0 "The Dardanian kingdom looks back on a proud martial heritage, having extorted tribute from the defeated Molossians and Macedonians more than once."
  ###DECCAN
  deccan_heritage:0 "Deccan Heritage"
  deccan_heritage_desc:0 "Located at the intersection between Vedic and Dravidic cultures, the Deccan Plateau rapidly became a hotbed of cultural exchange. Despite this, its inland position, isolated from the sea by the northern empires and the Eastern and Western Ghats, prevented the region from engaging fully in the lucrative Tamil trade of South India."
@@ -888,9 +885,6 @@
  crobyzia_heritage_desc:0 "A Thracian tribe sitting alongside the great Istros river, opposite of the wily Getae, the Krobyzoi were a northern group in the Thracian sphere who had to deal with dangerous neighbors in their own creative ways. To their west were the ferocious Triballi and south of them were the Odrysians, whom all Thracians knew as hegemonic rulers within their culture. Strangely, the Krobyzoi were said to have worn no armor, at the most bearing a felt cap or the hat of some other design."
 
 ## Helladic Heritages
- ###Serdia
- serdia_heritage:0 "Heritage of Serdia"
- serdia_heritage_desc:0 "The Serdi tribe was likely one of the many Celtic groups which migrated into the north helladic region some time in the 4th century BCE during the celtic migrations. However, this tribe also exhibited Thracian qualities which may betray a mixed origin or a rather quick acculturation of some Thracian elements. Pressured by dangerous native Thracian tribes such as the Triballi and the Odrysians, these people are constantly pressured either to secure the perimeters of their territory or embark on yet another migration to weaker lands - all eyes look south towards a corrupt and weakening Macedon."
  ###Maedia
  maedia_heritage:0 "Heritage of Maedia"
  maedia_heritage_desc:0 "A Thracian tribe established on the Strymon river in the borderlands of Paeonia, the Maedi were a fiercely independent (as so recognized by the Odrysian king Sitalkes) and very rebellious tribe who fought against both Philip II and Alexander of Macedon. While the Maedi were well protected in their home with deep gorges and cliffsides, there remained many pressures on their safety from the burgeoning and constantly shifting populations to the north. The newly migrated celts and more powerful tribes gave good reason to look south for new and attainable lands… perhaps in Greece."

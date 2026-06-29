@@ -5001,21 +5001,6 @@ crobyzia_heritage = {
 
 ### Helladic Heritages
 
-serdia_heritage = {
-	modifier = {
-		#good
-		cultural_integration_speed_modifier = 0.2
-		global_pop_assimilation_speed_modifier = 0.1
-	   
-		#bad
-		army_maintenance_cost = 0.1
-	}
-   
-	trigger = {
-		tag = SDI
-	}
-}
-
 maedia_heritage = {
 	modifier = {
 		#good

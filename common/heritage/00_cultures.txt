@@ -495,8 +495,7 @@ illyrian_heritage = {
 	
 	trigger = {
 		country_culture_group = illyrian_group
-		NOR = {
-			tag = DRD
+		NOT = {
 			tag = TLN
 		}
 	}

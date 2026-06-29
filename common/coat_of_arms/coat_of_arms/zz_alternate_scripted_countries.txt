@@ -1697,26 +1697,6 @@ KRZ = {
 #Illyria / Dacia
 #######################################
 
-##Dardania, based on first coinage under Monunius
-DRD = {
-	pattern = "pattern_solid.tga"
-	color1 = rgb { 111 129 213 }	#country color
-	color2 = "offwhite"
-
-	colored_emblem = {
-		texture = "ce_dardania.dds"
-		color1 = "offwhite"
-	}
-	
-	colored_emblem = {
-		texture = "ce_border_meander_01.tga"		#make sure if is .tga or .dds
-		color1 = "offwhite"
-		color2 = rgb { 111 129 213 }	#country color
-		instance = { rotation = 0 }
-		instance = { rotation = 180 }
-	}
-}
-
 #Getia / Getae, taken from Helmet of Cotofenesti
 GTE = {
 	pattern = "pattern_solid.tga"

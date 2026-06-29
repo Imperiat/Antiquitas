@@ -5389,37 +5389,6 @@ country = {
 				4217 4221 4223 4220 4216 4215
 			}
 		}
-		
-		DRD = {
-			government = tribal_kingdom
-			primary_culture = dardanian
-			religion = shamanism
-		
-			historical_regnal_numbers = {
-				Bardylis = 1
-				Grabos = 1
-				Pleuratos = 1
-			}
-			
-			capital = 4152
-		
-			own_control_core = 	{
-				4108 4109 4152
-			}
-		}
-		
-		SDI = {
-			government = tribal_kingdom
-			primary_culture = celtic_pannonian
-			religion = druidism
-			centralization=10
-			
-			capital = 477
-		
-			own_control_core = 	{
-				477 4097 499
-			}
-		}
 
 		BNS = {
 			government = tribal_kingdom
