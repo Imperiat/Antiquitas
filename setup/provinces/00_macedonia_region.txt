@@ -857,7 +857,6 @@
 	tribesmen={
 		amount="6"
 	}
-	fortress_building=1
 }
 4117={ # Pautalia
 	terrain="hills"

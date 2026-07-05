@@ -5359,10 +5359,10 @@ country = {
 			primary_culture = taulantian
 			religion = illyrian_pantheon
 		
-			capital = 2336
+			capital = 422
 		
 			own_control_core = 	{
-				2336
+				422 2336
 			}
 		}
 		
@@ -5392,7 +5392,7 @@ country = {
 
 		BNS = {
 			government = tribal_kingdom
-			primary_culture = celtic_pannonian
+			primary_culture = paeonian
 			religion = shamanism
 			centralization=10
 			
@@ -6011,7 +6011,7 @@ country = {
 		PAA = {
 			government = tribal_kingdom
 			primary_culture = paeonian
-			religion = shamanism
+			religion = illyrian_pantheon
 			diplomatic_stance=appeasement_stance
 			capital = 397 #Stobi
 		
@@ -6022,13 +6022,13 @@ country = {
 		
 		MAD = {
 			government = tribal_kingdom
-			primary_culture = paeonian
+			primary_culture = odrysi
 			religion = shamanism
 			diplomatic_stance=appeasement_stance
 			capital = 414
 		
 			own_control_core = 	{
-				414 4306
+				364 414 4306
 			}
 		}
 		
@@ -12957,25 +12957,6 @@ country = {
 			}
 		}
 		
-		APO = { # Apollonia
-			government = oligarchic_republic
-			primary_culture = italiotian
-			religion = illyrian_pantheon
-		
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				oratory_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-			}
-		
-			capital = 415
-		
-			own_control_core = 	{
-				415
-			}
-		}
-		
 		# Anatolia
 		
 		SLG = { # Selgia
@@ -14903,6 +14884,633 @@ country = {
 			own_control_core = {
 				8656 8657 8660 8661 8662 8664 8617 8619 8658 9513
 			}
+		}
+		
+		AKN = {
+			government = democratic_republic
+			primary_culture = chalcidian
+			religion = roman_pantheon
+			capital = 377
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				377
+			}
+
+		}
+		
+		ALM = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 383
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				379 383
+			}
+
+		}
+		
+		AVI = {
+			government = democratic_republic
+			primary_culture = taulantian
+			religion = illyrian_pantheon
+			capital = 2213
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				2213
+			}
+
+		}
+		
+		BSL = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 371
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				371
+			}
+
+		}
+		
+		BYG = {
+			government = democratic_republic
+			primary_culture = phrygian
+			religion = anatolian_religion
+			capital = 455
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				455
+			}
+
+		}
+		
+		DAS = {
+			government = democratic_republic
+			primary_culture = taulantian
+			religion = illyrian_pantheon
+			capital = 3356
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				412 1445 3356
+			}
+
+		}
+		
+		DEN = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 499
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				498 499 4117
+			}
+
+		}
+		
+		DER = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 4152
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				4108 4109 4152
+			}
+
+		}
+		
+		DOE = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 4153
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				497 4153 4302
+			}
+
+		}
+		
+		EIM = {
+			government = democratic_republic
+			primary_culture = macedonian
+			religion = roman_pantheon
+			capital = 400
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				400
+			}
+
+		}
+		
+		EPN = {
+			government = democratic_republic
+			primary_culture = italiotian
+			religion = illyrian_pantheon
+			capital = 415
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				415
+			}
+
+		}
+		
+		HES = {
+			government = democratic_republic
+			primary_culture = thessalian
+			religion = roman_pantheon
+			capital = 396
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				395 396 
+			}
+
+		}
+		
+		KRE = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 386
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				385 386
+			}
+
+		}
+		
+		LYN = {
+			government = democratic_republic
+			primary_culture = epirote
+			religion = roman_pantheon
+			capital = 405
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				405 411
+			}
+
+		}
+		
+		MAG = {
+			government = democratic_republic
+			primary_culture = thessalian
+			religion = roman_pantheon
+			capital = 392
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				392
+			}
+
+		}
+		
+		MTN = {
+			government = democratic_republic
+			primary_culture = western_ionic
+			religion = roman_pantheon
+			capital = 6399
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				6399
+			}
+
+		}
+		
+		MYG = {
+			government = democratic_republic
+			primary_culture = mygdonian
+			religion = anatolian_religion
+			capital = 374
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				374
+			}
+
+		}
+		
+		ODO = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 369
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				369
+			}
+
+		}
+		
+		OLN = {
+			government = democratic_republic
+			primary_culture = chalcidian
+			religion = roman_pantheon
+			capital = 378
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				378
+			}
+
+		}
+		
+		ORS = {
+			government = democratic_republic
+			primary_culture = epirote
+			religion = roman_pantheon
+			capital = 3125
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				3125 3175
+			}
+
+		}
+		
+		PAT = {
+			government = democratic_republic
+			primary_culture = taulantian
+			religion = illyrian_pantheon
+			capital = 2264
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				2264
+			}
+
+		}
+		
+		PEO = {
+			government = democratic_republic
+			primary_culture = epirote
+			religion = roman_pantheon
+			capital = 393
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				393
+			}
+
+		}
+		
+		PHE = {
+			government = democratic_republic
+			primary_culture = thessalian
+			religion = roman_pantheon
+			capital = 391
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				390 391
+			}
+
+		}
+		
+		PHT = {
+			government = democratic_republic
+			primary_culture = achaean
+			religion = roman_pantheon
+			capital = 398
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				398
+			}
+
+		}
+		
+		PIA = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 365
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				365
+			}
+
+		}
+		
+		PLG = {
+			government = democratic_republic
+			primary_culture = thessalian
+			religion = roman_pantheon
+			capital = 389
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				388 389 404
+			}
+
+		}
+		
+		SAP = {
+			government = democratic_republic
+			primary_culture = odrysi
+			religion = shamanism
+			capital = 362
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				362
+			}
+
+		}
+		
+		STA = {
+			government = democratic_republic
+			primary_culture = chalcidian
+			religion = roman_pantheon
+			capital = 366
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				366
+			}
+
+		}
+		
+		TES = {
+			government = democratic_republic
+			primary_culture = thessalian
+			religion = roman_pantheon
+			capital = 394
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				394
+			}
+
+		}
+		
+		THR = {
+			government = democratic_republic
+			primary_culture = western_ionic
+			religion = roman_pantheon
+			capital = 373
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				373
+			}
+
+		}
+		
+		THS = {
+			government = democratic_republic
+			primary_culture = chalcidian
+			religion = roman_pantheon
+			capital = 356
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				356 363
+			}
+
+		}
+		
+		EOR = {
+			government = democratic_republic
+			primary_culture = paeonian
+			religion = illyrian_pantheon
+			capital = 408
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				408
+			}
+
+		}
+		
+		AMA = {
+			government = democratic_republic
+			primary_culture = taulantian
+			religion = illyrian_pantheon
+			capital = 3192
+			
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				oratory_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+		
+			own_control_core = 	{
+				3192
+			}
+
 		}
 	}
 }

@@ -6581,20 +6581,20 @@ robogdia_heritage = {
 
 ### Burmese Heritages
 
-arakan_heritage = {
-	modifier = {
-		#good
-		happiness_for_wrong_culture_group_modifier = 0.03
-		global_state_trade_routes = 0.15
-	   
-		#bad
-		global_pop_conversion_speed_modifier = -0.05
-	}
-   
-	trigger = {
-		tag = AKN
-	}
-}
+#arakan_heritage = {
+#	modifier = {
+#		#good
+#		happiness_for_wrong_culture_group_modifier = 0.03
+#		global_state_trade_routes = 0.15
+#	   
+#		#bad
+#		global_pop_conversion_speed_modifier = -0.05
+#	}
+#   
+#	trigger = {
+#		tag = AKN
+#	}
+#}
 
 fugandulu_heritage = {
 	modifier = {

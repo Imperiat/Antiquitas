@@ -222,6 +222,8 @@
  AKN_ADJ:0 "Akanthos"
  ALM:0 "Almopia"
  ALM_ADJ:0 "Almopian"
+ AMA:0 "Amantes"
+ AMA_ADJ:0 "Amante"
  AVI:0 "Cavii"
  AVI_ADJ:0 "Caviian"
  BSL:0 "Bisaltia"
@@ -238,6 +240,8 @@
  DOE_ADJ:0 "Doberian"
  EIM:0 "Elimeia"
  EIM_ADJ:0 "Elimean"
+ EOR:0 "Eordaia"
+ EOR_ADJ:0 "Eordaian"
  EPN:0 "Epidamnos"
  EPN_ADJ:0 "Epidamnian"
  HES:0 "Hestieotis"
@@ -272,8 +276,8 @@
  PHE_ADJ:0 "Pherian"
  PHT:0 "Phtiotis"
  PHT_ADJ:0 "Phtian"
- PIR:0 "Pieria"
- PIR_ADJ:0 "Pierian"
+ PIA:0 "Pieria"
+ PIA_ADJ:0 "Pierian"
  PLG:0 "Pelasgiotis"
  PLG_ADJ:0 "Thessalian"
  SAP:0 "Sapaeoi"
@@ -288,7 +292,7 @@
  THS_ADJ:0 "Thasian"
  TLN:0 "Taulantia"
  TLN_ADJ:0 "Taulantian"
-
+ 
  # MAGNA GRAECIA
  ACE:0 "Aeclanum"
  ACE_ADJ:0 "Aeclanumni"
