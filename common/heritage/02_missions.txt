@@ -105,21 +105,6 @@ pontic_league_heritage = {
 	}
 }
 
-alexander_heritage = {
-	modifier = {
-		#good
-		agressive_expansion_impact = -0.20
-		discipline = 0.05
-		
-		#bad
-		global_pop_assimilation_speed_modifier = -0.10
-	}
-	
-	trigger = {
-		always = no 
-	}
-}
-
 attalid_heritage = {
 	modifier = {
 		#good

@@ -18,7 +18,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
 }
 363={ # Neapolis Thrake
 	terrain="plains"
@@ -124,7 +123,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
 }
 374={ # Kalindoia
 	terrain="hills"
@@ -161,7 +159,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
 }
 377={ # Akanthos
 	terrain="hills"
@@ -180,7 +177,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
 }
 378={ # Olynthos
 	terrain="hills"
@@ -199,8 +195,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
-	port_building=1
 }
 379={ # Pella
 	terrain="farmland"
@@ -231,7 +225,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
 }
 381={ # Beroia
 	terrain="plains"
@@ -337,7 +330,6 @@
 	tribesmen={
 		amount="4"
 	}
-	fortress_building=1
 }
 389={ # Larissa
 	terrain="farmland"
@@ -362,7 +354,6 @@
 	slaves={
 		amount="2"
 	}
-	shrine_building=1
 }
 390={ # Pherai
 	terrain="farmland"
@@ -378,7 +369,6 @@
 	tribesmen={
 		amount="4"
 	}
-	fortress_building=1
 }
 391={ # Pagasai
 	terrain="hills"
@@ -977,9 +967,6 @@
 	tribesmen={
 		amount="4"
 	}
-	shrine_building=1
-	port_building=1
-	forum_building=1
 }
 8023={ # TempePass
 	terrain="mountain"

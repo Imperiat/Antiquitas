@@ -704,21 +704,6 @@ yilumo_heritage = {
 	}
 }
 
-tenasserim_heritage = {
-	modifier = {
-		#good
-		global_commerce_modifier = 0.05
-		global_monthly_food_modifier = 0.1
-
-		#bad
-		coastal_terrain_combat_bonus = -0.1
-	}
-
-	trigger = {
-		tag = TES
-	}
-}
-
 khao_sam_kaeo_heritage = {
 	modifier = {
 		#good

@@ -60,16 +60,16 @@ antigonid_heritage = {
 	}
 }
 
-cassanders_heritage = {
+alexander_heritage = {
 	modifier = {
 		#good
-		diplomatic_relations = 2
-		global_manpower_modifier = 0.05
-
+		agressive_expansion_impact = -0.20
+		discipline = 0.05
+		
 		#bad
-		diplomatic_reputation = -2
+		global_pop_assimilation_speed_modifier = -0.10
 	}
-
+	
 	trigger = {
 		tag = MAC
 	}
@@ -5439,6 +5439,21 @@ knossos_heritage = {
 	trigger = {
 		tag = KNO
 	}
+}
+
+lyktos_heritage = {
+    modifier = {
+        #good
+        enact_holy_site_cost_modifier = -0.15
+        global_monthly_state_loyalty = 0.02
+       
+        #bad
+        global_pop_promotion_speed_modifier = -0.05
+    }
+   
+    trigger = {
+        tag = LYK
+    }
 }
 
 ierapetra_heritage = {

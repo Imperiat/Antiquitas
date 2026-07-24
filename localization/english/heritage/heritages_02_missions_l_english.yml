@@ -23,7 +23,7 @@
  pontic_league_heritage_desc:0 "The Pontic colonies have lived rocky lives far away from their mother cities. Many of them have bordered the greatest and most diverse of empires, allowing citizens from all walks of life into their burgeoning agoras - this has made them a strong and tolerable bunch, as has their need to maintain a strong presence in the Bosporus in order to stabilize trade routes. Even though this makes them a cosmopolitan dream, their first citizens feel lost like foreigners in their own cities."
  #Mac Heritage
  alexander_heritage:0 "Heritage of Alexander"
- alexander_heritage_desc:0 "We have gained enough power and legitimacy to claim as successors of Alexander's Legacy, our family is linked by blood with Argead family, we'll continue his dreams of an Hellenic empire spawning from Macedon to Bactria."
+ alexander_heritage_desc:0 "Under the Argeads Macedon was built into the premier military force in the Greater Greek region."
  #Maurya Missions Heritages
  mauryan_revival_heritage:0 "Mauryan Revival"
  mauryan_revival_heritage_desc:0 "After the death of [Player.MakeScope.Var('ashoka_but_for_loc_local').GetCharacter.GetName], our nation fell into great decline. This did not deter us however. We pushed with all our might and were able to achieve greatness once more!"

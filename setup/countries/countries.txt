@@ -96,7 +96,7 @@ LND = "setup/countries/greece/lindos.txt"
 ILY = "setup/countries/greece/ialysus.txt"
 KMS = "setup/countries/greece/kameiros.txt"
 
-DRE = "setup/countries/greece/dreros.txt"
+LYK = "setup/countries/greece/lyktos.txt"
 KYD = "setup/countries/greece/kydonia.txt"
 GRT = "setup/countries/greece/gortyna.txt"
 IEP = "setup/countries/greece/ierapetra.txt"
