@@ -6,22 +6,20 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
+	commerce_building=1
 }
 277={ # Skyros
 	terrain="hills"
@@ -31,14 +29,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 344={ # Praesos
@@ -49,17 +50,14 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="2"
@@ -73,11 +71,14 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="2"
@@ -91,17 +92,14 @@
 	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="2"
@@ -123,13 +121,13 @@
 		amount="1"
 	}
 	freemen={
-		amount="6"
+		amount="3"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="4"
 	}
 	holy_site="omen_ariadne"
 	port_building=1
@@ -142,20 +140,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 361={ # Gortyna
@@ -173,15 +168,16 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-	slaves={
 		amount="2"
 	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="3"
+	}
 	port_building=1
+	commerce_building=1
 }
 367={ # Kydonia
 	terrain="plains"
@@ -191,20 +187,17 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 368={ # Polyrrenia
@@ -215,21 +208,19 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
+	port_building=1
 }
 370={ # Tarrha
 	terrain="hills"
@@ -239,16 +230,20 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="2"
 	}
 	holy_site="omen_karmanor"
+	port_building=1
 }
 372={ # Korion
 	terrain="hills"
@@ -258,14 +253,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 375={ # Amorgos
@@ -277,10 +275,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
+	}
+	slaves={
+		amount="1"
 	}
 }
 387={ # Ios
@@ -291,14 +292,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 399={ # Lamia
@@ -309,11 +313,14 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="1"
@@ -327,14 +334,17 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="5"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 402={ # Opous
@@ -345,16 +355,18 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
-	shrine_building=1
 }
 403={ # Oreus
 	terrain="hills"
@@ -364,14 +376,17 @@
 	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 	port_building=1
 }
@@ -384,16 +399,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 407={ # Chalcis
@@ -411,15 +426,16 @@
 		amount="1"
 	}
 	freemen={
-		amount="6"
+		amount="3"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="4"
 	}
 	port_building=1
+	commerce_building=1
 }
 409={ # Karystos
 	terrain="hills"
@@ -429,20 +445,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
 }
@@ -454,14 +467,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 413={ # Oropos
@@ -472,11 +488,17 @@
 	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="2"
+	}
+	slaves={
+		amount="2"
 	}
 }
 416={ # Athens
@@ -488,19 +510,19 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount="1"
+		amount="2"
 	}
 	citizen={
-		amount="3"
+		amount="4"
 	}
 	freemen={
 		amount="7"
 	}
 	tribesmen={
-		amount="6"
+		amount="3"
 	}
 	slaves={
-		amount="3"
+		amount="4"
 	}
 	holy_site="omen_athena"
 	port_building=1
@@ -520,23 +542,24 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount="1"
+		amount="2"
 	}
 	citizen={
 		amount="3"
 	}
 	freemen={
-		amount="7"
+		amount="6"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
 	slaves={
-		amount="3"
+		amount="4"
 	}
 	port_building=1
 	shrine_building=1
 	production_building=1
+	commerce_building=1
 }
 418={ # Korinthos
 	terrain="hills"
@@ -547,19 +570,19 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount="1"
+		amount="2"
 	}
 	citizen={
-		amount="3"
+		amount="5"
 	}
 	freemen={
-		amount="10"
+		amount="7"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
 	slaves={
-		amount="4"
+		amount="5"
 	}
 	port_building=1
 	forum_building=1
@@ -567,6 +590,7 @@
 	recreation_building=1
 	production_building=1
 	military_harbor_building=1
+	commerce_building=1
 }
 419={ # Gitana
 	terrain="hills"
@@ -576,14 +600,17 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 421={ # Phoinike
@@ -594,20 +621,17 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="5"
 	}
 	slaves={
-		amount="1"
+		amount="4"
 	}
 }
 423={ # Orchomenos
@@ -625,13 +649,13 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 }
 424={ # Delphi
@@ -646,19 +670,20 @@
 		amount="1"
 	}
 	citizen={
-		amount="3"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	holy_site="omen_apollo"
 	port_building=1
+	commerce_building=1
 }
 425={ # Dodona
 	terrain="mountain"
@@ -669,16 +694,17 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
 	}
-	shrine_building=2
-	commerce_building=1
+	slaves={
+		amount="3"
+	}
 }
 426={ # Thebes
 	terrain="farmland"
@@ -689,16 +715,16 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount="1"
+		amount="2"
 	}
 	citizen={
-		amount="3"
+		amount="4"
 	}
 	freemen={
-		amount="8"
+		amount="7"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
 	slaves={
 		amount="4"
@@ -744,16 +770,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 430={ # Gytheion
@@ -765,12 +791,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
+		amount="2"
+	}
+	slaves={
 		amount="2"
 	}
 }
@@ -782,14 +811,17 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="6"
+		amount="4"
 	}
 	port_building=1
 }
@@ -801,6 +833,9 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
@@ -808,7 +843,7 @@
 		amount="4"
 	}
 	slaves={
-		amount="4"
+		amount="3"
 	}
 }
 433={ # Lepreon
@@ -819,20 +854,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 }
 434={ # Patrai
@@ -850,16 +882,15 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-	slaves={
 		amount="2"
 	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="3"
+	}
 	port_building=1
-	shrine_building=1
 }
 435={ # Heraia
 	terrain="farmland"
@@ -869,14 +900,17 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 436={ # Lykosoura
@@ -887,20 +921,17 @@
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 437={ # Seriphos
@@ -911,14 +942,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 438={ # Mantinea
@@ -929,11 +963,17 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="2"
+	}
+	slaves={
+		amount="2"
 	}
 }
 439={ # Olympia
@@ -945,16 +985,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 	holy_site="omen_zeus"
 }
@@ -973,19 +1013,20 @@
 		amount="4"
 	}
 	freemen={
-		amount="7"
+		amount="8"
 	}
 	tribesmen={
-		amount="6"
+		amount="3"
 	}
 	slaves={
-		amount="3"
+		amount="5"
 	}
 	holy_site="omen_hera"
 	port_building=1
 	forum_building=1
 	shrine_building=1
 	production_building=1
+	commerce_building=1
 }
 441={ # Epidauros
 	terrain="hills"
@@ -1002,17 +1043,16 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	holy_site="omen_asclepius"
 	port_building=1
-	healthcare_building=1
 }
 442={ # Aigina
 	terrain="plains"
@@ -1023,13 +1063,13 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount="1"
+		amount="2"
 	}
 	citizen={
 		amount="3"
 	}
 	freemen={
-		amount="7"
+		amount="6"
 	}
 	tribesmen={
 		amount="2"
@@ -1055,14 +1095,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 444={ # Aigion
@@ -1073,23 +1116,19 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
-		amount="1"
+		amount="2"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
 		amount="2"
 	}
 	port_building=1
-
 }
 446={ # Elis
 	terrain="farmland"
@@ -1106,13 +1145,13 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
 }
@@ -1124,14 +1163,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 448={ # Stymphalia
@@ -1142,20 +1184,17 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 449={ # Kleitor
@@ -1166,14 +1205,17 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 450={ # Kyphanta
@@ -1185,19 +1227,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="3"
-	}
-	tribesmen={
-		amount="2"
-	}
-	slaves={
 		amount="1"
 	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="3"
+	}
+	slaves={
+		amount="2"
+	}
 	port_building=1
-	shrine_building=1
 }
 451={ # Troizen
 	terrain="hills"
@@ -1207,20 +1248,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 452={ # Tenos
@@ -1231,14 +1269,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 454={ # Thera
@@ -1249,20 +1290,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 }
 456={ # Thermon
@@ -1273,9 +1311,6 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
@@ -1283,10 +1318,10 @@
 		amount="3"
 	}
 	tribesmen={
-		amount="8"
+		amount="6"
 	}
 	slaves={
-		amount="1"
+		amount="4"
 	}
 }
 457={ # Naupaktos
@@ -1298,19 +1333,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="3"
-	}
-	tribesmen={
-		amount="4"
-	}
-	slaves={
 		amount="1"
 	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="2"
+	}
 	port_building=1
-	shrine_building=1
 }
 458={ # Chaleion
 	terrain="hills"
@@ -1320,22 +1354,18 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
-	shrine_building=1
 }
 459={ # Leukas
 	terrain="hills"
@@ -1345,11 +1375,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="2"
+	}
+	slaves={
+		amount="2"
 	}
 }
 460={ # Zakynthos
@@ -1360,14 +1396,17 @@
 	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 461={ # Kefalonia
@@ -1378,20 +1417,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 462={ # Stratos
@@ -1402,11 +1438,17 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 463={ # Thyrrheion
@@ -1417,23 +1459,20 @@
 	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
-		culture="doric"
+	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="1"
-	}
-	tribesmen={
-		culture="doric"
 		amount="1"
 	}
 	tribesmen={
 		amount="3"
 	}
+	slaves={
+		amount="1"
+	}
 	fortress_building=1
 	port_building=1
-	shrine_building=1
 }
 464={ # Aktion
 	terrain="hills"
@@ -1443,21 +1482,20 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	freemen={
+	citizen={
 		culture="doric"
 		amount="1"
 	}
 	freemen={
-		amount="1"
-	}
-	tribesmen={
 		culture="doric"
 		amount="1"
 	}
 	tribesmen={
-		amount="3"
+		amount="2"
 	}
-	shrine_building=1
+	slaves={
+		amount="2"
+	}
 }
 465={ # Ambrakia
 	terrain="farmland"
@@ -1474,16 +1512,15 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-	slaves={
 		amount="2"
 	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="3"
+	}
 	port_building=1
-	production_building=1
 }
 466={ # Oichalia Aitolias
 	terrain="mountain"
@@ -1493,8 +1530,17 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 467={ # Orikos
@@ -1505,11 +1551,17 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="2"
 	}
 	holy_site=omen_hekate
 }
@@ -1521,20 +1573,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
 }
@@ -1546,8 +1595,17 @@
 	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 470={ # Korkyra
@@ -1565,15 +1623,16 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-	slaves={
 		amount="2"
 	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="3"
+	}
 	port_building=1
+	commerce_building=1
 }
 471={ # Kythera
 	terrain="hills"
@@ -1584,10 +1643,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
+	}
+	slaves={
+		amount="1"
 	}
 }
 472={ # Kea
@@ -1598,20 +1660,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 	port_building=1
 }
@@ -1623,6 +1682,9 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="1"
 	}
@@ -1630,7 +1692,7 @@
 		amount="2"
 	}
 	slaves={
-		amount="3"
+		amount="2"
 	}
 }
 474={ # Omphalion
@@ -1641,11 +1703,17 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 475={ # Doris
@@ -1656,20 +1724,17 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 }
 476={ # Passaron
@@ -1680,11 +1745,17 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 1835={ # Delos
@@ -1695,20 +1766,17 @@
 	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	holy_site="omen_poseidon"
 	port_building=1
@@ -1721,20 +1789,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
 }
@@ -1746,20 +1811,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 	port_building=1
 }
@@ -1771,20 +1833,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 	port_building=1
 }
@@ -1796,8 +1855,17 @@
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 7798={ # Elateia
@@ -1808,22 +1876,18 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
-	shrine_building=1
 }
 7799={ # Thorikos
 	terrain="plains"
@@ -1833,11 +1897,17 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="2"
+	}
+	slaves={
+		amount="2"
 	}
 }
 7802={ # Tanagra
@@ -1848,20 +1918,17 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 }
 7803={ # Oiniadai
@@ -1872,14 +1939,17 @@
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 7889={ # Tainaron
@@ -1891,10 +1961,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
+	}
+	slaves={
+		amount="1"
 	}
 }
 7890={ # Dyme
@@ -1905,20 +1978,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 	port_building=1
 }
@@ -1930,14 +2000,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 7892={ # Thyreai
@@ -1949,16 +2022,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 7893={ # Pellene
@@ -1969,20 +2042,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="1"
+		amount="3"
 	}
 }
 7894={ # Kleonai
@@ -1994,16 +2064,16 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="4"
 	}
 }
 7896={ # Nikaia Lokron
@@ -2014,16 +2084,18 @@
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
-	shrine_building=1
 }
 7897={ # Eleusis
 	terrain="plains"
@@ -2033,14 +2105,19 @@
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="2"
+	}
+	slaves={
+		amount="2"
 	}
 	holy_site="omen_demeter"
-	shrine_building=1
 }
 7898={ # Rhamnous
 	terrain="hills"
@@ -2050,11 +2127,17 @@
 	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="2"
 	}
 }
 7899={ # Kerinthos
@@ -2065,14 +2148,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 7901={ # Eretria
@@ -2090,13 +2176,13 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
 }
@@ -2108,11 +2194,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="2"
+	}
+	slaves={
+		amount="2"
 	}
 }
 7903={ # Hermione
@@ -2123,11 +2215,14 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="2"
@@ -2143,14 +2238,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 7905={ # Siphnos
@@ -2161,14 +2259,17 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="3"
+		amount="1"
 	}
 	tribesmen={
 		amount="2"
 	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
 8003={ # Sikyon
@@ -2186,13 +2287,13 @@
 		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
 	slaves={
-		amount="2"
+		amount="3"
 	}
 	port_building=1
 }
@@ -2204,11 +2305,14 @@
 	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="2"
+		amount="3"
 	}
 	slaves={
 		amount="2"
@@ -2222,19 +2326,16 @@
 	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="3"
-	}
-	tribesmen={
 		amount="2"
 	}
+	tribesmen={
+		amount="3"
+	}
 	slaves={
-		amount="1"
+		amount="2"
 	}
 }
