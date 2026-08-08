@@ -186,7 +186,6 @@
 	946 = PROV946_west_levantine
 	1024 = PROV1024_west_levantine
 	1029 = PROV1029_west_levantine
-	1034 = PROV1034_west_levantine
 	1036 = PROV1036_west_levantine
 	1194 = PROV1194_west_levantine
 	1202 = PROV1202_west_levantine

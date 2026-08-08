@@ -5369,7 +5369,7 @@ country = {
 			}
 			
 			own_control_core = 	{
-				422 2336
+				422 2213 2336
 			}
 		}
 		
@@ -6045,7 +6045,7 @@ country = {
 			primary_culture = odrysi
 			religion = shamanism
 			centralization = 10
-			capital = 414
+			capital = 4306
 			
 			technology={
 				military_tech={ level=1 progress=0 }
@@ -14941,26 +14941,6 @@ country = {
 
 		}
 		
-		AVI = {
-			government = tribal_kingdom
-			primary_culture = taulantian
-			religion = illyrian_pantheon
-			centralization = 10
-			capital = 2213
-			
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				oratory_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-			}
-		
-			own_control_core = 	{
-				2213
-			}
-
-		}
-		
 		BSL = {
 			government = tribal_kingdom
 			primary_culture = paeonian
@@ -15531,7 +15511,7 @@ country = {
 
 		}
 		
-		AMA = {
+		BYL = {
 			government = tribal_kingdom
 			primary_culture = taulantian
 			religion = illyrian_pantheon

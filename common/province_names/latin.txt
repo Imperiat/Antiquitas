@@ -83,7 +83,6 @@
 	975 = PROV975_latin # Cissia
 	1004 = PROV1004_latin # Iluro Indicetum
 	1016 = PROV1016_latin # Calagurris
-	1034 = PROV1034_latin # Heliki
 	1211 = PROV1211_latin # Ocules
 	1219 = PROV1219_latin # Uxama Argaela
 	1278 = PROV1278_latin # Urci
@@ -544,7 +543,6 @@
 	400 = PROV400_roman # Elimium
 	401 = PROV401_roman # Hypate
 	402 = PROV402_roman # Opous
-	403 = PROV403_roman # Oreus
 	404 = PROV404_roman # Olooson
 	405 = PROV405_roman # Stuberra
 	406 = PROV406_roman # Anthedum
@@ -2000,7 +1998,6 @@
 	3353 = PROV3353_roman # Arsinoe Tauchirensis
 	3354 = PROV3354_roman # Ptolemais
 	3355 = PROV3355_roman # Castellum Fabatianum
-	3356 = PROV3356_roman # Beoue
 	3358 = PROV3358_roman # Phycus
 	3359 = PROV3359_roman # Balagrae
 	3360 = PROV3360_roman # Cyrene

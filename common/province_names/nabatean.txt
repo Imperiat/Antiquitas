@@ -281,7 +281,6 @@
     988 = PROV988_east_levantine
     1024 = PROV1024_east_levantine
     1029 = PROV1029_east_levantine
-    1034 = PROV1034_east_levantine
     1036 = PROV1036_east_levantine
     1194 = PROV1194_east_levantine
     1202 = PROV1202_east_levantine

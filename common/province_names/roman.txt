@@ -401,7 +401,6 @@
 	400 = PROV400_roman # Elimium
 	401 = PROV401_roman # Hypate
 	402 = PROV402_roman # Opous
-	403 = PROV403_roman # Oreus
 	404 = PROV404_roman # Olooson
 	405 = PROV405_roman # Stuberra
 	406 = PROV406_roman # Anthedum
@@ -965,7 +964,6 @@
 	1031 = PROV1031_roman # Dianum
 	1032 = PROV1032_roman # Portus Sucronis
 	1033 = PROV1033_roman # Lucentum
-	1034 = PROV1034_roman # Ilici
 	1036 = PROV1036_roman # Carthago Nova
 	1040 = PROV1040_roman # Begastrum
 	1042 = PROV1042_roman # Brigaecium
@@ -1983,7 +1981,6 @@
 	3353 = PROV3353_roman # Arsinoe Tauchirensis
 	3354 = PROV3354_roman # Ptolemais
 	3355 = PROV3355_roman # Castellum Fabatianum
-	3356 = PROV3356_roman # Beoue
 	3357 = PROV3357_roman # Barce
 	3358 = PROV3358_roman # Phycus
 	3359 = PROV3359_roman # Balagrae
