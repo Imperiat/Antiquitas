@@ -964,6 +964,7 @@
 	1031 = PROV1031_roman # Dianum
 	1032 = PROV1032_roman # Portus Sucronis
 	1033 = PROV1033_roman # Lucentum
+	1034 = PROV1034_roman # Ilici
 	1036 = PROV1036_roman # Carthago Nova
 	1040 = PROV1040_roman # Begastrum
 	1042 = PROV1042_roman # Brigaecium
@@ -2354,7 +2355,6 @@
 	4094 = PROV4094_roman # Gabuleum
 	4095 = PROV4095_roman # Theranda
 	4096 = PROV4096_roman # Scupi
-	4097 = PROV4097_roman # Germania
 	4098 = PROV4098_roman # Ulpiana
 	4099 = PROV4099_roman # Vicianum
 	4100 = PROV4100_roman # Municipum Dardanorum

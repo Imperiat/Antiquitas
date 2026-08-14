@@ -3,7 +3,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="marble"
-	civilization_value=29
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -26,7 +26,7 @@
 	culture="pelasgian"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -47,7 +47,7 @@
 	culture="eteocretan"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -68,7 +68,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="glass"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -89,7 +89,7 @@
 	culture="eteocretan"
 	religion="roman_pantheon"
 	trade_goods="marble"
-	civilization_value=24
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -111,7 +111,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wood"
-	civilization_value=29
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -137,7 +137,7 @@
 	culture="eteocretan"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -158,7 +158,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="base_metals"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -184,7 +184,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=25
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -205,7 +205,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -227,7 +227,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="pearls"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -250,7 +250,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -271,7 +271,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="silk"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -289,7 +289,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="glass"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -310,7 +310,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=11
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -331,7 +331,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="grain"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -352,7 +352,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=9
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -373,7 +373,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=28
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -395,7 +395,7 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods="horses"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -416,7 +416,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=31
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -442,7 +442,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="marble"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -464,7 +464,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -485,7 +485,7 @@
 	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=16
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -506,7 +506,7 @@
 	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=43
+	civilization_value=48
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -538,7 +538,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=34
+	civilization_value=38
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -566,7 +566,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=29
+	civilization_value=34
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -597,7 +597,7 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="horses"
-	civilization_value=9
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -618,7 +618,7 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=9
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -639,7 +639,7 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods="base_metals"
-	civilization_value=29
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -663,7 +663,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="wood"
-	civilization_value=26
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -690,7 +690,7 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="honey"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -711,7 +711,7 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=33
+	civilization_value=38
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -741,7 +741,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="leather"
-	civilization_value=32
+	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -766,7 +766,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -787,7 +787,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="grain"
-	civilization_value=27
+	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -808,7 +808,7 @@
 	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=27
+	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -830,7 +830,7 @@
 	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -851,7 +851,7 @@
 	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="fur"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -872,7 +872,7 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -897,7 +897,7 @@
 	culture="arcadian"
 	religion="roman_pantheon"
 	trade_goods="wood"
-	civilization_value=27
+	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -918,7 +918,7 @@
 	culture="arcadian"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=13
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -939,7 +939,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -960,7 +960,7 @@
 	culture="arcadian"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=20
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -981,7 +981,7 @@
 	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="citrus"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1003,7 +1003,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=31
+	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1033,7 +1033,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=54
+	civilization_value=52
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -1059,7 +1059,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=31
+	civilization_value=36
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1092,7 +1092,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1113,7 +1113,7 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="cloth"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1135,7 +1135,7 @@
 	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=32
+	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -1160,7 +1160,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1181,7 +1181,7 @@
 	culture="arcadian"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=20
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1202,7 +1202,7 @@
 	culture="arcadian"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=20
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1223,7 +1223,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1245,7 +1245,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="pearls"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1266,7 +1266,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="pearls"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1287,7 +1287,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="silk"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1308,7 +1308,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="marble"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1329,7 +1329,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=15
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1351,7 +1351,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="stone"
-	civilization_value=23
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1372,7 +1372,7 @@
 	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1393,7 +1393,7 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="stone"
-	civilization_value=27
+	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1414,7 +1414,7 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1435,7 +1435,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="marble"
-	civilization_value=11
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1456,7 +1456,7 @@
 	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="opium"
-	civilization_value=19
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1471,7 +1471,6 @@
 	slaves={
 		amount="1"
 	}
-	fortress_building=1
 	port_building=1
 }
 464={ # Aktion
@@ -1479,7 +1478,7 @@
 	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1502,7 +1501,7 @@
 	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=33
+	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -1527,7 +1526,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1548,7 +1547,7 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fish"
-	civilization_value=9
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1570,7 +1569,7 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1592,7 +1591,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=11
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1613,7 +1612,7 @@
 	culture="kerkyran"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=25
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -1639,7 +1638,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="pearls"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1657,7 +1656,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1679,7 +1678,7 @@
 	culture="elean"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=20
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1700,7 +1699,7 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="wood"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1721,7 +1720,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="opium"
-	civilization_value=9
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1742,7 +1741,7 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="honey"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1763,7 +1762,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="base_metals"
-	civilization_value=29
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1786,7 +1785,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1808,7 +1807,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="base_metals"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1830,7 +1829,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="gems"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1852,7 +1851,7 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="olive"
-	civilization_value=8
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1873,7 +1872,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=9
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1894,7 +1893,7 @@
 	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=20
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1915,7 +1914,7 @@
 	culture="boeotian"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=25
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1936,7 +1935,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=13
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1957,7 +1956,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -1975,7 +1974,7 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=23
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1997,7 +1996,7 @@
 	culture="arcadian"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2018,7 +2017,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2039,7 +2038,7 @@
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="cloth"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2060,7 +2059,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2081,7 +2080,7 @@
 	culture="north_western_doric"
 	religion="roman_pantheon"
 	trade_goods="stone"
-	civilization_value=6
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2102,7 +2101,7 @@
 	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="grain"
-	civilization_value=20
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2124,7 +2123,7 @@
 	culture="attican"
 	religion="roman_pantheon"
 	trade_goods="iron"
-	civilization_value=18
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2145,7 +2144,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2166,7 +2165,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="wood"
-	civilization_value=30
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -2191,7 +2190,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2212,7 +2211,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="wood"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2235,7 +2234,7 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2256,7 +2255,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2277,7 +2276,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=31
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -2302,7 +2301,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="citrus"
-	civilization_value=23
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -2323,7 +2322,7 @@
 	culture="doric"
 	religion="roman_pantheon"
 	trade_goods="olive"
-	civilization_value=25
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={

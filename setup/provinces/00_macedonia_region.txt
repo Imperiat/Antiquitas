@@ -3,7 +3,7 @@
 	culture="chalcidian"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
-	civilization_value=24
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -13,25 +13,35 @@
 		amount="1"
 	}
 	freemen={
-		amount="6"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="5"
 	}
+	slaves={
+		amount="3"
+	}
+	commerce_building=1
 }
 363={ # Neapolis Thrake
 	terrain="plains"
 	culture="odrysi"
 	religion="shamanism"
 	trade_goods="stone"
-	civilization_value=26
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
+	}
+	slaves={
+		amount="2"
 	}
 }
 364={ # Krenides
@@ -39,314 +49,14 @@
 	culture="odrysi"
 	religion="shamanism"
 	trade_goods="iron"
-	civilization_value=40
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount="8"
-	}
-}
-365={ # Amphipolis
-	terrain="hills"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="precious_metals"
-	civilization_value=33
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount="10"
-	}
-}
-366={ # Stageira
-	terrain="hills"
-	culture="chalcidian"
-	religion="roman_pantheon"
-	trade_goods="olive"
-	civilization_value=24
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-369={ # Sirra
-	terrain="plains"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="wine"
-	civilization_value=26
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="6"
-	}
-}
-371={ # Euporia
-	terrain="plains"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="glass"
-	civilization_value=26
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount="8"
-	}
-}
-373={ # Thermae
-	terrain="hills"
-	culture="western_ionic"
-	religion="roman_pantheon"
-	trade_goods="glass"
-	civilization_value=36
-	barbarian_power=0
-	province_rank="settlement"
-	nobles={
-		amount="1"
-	}
 	citizen={
 		amount="1"
 	}
 	freemen={
-		amount="6"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-374={ # Kalindoia
-	terrain="hills"
-	culture="mygdonian"
-	religion="anatolian_religion"
-	trade_goods="olive"
-	civilization_value=24
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-376={ # Poteidaia
-	terrain="plains"
-	culture="chalcidian"
-	religion="roman_pantheon"
-	trade_goods="earthware"
-	civilization_value=31
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-377={ # Akanthos
-	terrain="hills"
-	culture="chalcidian"
-	religion="roman_pantheon"
-	trade_goods="pearls"
-	civilization_value=24
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-378={ # Olynthos
-	terrain="hills"
-	culture="chalcidian"
-	religion="roman_pantheon"
-	trade_goods="olive"
-	civilization_value=24
-	barbarian_power=0
-	province_rank="settlement"
-	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="6"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-379={ # Pella
-	terrain="farmland"
-	culture="paeonian"
-	religion="roman_pantheon"
-	trade_goods="wine"
-	civilization_value=47
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="6"
-	}
-}
-380={ # Dion
-	terrain="hills"
-	culture="macedonian"
-	religion="roman_pantheon"
-	trade_goods="stone"
-	civilization_value=36
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-381={ # Beroia
-	terrain="plains"
-	culture="macedonian"
-	religion="roman_pantheon"
-	trade_goods="cattle"
-	civilization_value=26
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="6"
-	}
-}
-382={ # Edessa
-	terrain="farmland"
-	culture="macedonian"
-	religion="roman_pantheon"
-	trade_goods="glass"
-	civilization_value=28
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="6"
-	}
-}
-383={ # Europos
-	terrain="farmland"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="olive"
-	civilization_value=28
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="6"
-	}
-}
-384={ # Gortynia
-	terrain="plains"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="citrus"
-	civilization_value=26
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="4"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-385={ # Tauriana
-	terrain="plains"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="horses"
-	civilization_value=26
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="6"
-	}
-}
-386={ # Asseros
-	terrain="farmland"
-	culture="paeonian"
-	religion="illyrian_pantheon"
-	trade_goods="grain"
-	civilization_value=28
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="8"
-	}
-}
-388={ # Gonnoi
-	terrain="hills"
-	culture="thessalian"
-	religion="roman_pantheon"
-	trade_goods="hemp"
-	civilization_value=24
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount="2"
-	}
-	tribesmen={
-		amount="4"
-	}
-}
-389={ # Larissa
-	terrain="farmland"
-	culture="thessalian"
-	religion="roman_pantheon"
-	trade_goods="horses"
-	civilization_value=37
-	barbarian_power=0
-	province_rank="settlement"
-	nobles={
-		amount="2"
-	}
-	citizen={
-		amount="2"
-	}
-	freemen={
-		amount="4"
+		amount="1"
 	}
 	tribesmen={
 		amount="4"
@@ -355,27 +65,96 @@
 		amount="2"
 	}
 }
-390={ # Pherai
-	terrain="farmland"
-	culture="thessalian"
-	religion="roman_pantheon"
-	trade_goods="earthware"
-	civilization_value=37
+365={ # Amphipolis
+	terrain="hills"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
+	slaves={
+		amount="3"
+	}
 }
-391={ # Pagasai
+366={ # Stageira
 	terrain="hills"
-	culture="thessalian"
+	culture="chalcidian"
 	religion="roman_pantheon"
-	trade_goods="grain"
-	civilization_value=24
+	trade_goods="olive"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="3"
+	}
+}
+369={ # Sirra
+	terrain="plains"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="wine"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+371={ # Euporia
+	terrain="plains"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="glass"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+373={ # Thermae
+	terrain="hills"
+	culture="western_ionic"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
@@ -385,25 +164,391 @@
 		amount="1"
 	}
 	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="1"
+	}
+	tribesmen={
+		culture="mygdonian"
+		amount="4"
+	}
+	slaves={
+		amount="3"
+	}
+}
+374={ # Kalindoia
+	terrain="hills"
+	culture="mygdonian"
+	religion="anatolian_religion"
+	trade_goods="olive"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="3"
+	}
+	tribesmen={
 		amount="6"
+	}
+	slaves={
+		amount="4"
+	}
+}
+376={ # Poteidaia
+	terrain="plains"
+	culture="chalcidian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="doric"
+		amount="1"
+	}
+	freemen={
+		culture="doric"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
 	}
+	slaves={
+		amount="3"
+	}
+}
+377={ # Akanthos
+	terrain="hills"
+	culture="chalcidian"
+	religion="roman_pantheon"
+	trade_goods="pearls"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="3"
+	}
+}
+378={ # Olynthos
+	terrain="hills"
+	culture="chalcidian"
+	religion="roman_pantheon"
+	trade_goods="olive"
+	civilization_value=27
+	barbarian_power=0
+	province_rank="settlement"
+	nobles={
+		amount="1"
+	}
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="3"
+	}
+	port_building=1
+	commerce_building=1
+}
+379={ # Pella
+	terrain="farmland"
+	culture="paeonian"
+	religion="roman_pantheon"
+	trade_goods="wine"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+	commerce_building=1
+}
+380={ # Dion
+	terrain="hills"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="stone"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+381={ # Beroia
+	terrain="plains"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="cattle"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+382={ # Edessa
+	terrain="farmland"
+	culture="macedonian"
+	religion="roman_pantheon"
+	trade_goods="glass"
+	civilization_value=17
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+383={ # Europos
+	terrain="farmland"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="olive"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+384={ # Gortynia
+	terrain="plains"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="citrus"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="3"
+	}
+	slaves={
+		amount="1"
+	}
+}
+385={ # Tauriana
+	terrain="plains"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="2"
+	}
+}
+386={ # Asseros
+	terrain="farmland"
+	culture="paeonian"
+	religion="illyrian_pantheon"
+	trade_goods="grain"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="4"
+	}
+	slaves={
+		amount="3"
+	}
+}
+388={ # Gonnoi
+	terrain="hills"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="hemp"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
+	tribesmen={
+		amount="2"
+	}
+	slaves={
+		amount="2"
+	}
+}
+389={ # Larissa
+	terrain="farmland"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="horses"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	nobles={
+		amount="1"
+	}
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="3"
+	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="4"
+	}
+	commerce_building=1
+}
+390={ # Pherai
+	terrain="farmland"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="earthware"
+	civilization_value=30
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="3"
+	}
+	slaves={
+		amount="2"
+	}
+}
+391={ # Pagasai
+	terrain="hills"
+	culture="thessalian"
+	religion="roman_pantheon"
+	trade_goods="grain"
+	civilization_value=27
+	barbarian_power=0
+	province_rank="settlement"
+	nobles={
+		amount="1"
+	}
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
+	tribesmen={
+		amount="5"
+	}
+	slaves={
+		amount="3"
+	}
+	port_building=1
+	commerce_building=1
 }
 392={ # Kasthaneia
 	terrain="hills"
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="2"
 	}
 }
 393={ # Pelagonia
@@ -411,14 +556,20 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=24
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 394={ # Pharsalos
@@ -426,17 +577,20 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="cloth"
-	civilization_value=40
+	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 395={ # Pialeia
@@ -444,14 +598,20 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="wine"
-	civilization_value=38
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="1"
 	}
 	tribesmen={
 		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 396={ # Pelinna
@@ -459,14 +619,20 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=26
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="1"
 	}
 	tribesmen={
 		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 397={ # Stobi
@@ -474,36 +640,43 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
-	civilization_value=23
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="5"
+	}
+	slaves={
+		amount="4"
 	}
 	holy_site="omen_dualos"
+	commerce_building=1
 }
-398={ # Nea Halos
+398={ # Halos
 	terrain="marsh"
 	culture="achaean"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=22
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 400={ # Elimia
@@ -511,14 +684,20 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods="leather"
-	civilization_value=28
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 404={ # Olooson
@@ -526,17 +705,20 @@
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="honey"
-	civilization_value=26
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
 		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 405={ # Stuberra
@@ -544,14 +726,20 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 408={ # Arnisa
@@ -559,14 +747,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 411={ # Herakleia Lynkestis
@@ -574,14 +768,20 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="grain"
-	civilization_value=24
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 412={ # Lychidnos
@@ -589,26 +789,42 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=22
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
 	}
+	slaves={
+		amount="3"
+	}
+	commerce_building=1
 }
 414={ # Keirpara
 	terrain="hills"
 	culture="odrysi"
 	religion="shamanism"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 415={ # Epidamnos
@@ -616,32 +832,46 @@
 	culture="italiotian"
 	religion="illyrian_pantheon"
 	trade_goods="salt"
-	civilization_value=27
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
+	nobles={
+		amount="1"
+	}
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="5"
 	}
+	slaves={
+		amount="3"
+	}
+	port_building=1
+	commerce_building=1
 }
 420={ # Peparethos
 	terrain="hills"
 	culture="thessalian"
 	religion="roman_pantheon"
 	trade_goods="fish"
-	civilization_value=24
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
+	}
+	slaves={
+		amount="2"
 	}
 }
 422={ # Apollonia
@@ -649,11 +879,20 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="earthware"
-	civilization_value=33
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
 	tribesmen={
-		amount="6"
+		amount="5"
+	}
+	slaves={
+		amount="4"
 	}
 }
 428={ # Aigeai
@@ -661,17 +900,20 @@
 	culture="macedonian"
 	religion="roman_pantheon"
 	trade_goods="rice"
-	civilization_value=26
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 455={ # Dimalion
@@ -679,11 +921,20 @@
 	culture="phrygian"
 	religion="anatolian_religion"
 	trade_goods="olive"
-	civilization_value=22
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 497={ # Sintia
@@ -691,11 +942,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="iron"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="8"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 498={ # Scaptopara
@@ -703,11 +963,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
-	civilization_value=18
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 499={ # Spinopara
@@ -718,8 +987,17 @@
 	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 	holy_site="omen_zibelthiurdos"
 }
@@ -728,14 +1006,20 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
-	civilization_value=16
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="1"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 2213={ # Albanopolis
@@ -743,11 +1027,20 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
-	civilization_value=18
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 2264={ # Parthos
@@ -755,11 +1048,20 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
-	civilization_value=16
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="10"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 2336={ # Lissos
@@ -767,11 +1069,20 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fish"
-	civilization_value=22
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
 	tribesmen={
-		amount="8"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 	holy_site="omen_redon"
 }
@@ -780,14 +1091,20 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
-	civilization_value=22
+	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 3175={ # Eratyra
@@ -795,14 +1112,20 @@
 	culture="epirote"
 	religion="roman_pantheon"
 	trade_goods="cattle"
-	civilization_value=24
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
 		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 3356={ # Beoue
@@ -810,13 +1133,19 @@
 	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
-	civilization_value=22
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="2"
+		amount="1"
 	}
 	tribesmen={
+		amount="4"
+	}
+	slaves={
 		amount="2"
 	}
 }
@@ -825,14 +1154,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=12
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="8"
+		amount="5"
+	}
+	slaves={
+		amount="4"
 	}
 	holy_site="omen_dracondracaena"
 }
@@ -841,11 +1176,17 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="base_metals"
-	civilization_value=9
+	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="2"
+	}
+	slaves={
+		amount="1"
 	}
 }
 4117={ # Pautalia
@@ -853,11 +1194,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="base_metals"
-	civilization_value=8
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="10"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 4152={ # Tranupara
@@ -865,11 +1215,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="woad"
-	civilization_value=12
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 4153={ # Zapara
@@ -877,14 +1236,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
-	civilization_value=18
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="10"
+		amount="5"
+	}
+	slaves={
+		amount="4"
 	}
 }
 4302={ # Doberos
@@ -892,11 +1257,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
-	civilization_value=24
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="12"
+		amount="3"
+	}
+	slaves={
+		amount="1"
 	}
 }
 4303={ # Astraia
@@ -904,11 +1278,17 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="cattle"
-	civilization_value=18
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="2"
+	}
+	slaves={
+		amount="1"
 	}
 }
 4304={ # Astibos
@@ -916,11 +1296,17 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=22
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount="1"
+	}
 	tribesmen={
-		amount="6"
+		amount="2"
+	}
+	slaves={
+		amount="1"
 	}
 }
 4305={ # Bylazora
@@ -928,14 +1314,20 @@
 	culture="paeonian"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
-	civilization_value=18
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
 	freemen={
 		amount="2"
 	}
 	tribesmen={
-		amount="6"
+		amount="4"
+	}
+	slaves={
+		amount="2"
 	}
 }
 4306={ # Keirpara
@@ -943,11 +1335,20 @@
 	culture="odrysi"
 	religion="shamanism"
 	trade_goods="wood"
-	civilization_value=16
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount="1"
+	}
+	freemen={
+		amount="2"
+	}
 	tribesmen={
-		amount="10"
+		amount="4"
+	}
+	slaves={
+		amount="3"
 	}
 }
 6399={ # Methone
@@ -955,18 +1356,22 @@
 	culture="western_ionic"
 	religion="roman_pantheon"
 	trade_goods="earthware"
-	civilization_value=33
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount="2"
+		amount="1"
 	}
 	freemen={
-		amount="4"
+		amount="2"
 	}
 	tribesmen={
-		amount="4"
+		amount="3"
 	}
+	slaves={
+		amount="2"
+	}
+	port_building=1
 }
 8023={ # TempePass
 	terrain="mountain"

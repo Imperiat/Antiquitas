@@ -940,6 +940,7 @@
 	1031 = PROV1031_hellenic # Imeroskopeion
 	1032 = PROV1032_hellenic # Sikanion
 	1033 = PROV1033_hellenic # Akra Leuki
+	1034 = PROV1034_hellenic # Iliki
 	1036 = PROV1036_hellenic # Nea Karchidon
 	1053 = PROV1053_hellenic # Antistiana
 	1060 = PROV1060_hellenic # Libika
@@ -1789,7 +1790,6 @@
 	4094 = PROV4094_hellenic # Gabouleion
 	4095 = PROV4095_hellenic # Theranta
 	4096 = PROV4096_hellenic # Skoupoi
-	4097 = PROV4097_hellenic # Germania
 	4098 = PROV4098_hellenic # Notitia
 	4099 = PROV4099_hellenic # Vikianon
 	4100 = PROV4100_hellenic # Dardania

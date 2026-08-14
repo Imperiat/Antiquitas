@@ -83,6 +83,7 @@
 	975 = PROV975_latin # Cissia
 	1004 = PROV1004_latin # Iluro Indicetum
 	1016 = PROV1016_latin # Calagurris
+	1034 = PROV1034_latin # Heliki
 	1211 = PROV1211_latin # Ocules
 	1219 = PROV1219_latin # Uxama Argaela
 	1278 = PROV1278_latin # Urci
@@ -2315,7 +2316,6 @@
 	4094 = PROV4094_roman # Gabuleum
 	4095 = PROV4095_roman # Theranda
 	4096 = PROV4096_roman # Scupi
-	4097 = PROV4097_roman # Germania
 	4098 = PROV4098_roman # Ulpiana
 	4099 = PROV4099_roman # Vicianum
 	4100 = PROV4100_roman # Municipum Dardanorum
