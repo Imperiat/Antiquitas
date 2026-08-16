@@ -1,7 +1,8 @@
-version="1.0"
+version="1.1.7"
 tags={
 	"Historical"
 	"Overhaul"
 }
 name="Antiquitas"
 supported_version="2.0.4"
+remote_file_id="2992438857"
